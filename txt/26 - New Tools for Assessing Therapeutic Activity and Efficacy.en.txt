@@ -1,0 +1,89 @@
+Okay, our next speaker is going to be
+talking to us about new tools for
+assessing the therapeutic activity and
+efficacy for Angelmen syndrome. And I
+believe that we actually have Lena Han
+who's going to be presenting on behalf
+of Albert Young, who I assume is not
+here. Otherwise, you wouldn't be
+standing up and walking here. Or you've
+grown a lot of hair and you've shrunk a
+little bit and you look like a different
+person. Come on up.
+Because that's not Albert that I'm sure
+of.
+Hello everyone. Uh today I'd like to be
+here to share some results from uh four
+projects from our group and our
+collaborators on new tools for assessing
+therapeutic activity and efficacy.
+So
+uh first uh our group generated a human
+and syndrome class 2 reporter cell line
+by integrating a green floren center
+protein gene into the genome and this uh
+reporter cell line can be used for
+therapeutic screening. Uh so when the uh
+paternal UV3 is anti uh is uh inactive
+the cell is dark but after we add the
+drug if the drug is effective uh when
+the drug restore the expression of
+paternal UV3A then the cells turning
+green uh light up green. So the reporter
+signal can be uh observed on the
+microscope or be analyzed by
+flowcytometry directly. No antibbody
+needed. Uh this work just published
+recently.
+Uh second,
+a desirable tool to detect UV3 bio
+activity is highly uh desirable for both
+potency and biomarker essay uh in
+therapeutics evaluation and disease
+monitoring. Our group developed this uh
+rapid and highly sensitive essay that
+can be detect functional UV3 B activity
+with one or more sensitivity and it can
+discriminate while type U3 with mutant.
+Uh
+we also successfully applied this essay
+for uh multiple different biological
+samples including uh human stem cell
+lysate uh cell culture supernent and
+recombinant cell penetrating peptide
+UV3A.
+Uh this work uh published earlier this
+year.
+We also developed a scalable uh oops
+we also developed a scalable
+electrophysiology
+platform by using macro electro
+electrode aris. uh each basket shaped
+MEA can hold one organoid and it
+contains 12 independent
+uh macro electrodes that can
+confformally interface with the
+organoid. This platform can be used for
+high throughput brain activity recording
+and drug screening. The right side
+figure uh is a plot uh recordings the
+voltage recordings of 74 organoids human
+organoids uh in parallel which is the
+largest data set uh reported to date for
+the organoid electro psychology.
+At last we also um analyzed the role of
+UB3A
+in human cerebral organoids by using
+single cell RNA sequencing with H9 wild
+type and H9 double knockout UB3A
+organoids. Uh our results reveal absence
+of UV3A might affect multiple cell types
+not only the neurons and also uh affect
+the developmental processes in human
+cerebral organoids uh including cell
+type compositions cell proliferations
+uh organoid uh size and cortical
+development.
+Uh I'd be happy to take any questions in
+the following poster session. Thank you
+all for your time and listening.

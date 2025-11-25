@@ -1,0 +1,169 @@
+Okay, why don't we have a seat so we can
+get started.
+So the
+presentations that are coming up,
+there's no time for questions. There's
+no time for a comment. There's five
+minutes, five slides, content only. I've
+instructed everybody presenting that
+they don't need to explain to parents
+what Angelmen syndrome is. They
+certainly don't need to explain to us
+what the symptoms of Angelmen syndrome
+are. All we want to know is what have
+they done and what are the results and
+how is this going to help my child. That
+is the only thing we want to hear from
+them. And if they don't tell us that
+they're not going to get voted the best
+abstract in the lightning round and
+that's how this is going to work. So we
+want to make sure that at the end don't
+leave. I'm going to we're going to get
+you the QR code. think it's in the Cvent
+app, but I I will get you exactly what
+it is and where it is and you guys could
+take a picture at the end and everybody
+can vote and we'll we'll call out the
+winner tomorrow morning. Um, but I'm
+very excited to really be able to share
+with you the results. All of your money,
+all of your time, all of your anxiety
+and excitement comes to fruition when
+you see results. So, this is just a
+round presentation after presentation in
+lay language. What are your results? So,
+we're going to start with a presentation
+which is from blood to brain stem cell
+gene therapy for Angelmen syndrome.
+Colin Jwitt from UCLA is going to give
+us the cliffhanger
+before Don Cohen's presentation tomorrow
+who is keynote who's going to talk to us
+about the HSC gene therapy program.
+Colin
+So, hi everyone. I'll be sort of giving
+a teaser for the talk that Don Conn will
+be giving tomorrow. Um, which is going
+to go over how we can use the blood to
+treat the brain. Uh, I first want to go
+over how that can happen. Uh, so looking
+at the left, you can see how blood stem
+cell gene therapy works. uh essentially
+the blood stem cells are mobilized from
+the bone marrow and then extracted from
+the patient. Then in the lab we can
+treat those blood stem cells with some
+type of viral vector and this
+essentially delivers a therapeutic gene
+to the patient stem cells. Then those
+stem cells that have been treated are
+returned to the patient in a bone marrow
+transplant. So the patients effectively
+become their own bone marrow transplant
+donor.
+uh these stem cells then do the
+important job of creating all of the
+blood in the body. So this also includes
+the immune cells during the
+transplantation process. You can see on
+the right that immune cells called
+monocytes can migrate across the blood
+brain the bloodb brain barrier and
+engraft into the niche of the brain. So
+you can imagine if we use a viral vector
+that transforms the immune cells such
+that they will secrete UB3A. When these
+immune cells migrate into the brain,
+they can then secrete UB3A to
+neighboring deficient neurons
+effectively becoming a little uh cell
+factory is like how we like to think
+about it.
+We assessed this strategy in Angelmen
+syndrome mice using two different
+vectors and compared this to wild type
+and angelman syndrome mice that were not
+treated.
+You can see here on the left this is
+results from the roto rod assay. Uh in
+this assay mice are placed on a rotating
+rod and um the measure of time until
+they fall is sort of a measure of motor
+function. You can see that the treated
+mice in red and blue using vector 1 and
+two perform very similarly to the wild
+type mice uh which are in purple. Uh and
+very excitingly they perform uh
+significantly better than the untreated
+Angelmen syndrome mice in brown.
+So this demonstrates that the therapy is
+working to treat the motor function
+phenotype of Angelmen syndrome. On the
+right this is results of a novel object
+recognition assay. In this assay, mice
+are essentially shown a object they are
+familiar with and a new novel object.
+Uh, neotypical mice will be more
+interested in this novel object and
+interact with it more. Uh, and it's
+characterized that Angelman syndrome
+mice do not interact as much with the
+novel object. So, what we have plotted
+here is a discrimination index score.
+Um, the score very simply, if it's a
+positive number, it's a sign uh that the
+mouse is behaving neurotypically uh and
+behaving with the novel object more. So
+you can see that the wild type mice, as
+you'd expect, all have a positive
+discrimination index score. And very
+excitingly, all of the treated mice as
+well have that uh positive
+discrimination index score. So it's
+showing that cognitive function has been
+improved in these treated mice.
+Next up, this uh data is new this year,
+and we're very excited to share it. Uh
+the mice were assessed for their delta
+power over a 24-hour recording period.
+And you can see that as described
+throughout the day, the Angelman
+syndrome mice have a characteristic
+elevated delta power level in brown uh
+during that 24-hour period. But then the
+treated mice follow the same trajectory
+as the wild type mice uh following that
+purple line. And this has also been
+quantified on the right for everyone. Uh
+this is the average delta power over
+that 24hour recording period. You can
+see that there's a significant decrease
+in the red and the blue compared to the
+brown untreated control. Uh whereas the
+wild type uh and it actually achieves
+the same level as the wild type mice. So
+again, this was just sort of a summary.
+Um and what I hope you can take away is
+that the symptoms in adult ancient
+syndrome mice marketkedly improved
+following the stem cell gene therapy.
+Both vectors uh utilize promoters that
+have shown a very safe clinical track
+record. Uh and Dr. con's talk tomorrow
+at 8:30 will discuss this further and so
+these results you know it's still just
+in a mouse model but we're very
+encouraged so fast transformatics and
+UCLA have teamed up to perform the
+translational studies that are necessary
+to then enable a human clinical trial
+so I'd like to thank everyone on this
+slide especially Chris Luther's who
+really led these studies at UCLA uh fast
+for the endless support not just in
+funding the project but supporting it
+from every stage that we've been that um
+and lastly all of you for listening.
+Thank you very much.
+That was fabulous.

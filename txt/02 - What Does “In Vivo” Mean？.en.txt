@@ -1,0 +1,641 @@
+So with that, our next speaker is Dr.
+Ronnie Samakco, who's going to be
+talking to us about what does invivo
+mean and how do these models matter in
+Angelmen syndrome. Ronnie.
+So, first I'd like to thank by uh start
+by thanking Allison for the invitation
+to join you all today and thank you to
+all the families, parents, caregivers,
+and researchers, all the stakeholder
+communities that are here joining us for
+this fantastic event. So my name is
+Rodney Samco and I'm going to be talking
+about why does invivo or what does
+invivo mean and why do models matter in
+as
+so [clears throat] this is my disclosure
+statement.
+So a little bit about how I got here. I
+think many of you um may be familiar
+with some of the people in these
+pictures. So I have met some of you.
+I've been to the fast event. I think the
+last time was 2018 or 2019. Um, and that
+was when I was a former academic at
+Baylor College of Medicine in Texas
+Children's Hospital. But it really has
+been quite a journey. And the reason I'm
+telling you this kind of long-winded
+history is for the purpose of today,
+right? You made the choice. You made the
+choice to come here, take the flight
+that may or may not be cancelled later
+today. [laughter]
+um and deal with what may be going on
+all around you, whether that be personal
+or professional. But the reason you are
+here today is to shape that perspective
+of empowerment, empowerment of knowledge
+and knowing that once you have that
+knowledge, you could understand what's
+happening in the Angelmen community and
+all the efforts that are going towards
+and I say efforts. So what I mean by
+that is whether it be people, personnel,
+capacity, finances, resources, etc. all
+those efforts that are going towards
+finding actionable therapies for
+Angelmen syndrome. And so I started off
+as an undergrad at UC Davis. I know
+there are many researchers that we are
+indebted to for developing some of the
+work that's ongoing at UC Davis. I
+worked with Janine Lasowl and she
+trained with someone you may know, Mark
+Lant, who was one of the co-discoverers
+of the mutations in UB3A that cause
+Angelman syndrome alongside Art Bodat.
+And in 1999, I was a um very excited
+undergrad to join Baylor College of
+Medicine as a summer intern working with
+young and art. And that was an exciting
+time for me as you could see young ways
+there in that picture. Moving forward, I
+had a lab as I said a former academic
+Baylor College of College of Medicine
+and Texas Children's Hospital. and was
+quite exciting to basically focus on
+pre-clinical models of rare
+neurodedevelopmental conditions and
+epilepsy disorders. And so my expertise
+is in modeling animals models modeling
+animals mice and rats.
+>> No, it's still to the right. It's good.
+>> Oh,
+>> it's there.
+>> Oh, okay.
+>> Hi, everyone. [laughter]
+Thank you, Allison. Um yeah, so I was
+saying to the far right, that's uh my
+lab there. Um but leveraging rodent
+models to study um the preclinical
+measures that we could use as readouts
+when we're testing specific therapies,
+whether they be ASOS, uh whether they be
+gene therapies or small molecules, etc.
+I left uh that life, it seems like such
+a long time ago, and basically joined a
+non uh nonprofit organization, a
+disability nonprofit in DC. and so spent
+a lot of time um in DC working on the
+hill and talking with various
+communities like yourselves but also the
+big D the big disability communities
+with respect to physical and
+non-physical um disabilities learned a
+lot there it was quite an interesting
+experience doing strategy in this time
+and also business development but I
+bring you back to where I am now as a
+consultant so I lead Rarian which is a
+brand of the uh rare collective
+strategies LLC and has shaped my
+perspective today which I hope will also
+shape yours because again as I said
+earlier empowerment having that
+knowledge knowledge is power and
+understanding what we're doing today
+will help bring back and circle back to
+you about how we could uh develop
+therapies for the future. So I like to
+look at this layer cake which you know
+maybe some of you who are in New York
+where you could find this layer cake. So
+creating a layered community of
+expertise and resources. You'll hear
+that a lot from me and others as well as
+we move forward with the talks to
+actionable therapies. Right? So those
+component parts are not so linear in the
+journey. Right? And so all of the
+stakeholder communities some shown here
+include yourselves, families, patient
+advocacy groups, organizations. Then you
+have the researchers, clinicians and
+scientists, academic partners, industry
+also represented or well represented
+here in the room in contract
+organizations that help propel and
+towards therapy. And finally, we have um
+the entities that we need to interface
+with to get approval and finally get
+this two people right, regulatory
+agencies all working together, but yet
+not so linear as depicted in that slide.
+And so many of you have participated in
+the externally led PFDD meeting and that
+um is now online was published in
+November 3rd. I guess November 3rd it
+was online. Um and I just want to uh
+hope you appreciate these two uh arrows
+here in orange where uh you all have
+indicated that the most significant
+impact on people with as communication,
+daily living and cognition and the
+priority for yourselves are
+communication, seizures, lack of
+mobility and sleep with respect to
+treatment modalities.
+But how does this all relate to invivo
+models?
+So why do we need those invivo models
+and what is the value of them? Okay, so
+what can we learn is one of the points
+today. So these are the key takeaways
+from my talk. So if you um basically
+ignore everything, fall asleep, just
+look at those four points right now.
+What can we learn from invivo models? So
+we're using models as tools to
+understand the why. And I put in
+parenthesis the mechanism. So sometimes
+you might hear folks say, "Oh, well,
+what's the mechanism? What's the
+mechanism of action?" We do test in
+mice, in rats, in other invivo models as
+well to understand that. And models are
+complex, right? These are all complex
+systems, a complex path towards the end
+goal of finding a therapy. So we want to
+use those models to identify and
+evaluate their utility with respect to
+preclinical endpoints. So all of these
+mouthfuls, right? Surrogate endpoints
+you may hear as well. This is all our
+constructs of interpretation when we
+have an experiment that's designed,
+that's tested, and then interpreted.
+Right? So that's a very clear and
+specific purpose. But what we're trying
+to do is ensure that we're safeguarding
+against any possible risk. So sometimes
+you may hear de-risking, right, a
+therapeutic asset when we consider the
+next steps. I think that's important to
+understand the limitations of the model.
+Mice are not humans. So this idea of
+anthropomorphizing very long word there
+but basically mice will never be a
+human. We could cure many conditions in
+mice as well as other model systems but
+at the end of the day the final
+experiment the goal is to put it in a
+person. I say it whatever that medicine
+is an ASO a gene therapy etc. But it's
+all adding to the body of evidence that
+supports that drug development process.
+So finally, how can we leverage these
+tools, these models? So we evaluate
+them, we compare and identify those
+actionable therapies, whether they are
+safe and effective, like I said earlier,
+even if we don't have immediate answers
+to all questions. So why wait, right? I
+think many of you may agree with that
+and resonates with you as well. So
+sometimes when I speak to folks about
+what they're doing in their labs or what
+companies are working on, I like to
+remind them as researchers, but also
+beyond the research communities, the
+stakeholders in the room, families that
+to focus on your northstar, especially
+when we think about model studies. And
+so I have this diagram here, this
+cartoon about community engagement going
+through that process. So you are
+engaged, you are here. The diagnostic
+odyssey resolving well what is wrong
+with my child? What is wrong with my
+adult child etc. You're here you've had
+that completed and then finally in vitro
+modeling modeling which Michael
+explained very well what can be done in
+a dish. So invivo modeling is what we do
+in a live organism and that's what's
+referred to as invivo. But really at the
+end of the day, we have these questions
+and you could see we're trying to unpack
+the when, where, what, why, and how.
+Okay, what's the question? But we also
+ask ourselves who's asking this question
+and who benefits. And I think that's
+important to keep in perspective. And
+there's a matrix in that thought, right?
+The end goal versus the motivation. As
+it looks nice here in terms of that
+matrix or that cross, it not doesn't
+necessarily align, right? So we have to
+also consider what are the incentives
+when we're working with our
+collaborators in this process
+in the lab. If you say from a basic
+science lab or translational science
+lab, there are questions of discovery
+based science and hypothesisbased
+science. And so looking at some of these
+features that are critical to the
+community as you have articulated in the
+uh report from the ELPFD,
+communication, cognition, seizures,
+motor, and sleep. Those are the symptoms
+that were listed as being critical for
+targeted therapeutics. So how does that
+fit into using animal models and this
+idea of discovery versus
+hypothesis-based testing? So, I'm going
+to go through examples and let me just
+go back one slide. Um, here. Oh, okay.
+Well, it's not there. But follow the top
+ticker, right? Because I'm going to go
+through these examples of biology
+model features. So, those are behavioral
+features for example or phenotypes as
+sometimes you might hear. And then
+finally, develop therapies. And each of
+these examples will be hit by the next
+few slides. Okay. So why as models
+matter and the lessons learned from
+biology. So Seth Margolus will be
+speaking next about the biology and
+there are experts in this room who know
+way more than me about Angelman syndrome
+and how it's organized in terms of its
+genomic organization. But the idea of
+creating a mouse in which that mouse
+lacks has been knocked out um or a
+knockout mouse for Angelman syndrome was
+back in 1998 when Yanquay in Art's lab
+published this model of Angelman
+syndrome that had the UB3A the Angelman
+gene deleted from the maternal paternal
+maternal alil right with the paternal
+alil still reser uh retained and that
+was also followed by several studies,
+many studies I would say. So Ed Weieber
+who you know in 2003 published after
+that and and many others including uh
+even today I was reading some papers
+early this morning. So many people have
+used this mouse model. the reason why
+we're using the mouse for biology. So
+that's one aspect of the value of model
+systems is the high degree of similarity
+with human UB3A again the gene that
+causes Angelmen and it's informative
+because it shows us how it's regulated.
+How can we interrogate the system? How
+can we design those experiments to test
+hypotheses? But how can we also design
+experiments so that we could understand
+even beyond the that locus what might be
+happening in an animal? Okay, again
+animals not people, right? That's going
+to inform us for the next steps that
+opportunity. Can we take advantage of
+what is happening in the system of the
+machinery and leverage for example that
+anti-sense transcript? Many of you have
+heard looking at that blue arrow UB3A
+ATS standing for anti-sense. Can we take
+advantage to develop some kind of
+therapy and there are other therapies
+that are going to be talked about later
+today including a very exciting talk um
+that's tomorrow uh related to gene
+therapy. Okay. So then you might ask
+okay so you have a mouse model in hand
+but why is it that I keep on hearing
+about other models many other models
+also a rat also a pig etc. Yes, I agree
+with you. Right. Several animal models
+have been made, but they have been made.
+You have to ask again, why? Remember
+that little cross that I showed you, the
+goal versus the motivation. There are
+variety of purposes for why we create
+these model organisms, whether they be
+mice, whether they be pigs, etc. This
+table here uh was published from EP
+Elgma's lab, which many of you may also
+know, and it summarizes very nicely the
+models um up to 2020. And there are new
+models too. I you're going to hear a
+talk today about a large deletion model
+from Young Waste Lab. But the point is
+is that researchers are seeking clarity
+for both the biology and also seeking to
+inform translational work in models.
+Informing translational work
+translational being in quotes there. I
+think that's important to understand
+because this idea of how does a mouse,
+how does a model actually recapitulate
+the features of a human or of a person
+with Angelman syndrome, right? Looking
+at these mice, would you ever be able to
+tell, for example, that a mouse is less
+social, has altered communication, has
+mobility issues? No, they all look the
+same, right? And so, how do we actually
+go about testing these models? Um, I'm
+going to give you some examples here,
+right? Again, I like to emphasize mice
+are not people with a exclamation point
+there. And I think you've might get sick
+of me saying that, but that's really the
+point for moving forward with why these
+models matter and still and will
+continue to matter in the future, right?
+So we try to learn from some of their
+inherent natural behaviors and
+understand what is different between an
+animal model like a mouse that doesn't
+have any UB3A being expressed versus an
+animal model a mouse that is
+neurotypical or typical developing right
+so basically um completely intact.
+That's called a wild type mouse. So if
+you hear wild type that's what it refers
+to. But we've tried to test these
+animals not just for their natural
+behavior, but how they also perform in a
+variety of tasks. So we're looking at
+performance and using our lens of
+interpretation to see if we alter this
+gene and that relates to alterations in
+a brain circuit, how does that relate to
+the behavioral readout? And then
+finally, how can we take that readout
+and leverage it for the purpose of a
+preclinical study to test a therapeutic?
+So when you hear behavior in animal
+models like mice, you may wonder, okay,
+is this something new? Like, did we make
+this up? Like, no. No. I mean, this has
+been around for a long time. I mean,
+yeah. Well, I mean, it's been studied
+since 1907 in which this is, you can
+find this online. It's free. The dancing
+mouse, uh, it was published by Jüks, so
+who was a behavioral psychologist at the
+time, and it was the first report of a
+behavioral evaluation in a mouse model.
+And this mouse was called the dancing
+mouse. So it was jumping around and had
+some kind of mobility issue. What they
+found was that there was an inner ear
+defect, some morphological defect. And
+what they did was take the mouse and
+breed it. And this alluded to the
+genetics in terms of the genetic
+inheritance of the animal model over
+time even though they didn't have that
+information. But to this point is that
+the behavior and the mechanism go hand
+in hand. So when we're studying Angelman
+syndrome mouse models, we're also trying
+to do the same when we test them in
+behavioral assays. If you go online and
+look up Jill Silverman, she's done a ton
+of work related to modeling behavioral
+features as well as Michael Cidarov, I
+think he was here yesterday or in the in
+the room um behavioral features in
+models of AS and many of them are in
+cases reproducible and reliable. But
+that altered behavioral features in as
+mice is only one entry point to test in
+vivo. So in a living organism, what
+happens? What are the consequences? What
+are the benefits when you administer a
+drug in a freely moving animal? So
+lessons learned from model features. I'm
+going to just go over these two
+examples. Um, when you hear open field
+activity and marble burring, you may
+wonder, what are they even talking about
+when you're putting a mouse and looking
+at it in an open field or having a mouse
+play with marbles? Like, what does that
+even mean? So, open field is a test in
+which you put a mouse in a chamber and
+it's measuring its activity
+spontaneously
+in a freely moving animal and uses
+infrared beam to detect movement. And
+so, this is an automated test. you put
+the mouse in and you let it go ahead and
+do its thing and what you can measure is
+the distance traveled and that's a
+surrogate for I would say mobility right
+uh and movement conditions or disability
+and so in that graph there and this is
+published from a paper uh from eBay Igma
+and Michael Cidarov uh where they looked
+at the Angelmen mice and tried to
+identify what is the most reproducible
+reliable endpoints when we think about
+behavior um in these mice and so they
+found that comparing black to red there
+was a reduction in distance traveled
+right so this is looking at the y ais
+that's basically distance traveled
+movement and then the x-axis wt standing
+for wild type as standing for angelman
+syndrome mouse to the right you see
+marble burring okay so marble burring is
+a test in which there's a cage and
+there's bedding on it you put the
+marbles there and you see how many
+marbles are are buried by the mouse
+after a period of time. And so you may
+wonder how does this relate, right?
+Again, we're trying to use the mouse as
+a tractable system to manipulate the
+genetics and then test the performance.
+And so putting a mouse in this cage with
+the marbles, you'll find that it will
+display some kind of repetitive behavior
+when it comes to digging and burring the
+marbles, actively burring them. And so
+some people interpret this as
+perverative behavior. Others inter
+interpret this as avoidance or
+anxiety-like behavior. For us in the
+room, if you would say talking to the
+disability community, talking to rare
+genetic families, what does that even
+mean when I'm thinking about my child,
+right? And that's the point, right? This
+is the end point. This is a surrogate
+endpoint or readout for what might be
+happening when you manipulate one
+variable and test another measurement.
+And so looking to the right you see a
+graph again blue and red sorry black and
+red black black corresponding to the
+typical developing mouse wild type and
+red to the angelman uh mouse you see a
+reduction in the number number of
+marbles buried so at the bottom I think
+that's an important point um to consider
+what does this mean to you right and
+what does it mean to us and actually
+from a person centered perspective again
+empowering you with this knowledge is
+important because you could understand
+realistic expectations when you see
+papers that are published whether or not
+there's a correction in marble bearing
+whether or not there's a correction in
+open field what does that mean for the
+science and leveraging the potential
+what we say proof of concept study
+moving forward for therapy development
+or for the drug development process but
+we also embrace the model's limitation
+and that's the importance there we need
+to have that trust in the science and
+what people are doing here today. What
+fast is supporting with respect to the
+researchers and and the other academics
+and clinicians and that process of
+science itself and the drug development
+process. Finally, I'm going to go over
+this third example where developing
+therapies. So, where models really are
+helpful towards understanding if they
+can be used for proof of concept
+studies. And I put that in quotes. Proof
+of concept. So, what does that mean?
+Does it mean it means that we're trying
+to design test and interpret the
+findings from a potential early stage
+asset I say asset so whether that be a
+gene therapy whether that be a small
+molecule and understand in a whole
+animal freely moving intact not a
+reduced cellular preparation what
+happens when you take that drug and put
+it in that living thing. So I had said
+earlier I was talking about Marbleberg I
+was talking about open field. We're
+trying to see if there is an improvement
+there. But we're also looking at an
+example here um and this is the ASO that
+was first published in 2014 um by
+Arpodet lab in Linen Mang was a graduate
+student at the time and we're looking at
+molecular readouts as well. And so you
+see this kind of gray and black thing to
+the right that is called a western blot
+image. And so you see bands, you see
+letters, and you're like, "What is
+that?" Just look at the arrow. Okay?
+Looking at the arrow, you could see this
+band of three under PBS and a band of
+three under ASO. In between, you see no
+bands, right? And so what this is
+telling us is that the typical
+developing animal expresses UB3A
+and then the animal that has been
+administered in ASO has some improvement
+in UB3A expression specifically protein.
+And so this was really exciting for the
+entire field as it's represented using
+an invivo model that is a genetic
+deletion a knockout of the UB3A gene the
+Angelman syndrome gene plus the ASO to
+basically block the anti-sense uh
+transcript. You could derpress that
+paternal expression and allow what's
+already present to do its thing to
+basically make UB3 protein. So very
+exciting time and it's exciting time
+today because we're building that body
+of evidence through these models. So
+model systems again understanding their
+limitations but also their importance
+has made possible the ability to expand,
+develop and pursue novel new therapeutic
+modalities as well as develop additional
+types of ASOs that may potential may
+potentially have value for uh the
+community.
+I don't know why it looks like that, but
+basically
+these are just screenshots of some of
+the examples of ASOS to the far left of
+papers that have published. But who
+cares about papers? I mean, we do care
+about papers. At the end of the day, the
+papers are good because they demonstrate
+we're reporting back what has been
+invested in. So that ROI, that return on
+investment papers again, the incentives
+need to align. That's the currency for
+the academics. But the currency for
+people is getting that to clinic,
+getting that to a person. So
+transforming what is a big dream or
+dreams to reality is what we're trying
+to do today and move that forward. In
+the middle you could see there's a
+crisper a modality. You heard that from
+Michael. So another way to basically
+improve a phenotype in a mouse. At the
+bottom was one of the first uh I think
+it was the first study related to gene
+therapy in a different type of context.
+And you're going to hear this tomorrow
+from an exciting group at UCLA that's
+moving the gene therapy approach
+forward, which Allison has shared with
+me at a meeting last week. It looks
+really exciting. Okay, so I'm going to
+end my talk here, but key takeaways on
+the value of invivo models and why we
+need them. Those four orange points,
+like I said, if you totally checked out,
+I get it and I totally understand. It's
+early. It's Saturday. You all are here.
+But those four orange points are
+important takeaways. So what can we
+learn using those models as tools?
+Understanding the why complex systems.
+We know that these are all complex but
+we want to understand the models
+themselves. Can we leverage them?
+Identify preclinical endpoints. Those
+surrogate endpoints that we have
+interpreted as a community that may be
+then leveraged as tools for a clear and
+specific purpose. safeguarding again
+against possible issues and concerns in
+the process. And then finally, as I
+said, leveraging basically understanding
+if a drug is safe and effective even if
+we don't understand what it's all doing
+or we don't understand all the bio
+biology. And with that, I would like to
+thank you, you all for being here,
+Allison, the fast leadership and team,
+and our summit sponsors and exhibitors.
+It's been a fantastic time. Thank you.
+>> [applause]
+>> That was that was wonderful and I think
+we all appreciate uh the value of models
+and we also appreciate moving on from
+models.

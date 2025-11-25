@@ -1,0 +1,850 @@
+Our next speakers, we have a tag team um
+of Dr. Jim Wilson from historically I'm
+gonna you good you turn that off for me.
+Um from the University of Pennsylvania
+now at Gemma Gemma Biootherrapeutics and
+Dr. Elizabeth Barry Cravis who no one
+needs to introduce um who is the
+director of the fast translational
+neuroscience research center at Rush
+University Medical Center. But before
+they get on the stage I wanted to share
+something with you. I won't take too
+much of your time.
+I want to share with you a moment
+because I think it's really critical and
+I think you saw it in our in the last
+speaker as well but I was searching for
+how long we've been talking to Jim and
+as you know Jim's been here and coming
+to this conference since 2016
+and we've been talking about a gene
+therapy for Angelmen syndrome since that
+time and I dug in to see when we talked
+for the first time. June 17th, 2016.
+An email subject gene therapy and
+angelman syndrome. Dear Dr. Wilson, I
+want to reach out to you in hopes to
+have a more serious conversation about
+the the potential to work with you and
+your team at the University of
+Pennsylvania and helping to push a gene
+therapy program forward for Angelmen
+Syndrome. You seem like the perfect
+person to collaborate with, having a
+sense of urgency and rigor. I'm a
+veterinarian that trained at the
+veterary hospital of the University of
+Pennsylvania and was an assistant
+professor there prior to starting my own
+clinical research program in New York
+City. I'm a veterinary internist and
+interventional radiologist and run a
+research program on various medical
+devices and autogenous
+and allergenic stem cell therapy in
+delivery for regenerative medicine for
+different complicated and challen
+challenging diseases. I've been running
+clinical trials my entire career on the
+veterinary side using natural models of
+disease. I get calls daily from
+desperate pet owners looking for hope
+for treatments for their loved ones.
+Well, one and a half years ago, I got on
+the other side of that phone call when
+my daughter was diagnosed with Angelmen
+syndrome. If you are unaware, this is a
+rare monogenic neurogenetic disorder
+affecting one in 12,000 people that
+involves a missing or mutated gene on
+chromosome 15. This gene is known as
+UB3A. And this has pretty dramatic
+effects on children resulting in
+developmental delays, intractable
+seizures, lack of speech, ataxi,
+dyspraxia, and sleep issues. The good
+news is that the condition has not been
+associated with any degenerative changes
+in the brain and the brain is
+anatomically normal. This gene is
+imprinted, but it has lack of expression
+only in neurons.
+So there's a perfectly normal copy on
+the paternal alil. This condition has
+been treated with various forms of gene
+therapy and gene editing and we're now
+aiming to move this forward to bring
+this to clinical trials in humans. The
+clinical work, the pre-clinical work is
+done, but we would love to have the help
+of someone like you and your team to
+help us bring this to our children. We
+know this is possible and we want to do
+this now. Since our diagnosis, I have
+gotten very involved in the foundation
+for Angelmen Syndrome Therapeutics and I
+have recently been asked to join their
+board of directors and become their
+chief science officer. I have been
+working closely with a consortium of
+scientists that are incredible and have
+been involved in bringing meaningful
+therapeutics to these children. Gene
+therapy is our goal. We are on a mission
+to get this to our kids in the short
+shortest possible timelines, but we must
+ensure rigor and safety. A paper was
+published which I have attached for you
+showing that this can be done in the
+adult mouse model. We want to get this
+and the best people on board to move
+this forward to our children. And I
+would love the opportunity to talk to
+you more about where we are and if your
+team would be willing at the University
+of Pennsylvania to take this on. I sent
+that email on June 17th at 12:48 p.m. I
+received a response on June 17th at 6:03
+p.m. His response, "Thank you for your
+note. I will be in touch once I have a
+chance to talk to my team, Jim."
+He is a man of few words,
+but he never let that go. And I can tell
+you now since that first email in 2016,
+I have 1,672
+emails with Dr. Jim Wilson.
+So that just shows you the power of
+parents. We did this with Dr. Conn. We
+did this with Dr. Wilson. And I did this
+with Yang Jiang. And I probably have
+5,787
+emails with Yang. But with that, I am so
+happy to present to you Dr. Dr. Jim
+Wilson and Dr. Elizabeth Barry Cravis.
+If both of you want to come up on the
+stage to talk about MVX220, a gene
+replacement therapy for Angelmen
+syndrome.
+It's a pleasure to be back. Been here
+many times. When I was preparing to
+travel yesterday, I talked to my wife,
+Lisa, 42 years, and told her that I
+think there's really an important
+milestone that we're going to be able to
+discuss. And she turned to me and she
+said, "What took you so long?
+Uh she feels a sense of urgency as well.
+So, it's really a pleasure to be up here
+with Liz and uh to give you an update on
+the status of the program that we've
+been talking to you about for quite a
+while.
+as as I thought about how to develop
+gene therapy um broadly uh during the
+time that I've been involved in the
+field,
+we we think about what's called a
+platform. And what is a platform? Here's
+an example of a of treatment of a
+disease with an AV vector where we
+insert a gene into the vector and treat
+patients with a disease. A platform uh
+is such that all you do is just swap out
+the gene to treat a different disease
+and just iterate this
+and this is the platform that we've
+developed that we wanted to deploy for
+Angelman syndrome. So what are the
+advantages or what are the features of a
+platform? Uh the features are often
+there are common disease pathologies but
+most importantly uh the same target
+cells that we want to achieve. They're
+not liver cells. They're they're
+neurons. The same delivery vehicle, the
+capsid, the same route of
+administration, the same dose, and the
+same manufacturing process. If if we can
+capture a platform with all those
+similarities, then there's significant
+advantages. One of which is the chances
+of a success after we've had a success
+are much higher. Uh the chances of
+safety, if it's been safe, are also much
+higher. uh it simplifies the path to the
+clinic, accelerates timelines which are
+always important uh and it is more
+efficient from a fundraising or a
+capital standpoint. So the the platform
+that we've been developing over many
+years for treating CNS disease is again
+what we engage with Allison and uh after
+she first contacted us.
+But with that said, uh I would like to
+describe uh a way in which many have
+tried to treat diseases of muscle and
+brain by injecting a vector in into the
+uh circulation or the blood to target
+these organs. And the reason I bring
+this up is because there has been a lot
+of toxicity that has been highly
+publicized and it's something I wanted
+to bring up here and we can also talk
+about at the panel. What I show here is
+an experiment that I did with Ron
+Crystal where we actually put a radio
+label on our vector so we could trace
+it. Uh and these experiments were done
+in a monkey. You can see the outline of
+the monkey there. Uh so when you inject
+a vector into the blood uh and it
+highlights as black.
+The organ that takes the vector up
+primarily is the liver and you can see
+how dark it is. And the reason is that
+the the capillaries have large holes in
+them. And a vector is a large molecule.
+So the the liver is sort of like a
+sponge and it goes to the liver. But in
+order for a vector to get from the blood
+to the brain, you have to cross the
+bloodb brain barrier. Uh and that's hard
+to do. And in this example of a first
+generation uh vector injected IV, you do
+not see the brain lighting up. So as I
+through many years of experience in many
+different trials, we've developed a
+model for how an intravenously delivered
+AAV will function in targeting the
+organs of of interest. And in this
+figure I have uh on the um y ais the the
+number of vector genomes that get into a
+tissue and versus dose and dose is
+really important. So as we increase dose
+from 10 the 12th to 10 the 14th the
+liver is the organ that usually takes it
+up first then ultimately the heart and
+then muscle and brain but in order to
+get vector into muscle and brain
+requires very high doses a number that
+is important to know is 10 the 14 genome
+copies per kilogram. This is where we
+start to see toxicity that can be
+lethal. So the so-called therapeutic
+window, the difference between getting a
+vector into the brain versus where we're
+going to have severe toxicity is very
+short. Uh although there is an approved
+product for treating a neurologic
+disease, spinal muscular atrophy type
+one uh which it can cure patients but
+also associated with a lot of toxicity.
+So what we decided to do was to try a
+different approach uh where we would
+inject a vector not through the blood to
+get to the bloodb brain barrier but
+injected into the cerebral spinal fluid.
+Uh and this is a an experiment in this
+same monkey model comparing the
+distribution of the vector um when you
+inject it into the the vein again you
+see the the liver exposed but when you
+inject the vector into the cerebral
+spinal fluid it's a very different
+picture. Now uh I'm going to point out
+uh in a minute different ways to inject
+a vector in the cerebral spinal fluid
+but the way that we decided to proceed
+is to inject it in access point of the
+cerebral spinal fluid closer to the
+brain which is called the sister magna.
+So when you compare an intravenous dose
+versus
+an ICM which is a cyestern maganga
+approach you see far less in liver and
+much more in brain. I also thought it
+would be important to bring up to the
+community well why don't we just inject
+a vector into the lumbar space because
+this is the route of administration many
+of you are used to for anti-sense aligan
+nucleotides. So we did an experiment
+directly comparing the same dose of
+vector in the cesterna magna versus a
+lumbar injection. Uh this is the
+cesterna magna and this is the lumbar
+injection in monkeys. And you can see
+that uh it really doesn't get to the
+brain AV vectors when injected through
+the lumbar space as opposed to ASOs that
+do. Although if you wanted to treat a
+disease that affected the spinal cord,
+uh this may be okay. So that's why we
+selected the ICM and we're going to hear
+some exciting work in the next talk by a
+company called Epura where they're
+actually trying to engineer the AAV to
+more efficiently cross this bloodb brain
+barrier. Um,
+so what would this mean when you think
+about what you've heard for the studies
+of neurologic treatments, even RED
+syndrome and others with an IV approach.
+Um, this is uh sort of pictorially the
+quantity of vector you would need. But
+for an ICM approach, it's about
+depending on the size of the patient up
+to 20fold less. So that means there'll
+be less exposure to the vector and also
+less to make and potentially cheaper uh
+to develop.
+So we spent um most of the last 10 to 15
+years doing a lot of things but one of
+which is to developing this platform in
+a way in which we could evaluate safety
+and efficacy and it was really focusing
+on diseases in which there is a
+bystander effect like we think there is
+for Angelmen. But these are lethal
+pediatric diseases of really no
+treatment. And this is our CNS platform
+that we called. So there's this delivery
+vehicle called the AV vector. We keep
+that the same because we want a lot of
+sameness in the platform. It's a Cerna
+Magna delivery.
+A manufacturing process we've kept the
+same. It's a it's a fermentation
+approach. And over the years, we vetted
+this and 500 over well over 500 571
+non-human primates or monkeys in various
+different ways to make sure we had a
+good handle on safety.
+So then over these years uh we've uh
+started companies, we've licensed these
+programs into these companies and I'll
+just give you an update on that because
+this is the context in which we're
+bringing forward gene therapy for
+Angelman syndrome. So starting with
+Hunter syndrome uh started a company
+called Regenics Bio. Uh this product
+should be approved in February. So
+that'll be a really important
+achievement for the platform. There's
+another disease called Hurler syndrome
+very similar finish phase one two is in
+uh uh pivotal studies. Uh at that point
+the company didn't want to do any more
+of what I asked them to do. So I had to
+start another company called uh um
+Gemmaab Bio. And we've spun out this uh
+subsidiary called Rare for very severe
+lethal infantile diseases. GM1 finished
+phase one studies talking to FDA about
+BLAS's
+uh crab a uh inphase one studies again
+lethal in the first two years of age and
+then metacromatic lucodistrophe.
+What this has provided us through the
+platform approach is an idea of safety
+from a procedural standpoint and also
+from a product standpoint and we have a
+pretty good experience in terms of
+safety. You can never rule something
+rule out something happening but is this
+background of safety that I began uh to
+develop more comfort in bringing this
+forward with Angelman syndrome. The
+other thing is the efficacy data of gene
+transfer and the durability that we saw
+in the mouse models actually translated
+into humans. So one one aspect uh that
+Liz may comment on is the is the route
+of administration which uh we like it to
+be close to the brain so it would get to
+the brain and it's the ICM delivery.
+Just to give you an idea of the
+experience, uh these are centers around
+the world where PEN interventional
+radiologists have trained operators by
+bringing them into our uh IR suites and
+proctoring them uh on human cadaavvers
+or on monkeys to asssure that they're
+capable of doing the procedure. It's a
+single injection like a lumbar
+injection. So 42 hospitals with trained
+physicians, 18 companies have sought our
+help and the age range in which this has
+uh been delivered is between six months
+to 80 years of age. And the rock star
+here is Brian Pukamis who's really t
+took it upon himself after a brief
+conversation I had with him many years
+ago uh to uh to promote and to asssure
+that any product that's delivered this
+way, it's delivered safely.
+So the timeline uh that um uh Allison
+had described and that my wife commented
+on uh is how long it took. So we we
+published our first paper on an ICM
+delivery in monkeys in 2014
+and in 2018 was the first patient dose
+with MPS2.
+Soon thereafter, MPS1 had to start
+another company and then GM1 and then
+Crab A and ultimately the first approved
+product uh hopefully will be February of
+this year. And as we were proceeding
+with this program, we were considering
+other applications including Angelmen
+and we were fortunate to receive our
+first grant from FAST to get us dialed
+into Angelmen syndrome in 2017.
+uh uh made the first vector, did the
+first mouse, did primate studies, and
+all looked like it was tracking. And
+then fortunately um we were able to
+continue to work with fast uh to
+progress this program, and we had an IND
+open uh in April of this year. And as
+Liz's going to describe, the first
+patient dosed uh just last week. So um
+before I pass it off, I I just want to
+take a Thank you.
+Just really want to thank um fast uh AS2
+Bio and Gemmaab Bio uh Heather Bourne
+and Juliet Hordo the ones that really
+toiled in the lab uh to do all this work
+are with us today and uh thank them.
+Thank you for your confidence, your
+patience. Uh, and at this point, um,
+it's an extreme pleasure for me to
+so-called pass the baton, uh, to Liz,
+and she's going to tell you about the
+trial. So, thank you very much.
+Okay, it's like I can advance it myself.
+Yes. All right. Um, I'm going to talk to
+you about the trial and um, thanks Jim
+for that great introduction and all the
+work that led up to this. I I'm really
+just standing on the backs of all the
+people who have gone before and done all
+the development. And so um I'm going to
+describe the trial which is called MVX
+AAV1 and it's the first in human phase
+one two trial of an AAV hue 68 modified
+UB3A intracestern magagna gene therapy
+in Angelman syndrome and more simply
+it's just the first gene therapy study
+in Angelman syndrome and it's being run
+by Maverick's bio it's being called
+ascend angelman syndrome or ascendas
+um these are my disclosures I work with
+a lot of companies that are developing
+disease targeted therapies for
+neurodedevelopmental disorders and any
+funding received goes to Rush in support
+of our rare disease programs.
+Um so what is the ADN noirus uh gene
+therapy AEV? You've just heard Jim,
+you've heard talks on this before. The
+AEVS are little viruses not known to
+cause disease in people. Um it's been
+used in hundred hundreds of clinical
+trials and um AAV is one of the most
+common vectors that's been used in gene
+therapy. Um it's used to carry a gene
+that's missing or nonfunctional and put
+the right gene back in. And so it's good
+at targeting neurons and that's one of
+the reasons it's been chosen for a lot
+of neurological treatments. Um and it
+can be administered in various different
+ways. And so this just shows you a
+cartoon. You've got a defective gene.
+You want to put the normal gene in or
+therapeutic gene in. So you put the gene
+into the viral capsid and take out the
+replicative machinery of the virus.
+Basically it becomes a virus that's like
+the hotel California. It can check in
+but it can't really get out except for
+um the degraded capsids. Um and then we
+put the gene therapy into the patient.
+It goes to the neuron. It goes in the
+neuron. the capsid sort of falls apart
+and gets excreted and the gene remains
+in the neuron making the protein that's
+desired if everything goes perfectly
+according to plan. Um so MVX220
+is you know what Jim just described.
+It's an investigational gene therapy um
+replace a gene replacement therapy using
+the AAV hue 68 vector um which is
+optimized for this particular gene
+therapy. um it expresses a codon
+optimized human ub3A gene under control
+of a human synapsin promoter and
+synapsin is a protein that's expressed
+by neurons. So that just guarantees that
+the gene will get expressed in neurons.
+um it's delivered into the CSF for
+direct CNS delivery into the magna and
+this is done under CT guidance very
+carefully with general anesthesia after
+a person goes and does the training that
+Jim just described at at um UPEN and so
+the picture shows you you know we're
+have the gene in the virus we give it to
+the patient and then theoretically UB3A
+gets expressed in the brain
+um so the total dose in this particular
+study is based on body weight. Many of
+the gene therapy studies just use one
+empiric dose. Um but it's but we're
+estimating the brain weight based on an
+MRI scan. And this total dose is going
+to be lower than what you would have to
+give if you gave the gene therapy IV. I
+think Gene Jim showed you really well if
+you give it IV, you have to give a lot
+more. And that's associated with more
+toxicity. you base the dose on body
+weight and it's just not the optimal way
+to right now to give something to the
+central nervous system at least to give
+AAV to the central nervous system. Um so
+the trial is the first in human trial
+for Angelman syndrome with gene therapy.
+It's um including adult and pediatric
+patients. We're going to deliver it into
+the Cernna Magna. It's open label. That
+means that everybody is getting the
+product. We're not going to do a placebo
+with all of the kind of procedure we
+have to do. And then the outcome
+measures are the outcome measures that
+we're using in the ASO trials. They're
+come from all the learnings from ABOM
+and from the natural history study and
+they're based on the domains that were
+identified in the um PFDD with FDA that
+of things that are important to people
+with Angelman syndrome. Um the primary
+objective is to evaluate the safety and
+tolerability as every first trial that
+the primary objective is always to make
+sure things are safe um in Angelmen
+patients and the key secondary
+objectives are to measure the levels of
+MBX 220 in blood and CSF as well as to
+evaluate the efficacy with all of these
+clinical outcome measures that we're
+going to use.
+Um the study design basically there's
+cohort one which is the adults. Um, so
+these participants are going to be dosed
+sequentially. In other words, we give a
+dose and then we wait several months and
+we have safety followup and then that's
+reviewed by a committee that decides,
+yes, everything went okay. Now you can
+dose the next patient. And that's really
+important because if you do a lot of
+patients at once and then there was a
+horrible safety event, you would be
+doing something horrible to multiple
+patients instead of just one. This is
+generally how gene therapies are done.
+If all three of the adult patients are
+safe, then there'll be a review and we
+can start dosing the pediatric patients
+which will be four to eight years of
+age. Um the participants again are dosed
+sequentially and there's a safety review
+and a and a independent safety
+monitoring committee review between each
+patient's dosing. Um then there's an
+optional cohort where we could add three
+more patients um within the total age
+range of four to 50.
+Um, so what kinds of outcome measures
+are we going to use? We're going to use
+the same things that people have been
+exposed to in the um in the ASO trials
+for communication. We've got the ORCA.
+You've heard a lot about the Orca. It's
+measuring communication in individuals
+with the type of communication
+impairments that people with Angelman
+syndrome have. Um, and then we're using
+standardized measures like the Vineland
+and the Bailey. Um, which we have a lot
+of natural history data on and the ASA
+which is a clinician global impression.
+Um, we're measuring cognition with the
+Bailey. Um, we're measuring daily life
+skills with the Vineland and the um, and
+the CGI. We're measuring sleep with a
+sleep diary and the CGI. We're measuring
+gross motor with the Bailey and the
+Vineland. And we have a side device that
+we can look at how the patient walks. Um
+and then behavior with behavior scales,
+fine motor again with the Bailey and
+Vineland um and the CGI. And then we
+have a QI disability scale that looks at
+what your quality of life is after the
+gene therapy is administered and what
+the patient's quality of life is. Um and
+then we have a quite a number of
+biomarkers based on EEG um CSF levels of
+in in in both levels in both blood and
+body fluids as well as MRI scans.
+Um the key eligibility criteria um are
+um 18 to 50 years right now for the
+adult cohort and then eventually um two
+to eight years. Um you can have UPD or
+ICD. Patients with mutations have been
+excluded because they're this is a small
+study and they're much more variable. Um
+the ability to ambulate independently is
+required so that we can assess nerve
+function in the lower legs after we give
+um after we give the therapy. Um stable
+your your seizure drugs have to be
+stable and then you have to be on a
+stable diet i.e like the ketogenic or
+LGIT diet. Um exclusion is other
+clinically important medical challenges,
+laboratory ab abnormalities that would
+preclude you from participating in a
+gene therapy trial. Um serious
+infections. You can't have an infection
+within the six weeks prior to giving
+gene therapy. You can't have
+immunizations right before a gene
+therapy because those activate the
+immune system and we don't want to
+activate the immune system. Um history
+of autoimmune diseases. Um treatment
+with an ASO. you can be treated with
+this ASO, but your last treatment has to
+be over a year ago. Um, and if you can't
+meet the MRI or the dosing requirements,
+or if it would be unsafe to give you
+steroids, which we have to use to
+suppress the immune system, then um,
+then we would have to exclude the
+patient.
+Um, so here's the study design. The
+patients come in, they do a whole bunch
+of tests. Um, just like with every other
+study, we determine are you meeting all
+the eligibility criteria. Then we have a
+dosing day where you come in and get
+dosing and um then post-dosing it's very
+intensive because we are monitoring to
+make sure that you do not the patient
+does not have any kind of hyperimmune
+response which is the biggest one of the
+biggest dangers of of giving AAV based
+gene therapy. We don't think that's
+likely in this case because the doses
+we're using are not as high as the doses
+that have caused problems like that. But
+we have to monitor it very closely. So,
+you're admitted to the hospital days one
+to three after the therapy. Um, we do
+labs every day the first seven days. We
+check you. We do exams. We make sure
+your liver isn't changing size. You
+know, all of these things have to be
+monitored very closely because the
+biggest risk is obviously right after
+the gene delivery. And then after we get
+past the risk phase, we have assessments
+that patients come in regularly to
+monitor safety and um eventually, you
+know, over the long term to monitor
+efficacy and what is the patient doing
+and are they doing new things that they
+hadn't done before. Um and that's really
+the big question is how well will this
+work in people?
+Um so there are specific risks. Um all
+gene therapies carry risks um and both
+of both for both short and long-term
+effects. Um and so we like to have the
+families understand these risks. Um
+different viral carrier or different
+virus carriers have different kinds of
+risks and different doses have maybe um
+different kinds of risks. So um we're
+going to be looking very carefully at
+problems from the ICM procedure itself.
+Patients are monitored very carefully in
+anesthesia. They have to have a tube put
+in to breathe for them because we're
+going to put their head down and we're
+going to flex the neck so that we can
+get to where we need to get to put the
+gene therapy. So careful anesthesia
+monitoring. The procedure is only done
+by people who have been trained on the
+procedure. I personally was able to
+experience the training at UPEN. Um and
+you really get to try doing the
+procedure on cadaavvers and have all
+your questions answered. And then for
+the first procedure at your site, Dr.
+actually comes and make sure everything
+goes okay. So, this was the process that
+we did to try to make things absolutely
+safe and we had the CT imaging going on
+the whole time that we were doing the
+the procedure to make sure the needle
+was in exactly the right place. Um, we
+use steroids to suppress the immune
+system and there can be side effects
+from that. Why do we use the steroids?
+Because we don't want the immune system
+to actually attack the virus and destroy
+all of our gene therapy. So we have to
+try to get the immune system kind of
+pushed, you know, kind of dampened down.
+And so we're using steroids to do that.
+But there obviously are side effects of
+steroids that patients can have like
+getting infections, but also like
+increasing reflux and various other
+sleep problems, increased appetite, but
+this is transient. So um we we just
+manage it symptomatically as as as you
+know as we use the steroids. um immune
+responses in the organs or in the blood
+cells. We have to we we we eliminate
+patients who have problems with um who
+have immunological challenges and we
+have careful monitoring throughout the
+study of all of these parameters. Blood
+tests that reflect the heart, the
+kidney, um your immune system. Um and
+then the the steroids help, but then we
+can also extend the steroid use if we
+have a problem with an immune reaction.
+um liver toxicity. We watch very closely
+for that. We just watch labs for that.
+And then you can get a the virus can go
+into the sensory nerves, the dorsal root
+ganglia, which is in the back of the
+spinal cord and controls um your sensory
+nerves. And so we carefully monitor for
+that as well. Um most of that is
+reversible, but we um but but we have to
+watch it closely. Um so um the then then
+there's the uncertainty of you know of
+for instance how long how well will the
+the well will the gene therapy work and
+over what time will it work? Will we see
+gradual building over five years or will
+we see a bump and then not much other
+change? How much will change? And that's
+a question that we are going to answer
+through these studies. We have no way of
+answering that question perfectly for
+humans with an animal model.
+Um so this is just the first patient was
+treated. Um and so that red arrow is
+pointing to the sternum magna on the MRI
+scan of the patient. What what we like
+to see is a nice triangular space there
+where we can get the needle in but not
+hit anything else. And we map very
+closely where the blood vessels are
+because we don't want to hit a blood
+vessel back there. That's not good. Um
+and then the middle picture is me
+administering the gene therapy. And um
+you can see from the um from the picture
+on the far right, oh no, the picture on
+the left that um the need the little
+sticky kind of thing you see pointing in
+there is the needle and it's sitting
+right there in the magna where we want
+to give the gene therapy. So that's a
+little view of what it looks like. Um
+there are currently two sites open,
+Russia and UPEN. Um, UPUPEN was not yet
+yet recruiting the last I heard, but
+they're posted on clinical trials.gov,
+but they're they're looking at patients
+and they'll be up and running soon. Um,
+and so in conclusion, MBX220 was solely
+funded through the efforts of FAST in
+collaboration with Jim at Penn from
+proof of concept through IND enabling
+studies. Fast works with ABOM to try to
+develop the regulatory framework and
+clinically meaningful endpoints that we
+can use that the FDA will buy into um in
+in trials. Um MVX AAV1 is the first
+clinical trial for a single treatment
+gene replacement for Angelman syndrome.
+The first patient has been treated and
+is thus far doing well. The study is
+underway. Um a clinical trial
+application for MVX220 was approved by
+Health Canada. So, we will be
+potentially recruiting patients in
+Canada for the pediatric cohort. And
+again, you can go to clinicaltrials.gov
+and see the sites that are running the
+trial at any given time that are open to
+do the trial. Um, and I want to thank
+the Rush team. Back there somewhere is
+Milana and Allison who's our regulatory
+coordinator who got this whole thing in
+record speed through the IBC, the
+biologicals committee, and the IRB. um
+Milana who did everything for the trial
+and really helped make this happen and
+Melissa who managed our budget and
+contracts people and got this going so
+that we could be open and you know have
+have a patient dosed by this meeting. Um
+and then we have a variety of other
+people that work on the trial, our
+coordinators, our medical people. Um and
+then this does not happen without
+basically a village. So you have the
+rush pharmacy, anesthesia,
+neuroraiology, the pediatrics ICU where
+the patient goes after the procedure.
+And we all really worked in concert, you
+know, to make this happen. And then
+Brian, he came in, he he did the
+training. He came in, he helped us out
+through our first one because this
+procedure had never been done at Rush
+before. So, um, we had him there to make
+sure everything went smoothly, helped
+train our neuroraiologists.
+Um, and so that was great. And then our
+brave patient and family. I it what is
+it like to be the first person that does
+this? They they are the pioneer
+and then all the different participants
+in making this process happen as well as
+Sophia Loose who is my second grandchild
+that fortunately decided to come out
+three weeks early so that I could be
+there for her delivery rather than being
+at this meeting during her delivery.
+Um, so all of that and then we thank the
+community for supporting all of the work
+that leads up to this. And so that's all
+I'm going to say. I think we're over
+time.

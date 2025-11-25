@@ -1,0 +1,2176 @@
+1
+00:00:00,160 --> 00:00:04,960
+The next speaker is uh Dr. Candace Jung.
+
+2
+00:00:03,520 --> 00:00:06,240
+She's coming to us from Ionis
+
+3
+00:00:04,960 --> 00:00:07,839
+Pharmaceuticals and she's going to be
+
+4
+00:00:06,240 --> 00:00:11,880
+updating us on the development program
+
+5
+00:00:07,839 --> 00:00:11,880
+for Angelman Syndrome. Candace.
+
+6
+00:00:25,680 --> 00:00:30,960
+Hi everyone. I'm Candace Jung and I'm
+
+7
+00:00:27,680 --> 00:00:33,360
+the program lead for ion 582 at Ionis.
+
+8
+00:00:30,960 --> 00:00:35,280
+Uh this is my first year at FAST. So I'm
+
+9
+00:00:33,360 --> 00:00:36,960
+very grateful to be here to listen and
+
+10
+00:00:35,280 --> 00:00:38,800
+to learn from you and to hear about all
+
+11
+00:00:36,960 --> 00:00:40,879
+the exciting advances in Angelmen
+
+12
+00:00:38,800 --> 00:00:44,239
+Syndrome research. It's really a great
+
+13
+00:00:40,879 --> 00:00:45,920
+time to be part of the community.
+
+14
+00:00:44,239 --> 00:00:47,600
+So today I'll provide you an update on
+
+15
+00:00:45,920 --> 00:00:48,960
+our program but a couple of just brief
+
+16
+00:00:47,600 --> 00:00:50,879
+disclosures. As I mentioned, I'm an
+
+17
+00:00:48,960 --> 00:00:52,800
+employee of Ionis and today I'll prevent
+
+18
+00:00:50,879 --> 00:00:55,840
+some I'll present some in information on
+
+19
+00:00:52,800 --> 00:00:57,760
+the ION 582 program and ion 582 is an
+
+20
+00:00:55,840 --> 00:01:00,160
+investigational medicine. So it's not
+
+21
+00:00:57,760 --> 00:01:01,840
+approved by FDA or any regulatory body.
+
+22
+00:01:00,160 --> 00:01:05,879
+And so today the information I'll show
+
+23
+00:01:01,840 --> 00:01:05,879
+is just for educational purposes.
+
+24
+00:01:06,159 --> 00:01:10,000
+But before I dive in, I first want to
+
+25
+00:01:08,320 --> 00:01:11,840
+thank all of you. So thank you to the
+
+26
+00:01:10,000 --> 00:01:14,159
+community, the researchers, the
+
+27
+00:01:11,840 --> 00:01:16,400
+scientists, the clinicians, the families
+
+28
+00:01:14,159 --> 00:01:17,759
+especially. We really appreciate
+
+29
+00:01:16,400 --> 00:01:18,880
+everything you've done to make all of
+
+30
+00:01:17,759 --> 00:01:20,720
+this possible. We wouldn't be here
+
+31
+00:01:18,880 --> 00:01:22,640
+without you. So, thank you to all of you
+
+32
+00:01:20,720 --> 00:01:24,720
+in the community and the especially the
+
+33
+00:01:22,640 --> 00:01:26,400
+Halos and the Reveal participants, their
+
+34
+00:01:24,720 --> 00:01:27,759
+families, and their caregivers. And of
+
+35
+00:01:26,400 --> 00:01:29,520
+course, all the organizations listed
+
+36
+00:01:27,759 --> 00:01:31,920
+here. Again, we couldn't do this without
+
+37
+00:01:29,520 --> 00:01:33,840
+you.
+
+38
+00:01:31,920 --> 00:01:36,000
+So, some of you may already be familiar
+
+39
+00:01:33,840 --> 00:01:38,240
+with Ionis, but those that aren't, uh,
+
+40
+00:01:36,000 --> 00:01:40,320
+we were founded about 35 years ago, and
+
+41
+00:01:38,240 --> 00:01:42,560
+we were focused on developing RNA
+
+42
+00:01:40,320 --> 00:01:44,720
+targeted medicines. We really have a
+
+43
+00:01:42,560 --> 00:01:46,960
+passion for scientific innovation that
+
+44
+00:01:44,720 --> 00:01:49,680
+will help us develop potential medicines
+
+45
+00:01:46,960 --> 00:01:52,640
+for challenging illnesses. Um and so we
+
+46
+00:01:49,680 --> 00:01:54,079
+have about 1100 over 1100 employees now
+
+47
+00:01:52,640 --> 00:01:58,159
+some of which have been here the entire
+
+48
+00:01:54,079 --> 00:02:00,079
+35 years including our CEO
+
+49
+00:01:58,159 --> 00:02:02,479
+and we're taking this deep experience
+
+50
+00:02:00,079 --> 00:02:04,159
+and expertise in developing RNA targeted
+
+51
+00:02:02,479 --> 00:02:06,479
+medicines and applying them to
+
+52
+00:02:04,159 --> 00:02:07,680
+neurology. And so as you can see here we
+
+53
+00:02:06,479 --> 00:02:10,080
+have three approved medicines in
+
+54
+00:02:07,680 --> 00:02:12,720
+neurology. So, SpinRazza, Kelsadi and
+
+55
+00:02:10,080 --> 00:02:14,239
+Wayua. And we have multiple programs in
+
+56
+00:02:12,720 --> 00:02:15,840
+development now. So, all of those you
+
+57
+00:02:14,239 --> 00:02:17,680
+see here listed below are for uh
+
+58
+00:02:15,840 --> 00:02:19,440
+neurological indications and they are
+
+59
+00:02:17,680 --> 00:02:22,920
+currently in clinical trials which is
+
+60
+00:02:19,440 --> 00:02:22,920
+really really exciting.
+
+61
+00:02:23,200 --> 00:02:27,040
+And so throughout the development of ION
+
+62
+00:02:25,120 --> 00:02:29,280
+582, collaboration with the community
+
+63
+00:02:27,040 --> 00:02:31,360
+has been key to advancing our Angelman
+
+64
+00:02:29,280 --> 00:02:33,120
+syndrome research. And the common thread
+
+65
+00:02:31,360 --> 00:02:34,720
+throughout all of this is listening and
+
+66
+00:02:33,120 --> 00:02:36,400
+learning from families starting with
+
+67
+00:02:34,720 --> 00:02:38,160
+preclinical when we wanted to better
+
+68
+00:02:36,400 --> 00:02:40,879
+understand the illness. So we started
+
+69
+00:02:38,160 --> 00:02:42,480
+research collaborations. We looked to
+
+70
+00:02:40,879 --> 00:02:44,560
+understand the natural history and
+
+71
+00:02:42,480 --> 00:02:46,480
+supported those studies and then going
+
+72
+00:02:44,560 --> 00:02:48,640
+on to early clinical development where
+
+73
+00:02:46,480 --> 00:02:49,920
+we started participating in consorcia
+
+74
+00:02:48,640 --> 00:02:51,440
+continued to participate in the
+
+75
+00:02:49,920 --> 00:02:53,840
+conferences and that really helped us
+
+76
+00:02:51,440 --> 00:02:55,599
+inform our clinical trial design and now
+
+77
+00:02:53,840 --> 00:02:57,760
+that we're here in late development that
+
+78
+00:02:55,599 --> 00:03:00,239
+collaboration continues with community
+
+79
+00:02:57,760 --> 00:03:02,159
+advisor meetings also participating in
+
+80
+00:03:00,239 --> 00:03:04,720
+the community advisor boards the global
+
+81
+00:03:02,159 --> 00:03:06,239
+angelman syndrome one and again
+
+82
+00:03:04,720 --> 00:03:08,239
+throughout all of this listening and
+
+83
+00:03:06,239 --> 00:03:09,840
+learning from you to really inform how
+
+84
+00:03:08,239 --> 00:03:12,400
+we design our trials and conduct conduct
+
+85
+00:03:09,840 --> 00:03:14,400
+our trials.
+
+86
+00:03:12,400 --> 00:03:16,480
+We took this same rigorous and
+
+87
+00:03:14,400 --> 00:03:18,640
+collaborative approach to developing ion
+
+88
+00:03:16,480 --> 00:03:20,000
+582 and that started with the
+
+89
+00:03:18,640 --> 00:03:22,560
+breakthrough of identifying the
+
+90
+00:03:20,000 --> 00:03:24,560
+biological target. So Ionis collaborated
+
+91
+00:03:22,560 --> 00:03:26,640
+with a researcher specifically Dr.
+
+92
+00:03:24,560 --> 00:03:28,800
+Boddet to identify the mechanism to
+
+93
+00:03:26,640 --> 00:03:31,840
+upregulate UB3A
+
+94
+00:03:28,800 --> 00:03:33,360
+um using an ASO and from there we
+
+95
+00:03:31,840 --> 00:03:35,440
+continued to develop a deep
+
+96
+00:03:33,360 --> 00:03:37,040
+understanding of the target biology. So
+
+97
+00:03:35,440 --> 00:03:40,319
+collaborating with doctors and experts
+
+98
+00:03:37,040 --> 00:03:42,560
+in Angelman syndrome biology and UB3A to
+
+99
+00:03:40,319 --> 00:03:45,040
+understand the target. Next came proof
+
+100
+00:03:42,560 --> 00:03:46,239
+of concept in disease models where we
+
+101
+00:03:45,040 --> 00:03:48,400
+continue continued to collaborate with
+
+102
+00:03:46,239 --> 00:03:50,640
+researchers Dr. Boddet again to show
+
+103
+00:03:48,400 --> 00:03:52,239
+that an ASO provides benefit in a
+
+104
+00:03:50,640 --> 00:03:55,040
+pre-clinical models of Angelman
+
+105
+00:03:52,239 --> 00:03:56,720
+syndrome. And then we leveraged our 30
+
+106
+00:03:55,040 --> 00:03:58,959
+plus years of experience in developing
+
+107
+00:03:56,720 --> 00:04:01,519
+RNA targeted medicines to screen
+
+108
+00:03:58,959 --> 00:04:03,519
+candidates and identify ion 582 as our
+
+109
+00:04:01,519 --> 00:04:04,879
+lead candidate for testing and clinical
+
+110
+00:04:03,519 --> 00:04:06,400
+trials.
+
+111
+00:04:04,879 --> 00:04:08,080
+And throughout this, we continue to
+
+112
+00:04:06,400 --> 00:04:09,680
+develop an deep understanding of the
+
+113
+00:04:08,080 --> 00:04:11,920
+syndrome. We're working closely with the
+
+114
+00:04:09,680 --> 00:04:14,000
+community to understand their disease
+
+115
+00:04:11,920 --> 00:04:15,599
+and to develop markers to monitor the
+
+116
+00:04:14,000 --> 00:04:17,519
+trajectory of the disease that will help
+
+117
+00:04:15,599 --> 00:04:20,799
+us in clinical trials, which is where we
+
+118
+00:04:17,519 --> 00:04:24,400
+are today, evaluating ion 582 in our
+
+119
+00:04:20,799 --> 00:04:26,560
+phase 3 reveal study.
+
+120
+00:04:24,400 --> 00:04:28,880
+So, just a bit more about ion 582 before
+
+121
+00:04:26,560 --> 00:04:30,240
+I get into uh the program update and
+
+122
+00:04:28,880 --> 00:04:32,160
+some of the data I'll share with you
+
+123
+00:04:30,240 --> 00:04:34,080
+today. Uh you've already heard a lot
+
+124
+00:04:32,160 --> 00:04:36,080
+about this but just just briefly you
+
+125
+00:04:34,080 --> 00:04:38,320
+know on the left you see a cartoon of
+
+126
+00:04:36,080 --> 00:04:42,000
+Angelman syndrome neuron and in pink you
+
+127
+00:04:38,320 --> 00:04:44,000
+have the UB3A gene from mom which is uh
+
+128
+00:04:42,000 --> 00:04:47,040
+in Angelmen syndrome as you all know
+
+129
+00:04:44,000 --> 00:04:48,639
+loss of the maternal UB3A gene um is
+
+130
+00:04:47,040 --> 00:04:50,880
+present so it's either through dilation
+
+131
+00:04:48,639 --> 00:04:52,639
+or mutation and in all people the
+
+132
+00:04:50,880 --> 00:04:55,759
+paternal al is silenced and that's by
+
+133
+00:04:52,639 --> 00:04:57,680
+the anti-sense transcript and ion 582 is
+
+134
+00:04:55,759 --> 00:04:59,600
+designed to specifically target that
+
+135
+00:04:57,680 --> 00:05:02,800
+anti-sense transcript so that it can be
+
+136
+00:04:59,600 --> 00:05:05,800
+unsilenced and it can produce a UB3A
+
+137
+00:05:02,800 --> 00:05:05,800
+protein.
+
+138
+00:05:06,720 --> 00:05:10,560
+And so before I get into the the data
+
+139
+00:05:08,800 --> 00:05:12,160
+and some updates on our trials, I just
+
+140
+00:05:10,560 --> 00:05:13,919
+wanted a couple reminders that Halos,
+
+141
+00:05:12,160 --> 00:05:15,840
+that's our phase one two study. It is a
+
+142
+00:05:13,919 --> 00:05:17,600
+small open label clinical trial. It was
+
+143
+00:05:15,840 --> 00:05:19,840
+not designed to establish the safety or
+
+144
+00:05:17,600 --> 00:05:22,000
+efficacy of ion 582 as a treatment for
+
+145
+00:05:19,840 --> 00:05:24,240
+Angelman syndrome. But the result
+
+146
+00:05:22,000 --> 00:05:26,080
+results are overall very encouraging and
+
+147
+00:05:24,240 --> 00:05:28,080
+they serve as the basis for our phase
+
+148
+00:05:26,080 --> 00:05:30,240
+three uh trial which is known as reveal
+
+149
+00:05:28,080 --> 00:05:31,919
+which is ongoing now. and that will
+
+150
+00:05:30,240 --> 00:05:34,639
+determine the safety and efficacy of ion
+
+151
+00:05:31,919 --> 00:05:36,639
+582. And so we'll present some initial
+
+152
+00:05:34,639 --> 00:05:38,639
+results from halos only today. That's
+
+153
+00:05:36,639 --> 00:05:42,800
+the phase one two study and some newer
+
+154
+00:05:38,639 --> 00:05:46,160
+data from our long long-term extension.
+
+155
+00:05:42,800 --> 00:05:47,360
+So this is a brief overview of our uh uh
+
+156
+00:05:46,160 --> 00:05:49,759
+clinical trials that are currently
+
+157
+00:05:47,360 --> 00:05:51,759
+ongoing for ion 582. So on the left you
+
+158
+00:05:49,759 --> 00:05:54,240
+have halos which is our phase one two
+
+159
+00:05:51,759 --> 00:05:56,160
+global open label study. It was designed
+
+160
+00:05:54,240 --> 00:05:58,880
+to evaluate the safety and tolerability
+
+161
+00:05:56,160 --> 00:06:01,360
+of ion 52 and also some exploratory
+
+162
+00:05:58,880 --> 00:06:03,600
+measures of clinical efficacy. The trial
+
+163
+00:06:01,360 --> 00:06:06,800
+includes participants with deletion or
+
+164
+00:06:03,600 --> 00:06:08,960
+mutation genotypes and so we have 55
+
+165
+00:06:06,800 --> 00:06:11,440
+participants in the study aged 2 to 50
+
+166
+00:06:08,960 --> 00:06:14,080
+years old. The multiple ascending dose
+
+167
+00:06:11,440 --> 00:06:16,720
+portion of the study is complete. We
+
+168
+00:06:14,080 --> 00:06:19,440
+evaluated three doses of ion 5a2. So 20
+
+169
+00:06:16,720 --> 00:06:21,759
+40 and 80 milligrams and the long-term
+
+170
+00:06:19,440 --> 00:06:23,600
+extension is ongoing. So, we have uh the
+
+171
+00:06:21,759 --> 00:06:26,080
+participants that have completed the MAD
+
+172
+00:06:23,600 --> 00:06:28,080
+are eligible and they'll receive either
+
+173
+00:06:26,080 --> 00:06:31,120
+40 milligrams or 80 milligrams of ion
+
+174
+00:06:28,080 --> 00:06:33,520
+582 for up to an additional four years.
+
+175
+00:06:31,120 --> 00:06:36,000
+And we're excited to say that we started
+
+176
+00:06:33,520 --> 00:06:37,600
+uh enrolling in uh participants under
+
+177
+00:06:36,000 --> 00:06:39,919
+the age of two this year. So, we amended
+
+178
+00:06:37,600 --> 00:06:41,759
+the protocol to add that and we dosed
+
+179
+00:06:39,919 --> 00:06:46,080
+our first under two-year-old participant
+
+180
+00:06:41,759 --> 00:06:49,520
+in September, which is very exciting.
+
+181
+00:06:46,080 --> 00:06:51,919
+Very happy to hear that, too.
+
+182
+00:06:49,520 --> 00:06:53,919
+And so now I'll move on to reveal. That
+
+183
+00:06:51,919 --> 00:06:56,319
+is our phase three global placeboc
+
+184
+00:06:53,919 --> 00:06:58,080
+controlled study and it's designed to
+
+185
+00:06:56,319 --> 00:07:00,080
+demonstrate the safety and efficacy of
+
+186
+00:06:58,080 --> 00:07:02,639
+ion 582 in children and adults with
+
+187
+00:07:00,080 --> 00:07:04,560
+Angelman syndrome. So this trial also
+
+188
+00:07:02,639 --> 00:07:07,599
+includes participants with deletion or
+
+189
+00:07:04,560 --> 00:07:10,639
+mutation genotypes and they are also
+
+190
+00:07:07,599 --> 00:07:12,319
+aged 2 to 50 years old. Our primary
+
+191
+00:07:10,639 --> 00:07:15,120
+objective for the study is to evaluate
+
+192
+00:07:12,319 --> 00:07:17,280
+if ion 582 helps participants improve
+
+193
+00:07:15,120 --> 00:07:19,840
+expressive communication. So that's use
+
+194
+00:07:17,280 --> 00:07:22,080
+the use of sounds, gestures and and ways
+
+195
+00:07:19,840 --> 00:07:23,680
+to communicate using the Bailey 4
+
+196
+00:07:22,080 --> 00:07:25,599
+assessment.
+
+197
+00:07:23,680 --> 00:07:27,680
+We dosed our first participant in June
+
+198
+00:07:25,599 --> 00:07:30,080
+which is very exciting and the study is
+
+199
+00:07:27,680 --> 00:07:32,240
+now approved in the US, Canada, UK,
+
+200
+00:07:30,080 --> 00:07:33,919
+Japan, South Korea, Singapore and
+
+201
+00:07:32,240 --> 00:07:35,759
+Australia.
+
+202
+00:07:33,919 --> 00:07:37,440
+At the time of finalizing these slides
+
+203
+00:07:35,759 --> 00:07:39,759
+we which was about a week ago we had
+
+204
+00:07:37,440 --> 00:07:41,039
+nine sites activated in the US and now
+
+205
+00:07:39,759 --> 00:07:43,120
+I'm excited to say that we have an
+
+206
+00:07:41,039 --> 00:07:45,840
+additional four sites activated. one in
+
+207
+00:07:43,120 --> 00:07:47,599
+the US, one in the UK, one in Canada,
+
+208
+00:07:45,840 --> 00:07:49,120
+and one in Australia. So things are
+
+209
+00:07:47,599 --> 00:07:51,199
+moving along really nicely and we're
+
+210
+00:07:49,120 --> 00:07:53,599
+excited to now have some global sites
+
+211
+00:07:51,199 --> 00:07:55,840
+involved and we'll continue to open more
+
+212
+00:07:53,599 --> 00:07:59,319
+sites as the throughout the end of the
+
+213
+00:07:55,840 --> 00:07:59,319
+year and globally.
+
+214
+00:08:03,520 --> 00:08:07,120
+So I'll give you a brief update on our
+
+215
+00:08:05,120 --> 00:08:09,599
+Halos phase one two study like where we
+
+216
+00:08:07,120 --> 00:08:11,919
+are today with it. And so, as I
+
+217
+00:08:09,599 --> 00:08:13,919
+mentioned, the participants in ages 2 to
+
+218
+00:08:11,919 --> 00:08:15,280
+55, they we've completed enrollment
+
+219
+00:08:13,919 --> 00:08:17,599
+there. They've completed the MAD
+
+220
+00:08:15,280 --> 00:08:19,360
+portion. 98% transitioned over to the
+
+221
+00:08:17,599 --> 00:08:21,759
+long-term extension where all
+
+222
+00:08:19,360 --> 00:08:23,840
+participants are receiving ion 582 every
+
+223
+00:08:21,759 --> 00:08:26,080
+12 weeks. And the long-term extension
+
+224
+00:08:23,840 --> 00:08:27,599
+will last for about four years. And on
+
+225
+00:08:26,080 --> 00:08:29,840
+average, participants have now received
+
+226
+00:08:27,599 --> 00:08:32,159
+ION 582 for about two years and for some
+
+227
+00:08:29,840 --> 00:08:34,080
+up to three years. So, now we're able to
+
+228
+00:08:32,159 --> 00:08:36,560
+get that long-term data to characterize
+
+229
+00:08:34,080 --> 00:08:38,159
+ION 582.
+
+230
+00:08:36,560 --> 00:08:40,000
+And as I noted, we have started
+
+231
+00:08:38,159 --> 00:08:42,080
+enrolling participants under the age of
+
+232
+00:08:40,000 --> 00:08:44,399
+two. So that those cohorts are open for
+
+233
+00:08:42,080 --> 00:08:46,000
+enrollment. Participants that are
+
+234
+00:08:44,399 --> 00:08:49,440
+included in the study will have either a
+
+235
+00:08:46,000 --> 00:08:51,600
+deletion or mutation of UB3A.
+
+236
+00:08:49,440 --> 00:08:53,279
+And all will receive it. It is open
+
+237
+00:08:51,600 --> 00:08:55,920
+label. So all participants will receive
+
+238
+00:08:53,279 --> 00:08:58,000
+ion 582 every 12 weeks. And they'll
+
+239
+00:08:55,920 --> 00:08:59,839
+receive it for about approximately four
+
+240
+00:08:58,000 --> 00:09:02,240
+years. And there'll be about up to 15
+
+241
+00:08:59,839 --> 00:09:03,600
+participants in this age group. As I
+
+242
+00:09:02,240 --> 00:09:05,360
+mentioned, we do our first part
+
+243
+00:09:03,600 --> 00:09:07,680
+participant in September. and we
+
+244
+00:09:05,360 --> 00:09:11,959
+currently are enrolling at sites in the
+
+245
+00:09:07,680 --> 00:09:11,959
+US, EU, and Israel.
+
+246
+00:09:12,880 --> 00:09:16,320
+So, I'd like to share a little data on
+
+247
+00:09:14,399 --> 00:09:18,320
+the Bailey for expressive communication
+
+248
+00:09:16,320 --> 00:09:19,920
+from our Halo study, but before I do
+
+249
+00:09:18,320 --> 00:09:21,839
+that, I just wanted to briefly uh talk
+
+250
+00:09:19,920 --> 00:09:24,000
+about the Bailey, and I know you've all
+
+251
+00:09:21,839 --> 00:09:25,519
+heard a bit about it. This uh over the
+
+252
+00:09:24,000 --> 00:09:27,440
+past few days, there's been some great
+
+253
+00:09:25,519 --> 00:09:30,000
+presentations on it, but so just
+
+254
+00:09:27,440 --> 00:09:31,760
+briefly, the Bailey forum measures a few
+
+255
+00:09:30,000 --> 00:09:33,920
+different domains. It looks at language
+
+256
+00:09:31,760 --> 00:09:35,200
+and communication through expressive
+
+257
+00:09:33,920 --> 00:09:36,959
+communication and receptive
+
+258
+00:09:35,200 --> 00:09:39,040
+communication. It also looks at
+
+259
+00:09:36,959 --> 00:09:41,120
+cognitive function, so learning, memory,
+
+260
+00:09:39,040 --> 00:09:43,600
+and concept formation. And it also
+
+261
+00:09:41,120 --> 00:09:45,760
+assesses motor function, so fine motor,
+
+262
+00:09:43,600 --> 00:09:48,000
+so reaching, object manipulation, and
+
+263
+00:09:45,760 --> 00:09:50,880
+grasping. And also gross motor, so
+
+264
+00:09:48,000 --> 00:09:52,080
+locomotion and coordination and balance.
+
+265
+00:09:50,880 --> 00:09:53,360
+So I'll talk a little bit more about
+
+266
+00:09:52,080 --> 00:09:55,680
+expressive communication because I'll
+
+267
+00:09:53,360 --> 00:09:57,920
+show you some data on that.
+
+268
+00:09:55,680 --> 00:09:59,360
+And so what does it evaluate? It
+
+269
+00:09:57,920 --> 00:10:01,839
+evaluates how your child communicates
+
+270
+00:09:59,360 --> 00:10:03,680
+with others through sounds, gestures,
+
+271
+00:10:01,839 --> 00:10:05,680
+words, and other ways of expressing
+
+272
+00:10:03,680 --> 00:10:07,279
+themselves. Uh the assessment is
+
+273
+00:10:05,680 --> 00:10:08,640
+performed in the clinic and the
+
+274
+00:10:07,279 --> 00:10:12,160
+clinician will talk or play with your
+
+275
+00:10:08,640 --> 00:10:13,920
+child to see how how they respond. And
+
+276
+00:10:12,160 --> 00:10:15,920
+they'll observe how your child uses
+
+277
+00:10:13,920 --> 00:10:18,320
+gestures or vocalizations to get
+
+278
+00:10:15,920 --> 00:10:19,839
+attention or show interest. And it'll
+
+279
+00:10:18,320 --> 00:10:21,519
+look for signs that your child
+
+280
+00:10:19,839 --> 00:10:26,040
+understands how communication works,
+
+281
+00:10:21,519 --> 00:10:26,040
+even if spoken words aren't used yet.
+
+282
+00:10:26,320 --> 00:10:30,720
+And so this is our uh our data from the
+
+283
+00:10:28,720 --> 00:10:32,959
+long-term extension portion of our study
+
+284
+00:10:30,720 --> 00:10:34,160
+from our Halos phase one two study. And
+
+285
+00:10:32,959 --> 00:10:36,399
+this is looking at expressive
+
+286
+00:10:34,160 --> 00:10:38,720
+communication on the Bailey 4. And what
+
+287
+00:10:36,399 --> 00:10:40,640
+we're seeing is continued improvement in
+
+288
+00:10:38,720 --> 00:10:42,480
+expressive communication through 18
+
+289
+00:10:40,640 --> 00:10:44,640
+months across all ages and all
+
+290
+00:10:42,480 --> 00:10:46,880
+genotypes. So what the chart is showing
+
+291
+00:10:44,640 --> 00:10:49,519
+you is uh participants that have been
+
+292
+00:10:46,880 --> 00:10:52,079
+treated with ion 582 and that's the pink
+
+293
+00:10:49,519 --> 00:10:54,240
+line. And then it's also showing
+
+294
+00:10:52,079 --> 00:10:56,160
+patients that have partic participated
+
+295
+00:10:54,240 --> 00:10:57,519
+in a natural history study. So this is
+
+296
+00:10:56,160 --> 00:10:59,680
+the what you would expect that sort of
+
+297
+00:10:57,519 --> 00:11:02,160
+the typical uh developing trajectory for
+
+298
+00:10:59,680 --> 00:11:04,480
+expressive communication in individuals
+
+299
+00:11:02,160 --> 00:11:06,959
+living with Angelman syndrome. On the
+
+300
+00:11:04,480 --> 00:11:09,040
+y-axis you're seeing u the change the
+
+301
+00:11:06,959 --> 00:11:11,600
+mean change from baseline in expressive
+
+302
+00:11:09,040 --> 00:11:13,760
+communication on the GSV score. That's
+
+303
+00:11:11,600 --> 00:11:15,600
+the growth scale value. And that's a
+
+304
+00:11:13,760 --> 00:11:17,760
+score that allows clinicians to look at
+
+305
+00:11:15,600 --> 00:11:19,760
+how your child is is developing over
+
+306
+00:11:17,760 --> 00:11:21,360
+over time. how their their communication
+
+307
+00:11:19,760 --> 00:11:23,600
+skills are changing over time in this
+
+308
+00:11:21,360 --> 00:11:25,760
+case. And what we see are improvements
+
+309
+00:11:23,600 --> 00:11:27,600
+on the Bailey for measure of expressive
+
+310
+00:11:25,760 --> 00:11:29,519
+communication at both 40 milligrams and
+
+311
+00:11:27,600 --> 00:11:30,959
+80 milligrams. So those doses are pulled
+
+312
+00:11:29,519 --> 00:11:32,560
+here in that pink line. All these
+
+313
+00:11:30,959 --> 00:11:35,040
+individual participants received either
+
+314
+00:11:32,560 --> 00:11:37,360
+40 or 80 that exceed the natural
+
+315
+00:11:35,040 --> 00:11:40,000
+history. So that's very encouraging and
+
+316
+00:11:37,360 --> 00:11:43,920
+um great support for continuing our our
+
+317
+00:11:40,000 --> 00:11:46,000
+exploration in our phase three study.
+
+318
+00:11:43,920 --> 00:11:47,680
+I'll also show you some EEG data that
+
+319
+00:11:46,000 --> 00:11:49,920
+was presented earlier this week at the
+
+320
+00:11:47,680 --> 00:11:52,399
+Abomb uh translational research meeting
+
+321
+00:11:49,920 --> 00:11:54,399
+by my colleague Yonis Papus. But first,
+
+322
+00:11:52,399 --> 00:11:56,480
+I'll get into just a little bit on what
+
+323
+00:11:54,399 --> 00:11:58,240
+an EEG is. I again you've heard about
+
+324
+00:11:56,480 --> 00:11:59,760
+this this weekend too and a lot of you
+
+325
+00:11:58,240 --> 00:12:01,920
+probably are probably already familiar
+
+326
+00:11:59,760 --> 00:12:03,839
+with it. But it's a non-invasive
+
+327
+00:12:01,920 --> 00:12:06,000
+procedure where 20 electrodes with small
+
+328
+00:12:03,839 --> 00:12:07,440
+metal discs are secured to the scalp
+
+329
+00:12:06,000 --> 00:12:09,680
+while the individual is awake and
+
+330
+00:12:07,440 --> 00:12:12,240
+there's no medical no medical risks
+
+331
+00:12:09,680 --> 00:12:14,720
+associated with the procedure.
+
+332
+00:12:12,240 --> 00:12:16,720
+It detects electrical activity from the
+
+333
+00:12:14,720 --> 00:12:18,399
+brain. So the brain cells produce small
+
+334
+00:12:16,720 --> 00:12:20,639
+electrical charges and those can be
+
+335
+00:12:18,399 --> 00:12:22,639
+detected at the level of the scalp and
+
+336
+00:12:20,639 --> 00:12:25,519
+they so they produce waves of electrical
+
+337
+00:12:22,639 --> 00:12:27,120
+activity as you can see there
+
+338
+00:12:25,519 --> 00:12:29,680
+and it's used to evaluate brain
+
+339
+00:12:27,120 --> 00:12:31,360
+function. So, EEG data that was
+
+340
+00:12:29,680 --> 00:12:33,600
+collected in the Halos phase one two
+
+341
+00:12:31,360 --> 00:12:35,600
+study provides more information about
+
+342
+00:12:33,600 --> 00:12:39,760
+brain wave patterns in the individuals
+
+343
+00:12:35,600 --> 00:12:42,000
+with Angelman syndrome in the study
+
+344
+00:12:39,760 --> 00:12:44,240
+and research has shown that EEGs are
+
+345
+00:12:42,000 --> 00:12:45,600
+abnormal in Angelmen syndrome. So, on on
+
+346
+00:12:44,240 --> 00:12:47,519
+the left you see what you would
+
+347
+00:12:45,600 --> 00:12:49,600
+typically see in a neurotypical
+
+348
+00:12:47,519 --> 00:12:51,680
+individual uh on an EEG when they're
+
+349
+00:12:49,600 --> 00:12:54,399
+awake and then on the right is what you
+
+350
+00:12:51,680 --> 00:12:58,000
+see uh from an Angelman syndrome uh
+
+351
+00:12:54,399 --> 00:12:59,839
+participant. Oops, sorry.
+
+352
+00:12:58,000 --> 00:13:02,079
+And so you see more activity in this
+
+353
+00:12:59,839 --> 00:13:04,000
+case you're seeing more activity um and
+
+354
+00:13:02,079 --> 00:13:06,000
+delta waves or delta activity is also
+
+355
+00:13:04,000 --> 00:13:07,760
+called delta power and so and delta
+
+356
+00:13:06,000 --> 00:13:10,240
+power has been shown to correlate with
+
+357
+00:13:07,760 --> 00:13:11,760
+cognitive function in angelman syndrome
+
+358
+00:13:10,240 --> 00:13:13,360
+it so therefore it may serve as a
+
+359
+00:13:11,760 --> 00:13:15,680
+biioarker for treatment response in
+
+360
+00:13:13,360 --> 00:13:17,680
+clinical trials
+
+361
+00:13:15,680 --> 00:13:19,680
+and what we're seeing is that ion 582
+
+362
+00:13:17,680 --> 00:13:23,440
+demonstrates delta suppression at 40 and
+
+363
+00:13:19,680 --> 00:13:25,040
+80 milligrams levels and so the chart on
+
+364
+00:13:23,440 --> 00:13:26,880
+the left what that's showing you is the
+
+365
+00:13:25,040 --> 00:13:28,639
+green line is the 20 milligram dose. So
+
+366
+00:13:26,880 --> 00:13:30,399
+this is during the multiple sending dose
+
+367
+00:13:28,639 --> 00:13:32,880
+portion, the first part of our study,
+
+368
+00:13:30,399 --> 00:13:34,240
+the first six months. And then in blue,
+
+369
+00:13:32,880 --> 00:13:36,399
+you're seeing participants that were
+
+370
+00:13:34,240 --> 00:13:38,639
+treated with either 40 or 80 milligrams.
+
+371
+00:13:36,399 --> 00:13:41,120
+And on the y-axis, you have the EEG
+
+372
+00:13:38,639 --> 00:13:44,320
+delta power change from baseline. And
+
+373
+00:13:41,120 --> 00:13:46,399
+then you have time on the x-axis. And
+
+374
+00:13:44,320 --> 00:13:48,240
+what we're seeing is really the key
+
+375
+00:13:46,399 --> 00:13:50,160
+takeaways are that we're seeing robust
+
+376
+00:13:48,240 --> 00:13:53,200
+delta power suppression. So lowering of
+
+377
+00:13:50,160 --> 00:13:54,880
+that delta activity at month six. And
+
+378
+00:13:53,200 --> 00:13:57,600
+we're seeing similar reductions for both
+
+379
+00:13:54,880 --> 00:13:59,600
+the 40 and the 80 milligram groups. Um
+
+380
+00:13:57,600 --> 00:14:01,440
+but we don't see any effect at the 20
+
+381
+00:13:59,600 --> 00:14:03,199
+milligram which uh that we did not take
+
+382
+00:14:01,440 --> 00:14:06,199
+that dose forward into our long-term
+
+383
+00:14:03,199 --> 00:14:06,199
+extension.
+
+384
+00:14:07,040 --> 00:14:11,440
+So in conclusion from with where we are
+
+385
+00:14:08,800 --> 00:14:13,519
+today with halos uh so participants have
+
+386
+00:14:11,440 --> 00:14:15,680
+received on average two years of
+
+387
+00:14:13,519 --> 00:14:17,360
+treatment with ion 582 and up to three.
+
+388
+00:14:15,680 --> 00:14:20,079
+So, we're getting that nice long-term
+
+389
+00:14:17,360 --> 00:14:23,199
+data to be able to characterize ion 582
+
+390
+00:14:20,079 --> 00:14:25,199
+safety and potential efficacy.
+
+391
+00:14:23,199 --> 00:14:26,880
+We're seeing a similar reduction in EEG
+
+392
+00:14:25,199 --> 00:14:29,600
+delta power at 40 milligrams and 80
+
+393
+00:14:26,880 --> 00:14:31,279
+milligrams of ion 582. And the
+
+394
+00:14:29,600 --> 00:14:33,360
+expressive communication data indicate
+
+395
+00:14:31,279 --> 00:14:35,279
+improvement through 18 months in both
+
+396
+00:14:33,360 --> 00:14:38,160
+children and adults receiving 40
+
+397
+00:14:35,279 --> 00:14:40,560
+milligrams or 80 milligrams of ion 582.
+
+398
+00:14:38,160 --> 00:14:44,760
+And we plan to publish our halos
+
+399
+00:14:40,560 --> 00:14:44,760
+18-month data next year.
+
+400
+00:14:45,199 --> 00:14:49,199
+So now I'll move on to reveal which is
+
+401
+00:14:47,519 --> 00:14:51,360
+our global phase three trial for
+
+402
+00:14:49,199 --> 00:14:52,880
+children and adults with Angelman
+
+403
+00:14:51,360 --> 00:14:55,440
+syndrome.
+
+404
+00:14:52,880 --> 00:14:57,600
+So trial participants uh will be
+
+405
+00:14:55,440 --> 00:14:59,920
+included if they have a mutation or a
+
+406
+00:14:57,600 --> 00:15:01,760
+deletion of UB3A
+
+407
+00:14:59,920 --> 00:15:04,160
+and it will include similar to the halo
+
+408
+00:15:01,760 --> 00:15:06,240
+study children and adults ages 2 to 50.
+
+409
+00:15:04,160 --> 00:15:08,639
+It is a double blind placeboc controlled
+
+410
+00:15:06,240 --> 00:15:11,120
+study and participants will receive a
+
+411
+00:15:08,639 --> 00:15:12,639
+dose every three months.
+
+412
+00:15:11,120 --> 00:15:14,079
+And our trial objectives are here and
+
+413
+00:15:12,639 --> 00:15:15,920
+the and the primary objective is to
+
+414
+00:15:14,079 --> 00:15:17,760
+evaluate the effect of ion 52 on
+
+415
+00:15:15,920 --> 00:15:19,920
+expressive communication through using
+
+416
+00:15:17,760 --> 00:15:21,760
+the Bailey 4. And importantly, we've
+
+417
+00:15:19,920 --> 00:15:23,199
+included other objectives as well
+
+418
+00:15:21,760 --> 00:15:24,800
+because we want to look at the totality
+
+419
+00:15:23,199 --> 00:15:27,760
+of the evidence to fully characterize
+
+420
+00:15:24,800 --> 00:15:29,040
+how ion 582 may improve the lives of
+
+421
+00:15:27,760 --> 00:15:30,639
+individuals living with Angelman
+
+422
+00:15:29,040 --> 00:15:32,399
+syndrome and their families. So we're
+
+423
+00:15:30,639 --> 00:15:34,560
+also looking at cognition, so learning
+
+424
+00:15:32,399 --> 00:15:36,800
+and memory. uh receptive communication,
+
+425
+00:15:34,560 --> 00:15:38,480
+that's the ability to understand others,
+
+426
+00:15:36,800 --> 00:15:41,279
+overall disease severity, sleep
+
+427
+00:15:38,480 --> 00:15:43,440
+problems, motor function, as well as
+
+428
+00:15:41,279 --> 00:15:45,680
+daily daily living skills. And so the
+
+429
+00:15:43,440 --> 00:15:48,000
+study team and the investigator at the
+
+430
+00:15:45,680 --> 00:15:51,120
+site will closely monitor safety, but we
+
+431
+00:15:48,000 --> 00:15:53,199
+also do have an independent uh board of
+
+432
+00:15:51,120 --> 00:15:56,399
+physicians that will monitor safety as
+
+433
+00:15:53,199 --> 00:15:58,480
+well. The trial is currently enrolling.
+
+434
+00:15:56,399 --> 00:16:00,320
+It is a global study and as I mentioned
+
+435
+00:15:58,480 --> 00:16:02,240
+a week ago, we had nine sites in the US.
+
+436
+00:16:00,320 --> 00:16:05,279
+Now we have 10 also with one in
+
+437
+00:16:02,240 --> 00:16:07,600
+Australia, the UK and Canada. And so
+
+438
+00:16:05,279 --> 00:16:09,839
+we'll continue to activate activate
+
+439
+00:16:07,600 --> 00:16:11,120
+sites around the world and as they get
+
+440
+00:16:09,839 --> 00:16:13,279
+are getting close to activation or
+
+441
+00:16:11,120 --> 00:16:15,600
+activated, we will post those sites on
+
+442
+00:16:13,279 --> 00:16:18,480
+clinical trials.gov so you can see if
+
+443
+00:16:15,600 --> 00:16:20,320
+there's a trial site near you. The trial
+
+444
+00:16:18,480 --> 00:16:22,079
+will last about three and a half years.
+
+445
+00:16:20,320 --> 00:16:24,160
+So there are two parts of the trial. The
+
+446
+00:16:22,079 --> 00:16:26,240
+first part is the double blind placeboc
+
+447
+00:16:24,160 --> 00:16:28,399
+controlled treatment period. And so
+
+448
+00:16:26,240 --> 00:16:30,480
+participants will receive ion 582 or
+
+449
+00:16:28,399 --> 00:16:32,320
+placebo. And then there's a two-year
+
+450
+00:16:30,480 --> 00:16:36,120
+long-term extension where everyone
+
+451
+00:16:32,320 --> 00:16:36,120
+receives ION 582.
+
+452
+00:16:37,199 --> 00:16:40,320
+And you know, the feedback that we've
+
+453
+00:16:38,800 --> 00:16:42,079
+received from you, from the community,
+
+454
+00:16:40,320 --> 00:16:43,279
+from the families, that's really what's
+
+455
+00:16:42,079 --> 00:16:45,040
+guided us and how we've selected
+
+456
+00:16:43,279 --> 00:16:46,480
+endpoints in our clinical trial. And I
+
+457
+00:16:45,040 --> 00:16:49,440
+think this is really well demonstrated
+
+458
+00:16:46,480 --> 00:16:52,480
+by the ASF survey from the Angelman
+
+459
+00:16:49,440 --> 00:16:55,040
+Syndrome uh externally led PFDD meeting
+
+460
+00:16:52,480 --> 00:16:56,959
+in in April. And there the top three
+
+461
+00:16:55,040 --> 00:16:59,680
+symptom domains having the most impact
+
+462
+00:16:56,959 --> 00:17:01,279
+on individuals was surveyed. And what
+
+463
+00:16:59,680 --> 00:17:03,680
+came out is that communication really
+
+464
+00:17:01,279 --> 00:17:07,039
+matters to families and living with
+
+465
+00:17:03,680 --> 00:17:08,480
+Angelmen syndrome. And so that is our
+
+466
+00:17:07,039 --> 00:17:10,000
+primary we've chosen expressive
+
+467
+00:17:08,480 --> 00:17:12,000
+communication as our primary endpoint.
+
+468
+00:17:10,000 --> 00:17:13,600
+But again importantly we have several
+
+469
+00:17:12,000 --> 00:17:15,199
+secondary endpoints that are assessing
+
+470
+00:17:13,600 --> 00:17:16,880
+many of these symptom domains here
+
+471
+00:17:15,199 --> 00:17:18,640
+because we really recognize that it is
+
+472
+00:17:16,880 --> 00:17:21,439
+the totality of the evidence. We want to
+
+473
+00:17:18,640 --> 00:17:22,959
+understand how ion 582 may help
+
+474
+00:17:21,439 --> 00:17:25,120
+individuals living with Angelmen
+
+475
+00:17:22,959 --> 00:17:26,880
+syndrome across multiple domains so that
+
+476
+00:17:25,120 --> 00:17:28,319
+we can hopefully provide a treatment
+
+477
+00:17:26,880 --> 00:17:31,640
+that really improves their lives and the
+
+478
+00:17:28,319 --> 00:17:31,640
+lives of families.
+
+479
+00:17:32,080 --> 00:17:35,600
+So what will participation in reveal
+
+480
+00:17:33,919 --> 00:17:37,200
+look like? It starts with the screening
+
+481
+00:17:35,600 --> 00:17:39,440
+period. Um so you heard a little bit
+
+482
+00:17:37,200 --> 00:17:41,520
+about this earlier and uh where the
+
+483
+00:17:39,440 --> 00:17:44,559
+eligibility criteria will be assessed
+
+484
+00:17:41,520 --> 00:17:46,480
+and then if the participant is eligible
+
+485
+00:17:44,559 --> 00:17:48,559
+then they'll move into the double blind
+
+486
+00:17:46,480 --> 00:17:50,720
+treatment control double blind placebo
+
+487
+00:17:48,559 --> 00:17:52,799
+control treatment period and so during
+
+488
+00:17:50,720 --> 00:17:55,120
+this time there will be nine in-person
+
+489
+00:17:52,799 --> 00:17:57,120
+clinic visits uh during screening and
+
+490
+00:17:55,120 --> 00:18:00,320
+the double blind treatment period and
+
+491
+00:17:57,120 --> 00:18:01,840
+five doses of ion 582 or placebo and the
+
+492
+00:18:00,320 --> 00:18:03,200
+little checklists you see there are when
+
+493
+00:18:01,840 --> 00:18:04,480
+the assessments will be performed. So
+
+494
+00:18:03,200 --> 00:18:06,960
+they're performed about every six
+
+495
+00:18:04,480 --> 00:18:09,120
+months. From there, participants will
+
+496
+00:18:06,960 --> 00:18:11,440
+seamlessly transition to the long-term
+
+497
+00:18:09,120 --> 00:18:14,000
+extension where all participants will
+
+498
+00:18:11,440 --> 00:18:15,600
+receive ion 582 for another four years.
+
+499
+00:18:14,000 --> 00:18:17,679
+And this is followed by a follow-up
+
+500
+00:18:15,600 --> 00:18:19,280
+period of about eight months. So during
+
+501
+00:18:17,679 --> 00:18:21,679
+the long-term extension and the
+
+502
+00:18:19,280 --> 00:18:24,000
+follow-up period, there are 14 in-person
+
+503
+00:18:21,679 --> 00:18:28,600
+clinic visits and participants will
+
+504
+00:18:24,000 --> 00:18:28,600
+receive nine doses of ion 582.
+
+505
+00:18:30,400 --> 00:18:33,679
+And we're very excited today today that
+
+506
+00:18:32,320 --> 00:18:35,200
+we can announce that we'll be starting a
+
+507
+00:18:33,679 --> 00:18:37,679
+phase three study in individuals with
+
+508
+00:18:35,200 --> 00:18:40,480
+Angelmen syndrome and genetic diagnosis
+
+509
+00:18:37,679 --> 00:18:42,799
+of uniparental dyme or imprinting
+
+510
+00:18:40,480 --> 00:18:45,200
+defect. So UPD or ID and we're planning
+
+511
+00:18:42,799 --> 00:18:46,880
+to start that study next year. So very
+
+512
+00:18:45,200 --> 00:18:49,280
+excited
+
+513
+00:18:46,880 --> 00:18:51,600
+and uh this this will be known as the
+
+514
+00:18:49,280 --> 00:18:54,480
+champion study and we'll plan to include
+
+515
+00:18:51,600 --> 00:18:56,080
+children and adults with UPD or ID and
+
+516
+00:18:54,480 --> 00:18:57,919
+again we're planning to start the study
+
+517
+00:18:56,080 --> 00:18:59,840
+next year. So very happy to share that
+
+518
+00:18:57,919 --> 00:19:02,400
+today.
+
+519
+00:18:59,840 --> 00:19:04,640
+So in summary, uh our reveal, our
+
+520
+00:19:02,400 --> 00:19:06,720
+pivotal phase three study is ongoing. It
+
+521
+00:19:04,640 --> 00:19:09,280
+is on track to complete enrollment next
+
+522
+00:19:06,720 --> 00:19:11,440
+year. So very excited about that. Our
+
+523
+00:19:09,280 --> 00:19:13,520
+open label halos phase one two study is
+
+524
+00:19:11,440 --> 00:19:16,240
+also ongoing. So we're continuing to
+
+525
+00:19:13,520 --> 00:19:17,760
+generate that long-term data. And also
+
+526
+00:19:16,240 --> 00:19:19,679
+we're currently enrolling participants
+
+527
+00:19:17,760 --> 00:19:22,559
+under the age of two as well. And that's
+
+528
+00:19:19,679 --> 00:19:23,840
+at sites in the US, EU, and Israel. And
+
+529
+00:19:22,559 --> 00:19:26,559
+as I just mentioned, we're initiating
+
+530
+00:19:23,840 --> 00:19:28,559
+the UPD ID study next year. And we're
+
+531
+00:19:26,559 --> 00:19:30,880
+advancing this study with input from
+
+532
+00:19:28,559 --> 00:19:32,960
+fast ASF, the hope and action survey and
+
+533
+00:19:30,880 --> 00:19:35,120
+and also a caregiver advisory board so
+
+534
+00:19:32,960 --> 00:19:36,880
+we can get your input into how we design
+
+535
+00:19:35,120 --> 00:19:39,120
+and conduct our trial because it's very
+
+536
+00:19:36,880 --> 00:19:43,240
+important to us. So thank you again for
+
+537
+00:19:39,120 --> 00:19:43,240
+the opportunity to be here today.
+
+538
+00:19:51,360 --> 00:19:55,679
+Yay. You heard us loud and clear. So
+
+539
+00:19:53,919 --> 00:19:58,720
+this is why these meetings matter
+
+540
+00:19:55,679 --> 00:20:00,720
+because the sponsors hear your voice and
+
+541
+00:19:58,720 --> 00:20:02,400
+we all have been saying for years that
+
+542
+00:20:00,720 --> 00:20:03,919
+we need to include all genotypes and
+
+543
+00:20:02,400 --> 00:20:07,559
+here we are. So this is very very
+
+544
+00:20:03,919 --> 00:20:07,559
+exciting for our community.
+

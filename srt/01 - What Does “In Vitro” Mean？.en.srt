@@ -1,0 +1,3044 @@
+1
+00:00:00,080 --> 00:00:06,240
+We will start with our first talk and we
+
+2
+00:00:03,200 --> 00:00:09,360
+really wanted to kick off the day with
+
+3
+00:00:06,240 --> 00:00:11,840
+everybody being grounded in knowledge.
+
+4
+00:00:09,360 --> 00:00:14,880
+As you all know, I feel very strongly
+
+5
+00:00:11,840 --> 00:00:17,119
+that knowledge is our power. But if we
+
+6
+00:00:14,880 --> 00:00:19,520
+don't understand what the people on this
+
+7
+00:00:17,119 --> 00:00:21,600
+stage are telling you, one, we're
+
+8
+00:00:19,520 --> 00:00:23,199
+wasting your time. And you being here
+
+9
+00:00:21,600 --> 00:00:26,240
+away from your family and getting
+
+10
+00:00:23,199 --> 00:00:28,880
+caregivers support is honestly a
+
+11
+00:00:26,240 --> 00:00:30,560
+privilege for us. We do not want to
+
+12
+00:00:28,880 --> 00:00:33,120
+waste one minute of your time being
+
+13
+00:00:30,560 --> 00:00:35,120
+here. So, we need to ground you in
+
+14
+00:00:33,120 --> 00:00:37,600
+knowledge, which means that we're going
+
+15
+00:00:35,120 --> 00:00:41,120
+to talk about different things this
+
+16
+00:00:37,600 --> 00:00:43,360
+morning. What does in vitro mean? What
+
+17
+00:00:41,120 --> 00:00:46,239
+does that mean? And why is it important
+
+18
+00:00:43,360 --> 00:00:48,800
+to develop drugs for our children? We're
+
+19
+00:00:46,239 --> 00:00:53,039
+going to follow that by what does invivo
+
+20
+00:00:48,800 --> 00:00:55,520
+mean? So in vitro in a dish in vivo
+
+21
+00:00:53,039 --> 00:00:58,640
+inside a body and then we're going to
+
+22
+00:00:55,520 --> 00:01:01,680
+talk about the UB3 gene. What is the
+
+23
+00:00:58,640 --> 00:01:03,760
+function of UB3A?
+
+24
+00:01:01,680 --> 00:01:05,760
+I can tell you what it doesn't do. Meet
+
+25
+00:01:03,760 --> 00:01:08,720
+my daughter. But what we're going to
+
+26
+00:01:05,760 --> 00:01:10,479
+learn is what it is supposed to do. And
+
+27
+00:01:08,720 --> 00:01:13,760
+that's very important for us to
+
+28
+00:01:10,479 --> 00:01:16,640
+understand if we give it back,
+
+29
+00:01:13,760 --> 00:01:19,280
+what symptoms we can address potentially
+
+30
+00:01:16,640 --> 00:01:22,080
+with that. And then we're going to talk
+
+31
+00:01:19,280 --> 00:01:24,720
+about what is gene therapy. Gene therapy
+
+32
+00:01:22,080 --> 00:01:26,960
+is a word we use all the time, but I
+
+33
+00:01:24,720 --> 00:01:29,040
+guarantee you 90% of you don't actually
+
+34
+00:01:26,960 --> 00:01:31,200
+know what it is. So, we're going to talk
+
+35
+00:01:29,040 --> 00:01:34,159
+about what it is. Really get a good
+
+36
+00:01:31,200 --> 00:01:36,400
+understanding to make very important
+
+37
+00:01:34,159 --> 00:01:38,000
+decisions about your child in the
+
+38
+00:01:36,400 --> 00:01:39,920
+future. You need to understand what
+
+39
+00:01:38,000 --> 00:01:42,320
+we're talking about. So, with that,
+
+40
+00:01:39,920 --> 00:01:44,560
+let's kick off the morning with Dr.
+
+41
+00:01:42,320 --> 00:01:45,759
+Michael Boland. Dr. Dr. Michael Bolan
+
+42
+00:01:44,560 --> 00:01:47,119
+comes to us from the University of
+
+43
+00:01:45,759 --> 00:01:49,520
+Pennsylvania Pearland School of
+
+44
+00:01:47,119 --> 00:01:52,079
+Medicine. I'm going to let him introduce
+
+45
+00:01:49,520 --> 00:01:53,600
+his incredible academic accolades
+
+46
+00:01:52,079 --> 00:01:55,920
+because he's one of the smartest people
+
+47
+00:01:53,600 --> 00:01:58,560
+that I know. He's a neuroscientist who's
+
+48
+00:01:55,920 --> 00:02:02,640
+incredibly brilliant. But the most
+
+49
+00:01:58,560 --> 00:02:04,560
+important title is he's a dad. And I'm
+
+50
+00:02:02,640 --> 00:02:07,560
+going to let you him tell his story.
+
+51
+00:02:04,560 --> 00:02:07,560
+Michael,
+
+52
+00:02:12,640 --> 00:02:15,280
+>> thank you.
+
+53
+00:02:15,920 --> 00:02:20,080
+Thank you, Allison. Uh, it's it's an
+
+54
+00:02:18,400 --> 00:02:25,120
+incredible honor to be here and I'd like
+
+55
+00:02:20,080 --> 00:02:27,760
+to thank the organizers and uh fast for
+
+56
+00:02:25,120 --> 00:02:33,239
+for putting this on and for everyone
+
+57
+00:02:27,760 --> 00:02:33,239
+showing up to listen to this. So,
+
+58
+00:02:34,959 --> 00:02:38,840
+get my slides up.
+
+59
+00:02:39,360 --> 00:02:45,680
+There we go. So Allison, as Allison
+
+60
+00:02:42,560 --> 00:02:47,440
+alluded to, I'm the um strategic
+
+61
+00:02:45,680 --> 00:02:49,360
+director for the translational and
+
+62
+00:02:47,440 --> 00:02:51,120
+clinical research at the center for
+
+63
+00:02:49,360 --> 00:02:54,480
+epilepsy and neurodedevelopmental
+
+64
+00:02:51,120 --> 00:02:56,319
+disorders, which spans both pen medicine
+
+65
+00:02:54,480 --> 00:02:58,400
+as well as children's hospital of
+
+66
+00:02:56,319 --> 00:03:01,760
+Philadelphia.
+
+67
+00:02:58,400 --> 00:03:05,519
+But before that, I was a faculty member
+
+68
+00:03:01,760 --> 00:03:08,319
+at the University of um at the Columbia
+
+69
+00:03:05,519 --> 00:03:10,319
+University Medical Center where I was
+
+70
+00:03:08,319 --> 00:03:12,480
+studying pediatric epilepsies. My
+
+71
+00:03:10,319 --> 00:03:14,480
+background is in uh developmental
+
+72
+00:03:12,480 --> 00:03:18,640
+neurobiology, pediatric epilepsy,
+
+73
+00:03:14,480 --> 00:03:21,360
+genetics, transcrytoics. Um, and I was
+
+74
+00:03:18,640 --> 00:03:22,959
+using human pur potent stem cell models,
+
+75
+00:03:21,360 --> 00:03:25,120
+which we'll get into in a minute, as
+
+76
+00:03:22,959 --> 00:03:27,760
+well as genetic mouse models to study a
+
+77
+00:03:25,120 --> 00:03:29,599
+number of monogenic
+
+78
+00:03:27,760 --> 00:03:32,000
+single gene disorders that cause
+
+79
+00:03:29,599 --> 00:03:34,799
+pediatric epilepsy and autism spectrum
+
+80
+00:03:32,000 --> 00:03:36,560
+disorder. Uh, worked on a number of
+
+81
+00:03:34,799 --> 00:03:38,239
+different developmental and epileptic
+
+82
+00:03:36,560 --> 00:03:40,879
+encphylopathies.
+
+83
+00:03:38,239 --> 00:03:44,080
+And it was actually during this time
+
+84
+00:03:40,879 --> 00:03:46,640
+that my son Lucas was born with,
+
+85
+00:03:44,080 --> 00:03:48,480
+strangely enough, a developmental and
+
+86
+00:03:46,640 --> 00:03:51,440
+epileptic and sephylopathy. He was
+
+87
+00:03:48,480 --> 00:03:52,879
+having seizures the day after he was
+
+88
+00:03:51,440 --> 00:03:55,599
+born. And I had to convince the
+
+89
+00:03:52,879 --> 00:03:58,080
+neonatlogists on call at the hospital
+
+90
+00:03:55,599 --> 00:04:00,480
+that he was having seizures. And
+
+91
+00:03:58,080 --> 00:04:02,239
+finally, they agreed with me. And at on
+
+92
+00:04:00,480 --> 00:04:04,159
+the second day of life, he was admitted
+
+93
+00:04:02,239 --> 00:04:07,680
+to the NICU.
+
+94
+00:04:04,159 --> 00:04:12,560
+Every tests um came back negative. now
+
+95
+00:04:07,680 --> 00:04:15,680
+you know MRI uh uh spinal tap for to
+
+96
+00:04:12,560 --> 00:04:17,519
+check for u viral infection in the in
+
+97
+00:04:15,680 --> 00:04:19,680
+the um central nervous system.
+
+98
+00:04:17,519 --> 00:04:21,919
+Everything came back except for abnormal
+
+99
+00:04:19,680 --> 00:04:23,440
+EEG. And then a couple weeks later we
+
+100
+00:04:21,919 --> 00:04:26,800
+got the diagnosis that he had a frame
+
+101
+00:04:23,440 --> 00:04:30,400
+shift in a gene called STXBP1.
+
+102
+00:04:26,800 --> 00:04:33,680
+Um we'll talk a little bit more about
+
+103
+00:04:30,400 --> 00:04:37,360
+STX BPP1. And I want to use this as kind
+
+104
+00:04:33,680 --> 00:04:40,400
+of a model system for as I walk you
+
+105
+00:04:37,360 --> 00:04:43,360
+through how we can develop or use in
+
+106
+00:04:40,400 --> 00:04:47,440
+vitro tools to develop disease models
+
+107
+00:04:43,360 --> 00:04:49,360
+that can help predict um pathogenic
+
+108
+00:04:47,440 --> 00:04:53,520
+phenotypes as well as response to
+
+109
+00:04:49,360 --> 00:04:57,040
+therapies. So I want to first walk you
+
+110
+00:04:53,520 --> 00:04:59,040
+through some nomenclature um common
+
+111
+00:04:57,040 --> 00:05:02,479
+nomenclature that I think will be useful
+
+112
+00:04:59,040 --> 00:05:04,880
+for you to hear throughout the day. Um
+
+113
+00:05:02,479 --> 00:05:07,680
+some genetics uh description of
+
+114
+00:05:04,880 --> 00:05:09,759
+non-neuronal cell lines and and and what
+
+115
+00:05:07,680 --> 00:05:11,600
+they're useful for. And then we'll go
+
+116
+00:05:09,759 --> 00:05:14,720
+into human induced pur potent stem
+
+117
+00:05:11,600 --> 00:05:19,199
+cells, genomic engineering, and a bunch
+
+118
+00:05:14,720 --> 00:05:21,360
+of different um methods to to study um
+
+119
+00:05:19,199 --> 00:05:23,600
+essentially neurons in a dish. And then
+
+120
+00:05:21,360 --> 00:05:28,960
+we'll I'll give you a real world
+
+121
+00:05:23,600 --> 00:05:31,520
+application revolved around um STX BP1
+
+122
+00:05:28,960 --> 00:05:34,320
+modeling in a dish and a gene targeted
+
+123
+00:05:31,520 --> 00:05:37,039
+therapy to correct some of the deficits
+
+124
+00:05:34,320 --> 00:05:40,880
+seen in in those cells.
+
+125
+00:05:37,039 --> 00:05:42,560
+So, I just want to give you a quick
+
+126
+00:05:40,880 --> 00:05:46,160
+reminder. Most of you probably don't
+
+127
+00:05:42,560 --> 00:05:49,440
+know what SDXBP1 is. Um, all of you know
+
+128
+00:05:46,160 --> 00:05:52,080
+what UB3A is, but SDXBP-1
+
+129
+00:05:49,440 --> 00:05:54,320
+is expressed in all neurons and it's
+
+130
+00:05:52,080 --> 00:05:56,000
+absolutely critical for how neurons
+
+131
+00:05:54,320 --> 00:05:58,240
+communicate.
+
+132
+00:05:56,000 --> 00:05:59,919
+Neurons communicate through
+
+133
+00:05:58,240 --> 00:06:02,720
+neurotransmission
+
+134
+00:05:59,919 --> 00:06:04,880
+mediated by synaptic vesicle release
+
+135
+00:06:02,720 --> 00:06:07,759
+that goes from one neuron to the next
+
+136
+00:06:04,880 --> 00:06:10,800
+neuron. in there by initiating the
+
+137
+00:06:07,759 --> 00:06:14,000
+action potential and um electrical
+
+138
+00:06:10,800 --> 00:06:17,919
+propagation and so STX BPP1 is critical
+
+139
+00:06:14,000 --> 00:06:20,240
+for release of those synaptic vesicles
+
+140
+00:06:17,919 --> 00:06:22,080
+uh exocytosis and neurotransmitter
+
+141
+00:06:20,240 --> 00:06:24,720
+release into the synaptic cleft. So it's
+
+142
+00:06:22,080 --> 00:06:27,280
+absolutely critical for communication in
+
+143
+00:06:24,720 --> 00:06:31,919
+the brain.
+
+144
+00:06:27,280 --> 00:06:33,520
+So as Allison said in the in the opening
+
+145
+00:06:31,919 --> 00:06:37,600
+there's a couple of different ways that
+
+146
+00:06:33,520 --> 00:06:40,880
+we can we can develop disease models.
+
+147
+00:06:37,600 --> 00:06:45,520
+One is in vitro and this is in a in a
+
+148
+00:06:40,880 --> 00:06:47,360
+most likely a cell line in a dish and we
+
+149
+00:06:45,520 --> 00:06:49,600
+can manipulate those cells in a number
+
+150
+00:06:47,360 --> 00:06:52,720
+of different ways. Uh and then there's
+
+151
+00:06:49,600 --> 00:06:55,840
+also in vivo and Rodney is going to talk
+
+152
+00:06:52,720 --> 00:06:59,520
+to you after this about um most likely
+
+153
+00:06:55,840 --> 00:07:01,599
+about um mouse models of different
+
+154
+00:06:59,520 --> 00:07:04,000
+diseases. he's he's really terrific at
+
+155
+00:07:01,599 --> 00:07:08,400
+characterizing behavior and whatnot of
+
+156
+00:07:04,000 --> 00:07:10,880
+of mouse models of of disease. Um, but
+
+157
+00:07:08,400 --> 00:07:13,840
+we're going to focus a little bit on in
+
+158
+00:07:10,880 --> 00:07:18,479
+vitro for the next 15 minutes or so. And
+
+159
+00:07:13,840 --> 00:07:22,240
+so in vitro means just in a dish. We can
+
+160
+00:07:18,479 --> 00:07:27,360
+take cells such as um cells treated with
+
+161
+00:07:22,240 --> 00:07:30,720
+a drug um Angelman syndrome, neurons,
+
+162
+00:07:27,360 --> 00:07:33,680
+what have you, and study DNA,
+
+163
+00:07:30,720 --> 00:07:37,360
+mRNA, the UBA
+
+164
+00:07:33,680 --> 00:07:38,800
+3A protein, that's actually that's the
+
+165
+00:07:37,360 --> 00:07:42,960
+structure of it down there at the
+
+166
+00:07:38,800 --> 00:07:45,120
+bottom. Uh that squiggly thing. Um there
+
+167
+00:07:42,960 --> 00:07:48,479
+was a Nobel Prize awarded last year for
+
+168
+00:07:45,120 --> 00:07:50,639
+Alphafold which is a an uh AI method to
+
+169
+00:07:48,479 --> 00:07:54,080
+predict protein structure which is going
+
+170
+00:07:50,639 --> 00:07:57,599
+to revolutionize drug discovery
+
+171
+00:07:54,080 --> 00:08:00,400
+and like I said there a number of things
+
+172
+00:07:57,599 --> 00:08:03,039
+that we can do with these cell models
+
+173
+00:08:00,400 --> 00:08:04,800
+and for instance drug screening treating
+
+174
+00:08:03,039 --> 00:08:06,960
+them with drugs different anti-sense
+
+175
+00:08:04,800 --> 00:08:09,199
+oligouonucleotides
+
+176
+00:08:06,960 --> 00:08:12,800
+um we can look at cellular morphology
+
+177
+00:08:09,199 --> 00:08:15,280
+through high content imaging and and um
+
+178
+00:08:12,800 --> 00:08:19,199
+and also look at metabolic profiling to
+
+179
+00:08:15,280 --> 00:08:22,319
+to see how the metabolism of neurons or
+
+180
+00:08:19,199 --> 00:08:24,319
+or cell types affected by disorder are
+
+181
+00:08:22,319 --> 00:08:27,120
+are changed and are different from
+
+182
+00:08:24,319 --> 00:08:30,720
+control cell lines.
+
+183
+00:08:27,120 --> 00:08:32,560
+So going way back to the basics, you
+
+184
+00:08:30,720 --> 00:08:34,640
+know that you have two sets of
+
+185
+00:08:32,560 --> 00:08:37,680
+chromosomes, one set from your mother,
+
+186
+00:08:34,640 --> 00:08:42,080
+one set from your father. Each one of
+
+187
+00:08:37,680 --> 00:08:44,720
+those gameamtes had 23 chromosomes and
+
+188
+00:08:42,080 --> 00:08:48,160
+when they combine to form the embryo you
+
+189
+00:08:44,720 --> 00:08:50,640
+now you have 46 chromosomes and that's
+
+190
+00:08:48,160 --> 00:08:52,720
+called diploid.
+
+191
+00:08:50,640 --> 00:08:55,040
+Another
+
+192
+00:08:52,720 --> 00:08:58,720
+technical term scientific term that
+
+193
+00:08:55,040 --> 00:09:03,440
+you'll probably hear is transfection.
+
+194
+00:08:58,720 --> 00:09:05,440
+This is moving DNA into a cell using a
+
+195
+00:09:03,440 --> 00:09:07,760
+nonviral means like a lipid nano
+
+196
+00:09:05,440 --> 00:09:09,920
+particle which you'll probably also hear
+
+197
+00:09:07,760 --> 00:09:12,000
+about today. And there's also
+
+198
+00:09:09,920 --> 00:09:15,920
+transduction and this is the process by
+
+199
+00:09:12,000 --> 00:09:20,680
+which viruses enter a cell to to deliver
+
+200
+00:09:15,920 --> 00:09:20,680
+a cargo such as mRNA or DNA.
+
+201
+00:09:20,959 --> 00:09:26,399
+So, some of the more common cell lines
+
+202
+00:09:23,760 --> 00:09:29,920
+that people use
+
+203
+00:09:26,399 --> 00:09:32,160
+are actually pretty terrible because if
+
+204
+00:09:29,920 --> 00:09:35,120
+you look at each one of these cell
+
+205
+00:09:32,160 --> 00:09:39,040
+lines, whether it's the human embryionic
+
+206
+00:09:35,120 --> 00:09:42,160
+kidney, the epithelial cancer, Hila,
+
+207
+00:09:39,040 --> 00:09:44,080
+um the retinal pigmented epithelium, or
+
+208
+00:09:42,160 --> 00:09:47,040
+the neuroblastoma cell line that I've
+
+209
+00:09:44,080 --> 00:09:50,959
+indicated here,
+
+210
+00:09:47,040 --> 00:09:52,959
+look at the number of chromosomes here.
+
+211
+00:09:50,959 --> 00:09:56,080
+They're highly annoyed. These are
+
+212
+00:09:52,959 --> 00:10:00,160
+essentially cancer in a dish. And so
+
+213
+00:09:56,080 --> 00:10:02,000
+these don't represent very good cell
+
+214
+00:10:00,160 --> 00:10:03,839
+models of disease, but they do have
+
+215
+00:10:02,000 --> 00:10:05,680
+their utility because they're very easy
+
+216
+00:10:03,839 --> 00:10:08,399
+to work with. They're easily
+
+217
+00:10:05,680 --> 00:10:11,519
+transfectable and you can use them in
+
+218
+00:10:08,399 --> 00:10:14,079
+really high throughput to screen tens of
+
+219
+00:10:11,519 --> 00:10:16,160
+thousands of drugs. This is one of the
+
+220
+00:10:14,079 --> 00:10:18,480
+first steps you would use a cell line
+
+221
+00:10:16,160 --> 00:10:21,519
+such as this to give you an indication
+
+222
+00:10:18,480 --> 00:10:24,480
+that for instance um if you're screening
+
+223
+00:10:21,519 --> 00:10:27,839
+an anti-sense oligouonucleotide or some
+
+224
+00:10:24,480 --> 00:10:30,160
+small molecule or even virally delivered
+
+225
+00:10:27,839 --> 00:10:33,120
+genes whether or not this is going to
+
+226
+00:10:30,160 --> 00:10:34,959
+have an effect in uh a real disease
+
+227
+00:10:33,120 --> 00:10:37,440
+model
+
+228
+00:10:34,959 --> 00:10:39,760
+but these like I said these aren't
+
+229
+00:10:37,440 --> 00:10:44,399
+typically used for disease modeling
+
+230
+00:10:39,760 --> 00:10:44,399
+because they're in incredibly artificial
+
+231
+00:10:45,920 --> 00:10:52,399
+In 2007, Shina Yamanaka published a
+
+232
+00:10:49,839 --> 00:10:56,399
+paper where they took adult fiber
+
+233
+00:10:52,399 --> 00:10:59,279
+blasts. So just a fiber blast um taken
+
+234
+00:10:56,399 --> 00:11:02,880
+from a skin punch biopsy grown out in
+
+235
+00:10:59,279 --> 00:11:06,240
+culture and they were able to revert
+
+236
+00:11:02,880 --> 00:11:11,440
+that cell type from a from an adult
+
+237
+00:11:06,240 --> 00:11:14,160
+person back into what resembled it human
+
+238
+00:11:11,440 --> 00:11:17,920
+embryionic stem cell. That's a stem
+
+239
+00:11:14,160 --> 00:11:20,160
+cell. It's a fleeting um sulfate very
+
+240
+00:11:17,920 --> 00:11:22,399
+early in in development. These
+
+241
+00:11:20,160 --> 00:11:24,560
+embryionic stem cells give rise to every
+
+242
+00:11:22,399 --> 00:11:27,440
+cell type in the body, the entire embryo
+
+243
+00:11:24,560 --> 00:11:32,480
+proper. He won the Nobel Prize for this
+
+244
+00:11:27,440 --> 00:11:36,320
+discovery in 2012. And this became um
+
+245
+00:11:32,480 --> 00:11:38,160
+the de facto way to start to generate
+
+246
+00:11:36,320 --> 00:11:39,760
+and look at purip potent stem cells
+
+247
+00:11:38,160 --> 00:11:42,240
+because you didn't have to destroy an
+
+248
+00:11:39,760 --> 00:11:45,839
+embryo to derive them. You could take
+
+249
+00:11:42,240 --> 00:11:48,880
+dermal fiberblasts or um monucleiated
+
+250
+00:11:45,839 --> 00:11:51,440
+cells from the blood and apply these
+
+251
+00:11:48,880 --> 00:11:53,920
+viruses that contain these reprogramming
+
+252
+00:11:51,440 --> 00:11:56,000
+factors and turn these back into what's
+
+253
+00:11:53,920 --> 00:11:58,480
+called a humaninduced pur potent stem
+
+254
+00:11:56,000 --> 00:12:01,200
+cell which is also able to give rise to
+
+255
+00:11:58,480 --> 00:12:03,760
+all cell types in an adult organism. And
+
+256
+00:12:01,200 --> 00:12:06,000
+you can take these cells and using small
+
+257
+00:12:03,760 --> 00:12:09,200
+molecules and other and other proteins
+
+258
+00:12:06,000 --> 00:12:11,440
+and whatnot that mimic um that that
+
+259
+00:12:09,200 --> 00:12:13,200
+mimic the developmental cascades that
+
+260
+00:12:11,440 --> 00:12:15,120
+give rise to different cell types and
+
+261
+00:12:13,200 --> 00:12:17,519
+germ layers.
+
+262
+00:12:15,120 --> 00:12:20,240
+You can generate a number of different
+
+263
+00:12:17,519 --> 00:12:23,680
+cell types muscle, heart, pancreas, you
+
+264
+00:12:20,240 --> 00:12:26,079
+what have you. We can also generate all
+
+265
+00:12:23,680 --> 00:12:30,639
+the cell types in the brain for instance
+
+266
+00:12:26,079 --> 00:12:34,320
+neurons or aststerytes. And uh these pur
+
+267
+00:12:30,639 --> 00:12:38,000
+potent stem cells these IPS cells were
+
+268
+00:12:34,320 --> 00:12:40,480
+proven to be biochemically
+
+269
+00:12:38,000 --> 00:12:42,399
+equivalent to embryionic stem cells when
+
+270
+00:12:40,480 --> 00:12:44,959
+a group that I was involved with at
+
+271
+00:12:42,399 --> 00:12:48,560
+Scripps Research uh were able to clone
+
+272
+00:12:44,959 --> 00:12:51,519
+mice using these cells. So demonstrating
+
+273
+00:12:48,560 --> 00:12:54,079
+that they they truly can give rise to
+
+274
+00:12:51,519 --> 00:12:56,160
+any uh cell type in the body because we
+
+275
+00:12:54,079 --> 00:12:59,920
+we cloned mice that were fertile and
+
+276
+00:12:56,160 --> 00:13:01,760
+could and and could breed and whatnot.
+
+277
+00:12:59,920 --> 00:13:06,000
+So there are a few different ways to
+
+278
+00:13:01,760 --> 00:13:08,320
+make these IPS cells. Um all involve
+
+279
+00:13:06,000 --> 00:13:10,480
+that that reprogramming using those
+
+280
+00:13:08,320 --> 00:13:12,399
+reprogramming factors. But there are
+
+281
+00:13:10,480 --> 00:13:15,120
+some different models that that we
+
+282
+00:13:12,399 --> 00:13:17,519
+should consider. So this is a trio or a
+
+283
+00:13:15,120 --> 00:13:20,240
+familial model where most of you have
+
+284
+00:13:17,519 --> 00:13:21,440
+had whole exom sequencing done. And when
+
+285
+00:13:20,240 --> 00:13:25,200
+they do that, if they're looking for a
+
+286
+00:13:21,440 --> 00:13:28,560
+denovo mutation, they take um they take
+
+287
+00:13:25,200 --> 00:13:31,040
+your genomic DNA, your spouse's genomic
+
+288
+00:13:28,560 --> 00:13:32,240
+DNA and your child's genomic DNA and
+
+289
+00:13:31,040 --> 00:13:34,800
+they sequence it and that's called a
+
+290
+00:13:32,240 --> 00:13:36,720
+trio. And then they use the information
+
+291
+00:13:34,800 --> 00:13:39,519
+there to to see what what's different
+
+292
+00:13:36,720 --> 00:13:43,120
+between your child and you uh for denovo
+
+293
+00:13:39,519 --> 00:13:46,720
+mutations. So in this case we've derived
+
+294
+00:13:43,120 --> 00:13:51,360
+IPS cells from a mother, a father and an
+
+295
+00:13:46,720 --> 00:13:54,880
+infant with a neurological disorder.
+
+296
+00:13:51,360 --> 00:13:56,959
+So the IPS cells derived from each of
+
+297
+00:13:54,880 --> 00:13:58,560
+these people
+
+298
+00:13:56,959 --> 00:14:02,000
+represent
+
+299
+00:13:58,560 --> 00:14:04,160
+essentially them in a dish. So the IPS
+
+300
+00:14:02,000 --> 00:14:06,800
+cells with the from the child with a
+
+301
+00:14:04,160 --> 00:14:11,519
+neurological disorder will differentiate
+
+302
+00:14:06,800 --> 00:14:14,160
+into neurons that harbor the genetic
+
+303
+00:14:11,519 --> 00:14:17,040
+defects and physiological defects
+
+304
+00:14:14,160 --> 00:14:18,639
+pertinent to that mutation.
+
+305
+00:14:17,040 --> 00:14:23,760
+Another
+
+306
+00:14:18,639 --> 00:14:26,639
+way to um model use these IPS cells is
+
+307
+00:14:23,760 --> 00:14:29,120
+uh isogenic model. And this just means
+
+308
+00:14:26,639 --> 00:14:31,839
+the same gene. Isogenic means the same
+
+309
+00:14:29,120 --> 00:14:34,399
+genome. And so the way to do this is you
+
+310
+00:14:31,839 --> 00:14:36,480
+take the uh you generate IPS cells from
+
+311
+00:14:34,399 --> 00:14:39,360
+an infant with a with a neurological
+
+312
+00:14:36,480 --> 00:14:42,320
+disorder or any disorder for that matter
+
+313
+00:14:39,360 --> 00:14:45,920
+and then you can use genomic engineering
+
+314
+00:14:42,320 --> 00:14:47,680
+such as crisper cast 9 to correct that
+
+315
+00:14:45,920 --> 00:14:49,279
+mutation.
+
+316
+00:14:47,680 --> 00:14:52,000
+And
+
+317
+00:14:49,279 --> 00:14:54,639
+now you have a corrected isogenic
+
+318
+00:14:52,000 --> 00:14:56,959
+control line that you can compare to the
+
+319
+00:14:54,639 --> 00:14:58,720
+to the mutant line. And the only
+
+320
+00:14:56,959 --> 00:15:02,000
+theoretically the only difference
+
+321
+00:14:58,720 --> 00:15:05,199
+between these two is the mutation that's
+
+322
+00:15:02,000 --> 00:15:08,320
+found in the in the proband.
+
+323
+00:15:05,199 --> 00:15:11,519
+Similarly, we can also take an
+
+324
+00:15:08,320 --> 00:15:15,360
+unaffected iPS cell line, say say an iPS
+
+325
+00:15:11,519 --> 00:15:17,680
+cell line generated from me or you and
+
+326
+00:15:15,360 --> 00:15:19,120
+use gen again use genomic engineering,
+
+327
+00:15:17,680 --> 00:15:22,480
+but this time to knock different
+
+328
+00:15:19,120 --> 00:15:24,800
+mutations into that cell line so that we
+
+329
+00:15:22,480 --> 00:15:28,160
+can study the effect of different
+
+330
+00:15:24,800 --> 00:15:31,519
+mutations of the same gene
+
+331
+00:15:28,160 --> 00:15:33,760
+on the same genetic background.
+
+332
+00:15:31,519 --> 00:15:38,160
+This is this is an incredibly powerful
+
+333
+00:15:33,760 --> 00:15:41,440
+technology because so much of what
+
+334
+00:15:38,160 --> 00:15:44,000
+makes us us are
+
+335
+00:15:41,440 --> 00:15:46,639
+driven by genetic modifiers that modify
+
+336
+00:15:44,000 --> 00:15:50,959
+disease phenotype which is why we have
+
+337
+00:15:46,639 --> 00:15:53,839
+heterogeneity in our patient populations
+
+338
+00:15:50,959 --> 00:15:57,040
+genetic modifiers.
+
+339
+00:15:53,839 --> 00:16:01,040
+So these IPS cells, as I alluded to, can
+
+340
+00:15:57,040 --> 00:16:03,040
+be differentiated into neurons using
+
+341
+00:16:01,040 --> 00:16:06,560
+small molecules and proteins that mimic
+
+342
+00:16:03,040 --> 00:16:10,000
+developmental um morphagen gradients in
+
+343
+00:16:06,560 --> 00:16:12,480
+different regions of the brain. Um, it
+
+344
+00:16:10,000 --> 00:16:14,399
+goes through a a a timed series of
+
+345
+00:16:12,480 --> 00:16:16,240
+events that go through neural rosettes
+
+346
+00:16:14,399 --> 00:16:18,800
+which mimic development of the
+
+347
+00:16:16,240 --> 00:16:21,040
+embryionic neural tube into neural stem
+
+348
+00:16:18,800 --> 00:16:23,440
+cells that give rise into progenitors
+
+349
+00:16:21,040 --> 00:16:25,279
+that differentiate into immature neurons
+
+350
+00:16:23,440 --> 00:16:28,160
+and then you get more mature neuronal
+
+351
+00:16:25,279 --> 00:16:29,440
+networks that in the dish can talk to
+
+352
+00:16:28,160 --> 00:16:31,040
+each other and we can measure their
+
+353
+00:16:29,440 --> 00:16:35,120
+activity.
+
+354
+00:16:31,040 --> 00:16:37,680
+Another way to do this is to forcibly
+
+355
+00:16:35,120 --> 00:16:40,480
+overexpress a a a gene called a
+
+356
+00:16:37,680 --> 00:16:42,320
+transcription factor that is involved in
+
+357
+00:16:40,480 --> 00:16:43,920
+cell fate decisions. In this case, it's
+
+358
+00:16:42,320 --> 00:16:46,639
+NGN2.
+
+359
+00:16:43,920 --> 00:16:48,959
+And when you express NGN2 in an IPS
+
+360
+00:16:46,639 --> 00:16:51,360
+cell, you skip all of this development
+
+361
+00:16:48,959 --> 00:16:54,639
+and you go basically right to the
+
+362
+00:16:51,360 --> 00:16:57,600
+neurons. So in a dish, this saves you
+
+363
+00:16:54,639 --> 00:17:01,120
+time and money.
+
+364
+00:16:57,600 --> 00:17:04,720
+And then the third way that is probably
+
+365
+00:17:01,120 --> 00:17:07,839
+the most commonly used now the NGN2 and
+
+366
+00:17:04,720 --> 00:17:09,839
+these organoids or spheroids. Um the
+
+367
+00:17:07,839 --> 00:17:12,720
+organoids or spheroids are are are
+
+368
+00:17:09,839 --> 00:17:14,480
+similar to um a naturally occurring
+
+369
+00:17:12,720 --> 00:17:16,480
+developmental model in in three
+
+370
+00:17:14,480 --> 00:17:18,240
+dimensions. Sometimes you'll hear this
+
+371
+00:17:16,480 --> 00:17:20,640
+referred to as mini brains and that's
+
+372
+00:17:18,240 --> 00:17:22,640
+definitely not the case. These these
+
+373
+00:17:20,640 --> 00:17:25,360
+don't have consciousness or anything
+
+374
+00:17:22,640 --> 00:17:27,520
+like that. Um, but it's a
+
+375
+00:17:25,360 --> 00:17:30,000
+three-dimensional representation of of
+
+376
+00:17:27,520 --> 00:17:32,880
+brain development in a dish and it it's
+
+377
+00:17:30,000 --> 00:17:35,039
+incredibly powerful. We can even derive
+
+378
+00:17:32,880 --> 00:17:37,360
+organoids from different regions of the
+
+379
+00:17:35,039 --> 00:17:39,200
+brain. For instance, this CO is a
+
+380
+00:17:37,360 --> 00:17:42,000
+cortical organoid. So the dorsal
+
+381
+00:17:39,200 --> 00:17:44,480
+forbrain versus the mgo which is the
+
+382
+00:17:42,000 --> 00:17:47,360
+medial gangleionic eminence which is a
+
+383
+00:17:44,480 --> 00:17:49,440
+region in in the um in the center of the
+
+384
+00:17:47,360 --> 00:17:51,440
+brain where certain neurons called
+
+385
+00:17:49,440 --> 00:17:53,840
+gabberurgic interneurons or inhibitory
+
+386
+00:17:51,440 --> 00:17:55,440
+neurons come from. And that's a huge
+
+387
+00:17:53,840 --> 00:17:56,960
+interplay in the brain in brain
+
+388
+00:17:55,440 --> 00:18:00,320
+development.
+
+389
+00:17:56,960 --> 00:18:03,039
+So when thinking about which type of
+
+390
+00:18:00,320 --> 00:18:04,880
+model you want to develop for a given
+
+391
+00:18:03,039 --> 00:18:06,960
+disorder, you need to think about the
+
+392
+00:18:04,880 --> 00:18:08,799
+biology of the disorder of the gene that
+
+393
+00:18:06,960 --> 00:18:10,320
+you're studying and then you go for an
+
+394
+00:18:08,799 --> 00:18:13,280
+appropriately
+
+395
+00:18:10,320 --> 00:18:16,880
+um an appropriate model based on what
+
+396
+00:18:13,280 --> 00:18:19,039
+you want to get out of that. Um
+
+397
+00:18:16,880 --> 00:18:20,880
+organoids are are tricky. they they
+
+398
+00:18:19,039 --> 00:18:23,919
+generally take about four months to get
+
+399
+00:18:20,880 --> 00:18:26,240
+good neuronal activity. Um you can you
+
+400
+00:18:23,919 --> 00:18:30,240
+can get similar activity from NGN2
+
+401
+00:18:26,240 --> 00:18:32,720
+cultures in in less time. Um it's it's
+
+402
+00:18:30,240 --> 00:18:35,120
+just the each one has pros and cons and
+
+403
+00:18:32,720 --> 00:18:37,760
+the scientist will will decide which
+
+404
+00:18:35,120 --> 00:18:41,600
+which is best for their model. But let's
+
+405
+00:18:37,760 --> 00:18:44,720
+talk about cortical organoids.
+
+406
+00:18:41,600 --> 00:18:48,240
+You can make hundreds if not thousands
+
+407
+00:18:44,720 --> 00:18:50,160
+of these in a couple of hours.
+
+408
+00:18:48,240 --> 00:18:52,960
+And they're tiny. They look like tiny
+
+409
+00:18:50,160 --> 00:18:56,080
+little balls of cells the next day. And
+
+410
+00:18:52,960 --> 00:18:57,840
+then they just grow over time into about
+
+411
+00:18:56,080 --> 00:19:03,039
+a little bit smaller than the size of a
+
+412
+00:18:57,840 --> 00:19:06,160
+pee um after four or five months. And
+
+413
+00:19:03,039 --> 00:19:07,840
+when the brain is developing
+
+414
+00:19:06,160 --> 00:19:10,320
+during very early embryionic
+
+415
+00:19:07,840 --> 00:19:14,320
+development, it's built in an inside out
+
+416
+00:19:10,320 --> 00:19:17,200
+fashion where these re very early radial
+
+417
+00:19:14,320 --> 00:19:19,919
+ga cells divide into these intermediate
+
+418
+00:19:17,200 --> 00:19:21,840
+progenitors that then divide into a
+
+419
+00:19:19,919 --> 00:19:26,080
+different type of cell called an outer
+
+420
+00:19:21,840 --> 00:19:29,280
+radial ga that extends this this really
+
+421
+00:19:26,080 --> 00:19:31,919
+long armor process all the way up to the
+
+422
+00:19:29,280 --> 00:19:35,280
+top of the developing brain. And the
+
+423
+00:19:31,919 --> 00:19:39,039
+immature neurons that that divide out
+
+424
+00:19:35,280 --> 00:19:41,840
+from these outer radia cells crawl up
+
+425
+00:19:39,039 --> 00:19:45,520
+these processes to their specific
+
+426
+00:19:41,840 --> 00:19:48,799
+genetically determined, temporally and
+
+427
+00:19:45,520 --> 00:19:53,600
+spatially determined place in the brain
+
+428
+00:19:48,799 --> 00:19:56,000
+and newborn neurons stop, other ones
+
+429
+00:19:53,600 --> 00:19:58,400
+crawl past them, stop and then it's so
+
+430
+00:19:56,000 --> 00:20:02,160
+on and built like that. And we can use
+
+431
+00:19:58,400 --> 00:20:04,960
+different uh markers of cell types to
+
+432
+00:20:02,160 --> 00:20:06,400
+track which of these track these cell
+
+433
+00:20:04,960 --> 00:20:10,080
+types. For instance, the deep layer
+
+434
+00:20:06,400 --> 00:20:12,400
+neurons you see have a gene called TBR1
+
+435
+00:20:10,080 --> 00:20:15,200
+expressed or CTIP 2. Whereas the
+
+436
+00:20:12,400 --> 00:20:19,039
+superficial or top layer neurons have
+
+437
+00:20:15,200 --> 00:20:20,799
+BRN2 or SAT BP2. And during organoid
+
+438
+00:20:19,039 --> 00:20:22,480
+development, we can actually track to
+
+439
+00:20:20,799 --> 00:20:25,280
+see that this is faithfully
+
+440
+00:20:22,480 --> 00:20:27,919
+recapitulated. And it is. We start with
+
+441
+00:20:25,280 --> 00:20:30,480
+these early neuronal progenitors that
+
+442
+00:20:27,919 --> 00:20:32,159
+then start to give rise to deep layer
+
+443
+00:20:30,480 --> 00:20:36,080
+neurons
+
+444
+00:20:32,159 --> 00:20:38,640
+that then give rise to uh gabaurgic
+
+445
+00:20:36,080 --> 00:20:42,880
+progenitors, excitatory neuron
+
+446
+00:20:38,640 --> 00:20:45,039
+progenitors. And finally after 3 or 4
+
+447
+00:20:42,880 --> 00:20:47,440
+months we get highly synaptically
+
+448
+00:20:45,039 --> 00:20:50,640
+organized neuronal networks within the
+
+449
+00:20:47,440 --> 00:20:54,799
+organoid that hopefully the organoid
+
+450
+00:20:50,640 --> 00:20:57,600
+contains the cell types that we want.
+
+451
+00:20:54,799 --> 00:20:59,919
+But not all organoids are created equal.
+
+452
+00:20:57,600 --> 00:21:01,520
+In the developing brain there in the
+
+453
+00:20:59,919 --> 00:21:03,679
+developing cortex, there are two
+
+454
+00:21:01,520 --> 00:21:05,600
+neuronal subtypes that are incredibly
+
+455
+00:21:03,679 --> 00:21:08,320
+important and their interplay is very
+
+456
+00:21:05,600 --> 00:21:10,640
+important. These are excitatory neurons
+
+457
+00:21:08,320 --> 00:21:11,840
+that mediate most of the and these
+
+458
+00:21:10,640 --> 00:21:14,000
+respond to glutamate the
+
+459
+00:21:11,840 --> 00:21:17,200
+neurotransmitter glutamate. These were
+
+460
+00:21:14,000 --> 00:21:19,840
+these um
+
+461
+00:21:17,200 --> 00:21:22,000
+these are the main excitatory output
+
+462
+00:21:19,840 --> 00:21:24,720
+sensory output from from the uh
+
+463
+00:21:22,000 --> 00:21:26,640
+developing cortex and then you have the
+
+464
+00:21:24,720 --> 00:21:29,760
+inhibitory neurons which are there to
+
+465
+00:21:26,640 --> 00:21:31,520
+kind of put the brake on the excitatory
+
+466
+00:21:29,760 --> 00:21:34,880
+neurons and make sure they're not too
+
+467
+00:21:31,520 --> 00:21:37,919
+excitable. Um there's a lot of things
+
+468
+00:21:34,880 --> 00:21:40,720
+that can go wrong in these interactions
+
+469
+00:21:37,919 --> 00:21:46,320
+which result in hyperexitability which
+
+470
+00:21:40,720 --> 00:21:48,159
+is uh attributed to epilepsy. Um
+
+471
+00:21:46,320 --> 00:21:49,840
+this this interaction between these cell
+
+472
+00:21:48,159 --> 00:21:51,919
+types is extremely complicated. There
+
+473
+00:21:49,840 --> 00:21:54,240
+was a paper that just came out that in
+
+474
+00:21:51,919 --> 00:21:56,320
+the in the developing mouse cortex,
+
+475
+00:21:54,240 --> 00:21:58,720
+there are there are thousands of
+
+476
+00:21:56,320 --> 00:22:00,799
+different types of inhibitory neurons
+
+477
+00:21:58,720 --> 00:22:03,200
+that all have different functions on
+
+478
+00:22:00,799 --> 00:22:05,760
+regulating the activity of excitatory
+
+479
+00:22:03,200 --> 00:22:08,640
+neurons. And so there are a number of
+
+480
+00:22:05,760 --> 00:22:10,559
+different ways to make these organoids
+
+481
+00:22:08,640 --> 00:22:12,880
+using different protocols from different
+
+482
+00:22:10,559 --> 00:22:15,440
+labs. And what I want you to appreciate
+
+483
+00:22:12,880 --> 00:22:19,360
+here is that the developing neoortex has
+
+484
+00:22:15,440 --> 00:22:21,440
+about 25% inhibitory neurons.
+
+485
+00:22:19,360 --> 00:22:22,960
+If you look at some of these protocols
+
+486
+00:22:21,440 --> 00:22:25,679
+here, the inhibitory neurons are
+
+487
+00:22:22,960 --> 00:22:28,159
+replicate are are indicated by or the
+
+488
+00:22:25,679 --> 00:22:31,520
+the percentage of inhibitory neurons is
+
+489
+00:22:28,159 --> 00:22:33,840
+is indicated by the the green pi in the
+
+490
+00:22:31,520 --> 00:22:35,679
+in the pie chart. And you can see that
+
+491
+00:22:33,840 --> 00:22:38,880
+some of these protocols pretty
+
+492
+00:22:35,679 --> 00:22:41,679
+faithfully recapitulate what you see in
+
+493
+00:22:38,880 --> 00:22:45,200
+the developing neoortex whereas some
+
+494
+00:22:41,679 --> 00:22:48,559
+like the biradal have hardly any
+
+495
+00:22:45,200 --> 00:22:52,240
+gabberurgic inter neurons. Well, I'm
+
+496
+00:22:48,559 --> 00:22:54,559
+interested in sdxbp1 which regulates how
+
+497
+00:22:52,240 --> 00:22:57,280
+excitatory and inhibitory neurons
+
+498
+00:22:54,559 --> 00:23:00,880
+communicate. So, I want to use a
+
+499
+00:22:57,280 --> 00:23:04,000
+protocol that makes an organoid that
+
+500
+00:23:00,880 --> 00:23:08,000
+contains the cell types that I need to
+
+501
+00:23:04,000 --> 00:23:10,400
+study the intricacies of the neuronal
+
+502
+00:23:08,000 --> 00:23:13,400
+network and how the neurons can actually
+
+503
+00:23:10,400 --> 00:23:13,400
+communicate.
+
+504
+00:23:13,679 --> 00:23:22,240
+Again, not all organoids are are
+
+505
+00:23:18,799 --> 00:23:24,880
+equal even using the same protocols.
+
+506
+00:23:22,240 --> 00:23:29,200
+This is data from from uh my lab at
+
+507
+00:23:24,880 --> 00:23:32,640
+Colombia where we took IPS cells and
+
+508
+00:23:29,200 --> 00:23:35,760
+their controls made organoids from from
+
+509
+00:23:32,640 --> 00:23:38,799
+different cell lines and we looked at
+
+510
+00:23:35,760 --> 00:23:42,640
+their morphology or how they look and
+
+511
+00:23:38,799 --> 00:23:46,799
+their activity and you can see that on
+
+512
+00:23:42,640 --> 00:23:48,640
+the left those are beautiful organoids.
+
+513
+00:23:46,799 --> 00:23:50,799
+Yes, I'm a nerd. That's a beautiful
+
+514
+00:23:48,640 --> 00:23:53,280
+organoid.
+
+515
+00:23:50,799 --> 00:23:57,360
+The ones in the middle, not so good.
+
+516
+00:23:53,280 --> 00:24:00,080
+This is at 18 days. At 18 days, very
+
+517
+00:23:57,360 --> 00:24:02,159
+early in their development, they start
+
+518
+00:24:00,080 --> 00:24:04,400
+to form these blebs that are almost
+
+519
+00:24:02,159 --> 00:24:06,799
+reminiscent of embryionic yolk like
+
+520
+00:24:04,400 --> 00:24:10,960
+structures, and then they just implode
+
+521
+00:24:06,799 --> 00:24:14,080
+and die. And on the far right, we again,
+
+522
+00:24:10,960 --> 00:24:15,840
+we have nice, beautiful organoids, but
+
+523
+00:24:14,080 --> 00:24:19,520
+when we go to measure their electrical
+
+524
+00:24:15,840 --> 00:24:21,279
+activity, they're largely inert. So,
+
+525
+00:24:19,520 --> 00:24:23,279
+there's this trade-off. You want
+
+526
+00:24:21,279 --> 00:24:26,480
+something that has really nice
+
+527
+00:24:23,279 --> 00:24:29,520
+morphology and structure, but also you
+
+528
+00:24:26,480 --> 00:24:31,840
+want something that has a a good
+
+529
+00:24:29,520 --> 00:24:35,440
+activity profile, electrical activity
+
+530
+00:24:31,840 --> 00:24:38,159
+profile that you can measure.
+
+531
+00:24:35,440 --> 00:24:42,000
+So let's get into the application in the
+
+532
+00:24:38,159 --> 00:24:45,039
+last few minutes of the talk and and see
+
+533
+00:24:42,000 --> 00:24:47,520
+how you can try to put all of these
+
+534
+00:24:45,039 --> 00:24:50,240
+different in vitro tools together to
+
+535
+00:24:47,520 --> 00:24:52,880
+model a disorder and develop a gene
+
+536
+00:24:50,240 --> 00:24:56,559
+targeted therapy.
+
+537
+00:24:52,880 --> 00:24:59,919
+So obviously when Lucas was born I made
+
+538
+00:24:56,559 --> 00:25:03,279
+IPS cells from him. That's what I do. Um
+
+539
+00:24:59,919 --> 00:25:05,760
+and from me and my wife. My wife's IPS
+
+540
+00:25:03,279 --> 00:25:09,760
+cells were terrible at making organoids,
+
+541
+00:25:05,760 --> 00:25:11,840
+which I like to point out often. Um,
+
+542
+00:25:09,760 --> 00:25:13,440
+mine mine were really mine were really
+
+543
+00:25:11,840 --> 00:25:17,919
+good, actually.
+
+544
+00:25:13,440 --> 00:25:20,640
+Um, so the first thing we did was we we
+
+545
+00:25:17,919 --> 00:25:24,000
+differentiated these IPS cells into just
+
+546
+00:25:20,640 --> 00:25:26,320
+2D neurons in a dish because I wanted to
+
+547
+00:25:24,000 --> 00:25:28,240
+see if the the neurons themselves
+
+548
+00:25:26,320 --> 00:25:30,240
+recapitulated what we thought was going
+
+549
+00:25:28,240 --> 00:25:32,320
+on with Lucas's mutation, which is a
+
+550
+00:25:30,240 --> 00:25:34,240
+frame shift or a protein truncating
+
+551
+00:25:32,320 --> 00:25:37,840
+variant. So he should have hlo
+
+552
+00:25:34,240 --> 00:25:41,200
+insufficiency and about a 50% reduction
+
+553
+00:25:37,840 --> 00:25:43,840
+of STX BPP1 protein. And so we did that.
+
+554
+00:25:41,200 --> 00:25:48,960
+We differentiated these in a dish and
+
+555
+00:25:43,840 --> 00:25:52,159
+after about 65 days or two two months in
+
+556
+00:25:48,960 --> 00:25:55,120
+in a dish. We harvested the protein from
+
+557
+00:25:52,159 --> 00:25:57,919
+the from the neurons and we checked the
+
+558
+00:25:55,120 --> 00:26:00,720
+expression levels of STX BPP1 and as
+
+559
+00:25:57,919 --> 00:26:04,559
+expected Lucas's
+
+560
+00:26:00,720 --> 00:26:07,760
+neurons contain about 50% less STX BP1
+
+561
+00:26:04,559 --> 00:26:12,080
+than than my neurons.
+
+562
+00:26:07,760 --> 00:26:14,320
+So then we decided let's let's go after
+
+563
+00:26:12,080 --> 00:26:17,679
+an organoid model and I won't go into
+
+564
+00:26:14,320 --> 00:26:20,400
+all of the deta details and and data
+
+565
+00:26:17,679 --> 00:26:22,559
+that we acrewed over time developing
+
+566
+00:26:20,400 --> 00:26:24,320
+this organoid model but I'll show you
+
+567
+00:26:22,559 --> 00:26:27,600
+some of the activity measurements and
+
+568
+00:26:24,320 --> 00:26:29,600
+and how they um how they relate to gene
+
+569
+00:26:27,600 --> 00:26:31,200
+therapy development.
+
+570
+00:26:29,600 --> 00:26:34,960
+So,
+
+571
+00:26:31,200 --> 00:26:36,559
+this is uh a a a blowup of a single
+
+572
+00:26:34,960 --> 00:26:39,600
+organoid,
+
+573
+00:26:36,559 --> 00:26:43,919
+again, probably about half the size of a
+
+574
+00:26:39,600 --> 00:26:46,880
+pee at about four months old. And this
+
+575
+00:26:43,919 --> 00:26:48,400
+is one of Lucas's organoids. And I'm
+
+576
+00:26:46,880 --> 00:26:51,600
+going to play this movie and I want you
+
+577
+00:26:48,400 --> 00:26:54,320
+to appreciate the activity within the
+
+578
+00:26:51,600 --> 00:26:56,799
+organoid. So, you're going to see a big
+
+579
+00:26:54,320 --> 00:27:00,159
+bright flash, which is a synchronized
+
+580
+00:26:56,799 --> 00:27:03,120
+activity. Um, synchronous oscillations
+
+581
+00:27:00,159 --> 00:27:05,919
+are um, common in these closed loop
+
+582
+00:27:03,120 --> 00:27:07,919
+systems like an organoid. And you'll see
+
+583
+00:27:05,919 --> 00:27:10,480
+a big bright flash and then you'll see
+
+584
+00:27:07,919 --> 00:27:13,279
+some little blips in these highlighted
+
+585
+00:27:10,480 --> 00:27:15,360
+circles. You'll see big bright flashes
+
+586
+00:27:13,279 --> 00:27:18,400
+periodically. And that's these these
+
+587
+00:27:15,360 --> 00:27:21,440
+synchronous oscillations.
+
+588
+00:27:18,400 --> 00:27:25,279
+So big bright flash, a little blip, and
+
+589
+00:27:21,440 --> 00:27:28,799
+then you'll see another blip right here.
+
+590
+00:27:25,279 --> 00:27:30,640
+and then more of these synchronous
+
+591
+00:27:28,799 --> 00:27:34,080
+oscillations.
+
+592
+00:27:30,640 --> 00:27:36,000
+So, we can actually measure this and
+
+593
+00:27:34,080 --> 00:27:39,200
+start to quantify this and we could see
+
+594
+00:27:36,000 --> 00:27:41,679
+activity pattern differences between
+
+595
+00:27:39,200 --> 00:27:44,799
+Lucas' organoids and the control
+
+596
+00:27:41,679 --> 00:27:47,840
+organoids. For instance, you can already
+
+597
+00:27:44,799 --> 00:27:52,240
+tell that these
+
+598
+00:27:47,840 --> 00:27:56,720
+these bursts in Lucas's organoids are
+
+599
+00:27:52,240 --> 00:27:59,760
+wider and they have more more um spikes
+
+600
+00:27:56,720 --> 00:28:02,240
+within the organ within the within the
+
+601
+00:27:59,760 --> 00:28:04,880
+burst compared to the control. And as
+
+602
+00:28:02,240 --> 00:28:07,679
+well as these these bursts
+
+603
+00:28:04,880 --> 00:28:09,600
+are timed differently. There's more
+
+604
+00:28:07,679 --> 00:28:11,120
+space in between them. They're they're
+
+605
+00:28:09,600 --> 00:28:13,360
+longer. The bursts are longer. there's
+
+606
+00:28:11,120 --> 00:28:16,880
+more sp time in between them. So these
+
+607
+00:28:13,360 --> 00:28:21,679
+are all characteristics that we can use
+
+608
+00:28:16,880 --> 00:28:26,559
+to try to modulate with gene therapies.
+
+609
+00:28:21,679 --> 00:28:30,320
+So I'm very interested in therapies that
+
+610
+00:28:26,559 --> 00:28:31,840
+modulate how genes are expressed whether
+
+611
+00:28:30,320 --> 00:28:33,520
+they be uh anti-sense
+
+612
+00:28:31,840 --> 00:28:36,640
+oligoucleucleotides
+
+613
+00:28:33,520 --> 00:28:39,039
+or using an adaptation of genetic
+
+614
+00:28:36,640 --> 00:28:43,039
+engineering crisper cast 9 system called
+
+615
+00:28:39,039 --> 00:28:45,840
+crisper A. So this is a cast 9 protein
+
+616
+00:28:43,039 --> 00:28:48,559
+that should be able to cut DNA for the
+
+617
+00:28:45,840 --> 00:28:53,039
+editing uh purposes that I talked about
+
+618
+00:28:48,559 --> 00:28:55,440
+earlier, but the the act the um active
+
+619
+00:28:53,039 --> 00:28:58,960
+site of the protein has been mutated. So
+
+620
+00:28:55,440 --> 00:29:02,480
+it can't cut DNA. But you can still hone
+
+621
+00:28:58,960 --> 00:29:05,919
+this protein to anywhere in the genome
+
+622
+00:29:02,480 --> 00:29:09,440
+because it binds these little pieces of
+
+623
+00:29:05,919 --> 00:29:11,679
+RNA that are complmentary to different
+
+624
+00:29:09,440 --> 00:29:14,399
+places in the genome. So if you can find
+
+625
+00:29:11,679 --> 00:29:17,679
+these little RNAs for instance in the
+
+626
+00:29:14,399 --> 00:29:20,399
+STX BP1 gene regulatory elements like
+
+627
+00:29:17,679 --> 00:29:24,320
+the gene promoter, you can hone this
+
+628
+00:29:20,399 --> 00:29:26,080
+cast 9 protein to that region. Cast 9
+
+629
+00:29:24,320 --> 00:29:29,520
+itself isn't going to do anything. So
+
+630
+00:29:26,080 --> 00:29:32,880
+you need to add uh what's called a
+
+631
+00:29:29,520 --> 00:29:35,200
+transcriptional activation domain. This
+
+632
+00:29:32,880 --> 00:29:38,159
+brings in the machinery that helps
+
+633
+00:29:35,200 --> 00:29:40,640
+upregulate gene transcription from that
+
+634
+00:29:38,159 --> 00:29:43,440
+promoter. So using this crisper
+
+635
+00:29:40,640 --> 00:29:46,000
+activation technology,
+
+636
+00:29:43,440 --> 00:29:49,600
+we can upregulate or should be able to
+
+637
+00:29:46,000 --> 00:29:52,399
+upregulate STX BP1 mRNA that's then
+
+638
+00:29:49,600 --> 00:29:55,200
+translated into protein correcting HLO
+
+639
+00:29:52,399 --> 00:29:56,720
+insufficiency.
+
+640
+00:29:55,200 --> 00:29:59,039
+And
+
+641
+00:29:56,720 --> 00:30:03,120
+we first screened a number of these
+
+642
+00:29:59,039 --> 00:30:05,679
+different guide RNAs in the shitty cell
+
+643
+00:30:03,120 --> 00:30:08,320
+lines that I told you about earlier, HEC
+
+644
+00:30:05,679 --> 00:30:10,559
+293T and the neuroblastoma cell line
+
+645
+00:30:08,320 --> 00:30:12,080
+because they're easy, they're quick. Uh
+
+646
+00:30:10,559 --> 00:30:15,200
+you you can get a lot of information
+
+647
+00:30:12,080 --> 00:30:17,440
+quickly and we we found that to our
+
+648
+00:30:15,200 --> 00:30:20,240
+surprise almost all of our guide RNAs
+
+649
+00:30:17,440 --> 00:30:22,640
+were very effective at upregulating STX
+
+650
+00:30:20,240 --> 00:30:28,000
+BP1 expression.
+
+651
+00:30:22,640 --> 00:30:30,559
+So we took uh our crisper cast 9
+
+652
+00:30:28,000 --> 00:30:35,440
+uh crisper a
+
+653
+00:30:30,559 --> 00:30:38,640
+AAV virus and we transduced
+
+654
+00:30:35,440 --> 00:30:41,440
+organoids at about about 3mon-old
+
+655
+00:30:38,640 --> 00:30:45,919
+organoids with this virus that should be
+
+656
+00:30:41,440 --> 00:30:50,399
+able to correct HLO insufficiency.
+
+657
+00:30:45,919 --> 00:30:53,200
+And after about 2 weeks, 2 to 3 weeks,
+
+658
+00:30:50,399 --> 00:30:56,080
+we harvested RNA and DNA and tested
+
+659
+00:30:53,200 --> 00:30:58,399
+whether or not the STX BP1 protein and
+
+660
+00:30:56,080 --> 00:31:01,919
+RNA levels were corrected. And indeed,
+
+661
+00:30:58,399 --> 00:31:04,720
+they were. So in Lucas' organoids, we've
+
+662
+00:31:01,919 --> 00:31:09,520
+essentially reestablished the the normal
+
+663
+00:31:04,720 --> 00:31:13,360
+level of STX BP-1 expression.
+
+664
+00:31:09,520 --> 00:31:15,840
+What does that do to the physiological
+
+665
+00:31:13,360 --> 00:31:18,159
+defects that we identified in the in the
+
+666
+00:31:15,840 --> 00:31:20,799
+organoid, you know, the flashing movies?
+
+667
+00:31:18,159 --> 00:31:22,799
+Well, some of these those little blips
+
+668
+00:31:20,799 --> 00:31:25,520
+that you that I called your attention
+
+669
+00:31:22,799 --> 00:31:28,320
+to, those low amplitude events we think
+
+670
+00:31:25,520 --> 00:31:31,279
+are microcircuit defects potentially in
+
+671
+00:31:28,320 --> 00:31:34,320
+um related to uh epilepsy phenotypes.
+
+672
+00:31:31,279 --> 00:31:37,120
+And we showed that the crisper A virus
+
+673
+00:31:34,320 --> 00:31:40,159
+could actually reduce the incidence of
+
+674
+00:31:37,120 --> 00:31:42,880
+those low amplitude events thereby
+
+675
+00:31:40,159 --> 00:31:44,640
+potentially correcting that defect in
+
+676
+00:31:42,880 --> 00:31:47,919
+the organoids.
+
+677
+00:31:44,640 --> 00:31:51,440
+Moreover, if you look at a a number of
+
+678
+00:31:47,919 --> 00:31:54,080
+different cells on the Y ais, in this
+
+679
+00:31:51,440 --> 00:31:57,279
+case, hundreds of cells, and then over
+
+680
+00:31:54,080 --> 00:31:59,200
+time, what you can get is a picture of
+
+681
+00:31:57,279 --> 00:32:02,720
+activity
+
+682
+00:31:59,200 --> 00:32:04,720
+um in the organoid. And so those bursts
+
+683
+00:32:02,720 --> 00:32:07,440
+that I showed you earlier in the in the
+
+684
+00:32:04,720 --> 00:32:11,200
+colorful diagrams can be depicted by
+
+685
+00:32:07,440 --> 00:32:12,960
+these by these lines that go um up and
+
+686
+00:32:11,200 --> 00:32:15,039
+down on this what's called a raster
+
+687
+00:32:12,960 --> 00:32:18,080
+plot. So you can see in the control you
+
+688
+00:32:15,039 --> 00:32:19,679
+have very thin bursts in the whole
+
+689
+00:32:18,080 --> 00:32:23,760
+organoid. These are the synchronized
+
+690
+00:32:19,679 --> 00:32:26,320
+oscillations and and in the in Lucas's
+
+691
+00:32:23,760 --> 00:32:28,720
+organoids again the bursts are wider the
+
+692
+00:32:26,320 --> 00:32:30,399
+the dark lines are thicker and there's a
+
+693
+00:32:28,720 --> 00:32:33,760
+different spacing. They're in general
+
+694
+00:32:30,399 --> 00:32:36,480
+further apart. If we apply the crisper a
+
+695
+00:32:33,760 --> 00:32:39,760
+virus we can start to correct that. the
+
+696
+00:32:36,480 --> 00:32:42,159
+bursts shorten, the interbururst or the
+
+697
+00:32:39,760 --> 00:32:44,799
+time in between bursts begins to
+
+698
+00:32:42,159 --> 00:32:47,200
+shorten, indicating that we're starting
+
+699
+00:32:44,799 --> 00:32:49,840
+to have positive effects on the
+
+700
+00:32:47,200 --> 00:32:53,200
+neurohysiology of these organoids with a
+
+701
+00:32:49,840 --> 00:32:57,679
+geneargeted therapy. And so this is one
+
+702
+00:32:53,200 --> 00:33:00,960
+very powerful uh application of in vitro
+
+703
+00:32:57,679 --> 00:33:05,120
+models for developing and testing gene
+
+704
+00:33:00,960 --> 00:33:07,919
+targeted therapies in a disease relevant
+
+705
+00:33:05,120 --> 00:33:09,679
+clinically relevant model
+
+706
+00:33:07,919 --> 00:33:15,120
+and
+
+707
+00:33:09,679 --> 00:33:17,760
+fast leaves no stone unturned. They've
+
+708
+00:33:15,120 --> 00:33:21,039
+funded work that is involved in using
+
+709
+00:33:17,760 --> 00:33:25,679
+the crispercast 9 gene editing function
+
+710
+00:33:21,039 --> 00:33:29,559
+to essentially just chew up the UBA
+
+711
+00:33:25,679 --> 00:33:29,559
+anti-sense transcript.
+
+712
+00:33:30,080 --> 00:33:35,519
+There's another group that used a very
+
+713
+00:33:32,559 --> 00:33:38,480
+clever method to actually
+
+714
+00:33:35,519 --> 00:33:42,480
+um
+
+715
+00:33:38,480 --> 00:33:45,679
+turn off the anti-sense transcript by
+
+716
+00:33:42,480 --> 00:33:49,679
+methylating the region by by using
+
+717
+00:33:45,679 --> 00:33:52,480
+epigenetic modifiers that will methylate
+
+718
+00:33:49,679 --> 00:33:54,640
+a certain region that turns off the
+
+719
+00:33:52,480 --> 00:33:58,880
+anti-sense transcript thereby
+
+720
+00:33:54,640 --> 00:34:01,919
+upregulating the paternal UB3A. a
+
+721
+00:33:58,880 --> 00:34:06,159
+transcript. And then I think just last
+
+722
+00:34:01,919 --> 00:34:09,119
+year um FAST has also um doubled down on
+
+723
+00:34:06,159 --> 00:34:12,960
+a on a crisper activation technology
+
+724
+00:34:09,119 --> 00:34:14,560
+similar to what I what I described to um
+
+725
+00:34:12,960 --> 00:34:17,440
+hopefully
+
+726
+00:34:14,560 --> 00:34:19,839
+meet uh a therapeutic potential for for
+
+727
+00:34:17,440 --> 00:34:21,760
+the deletion genotype.
+
+728
+00:34:19,839 --> 00:34:23,919
+With that,
+
+729
+00:34:21,760 --> 00:34:27,839
+I'll stop. Thank some colleagues from
+
+730
+00:34:23,919 --> 00:34:35,159
+Colombia and the end team at Penn and
+
+731
+00:34:27,839 --> 00:34:35,159
+Chop. And I'm only slightly past time.
+
+732
+00:34:36,399 --> 00:34:39,119
+>> Thank you so much.
+
+733
+00:34:37,919 --> 00:34:41,520
+>> Okay.
+
+734
+00:34:39,119 --> 00:34:44,240
+>> Thank you so much.
+
+735
+00:34:41,520 --> 00:34:46,960
+So, as you can see, that's really
+
+736
+00:34:44,240 --> 00:34:49,839
+complicated and it's hard to make that
+
+737
+00:34:46,960 --> 00:34:51,679
+simple because it's not. But what I want
+
+738
+00:34:49,839 --> 00:34:54,639
+you to realize is that when everyone's
+
+739
+00:34:51,679 --> 00:34:56,399
+like, "Why is this taking so long, you
+
+740
+00:34:54,639 --> 00:34:59,359
+need to do all of that, which can take
+
+741
+00:34:56,399 --> 00:35:01,520
+years before you can ever even put it
+
+742
+00:34:59,359 --> 00:35:03,680
+into an animal to test if it has the
+
+743
+00:35:01,520 --> 00:35:07,200
+potential and the possibility of even
+
+744
+00:35:03,680 --> 00:35:09,680
+working. So our next talk is to talk to
+
+745
+00:35:07,200 --> 00:35:12,480
+us about putting it into an animal to
+
+746
+00:35:09,680 --> 00:35:14,800
+show us the possibility of how it might
+
+747
+00:35:12,480 --> 00:35:17,200
+work, which gets a little bit more
+
+748
+00:35:14,800 --> 00:35:18,720
+simple as we go closer and closer to
+
+749
+00:35:17,200 --> 00:35:20,560
+humans." So I know that was a lot. I
+
+750
+00:35:18,720 --> 00:35:22,960
+know that was complicated, but you can
+
+751
+00:35:20,560 --> 00:35:25,040
+see the elegance and the beauty of the
+
+752
+00:35:22,960 --> 00:35:27,440
+science and that's why things take a
+
+753
+00:35:25,040 --> 00:35:29,119
+long time and cost a lot of money. One
+
+754
+00:35:27,440 --> 00:35:33,119
+thing I just want to highlight is that I
+
+755
+00:35:29,119 --> 00:35:36,079
+was told the QR code for translations in
+
+756
+00:35:33,119 --> 00:35:38,079
+the brochure is not working. So, they're
+
+757
+00:35:36,079 --> 00:35:39,680
+putting a new QR code on every table.
+
+758
+00:35:38,079 --> 00:35:41,520
+So, if you need translations, just use
+
+759
+00:35:39,680 --> 00:35:42,800
+the new QR code to get your
+
+760
+00:35:41,520 --> 00:35:46,480
+translations. We want to make sure
+
+761
+00:35:42,800 --> 00:35:46,480
+everybody can hear and understand.
+

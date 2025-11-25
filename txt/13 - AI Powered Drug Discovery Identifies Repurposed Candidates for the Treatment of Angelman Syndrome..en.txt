@@ -1,0 +1,272 @@
+So our next speaker is Dr. Wayne
+Chadwick. He's coming to us from Helix
+and he's going to talk to us about the
+power of AI in drug discovery and how
+they found some repurposed candidates in
+order to think about how we can treat
+Angelman syndrome. So here we go.
+Perfect. Thank you.
+Right. Hi everyone. My disclaimer is I
+work for Helix and at Helix we do drug
+discovery a little bit differently. We
+use artificial intelligence and machine
+learning technology to predict which
+drugs could potentially treat a rare
+disease. And these are drugs which are
+already on the market. They're approved
+for different indications and we use our
+algorithms to determine which of these
+drugs we could reposition into a
+particular rare disease such as Angelin
+syndrome.
+We've got about a 50% hit rate with the
+drugs we predict for each of our
+particular rare diseases we work on and
+we've uncover typically between one to
+five uh novel mechanisms for each of the
+diseases including and syndrome.
+We we are a clinical stage biotech
+company. Um we focus on rare and
+pediatric oncology as well as uh rare
+neurology. And last time I spoke to you
+uh I gave you an update on uh our lead
+candidate for Angelman syndrome which is
+0553.
+This is an existing drug again which was
+approved for a separate indication which
+we were hoping to reposition into
+syndrome. It was really potent. It was
+really impressive. It it it improved
+multiple uh symptoms or phenotypes in
+the mouse model.
+The only problem was it was really
+designed for short-term use and it
+wasn't really designed for long-term
+chronic use. But we were confident that
+we could overcome that problem by
+reformulating the drug. And that means
+changing how the drug is absorbed by the
+body and distributed throughout the
+body. And we did this with our partners
+TRX Bioscience who had a lot of
+experience in reformulation.
+However, it became quite evident early
+on that the physical chemical properties
+basically the structure of 0553 was
+somewhat unique and it didn't allow to
+be reformulated correctly. Basically, it
+wasn't stable when we doed in the animal
+and because of this we sort of had to
+abandon it which was unfortunate but we
+were really confident in the mechanism
+which was driving or promoting or
+improving the symptoms in an mouse. So
+we thought we'll go back and look at
+other drugs which have the same
+mechanism to see if we could identify a
+drug which was as effective as 0553
+but maybe was able to be dosed over a
+long period of time or would allow us to
+reformulate it so that we could dose it
+for a long period of time. But we needed
+a way to compare these drugs with one
+another and for that we needed to set up
+an in vitro screen which we've heard
+about today. So for this we used
+angelman mouse neurons who have which
+have a unique morphology. They have very
+different uh type or or different
+structure particularly with their
+dendritic spines. Dendritic spines are
+basically just the tiny little bumps on
+the branches of neurons and they're very
+important for neurons to communicate
+with one another.
+Now these angan mouse neurons like the
+human neurons have fewer dendritic
+spines and the dendritic spines that
+they do have are mostly immature and
+there's very few mature dendritic spines
+and these factors means that the neurons
+are just unable to communicate as
+effectively as a healthy neuron would
+be. And we knew that 0553 pro from the
+previous work we had done was able to
+not only increase the dendritic spine
+numbers but also promote the matur
+maturation of these dendritic spines so
+that these neurons after treatment were
+indistinguishable from healthy neurons
+in terms of their morphology.
+So we identified 18 drugs which had uh
+the same or similar mechanism to 0553
+and we tested them in this uh in this
+assay and we identified 10 drugs which
+were highly potent or as potent as 0553
+and then we further sort of triaged
+these drugs. We looked at their chronic
+use potential, their distribution
+profile, you know, if they got into the
+brain at high enough concentrations and
+their reformulation and commercial
+potential. And we identified from this
+we've got we landed on three drugs which
+we wanted to investigate further. One
+was an active metabolite of a drug which
+is currently on the market. The other
+one was a shelved asset and that means
+that this particular drug had actually
+reached a phase three clinical trial for
+a separate indication but the company
+which was progressing it decided to
+abandon it for commercial reasons. But
+it was safe and it was actually useful
+and and can be used chronically so it
+doesn't need to be reformulated. So
+that's quite exciting for us because
+that means this drug can transition into
+and syndrome quite quickly.
+The other is another drug which is on
+the market already but it's only
+available through prescription.
+So this is a data of the dendritic
+spines. So I won't go into it but
+suffice to say that all three drugs
+improved the number of dendritic spines
+in the angel neurons and also promoted m
+maturation of these dendritic spines. Uh
+so that these neurons were basically
+indistinguishable
+in terms of their morphology from uh
+healthy neurons and that means that
+these neurons could effectively
+communicate better. But next we wanted
+to see how these drugs actually fared in
+when we do it in an angelin mouse. So we
+did this. We uh dosed the the drugs for
+around two weeks prior to putting them
+through a battery or behavior tests. We
+looked at motor deficits. So we put them
+in an open field and assessed their
+mobility. We assessed how many marbles
+they could bury. We also looked at their
+grip strength, fallen grip strength. We
+assessed motor control. And we looked at
+their balance and coordination on a
+rotor rod. So seeing how long an animal
+can stay on an accelerating rod and this
+apparatus also allows us to measure
+motor learning. And then we also
+measured their cognition
+using the object recognition test. So
+seeing how the animals are able to
+differentiate between two objects.
+So this is the data. So let me just
+orientate you to these graphs. The white
+bar are the healthy mice and that's what
+we're trying to achieve with the drug
+treatment. The gray bar is the angelman
+untreated animals and kind of want to
+move away from that that level as as
+much as possible with treatment. So if
+we just look at the distance moved in
+the open field, we see that helix B and
+Helix C treatment drugs increase the
+mobility of the animals in almost
+comparable to what we see in the healthy
+animals. Surprisingly, Helix A was not
+as effective, but all three drugs were
+able to increase the ability of the
+animals to bury marbles significantly
+better than the the Angelin untreated
+group. And again, Helix B and C
+performed uh much better than Helix A.
+Surprisingly, none of the drugs improved
+the grip strength, but all three drugs
+were able to improve the motor control
+in the animals by looking at the
+clasping. And again, Helix B and C were
+much more superior improving the motor
+control comparable levels that we see uh
+with the healthy animals.
+Now, this is really impressive to me.
+This is the the rotor rod assay and in
+this graph the dotted line represents
+the angelman untreated group and then
+the the gray bar on top or the gray line
+on top indicates the healthy animals.
+And if we just focus on day one, uh we
+can see that all three drugs
+significantly improved the balance and
+coordination of the animals. So the
+animals were able to stay on the this
+accelerating rotor rod for a
+significantly longer period of time. But
+what's really impressive is again helix
+BNC groups, their balance and
+coordination is indistinguishable from
+from the healthy animals. And then if we
+look at each day of testing, so if we
+test the these animals on the rotor rod
+for days two to five, we see that the
+balance and coordination of these
+animals improves with each day of
+testing for helix B and C. And this is
+indicative of improved motor learning,
+which again is really really impressive.
+Uh helix A again was was less effective
+at this.
+And all three drugs were able to improve
+cognition. So all three uh drug
+treatments groups were able to to
+distinguish between uh two objects. Um
+so we've got an improvement in
+recognition memory here.
+So just to conclude um helix B and helix
+C helix B being the shelved asex helix C
+being the prescribed drug we're able to
+restore motor control coordination and
+memory in the mass back to levels that
+we see with the healthy animals. And
+this is really impressive. We've got two
+drugs which could potentially move into
+the clinic quite quickly here. Helix A
+was less effective and he improved a
+certain amount of phenotypes.
+Um, and just to reiterate, Helix B is
+suitable for chronic use. We don't have
+to mess around with reformulation for
+this. So again, they can move quite
+quickly into the clinic. Helix A and C
+does however require reformulation. But
+the good news is we've already started
+some of that reformulation work and the
+reformulation is stable and we've
+already seen improved amount of uh drug
+in the brains of mice with the
+reformulation and we're hoping that that
+equates to improved e efficacy uh
+particularly for helix A.
+So just to say again that helix B and C
+look look promising and we're hoping to
+be some somewhere close to being in the
+clinic by sometime next year. Um but it
+all depends on uh licensing discussions
+with the the holders of the um the shelf
+asset. So thank you.
+See, so I think if you didn't understand
+in vitro and in vivo, you would not have
+no clue what he just said. But because
+you listened so carefully this morning
+that was very clear that we have
+potentially some downstream targets that
+could affect because this is not
+replacing UV3A but that could have an
+impact on some of the symptoms of
+Angelman syndrome. So that's exciting
+very promising and when it's a
+repurposed drug it may have already been
+through some of the safety assessments
+that allow you to get from mouse to
+human a bit faster. That's also very
+exciting.

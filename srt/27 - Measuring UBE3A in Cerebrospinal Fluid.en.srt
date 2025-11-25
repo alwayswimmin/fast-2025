@@ -1,0 +1,520 @@
+1
+00:00:00,160 --> 00:00:05,440
+So now we are going to move to Dr. Morty
+
+2
+00:00:03,200 --> 00:00:08,000
+Razavi who's going to be presenting on a
+
+3
+00:00:05,440 --> 00:00:10,240
+UB3A assay, a biioarker as we talked
+
+4
+00:00:08,000 --> 00:00:12,240
+about earlier, um a potential biomarker
+
+5
+00:00:10,240 --> 00:00:16,519
+that we're looking at to measure UB3A
+
+6
+00:00:12,240 --> 00:00:16,519
+levels in the CSF. Morty,
+
+7
+00:00:22,880 --> 00:00:28,480
+>> thank you. It's good to be here with you
+
+8
+00:00:24,640 --> 00:00:32,320
+guys today. Um over the past 20 years
+
+9
+00:00:28,480 --> 00:00:35,360
+I've worked on maybe two 300 protein
+
+10
+00:00:32,320 --> 00:00:37,280
+biomarkers and I've only made emotional
+
+11
+00:00:35,360 --> 00:00:39,280
+connection to a handful of them and
+
+12
+00:00:37,280 --> 00:00:42,719
+UB31A1
+
+13
+00:00:39,280 --> 00:00:45,120
+uh is one of them. Um this is such a
+
+14
+00:00:42,719 --> 00:00:46,960
+master protein when you think about it
+
+15
+00:00:45,120 --> 00:00:49,280
+uh in our neurons for the function of
+
+16
+00:00:46,960 --> 00:00:51,120
+the brain for proper function of the
+
+17
+00:00:49,280 --> 00:00:53,440
+cells and this is what you've been
+
+18
+00:00:51,120 --> 00:00:55,520
+hearing all day that people are focusing
+
+19
+00:00:53,440 --> 00:00:58,079
+on developing therapeutics that can
+
+20
+00:00:55,520 --> 00:01:00,800
+replenish uh the neurons in Angelman
+
+21
+00:00:58,079 --> 00:01:02,960
+syndrome uh with this one protein and
+
+22
+00:01:00,800 --> 00:01:05,439
+that's why it's so important to me and
+
+23
+00:01:02,960 --> 00:01:06,799
+and our team regardless of the approach
+
+24
+00:01:05,439 --> 00:01:09,119
+that you're going to take for the
+
+25
+00:01:06,799 --> 00:01:11,920
+therapeutic the fundamental question
+
+26
+00:01:09,119 --> 00:01:13,439
+remains are you actually introducing
+
+27
+00:01:11,920 --> 00:01:15,360
+UB3A
+
+28
+00:01:13,439 --> 00:01:18,080
+uh in the neurons and what are the
+
+29
+00:01:15,360 --> 00:01:20,240
+levels of this protein uh and are they
+
+30
+00:01:18,080 --> 00:01:23,600
+able to be sustained over a long period
+
+31
+00:01:20,240 --> 00:01:25,600
+of time. So some of the reasons why you
+
+32
+00:01:23,600 --> 00:01:27,439
+would want to measure this protein in
+
+33
+00:01:25,600 --> 00:01:29,600
+the context of the therapeutics first
+
+34
+00:01:27,439 --> 00:01:31,680
+and foremost are you delivering the
+
+35
+00:01:29,600 --> 00:01:34,799
+protein where it needs to be delivered
+
+36
+00:01:31,680 --> 00:01:37,119
+to the neurons. Secondly, how much of it
+
+37
+00:01:34,799 --> 00:01:40,000
+is there after you do your gene therapy
+
+38
+00:01:37,119 --> 00:01:42,079
+or other forms of therapy? uh that's
+
+39
+00:01:40,000 --> 00:01:45,119
+crucial information that you need to
+
+40
+00:01:42,079 --> 00:01:47,040
+properly dose uh the therapeutic so that
+
+41
+00:01:45,119 --> 00:01:49,360
+the protein is is getting expressed at
+
+42
+00:01:47,040 --> 00:01:52,000
+the levels that it needs to be. And the
+
+43
+00:01:49,360 --> 00:01:54,320
+third thing is once you do both of those
+
+44
+00:01:52,000 --> 00:01:56,960
+things is a protein actually going to
+
+45
+00:01:54,320 --> 00:01:59,680
+stay there for a long enough period of
+
+46
+00:01:56,960 --> 00:02:03,280
+time and so longitudinal measurement of
+
+47
+00:01:59,680 --> 00:02:04,719
+this protein uh to make sure that uh the
+
+48
+00:02:03,280 --> 00:02:07,119
+results are sustained is going to be
+
+49
+00:02:04,719 --> 00:02:08,800
+important to all the all the therapies
+
+50
+00:02:07,119 --> 00:02:11,520
+out there.
+
+51
+00:02:08,800 --> 00:02:14,800
+So if you look at different ways that
+
+52
+00:02:11,520 --> 00:02:17,680
+people measure UB3A in different sample
+
+53
+00:02:14,800 --> 00:02:20,480
+types u you are looking at three
+
+54
+00:02:17,680 --> 00:02:22,239
+different uh assays. The first one is a
+
+55
+00:02:20,480 --> 00:02:24,400
+protein assay. There are different ways
+
+56
+00:02:22,239 --> 00:02:26,000
+of doing this. Uh but they're all
+
+57
+00:02:24,400 --> 00:02:28,160
+looking at the protein which is the
+
+58
+00:02:26,000 --> 00:02:30,000
+functional end here. That is the right
+
+59
+00:02:28,160 --> 00:02:32,720
+thing to do. That is the correct type of
+
+60
+00:02:30,000 --> 00:02:34,560
+biomarker to be looking at. The problem
+
+61
+00:02:32,720 --> 00:02:35,840
+that exists with these assays is
+
+62
+00:02:34,560 --> 00:02:38,000
+twofold.
+
+63
+00:02:35,840 --> 00:02:41,840
+um there are such low levels of this
+
+64
+00:02:38,000 --> 00:02:44,239
+protein in the neurons in in in CSF uh
+
+65
+00:02:41,840 --> 00:02:46,640
+that sometimes you're making a mistake.
+
+66
+00:02:44,239 --> 00:02:48,720
+Am I really measuring the correct thing?
+
+67
+00:02:46,640 --> 00:02:51,680
+And so the sensitivity of these assays
+
+68
+00:02:48,720 --> 00:02:54,800
+is usually where the challenge is. Uh a
+
+69
+00:02:51,680 --> 00:02:56,879
+different type of assay looks at the the
+
+70
+00:02:54,800 --> 00:02:59,519
+uh products of the genome. So you
+
+71
+00:02:56,879 --> 00:03:01,519
+measure the RNA, but the challenge there
+
+72
+00:02:59,519 --> 00:03:04,080
+is that you can make good measurements
+
+73
+00:03:01,519 --> 00:03:06,080
+of of these RNAs, but that doesn't
+
+74
+00:03:04,080 --> 00:03:08,560
+guarantee that the protein is actually
+
+75
+00:03:06,080 --> 00:03:10,319
+there. And so you want to go the next
+
+76
+00:03:08,560 --> 00:03:12,480
+level up and look at the protein as a
+
+77
+00:03:10,319 --> 00:03:14,720
+biomarker. And there are assays out
+
+78
+00:03:12,480 --> 00:03:18,000
+there that look at the tissue. You can
+
+79
+00:03:14,720 --> 00:03:20,000
+actually visualize where the protein is.
+
+80
+00:03:18,000 --> 00:03:22,319
+uh those are powerful assays, but
+
+81
+00:03:20,000 --> 00:03:24,720
+tissue, brain tissue is not the kind of
+
+82
+00:03:22,319 --> 00:03:27,120
+sample that you want to be working with
+
+83
+00:03:24,720 --> 00:03:29,360
+if you're running clinical trials. You
+
+84
+00:03:27,120 --> 00:03:32,959
+ideally want to have an assay that works
+
+85
+00:03:29,360 --> 00:03:35,760
+in in a surrogate matrix like the CSF.
+
+86
+00:03:32,959 --> 00:03:37,519
+uh and that's why um thanks to your
+
+87
+00:03:35,760 --> 00:03:39,920
+donations and under leadership of
+
+88
+00:03:37,519 --> 00:03:42,239
+Allison and Jennifer uh we started
+
+89
+00:03:39,920 --> 00:03:43,920
+developing a gold standard assay that is
+
+90
+00:03:42,239 --> 00:03:48,799
+sensitive enough to be able to
+
+91
+00:03:43,920 --> 00:03:51,040
+quantitate CS uh UB3A in CSF of Angelman
+
+92
+00:03:48,799 --> 00:03:54,400
+syndrome patients especially in support
+
+93
+00:03:51,040 --> 00:03:57,040
+of all the ongoing clinical trials.
+
+94
+00:03:54,400 --> 00:03:58,799
+So that work started about 18 months ago
+
+95
+00:03:57,040 --> 00:04:01,280
+and we've successfully developed this
+
+96
+00:03:58,799 --> 00:04:03,519
+gold standard assay. You're seeing some
+
+97
+00:04:01,280 --> 00:04:06,159
+measurements that we've made in actual
+
+98
+00:04:03,519 --> 00:04:08,080
+Angelman syndrome CSF samples that we
+
+99
+00:04:06,159 --> 00:04:10,159
+have received and we've determined the
+
+100
+00:04:08,080 --> 00:04:13,280
+levels in these samples to be on the
+
+101
+00:04:10,159 --> 00:04:15,599
+level of phentogram grams per mill.
+
+102
+00:04:13,280 --> 00:04:18,400
+The way to translate that to a lay
+
+103
+00:04:15,599 --> 00:04:20,959
+audience is that that's reminiscent of
+
+104
+00:04:18,400 --> 00:04:23,840
+looking at a bee on a flower on a lily
+
+105
+00:04:20,959 --> 00:04:26,320
+pad in a pond all the way from the space
+
+106
+00:04:23,840 --> 00:04:28,639
+station and you're doing that with your
+
+107
+00:04:26,320 --> 00:04:30,080
+naked eyes. So that's the level of
+
+108
+00:04:28,639 --> 00:04:32,400
+sensitivity we've been able to
+
+109
+00:04:30,080 --> 00:04:34,400
+accomplish with this assay. The next
+
+110
+00:04:32,400 --> 00:04:36,560
+levels are now that this tool is
+
+111
+00:04:34,400 --> 00:04:38,160
+available to the community, we're going
+
+112
+00:04:36,560 --> 00:04:41,199
+to start answering some important
+
+113
+00:04:38,160 --> 00:04:44,400
+biological questions. For example, is
+
+114
+00:04:41,199 --> 00:04:46,560
+UB3A neuronal or not? So we're working
+
+115
+00:04:44,400 --> 00:04:48,880
+with the community to get proper sample
+
+116
+00:04:46,560 --> 00:04:50,880
+types including age match neurotypical
+
+117
+00:04:48,880 --> 00:04:53,520
+samples to answer these kinds of
+
+118
+00:04:50,880 --> 00:04:55,360
+biological questions. And the second
+
+119
+00:04:53,520 --> 00:04:56,960
+thing we're doing as a company, we're
+
+120
+00:04:55,360 --> 00:04:59,120
+making sure that this assay is
+
+121
+00:04:56,960 --> 00:05:01,680
+commercially available to anybody who's
+
+122
+00:04:59,120 --> 00:05:05,040
+developing therapeutics. Any researcher
+
+123
+00:05:01,680 --> 00:05:07,600
+out there who is developing uh
+
+124
+00:05:05,040 --> 00:05:10,160
+methodologies for curing this disease,
+
+125
+00:05:07,600 --> 00:05:13,759
+if they need to measure UB3A, this assay
+
+126
+00:05:10,160 --> 00:05:17,120
+is available to them. On that note, u
+
+127
+00:05:13,759 --> 00:05:19,680
+huge thanks to fast to Allison and
+
+128
+00:05:17,120 --> 00:05:21,600
+Jennifer for uh bringing this really
+
+129
+00:05:19,680 --> 00:05:25,600
+interesting project to us and thank you
+
+130
+00:05:21,600 --> 00:05:25,600
+all uh for your support.
+

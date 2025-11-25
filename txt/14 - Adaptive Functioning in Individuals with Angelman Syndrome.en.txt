@@ -1,0 +1,320 @@
+So now we're going to shift gears
+totally um for the rest of the session
+to human application and really talk a
+bit about endpoints meaningfulness and
+how we think about the assessments that
+we're doing on our kids and how to best
+understand them, support them and be
+able to interpret them. So our next
+speaker is Dr. Sarah Nelson Potter and
+she's going to be speaking about
+adaptive functioning in individuals with
+Angelman Syndrome. And one thing I'm I I
+would be remiss not to mention is that
+you may have just received 250 emails
+from fast and if you did that was um
+likely because of the government
+shutdown. So we can blame the government
+shutdown for that. Um but no apparently
+something happened with Cvent and a
+bunch of emails warning you about the
+flights went out to the entire listerve
+and um ultimately there may be a lot of
+emails coming your way. So you're going
+to hear from us a lot in the next five
+minutes and for that we apologize. Um,
+so Sarah Potter, please come in for
+that.
+>> Thanks, Alison, for the introduction.
+Um, I'm really super happy to be here
+today to tell you about some of our
+recent work in uh aimed at better
+understanding adaptive functioning in
+individuals living with Angelman
+syndrome. And so adaptive behavior
+refers to the everyday skills that we
+all need to live independently. This
+includes how we communicate with others,
+how we take care of our own personal
+needs. Things like eating, toileting,
+hygiene,
+um how we do chores around the house,
+preparing food, managing our daily
+routines at school, at work, at home,
+and in the community, how we interact
+with others socially, motor skills, and
+so on. And we know that individuals
+living with Angelman syndrome experience
+significant deficits in adaptive
+behavior that significantly affect
+quality of life both for the affected
+individual and for their caregivers as
+you all know and this makes adaptive
+behavior a key target for uh change in
+therapeutic development in as
+so many of you have participated in a
+vin assessment before and the vin 3 is
+the current edition of the vin and it's
+considered is a gold standard caregiver
+reported measure of adaptive
+functioning. It measures adaptive
+functioning in four domains.
+Communication, daily living skills,
+socialization, and motor skills. Today
+we're going to talk a little bit about
+both receptive and expressive
+communication. Receptive receptive
+communication being how an individual
+understands language and expressive
+communication involving how an
+individual uses sounds, gestures, and
+words. Um, we're going to talk about
+daily living skills in the personal
+subdomain. So that includes toileting,
+hygiene, dressing, and eating. We'll
+talk a little bit about interpersonal
+relationships. So that's things like
+early social behavior, imitation,
+recognizing and expressing emotions, and
+we're going to talk about both gross and
+fine motor. So, we're going to talk
+about gross motor being how an
+individual uses their arms and legs for
+movement and coordination and fine motor
+being how an individual uses their hands
+and fingers to manipulate objects. And
+so, a few years ago, we had a study
+looking at adaptive skills of
+individuals with Angelman syndrome using
+the Vinand 2, but some significant
+improvements were made between these two
+versions of the Violin. So the violin 3
+has more items that measure early skills
+which is really important for our
+population. It has different scoring
+criteria and most importantly it
+accounts for AAC use in the expressive
+communication subdomain. So you know how
+important that is. So the aims of this
+study are to describe how adaptive
+functioning changes over time in
+individuals with Angelmen syndrome and
+to examine whether changes in adaptive
+skills over time differ by molecular
+subtype. All right. So we had 331
+individuals in this study. Uh little
+less than twothirds had a deletion
+subtype and it was relatively evenly
+split between males and females. age at
+the first visit was um a little bit over
+11 years on average. Um you can see it
+ranged from six months to over 50 years
+of age. Um which is really great. Um at
+the last visit the average age was
+around 12 and a half. Um and on average
+participants had two visits but this
+ranged from 1 to six. And so caregivers
+completed the comprehensive interview
+form of the violin 3 in the Angelman
+syndrome natural history study in
+Friious um in the brain development
+study in uh Mark Shen's lab or at the
+UNCC clinic and all of these data were
+contributed to the latter database and
+we access these data for this study. So
+to address these aims we used mixed
+effects models with restricted maximum
+likelihood estimation. This isn't um all
+that meaningful to many of you, but I'll
+explain a little bit why this is. So, we
+examine Vineland growth scale values,
+which I'm going to talk a little bit
+more about in a second, in relation to
+the natural log of age and molecular
+subtype. So, we use these models to
+account for repeated assessments from
+the same participants over time. And
+this log transformation of age helped us
+capture the faster gains that we saw
+early on and the slower rate of change
+that happens later, which you'll see in
+just a second. So, a little bit more
+about growth scale values. They provide
+us with an absolute measure of adaptive
+skill level and they're derived directly
+from raw scores. They're not ageormed.
+So, they allow us to track true within
+individual change over time even when
+standard scores are staying the same or
+they're at the floor of the assessment.
+And so, really, this just means that we
+can observe more subtle changes in
+development that's not often allowed
+with some of our standardized tests. And
+GSVs have equal interval scaling,
+meaning that a one unitit change has the
+same meaning across the entire scale.
+And this makes them very well suited for
+tracking growth over time within
+individuals. So let's get to our
+results. We are looking at these plots
+now. We've got receptive communication
+on the left and expressive communication
+on the right. On our x axis, we've got
+age in years ranging from zero to over
+50. And then our GSVs are on the Y ais.
+So our individuals with a deletion
+subtype are represented here in blue.
+Those with a UB3A mutation in green and
+those with UPD or an imprinting center
+defect are in red. And so for both of
+these subdomains, those with a non-deion
+had a higher level of skills compared to
+those with a deletion. In receptive
+communication, we saw that the rate of
+growth in receptive skills did not
+differ significantly between the subtype
+groups. So you can see that their
+trajectories are running parallel with
+each other. However, in the expressive
+uh subdomain, we saw that the rate of
+growth was steeper in those with a
+non-deion compared to those with a
+deletion. So those with the non-deion
+have a faster rate of growth early in
+development. You can see it's a little
+bit of a steeper trajectory.
+In terms of personal daily living
+skills, we see that again that those
+with a non-deion have higher level
+skills compared to those with a
+deletion. And here the rate of growth is
+actually steeper in the UB3A mutation
+group compared to the deletion group. So
+we see a faster rate of growth in those
+early years relative to those with the
+deletion.
+In terms of interpersonal relationships,
+we again see that uh that those with the
+non-deion had a higher level of skills
+compared to those with a deletion. Um
+but we like we saw with the receptive
+communication subdomain, the rate of
+growth did not differ significantly
+between the subtype groups. So again,
+they're sort of running parallel with
+each other.
+And for both gross gross and fine motor
+we see again that the non-deion groups
+demonstrated a higher level of skills
+compared to those with a deletion. And
+again the rate of growth is not
+significantly different between the
+groups. They're running in parallel with
+each other. So um we found that similar
+to previous research individuals with
+non-deion subtypes demonstrate a higher
+level of skills compared to those with
+deletion subtypes. There are some
+differences between subtypes in the rate
+of growth in various subdomains.
+And we see these faster gains early in
+development and slower change later on.
+So the most rapid progress is happening
+early in development and then gains
+become slower over time, but they are
+still happening. Individuals are still
+gaining skills and they're demonstrating
+growth in all adaptive domains. And this
+really justifies a need for continued
+services. So things like speech,
+occupational and physical therapies as
+well as academic academic modifications
+which can provide opportunities for
+sustained development.
+And so we're next going to look at how
+seizures affect the development of
+adaptive skills and we're going to
+examine whether other factors affect
+adaptive skills and growth. And so I
+just want to thank my colleagues at um
+RTI and at Boston Children's Hospital
+for helping to prepare this presentation
+for today. Mark Shen at UNCC for
+contributing data, the RO uh team at
+Friezia for contributing data and our
+Angelman syndrome natural history study
+sites. Uh thanks most of all to all of
+you families who participate in research
+and thanks for your attention.
+[Applause]
+Thanks Sarah for that. And I think it's
+important for families to understand
+that that's information we've known for
+a long time, but that's been based off
+of the Vinand 2 and the Vinand 3. The
+only reason that's important for you to
+know the difference is because in the
+current clinical trials where we're
+trying to compare to the natural history
+of the disease, we need to compare it to
+the Violin 3. So having this now data
+set is really important for sponsors as
+they're looking at the use of island 3
+in the clinical trials. One other thing
+I just want to highlight for families
+which I think is incredibly important
+and often in these research
+presentations um isn't really recognized
+is the fact that we're dissecting out in
+this enormous magnified way the
+difference between deletion and
+non-deion. And I guarantee you some of
+you are even dissecting out the
+difference between UPDICD and mutation
+and wondering why the mutation line is
+marginally above the UPD line. Um, but
+you need to mag out a moment and realize
+that they didn't show you actually how
+that compares to neurotypically
+developing peers that are age matched.
+And if you were to mag out, the
+difference between deletion and
+non-deion becomes much much smaller. The
+difference between UPD and ICD becomes
+practically non-existent. And the
+difference between Angelmen as a whole
+and neurotypical is tremendous. And so I
+think I have heard and as I I speak to
+sponsors or people getting into the
+field, I am often asked, well, it seems
+like nonddion are not nearly as severe
+as deletion. So maybe we need to focus
+on the deletion. But what people need to
+hear is that they're all really severe.
+It's just that when you blow it out and
+look at the details from a statistical
+perspective, they're they're marginally
+different. And so you can see those
+differences. But what I really try to
+explain to people is that regardless of
+their genotype, they're non-verbal.
+Regardless of their genotype, they will
+not live an independent life. They will
+have challenges with self-care and they
+will will have challenges with fine
+motor and gross motor skills. Yes,
+they're different. but they're still
+quite severe and I don't want to
+underestimate that and the severity of
+that and the implications that we all
+want more regardless of the genotype.
+So, it's important to just back it up
+for a moment and put into perspective
+for the industry partners in the room
+that are thinking about how they're
+going to design their trials because all
+of these kids compared to neurotypically
+developing peers are quite different in
+a very similar way. So I just want to
+make that very

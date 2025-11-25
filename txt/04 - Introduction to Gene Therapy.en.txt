@@ -1,0 +1,781 @@
+So now the next talk is going to be
+great because now that you understand
+what UB3A does, you can understand why
+we want to replace it. And we're gonna
+have a talk by um by our next speaker
+here. Hold on. I had a Oh, by Dr. Emma
+James. She's from Encoded Therapeutics.
+And she's not here representing Encoded.
+She's actually here because I heard her
+speak about gene therapy appearance at
+another conference that I was speaking
+at and she just broke it down in such a
+way that was so incredibly digestible
+that I felt it was really important that
+you all heard that because as you all
+know gene therapy is a reality for
+Angelmen syndrome today and we'll talk
+more about that later today as well as a
+ton about that tomorrow. Um but I want
+Emma to be able to explain to you what
+it means and how it works. So, Emma, if
+you wouldn't mind, please take it away.
+Make this very digestible.
+[Applause]
+>> Good morning, everyone. If any of you
+see me talking more than once, you'll
+see I always carry my uh bottle of water
+around because I get crazy dry mouth
+standing in front of you all. Um but
+anyway, I would uh firstly like to thank
+Allison and the meeting organizers um
+for inviting me here to present today.
+Uh my name is Emma James. I work for
+Encoded. Um Encoded is a gene therapy
+company developing um gene therapies for
+uh neurological disorders.
+Um
+my disclosures I would coded. So as
+you've already heard today, we've come a
+long way in medicine. You know, we've
+come from being able to develop
+antibiotics to developing vaccines that
+can save lives. And now we're really
+entering a new phase uh of medicine with
+treatment modalities that can go beyond
+managing the symptoms to addressing the
+whole range of um signs and symptoms uh
+of certain genetic diseases. And it's at
+its simplest the idea of gene therapy is
+that you take a cell with a
+non-functioning gene you add genetic
+material and that leads to the cell
+functioning normally.
+So I'm going to use an analogy here. So
+just like factories rely on detailed
+manuals to produce products, cells rely
+on DNA. And the DNA contains the
+instructions. Think of it like
+blueprints for building the tools our
+bodies need to function. So here we have
+the factory and the factory has manuals
+and the manual contains uh individual
+blueprints for individual products. A
+light bulb, a telephone, security
+camera.
+Our cells are the factories. Our genome
+which is made of DNA is the is the
+factory manual and the individual genes
+that comprise our our genome are the
+individual instructions for individual
+products which in the case of people are
+proteins.
+So the instructions inside this
+blueprint are really complex and so the
+factory has a process to simplify them.
+So the factory here it's a light bulb
+factory and it copies or transcribes
+the relevant sections
+into a clear stepby-step set of
+instructions. Think of it like an
+assembly guide and then the workers can
+take that assembly guide and turn that
+into the product. So in the factory it's
+a light bulb in the for people it's the
+protein.
+So our cells work in the same way. So
+first they transcribe the information in
+the DNA of our genes and then they turn
+that into a simpler form the assembly
+guide that's called messenger RNA.
+That messenger RNA is then this clear
+set of instructions that is then
+translated into a protein.
+So
+each cell contains lots and lots of sets
+of instructions,
+but it only chooses the sets of
+instructions from uh that that it needs
+based off the information it's getting
+from the environment. So each factory is
+responsible for specific products. So
+here our factory makes only light bulbs.
+It has all the blueprints for all the
+different products, but it switches off
+the blueprints for the telephone and the
+security camera, and it focuses on the
+blueprints for the light bulb.
+And our cells work in in much the same
+way. despite having this the range of um
+of all the different genes in nearly all
+the cells of the body,
+they choose based off the signals that
+they're getting which genes they're
+going to switch on. So in this way a
+brain cell will switch on the genes to
+enable it to produce say an iron channel
+or a neurotransmitter and it will switch
+off the uh the the controls to that
+would enable it to become a muscle cell
+say measin.
+Similarly, a muscle cell will switch on
+the genes to enable it to be a a myasy
+and it will switch off the genes that
+enable it to be to produce iron channels
+and neurotransmitters.
+And so this is the way that um the cells
+essentially are able to produce
+differential gene expression based off
+what that gene what that cell needs to
+be and what it needs to produce.
+So, how does a cell know um and control
+which which genes it needs to be
+producing?
+Well, each gene has special tags that
+mark qu clearly where the instructions
+begin. And these regulatory elements are
+essentially binding sites throughout the
+DNA that help regulate both where and
+when the the genes are expressed.
+So firstly you have something called a
+promoter which is a site in the DNA that
+regulates where the cell initiates
+transcription of a gene.
+And then near the promoters we have
+sites for things called transcription
+factors. And these uh transcription
+factors are DNA binding proteins that
+help the cell uh regulate when or how
+much of the gene is expressed. These
+transcription factors can be positive or
+they can or negative. So they can
+upregulate or downregulate. And they are
+cell specific again enabling a cell to
+deter to to control what kind of cell it
+wants to be.
+So the promoter and the transcription
+factors work um work together as a
+complex on off but button to regulate
+gene transcription um in in a very tight
+manner and they can be very very highly
+specific to a cell.
+So the regulation of the gene or the
+gene activity can happen both at the DNA
+level. So DNA being transcribed into
+messenger RNA which is that assembly
+guide or the regulation can happen at
+the translational level which is where
+where the messenger RNA is copied into a
+protein.
+So now we're going to talk a little bit
+about gene therapy.
+So, think of gene therapy as a delivery
+vehicle that goes into the factory with
+a new set of instructions to replace or
+change the blueprints that the factories
+using. So, gene therapy can be used to
+manipulate the gene expression and
+control the activity of the protein. It
+can work at the transcriptional level.
+So it can affect the DNA or it can work
+at the translational level u by
+affecting the messenger RNA. But the
+outcome is that you influence the
+protein that is ultimately produced.
+Gene therapy is an umbrella term for
+multiple ways to manipulate how cells
+work.
+Typically, when people think about gene
+therapy, they're thinking about when DNA
+is delivered to the cell via via a
+single administration therapy. Um, and
+and we this could be gene addition, it
+could be gene silencing, it could be
+gene editing. And I'll come back to that
+in in a few slides time.
+According to the American Society for
+Cell and Gene Therapy, which describes
+gene therapy as the use of genetic
+material or the delivery of genetic
+material to um to prevent or treat
+disease. RNA therapy would also uh fall
+under this category.
+RNA therapy uses shorter sequences of
+RNA to adjust how proteins are made. um
+but typically it's requires repeated
+dosing.
+Examples are anti-sensor loanucleotides,
+microRNAs, small interfering RNAs and
+vaccines.
+What's a little bit more complex in
+terms of how we need to think about it
+here is while um while you know these
+microRNAs
+here fall into RNA therapy there is
+there are now methods in development
+where uh gene therapy is used to deliver
+the DNA that that uh provides
+instructions for the body to make
+microRNAs and small and small
+interfering RNAs etc. So it's it it can
+be a little uh little difficult to to
+really understand.
+Um in terms of the difference uh if you
+think about uh spinal muscular atrophy
+there are there are drugs uh that have
+been approved. There's one called
+Zorgensma which is an AAV9based
+gene replacement therapy and that's
+that's really what people are thinking
+about uh when they think about gene
+therapy and that is administered once
+and then there is something called
+spinraza which is a chronically
+administered anti-ensor lianucleide and
+typically speaking that's not what
+people think about when they're talking
+about gene therapy.
+We also have a a third class here of
+gene modified cell therapies. And this
+is a little bit different in that cells
+are harvested, they're taken out of the
+body, they are modified outside of the
+body and then they're returned into the
+body. And examples of this are things
+like the karti amunotherapies that we
+hear about uh for cancers uh as well as
+things like lentivirus mediated gene
+therapies such as leneli for
+metacromatic lucadistrophe which is
+another approved product in the US.
+So the delivery truck that we use to put
+the gene therapy into humans is called a
+vector and vectors can be viral and they
+can be nonviral.
+Um nonviral vectors typically require
+repeated administrations and they there
+are things like um lipid nanop particles
+and different polymers. viral vectors
+are typically delivered as a one-time
+administration.
+Um, and they've evolved to be to be um
+probably the for the forefront of gene
+therapy because scientists have
+determined how to remove the the virus's
+own pathogenic
+uh DNA and replace it with the
+therapeutic DNA. We know that genes are
+naturally evolved to be good at getting
+into cells. So this has proven to be a
+very good way of delivering delivering
+gene therapy to the cells of interest
+using the virus's natural capability to
+infect cells.
+So gene therapy can be delivered
+directly to a person uh in vivo or
+xvivo. So xvivo is what I just described
+where the cells are taken out of the
+body. they are modified in a petri dish
+or a test tube and then those modified
+cells are put back into the into the um
+into the person. Invivo gene therapy is
+where the um the gene therapy is
+developed and then in and then put
+straight into the person. Um and the the
+the route that you you that you put in
+the invivo gene therapy kind of depend
+depends on the um on the the disease
+you're trying to treat. For CNS
+disorders, often you will want to use a
+local route of administration. So maybe
+directly into uh into the spine uh or or
+maybe via an intra cerebral ventricular
+injection strict into the the brain
+ventricles in the brain.
+Um but there are other novel capsids um
+sorry I'll come to capsids in a moment.
+There are novel um methods that enable
+potentially enable uh introvenous
+administration in development too.
+There's the dry mouth coming.
+So this cell here not this cell this
+slide here is a little bit old. Uh this
+data is from 2022.
+um but I think broadly speaking it's
+still um approximately correct still
+today. So the most common viral vector
+used is called an adeno associated
+virus. Um and in 2022 about 20 65% of uh
+clinical trials were using an AAV virus
+followed by AAV was a lentivirus and a
+lentivirus is typically administered
+through Xvivo approaches. After that is
+a denovo a deno virus and what I want to
+highlight here is a deno virus and adeno
+associated virus are completely
+different viruses. They are unrelated
+despite the name. Um adenoirus is a much
+bigger virus and so you can actually
+deliver much bigger genes but it's also
+typically uh more immunogenic which
+means it causes more of immune response
+which is why AEV has has evolved to be
+uh more popular and then uh the nonviral
+delivery methods so such as plasmids and
+nanoparticles are gaining in in
+popularity too. I would expect a higher
+proportion um of these to be used. Now,
+a number of gene therapies have been
+approved for use by the FDA. I'm not
+going to go through this. Seven of them
+are AAV based, but but there are also um
+lentiviral based and adenoviral based
+gene therapies too.
+So, what makes AAV appropriate for use
+as a vector in gene therapy? Well,
+importantly, even the wild type, which
+means the natural uh AAV, is not known
+to cause disease in humans. Um, and they
+don't really trigger much of an immune
+response, which means it's less likely
+to cause side effects.
+So
+what we do as I mentioned is we take the
+virus, we remove the original virus
+genes and then we replace them with new
+genetic material which is called the
+trans gene.
+The viral shell is called a capsid and
+there are different kinds of capsids uh
+that have a different tendency to go to
+different parts of the body. This capsid
+is called the serereotype.
+The serereotype Aav9
+has been has has been shown to cross the
+bloodb brain barrier. Um and so it has
+become one of the more popular um gene
+therapies used for CNS disorders, but
+there are others and there are also
+novel capsids that are in development
+too. One of the downsides of AAV is that
+they can only carry very small genes.
+It's a tiny virus. That means that some
+diseases caused by larger genes might
+not be treatable with conventional gene
+replacement therapy which is where you
+just give a replacement gene. Um
+which means that novel um no novel ways
+to modulate the disease may need to be
+um developed. So this is the case for
+Angelman syndrome with the EB UB3A gene
+which can't fit inside the uh the AEV
+capsid which means we have to have uh
+new new ways of addressing it.
+So the AEV is a tiny virus and it uh
+it's taken into the cell by a small
+bubble-like structure called an endoome.
+It travels through the cytoplasm to the
+nucleus of the cell which is the control
+center of the cell which is where all of
+all of our DNA normally lives.
+Now two different different gene
+therapies approach this differently. You
+can have some gene therapies that will
+for some viruses will insert
+uh insert the genetic material into the
+person's genome.
+The AAV
+forms delivers the genetic material and
+that genetic material forms this small
+circular st shape called an epiome and
+it lives outside of your own DNA. So it
+doesn't integrate into the the the
+person's DNA. There are pros and cons
+associated with both.
+In terms of the trans gene, the elements
+that we use resemble our our own
+endogenous DNA. So we have the promoter
+and that can be um natural or synthetic.
+It can be cell specific or it can be ubi
+ubiquitous so expressed everywhere. Then
+you have the therapeutic trans gene. And
+then you have regulatory elements that
+enable you to modulate up and down where
+and when the gene is expressed.
+So historically, most gene therapies
+have been used to deliver the the
+missing protein um that causes the
+disease. So that's called gene
+replacement therapy.
+But we can do much more than just
+replace proteins.
+So
+these are all again fairly broad
+categories. But we have we are have the
+ability now to add functional copies,
+regulate or silence gene to prevent
+disease.
+Um and really what what's the the the
+approach we use depends on the outcomes
+that you need and the fundamental basis
+of the disease which is why it's really
+important that we understand the
+underlying herpathology and the
+neurobiological processes of a disease.
+So gene replacement is where we give a
+gene and it um and it essentially
+produces a new protein.
+Gene regulation is where we deliver
+transcription factors that adjust gene
+activity by using these regulatory
+elements. So this is the approach taken
+uh by encoded for our program ETX 101
+for dy syndrome which is a haplo
+insufficiency meaning only one copy of
+the gene works. So we deliver
+transcription factors that bind to the
+functional copy and turn up that missing
+copy that that extra copy to produce
+more protein.
+Gene silencing essentially allows us to
+um to stop the stop the um translation
+of toxic proteins that cause harm.
+So with um with things like microRNAs,
+small interfering RNAs, short hairpin
+RNAs, essentially we um we deliver we
+deliver these
+RNAs that then bind to the messenger RNA
+and stop that messenger RNA being read
+and turned into protein. So, think of it
+back to the assembly guide uh which the
+workers need to be able to read and
+produce the the product and these gi
+these gene silencing technologies take a
+black pen and scribble all over the
+assembly guide so nobody can read it. Um
+so that so that there is no product
+produced.
+And then gene editing is a little bit
+different in that we use uh what we call
+molecular scissors to go and edit the
+person's DNA directly. So Michael talked
+this morning about crisper and that
+would be a gene editing technology.
+So essentially we have a range of
+different mechanisms that we can use
+based off the disease that let us target
+different conditions with customized
+designs.
+One of the important things about gene
+therapies is that
+once you give it, we hope that it lasts
+forever and you can't take it away. That
+means development of gene therapies is
+complex and it involves a lot of
+interdependent factors.
+So it's absolutely critical that we
+understand the disease biology so we can
+design tools that address the underlying
+cause of the disease.
+As we've already heard, animal models
+are really really important not only to
+test safety but also so that we can
+actually determine potentially
+therapeutic doses for human trials.
+again because because you we don't think
+we can give gene therapy again yet. It's
+I'll come to that in a moment. And um
+you can't take it away. You want all of
+the doses that you give in human trials
+to be potentially efficacious based off
+the work that you do in animal models.
+So that animal research is absolutely
+critical and has to be done very very
+thoughtfully before you start humans.
+We need a robust understanding of the
+natural history of the disease. Uh we
+need to again understand what are the
+signs and the symptoms that we are
+trying to address. Uh we need to be able
+to then you understand what is
+meaningful to the families and what do
+we think that we can um change over the
+time course of or time course of a
+clinical trial so that we can um
+so that we can select the right end
+points for the clinical trial.
+So the work that the angel community's
+already been doing in this regard to to
+to you know track and understand the
+natural history is incredibly helpful
+for people coming in to develop drugs.
+Clinical trials for gene therapies are
+complex. Um they
+they are long and they because we are
+trying to again address the range and
+signs and symptoms. It means that we're
+assessing a lot and families
+participating you are really taking
+taking a big step in participating it
+it's a huge ask
+typically speaking you know the the
+primary end point so the first time
+point at which you you assess is the
+drug working is usually over the course
+of about a year and then the FDA usually
+requires that we follow patients for
+five years and then maybe up to 15
+years. So again, participating is a huge
+commitment for families.
+Regulatory processes are a little bit
+different um to to traditional small
+molecules. Um I won't go into that here.
+Um and if you think about, you know, the
+difference between gene therapy trials
+versus say those four anti-seizure
+medications that are just looking at
+seizure reduction um and they're just
+over, you know, three or four months. Um
+it's really important to have patient
+involvement in selecting the meaningful
+end point and what an appropriate risk
+benefit the the patient community is
+willing to willing to tolerate. So it's
+really important to get your feedback
+when we're designing these trials.
+And then given the single um the single
+administration
+uh aspect of gene therapy,
+our reimbursement systems really aren't
+set up to allow that. Um insurance
+doesn't really know how to do that. So
+we really do need to be working with
+payers to evolve the commercial
+paradigms so that we can make sure that
+that patients are able to access these
+therapies once they have regulatory
+approval. That's a whole whole different
+topic and I I won't go into that here.
+Another thing just to be aware of and is
+that we still don't really know the
+optimal time for treatment in CNS
+disorders. There is some evidence that
+earlier treatment may lead to better
+outcomes. It's going to be different on
+for different disorders and a lot more
+research is needed. But if you look at
+the figure here, um, do I have No, I
+can't do that. Uh, how do I go back?
+Okay. If you look at the figure here on
+there's a dotted line on the left just
+coming up just under the word cognitive
+that shows essentially neurotypical
+development.
+So unaffected children in a disorder
+called Sanfalippo syndrome.
+There is a red line there uh which shows
+the natural history of children who did
+not receive a treatment. And what this
+figure really shows is that um there is
+a child who was treated at about one
+year of age and after two and a half
+years of treatment that child is still
+on the neurotypical trajectory.
+Children treated around two years of age
+are tracking also in that neurotypical
+range. And then children who are treated
+older than that don't have the same
+outcomes.
+Now, we don't expect this to be binary.
+We still expect that older patients will
+still be able to derive benefit. We just
+don't know how long it's going to take
+uh and and
+we don't know how much. So when you're
+testing a new therapy, you need to be
+sure that the effect you are seeing or
+not seeing is as a result of the
+therapy.
+That means that often in these
+neurodedevelopmental disorders, we have
+to start young because the youngest
+patients are the ones that we anticipate
+should be able to have the fastest
+responses over the time course of a
+clinical trial. Um
+and then once we've demonstrated that
+the drug works in those patients, then
+we can go into older patients to study
+that. It turns the sort of the
+traditional drug development paradigm on
+its head because normally you start in
+adults and you work younger for new but
+for neurodedevelopmental disorders where
+you're again trying to trying to address
+the whole range of signs and symptoms of
+the disease. You need to start younger
+and then move older. But a lot more work
+is needed to be done on this to really
+understand um what you know what what
+this means for each individual disorder.
+So when delivering anything to the
+immune system, the immune system reacts.
+Um and this is the same for gene
+therapy. We want to be sure that
+um that we're controlling any immune
+response to to that that foreign
+material that's being introduced into
+the body. So there sort of three
+different buckets that we think about
+because these viruses naturally occur.
+Some people may have been exposed to the
+wild type virus in in the years before
+gene therapy. So those patients might
+have pre-existing immunity which if you
+then administer the gene therapy the
+immune system may essentially im mount a
+response and to stop it from delivering
+the the therapy.
+Uh there's also innate immunity. So
+immediately uh in the hours after gene
+therapy the immune system again may see
+this virus and mount an immune response
+against it. And then you have adaptive
+immunity which can happen in the days or
+weeks after gene therapy.
+where the immune system can develop
+stronger responses like antibodies or
+te- cells that can attack either the
+gene therapy or even the treated cells.
+To prevent this, we test for antibodies
+before we uh give treatment. And
+sometimes patients who already have an
+immune response may be excluded
+especially for the early stage trials
+again where we're trying to figure out
+does the thing does the gene therapy
+work or not. We also use medicines
+called immunosuppressions to calm the
+immune response before and after. And
+then we monitor patients very carefully
+uh over time to manage any potential
+immune responses.
+So there are important considerations
+many of which I've already touched upon
+here. Understanding the disease symptoms
+and progression is critical. Um and
+again all the work you've done is is
+really helping helping develop therapies
+because we understand Angelman syndrome.
+Uh there are delivery channels
+challenges in hard-to-reach tissues. So
+again you know if you want to go into
+the CNS you may need invasive routes of
+administration.
+uh as uh as one of the speakers already
+mentioned this morning, pre-clinical
+studies are vitally important, but
+animals are not humans and they don't
+always predict what happens in humans.
+So, we have to be very thoughtful and
+very and very careful before and as we
+start uh human studies.
+We are delivering billions of viral
+particles to patients. Uh and so very
+high doses of this may cause side
+effects in the liver. So again we need
+to be very careful um and and these
+immune responses may limit future dosing
+um or repeat administrations which means
+you need to be um we need to approach
+clinical trials a little differently
+because we can't do traditional dose
+finding studies
+and everything given everything I just
+said you know long-term follow-up is
+needed this is still a nent field we are
+you know I' I've been doing this for uh
+over a decade now um and we have a lot
+more experience
+in that than when I started, but it's
+still you we're still learning a lot and
+so following people over time is going
+to be really important. But I don't want
+to sound overly negative. Uh the data
+that is coming out is incredibly
+exciting. Um a lot of the approved gene
+therapies show a very favorable risk
+benefit and there is a lot of potential
+now for for conditions that were once
+thought untreatable.
+On my last slide, I just, you know,
+given everything I've just said, um, you
+development of gene therapies really
+does take a village. Uh, you know, in
+sponsors and families and clinicians and
+regulators and pairs all really need to
+be working very closely together to help
+advance these these therapies forward.
+Thank you for your time and attention
+and happy to take any questions.
+Thank you. Welcome. Great.
+>> Okay, I don't think we have time for
+questions.
+>> Thank you very much. Um, so ultimately I
+think you know what we learned today is
+that we start with things in a dish. We
+move to things in animal testing. We
+understand what we're putting into these
+drugs in order to try to replace UB3A
+and how we may want to get it there.
+Whether that's through a virus, whether
+that's through a lipid particle, whether
+that's through some type of editing
+carrier. um all different ways that
+we're going to talk about over the next
+couple days. But I think what's also
+important to realize is that I I know a
+lot of people just heard that talk and
+are super excited, but also heard that
+um in certain examples of certain gene
+therapies that are having a profound
+impact on patients. Almost all of the
+gene therapies where there's data which
+Emma showed is in neurodeenerative
+disorders showing that if you address a
+neurodeenerative disorder before there
+are symptoms you can you can tra on a
+normal neurodedevelopmental trajectory
+in a neurodedevelopmental disorder like
+Angelmen that is not degenerative
+where we are on that trajectory and
+where we intervene and where we're going
+to see the greatest benefit is
+completely unknown.
+What the animal models actually show if
+we want to believe anything is that it
+doesn't matter what age you actually
+intervene and you'll see that over the
+course of the next two days. You can see
+profound benefit at different ages.
+Similar whether it's adolescent, adult
+or newborn in some therapeutics where
+you can really distribute well to the
+brain. And so it's really important that
+we don't get deflated. If we're not two
+years old, we're not going to see
+benefit. That's not what she was saying.
+She was just showing an example in a
+degenerative disorder in which you can
+not even see a symptom if you treat
+early enough before there's degeneration
+of the brain. But I want to acknowledge
+that in Angelmen, for the example we
+have over the next couple days, we we
+don't have degener degeneration of the
+brain, but we want to address the
+symptoms as early as possible so our
+kids don't have to live a long period of
+time with the symptoms of Angelmen
+syndrome. And that's our ultimate goal.
+So, I just want to make that super

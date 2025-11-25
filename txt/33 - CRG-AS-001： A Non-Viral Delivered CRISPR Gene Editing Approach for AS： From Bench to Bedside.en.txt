@@ -1,0 +1,712 @@
+So our next presentation is a trio and
+I'm very very proud to be part of that
+trio. Um this is Yang Wei Jiang who does
+not need an introduction and Jang Bing
+Xu who actually also I think after four
+years now or three years also doesn't
+need an introduction. This is an amazing
+team at Yale um who Jennifer and I have
+been lucky enough to be able to work
+with over the past couple of years as we
+advance this program which is one of the
+most exciting novel cutting edge
+programs that I've been lucky enough to
+be a part of. And what we want to share
+with you all today is where we are.
+We've been working on this diligently
+and it's been really really complicated.
+And as we're starting to see more and
+more success and really moving the
+needle on bringing us closer and closer
+to a possible future clinical trial, we
+wanted to share that data with you. Um,
+so I'm here representing myself and
+Jennifer. Um, but Young Way and Jung
+Bing are going to talk to you about the
+technology and what we know in the
+animal model and then I'm going to share
+with you how we've taken that from the
+mouse model and what we're doing to try
+to move that to humans. Yay. Chambi
+you can start
+>> thanks Alison for the introduction and
+good morning everyone uh for those who
+don't know me I'm a engineer on the team
+so my responsibility is to uh without
+disclosure so so my responsibility is
+should I go through this slide up
+>> I think you You want me to do it?
+>> He knows this slide, but I'm happy to do
+it. So, really the goal of this project
+and I think why this project got funded
+and got incredible support from the NIH
+is because we really created this
+benchside to bedside model to go from
+discovery and preclinical work at Yale
+to clinical trials at Yale and Rush. And
+we were able to kind of put all the
+pieces together in this development
+program all through the support of our
+community who developed this entire
+ecosystem of benchside to bedside. And
+because of that ability to be able to
+truly translate drugs to humans, the NIH
+believed in us and got us to this
+program um and and funded this program.
+And so we've been able to really support
+that over time. So we'll we'll start
+with the pre-clinical program and then
+we'll move to the the toxicology program
+and then hopefully the future for
+clinical trials. Now you can go.
+>> Okay. So as I just mentioned uh I'm a
+engineer on the team. So my
+responsibility is to create a carrier to
+deliver our superic payloads to right
+location. So this case is the neuron
+cells in the bra. So our payload is a
+genome editor called crisper which
+mentioned discussed by the last
+presenter already. So uh crisper
+actually originate originate from
+bacteria is a hallmark of bacteria
+defense system. So believe or not bacter
+bacteria like a human beings could be
+infected by virus. So you know through
+evolution this bacteria you know derived
+mechanism called crisus which can cut
+the virus genome. So that that case they
+can kill virus. So over a decade ago you
+know I was scientists in the field
+figure out a mechanism how to hijack the
+mechanism for human use. So you know uh
+so the magnet actually sorry
+I show here uh has a you know two two
+component system including cars is
+basically the working machinery so like
+in like a cus here for example cutting
+the virus genome there's a ga so
+basically the code to tell the machinery
+to the right location
+so but you know for principally the
+major challenge is how to deliver you
+know uh we as we discussed uh yesterday
+and today in the gene delivery field
+there's mainly two vectors available uh
+one is a virus AAV uh we talk about AV a
+lot this morning already so another is a
+nanop particles
+so you know uh so I will talk about how
+you know we how I as an engineer you
+know to to really uh uh solve this
+delivery issue so this uh this slide so
+basically shows that you know how of
+scientists have been engineer crisper
+for human use. So in addition to the
+original formulation which can use for
+genomic cutting to remove the you know
+uh target gene. So this the machinery
+has been engineered for other use for
+example for gene correction or epigenome
+editing. Basically we can repair
+whatever defect you know in human genes
+like EB3A we can correct mutations we
+even can repair the the deletion.
+So I mention delivery is a major issue
+right? So there's the two uh major
+delivery carriers in the field you know
+including AEVs and which is most often
+used at this moment and another is a
+nanop particles. So unfortunately AV and
+may not be the best vehicle for deliver
+genomicus you know as mentioned right
+this is a crisper derived from bacteria
+and is active you know machinery which
+can potentially cut your gum or or
+modify your gum. So in this case you
+know you can imagine if we deliver
+crisper editors use a so this
+editor will be expressed bacteria do and
+the editor will be expressed in in human
+cells for a long time probably over over
+a decade. So you can imagine right could
+mess up our genome in addition to the
+imu reaction. So you know other than
+virus nanop particles could be choice
+you know particularly lipid nanop
+particles but unfortunately lithium
+nanop particles may not be best for for
+neural use particularly this case you
+know for ang syndrome because you know
+it's very difficult to deliver or n
+other nanop particles to the brain and
+through introvenous administration
+particle need to cross blood vessel and
+get into the brain but the vessel in the
+brain is very different from vessels in
+other organs you You know they form a
+mechanism called bloodb brain barrier
+which have been mentioned by previous uh
+speakers already. So most particles
+could not cross the BBB valve but even
+in the local administration or deliver
+number puncture right just like iso
+delivery you know the particles could
+not be disposed in the brain well you
+know could be simply because they're too
+large most nanop particles probably over
+60 you know couple hundred nanometer but
+you know the the free space in the brain
+tissue actually is very small probably
+less than 30 nanometer so
+To overcome this issue you know uh we
+develop a new approach we call step
+engineering approach. So you know uh so
+step we present a group of chemicals is
+a small chemical is about 2 kiloton very
+small. So those chemicals are designed
+to you know with two arms you know the
+one arm you know intact with payloads in
+this case genomatus. So another arm you
+know is designed to intact with specific
+cell type or organs. So you know in this
+case you know uh for genomatic editors
+we can just you know conjugate them
+together and then the sum molecules you
+know you can believe a lot you know work
+you know work so well with integr
+payload so well you know you only need
+to put two 10 to 20 those small
+chemicals you know with our pro uh
+genomeic payload you know in this case
+so this chemicals can bring this you
+know super you know payloads into cells
+and release Um
+so the beauty of this approach is that
+you know step engineered you know genome
+edits you know the protein based editors
+called RMP
+you know are very small is about 10
+nanometer you know is perfect for brain
+penetration in terminal size so you know
+compared to others right nanop particles
+probably you know over 100 nanometer so
+of course I would like to mention that
+you know step is a concept so we
+actually have synthesized a large label
+st chemicals and different chemicals
+They have different properties. You
+know, for example, some chemicals like
+neuron cells they kind of know after you
+know injection they preventually add the
+neuron cells. Some like eststerides and
+some probably like other organs. But of
+course for syndrome we you know our
+target is the neuron cells in the brain.
+So you know so in this case we choose a
+specific step molecule which you know
+can edit the neuron cells very well.
+Just you know give example here. This is
+a testing this you know step RMPS in
+patient derived neuron is a 2D neuron
+grow on flask flask basically what we
+found is that you know single image
+treatment can edit the most you know
+over 90% of neuron cells in the dish so
+the the also very high in 3D neurons so
+organoid is a sphere culture you know in
+3D fluid 3D form fluid so basically we
+found that once single treatment really
+addit most cells within silver
+organoids. So you know efficiency could
+be up to you know 90%. So and over the
+past few years we have been you know
+synthesize you know steps and then work
+together with John's lab to characterize
+you know submp forment treatment in
+preclinical studies. So okay.
+So um when I relocated from Duke to Yale
+end of 2019 then I met Jen Bing roughly
+middle of the co 2021. So we kind of
+learn he has this technology. So my lab
+work a pan of a disease. So say okay
+maybe this is a great potential to to
+pick a disease genetic disease and to
+develop a treatment. I mean as you
+probably know uh the first choice is and
+syndrome that's my favorite dear to my
+heart. So I I don't think I need to go
+on to this slide too much detail. So the
+idea is this step technology same as
+anti-sense oliggo you can inactivate
+anti-sense. The difference from
+anti-sense algo is you need to repeat
+multiple times keep going for step
+technology is a crisp editing if work by
+design it's only one time permanent
+inactivated anti- sense that's it so
+that's the building um so just shows you
+the concept has been showed by ASL
+ATF and top summer small molecu
+and cast 9 in use a V vector um and also
+cast RNA in activation. So it's
+basically again this is you are very
+familiar with and the paternal com
+anti-sense is very long if you can
+inactivate it transient or permanently
+then you can reactivate a gene for
+maternal chromosome we use a delion as a
+case but presumably this technology
+should be applied to all other different
+genotype
+um so this is a slide um when shaalu was
+a post at that time now she's a research
+scientist
+shows me particular on the
+right side of that particular western
+blood. It's a protein analysis. When she
+showed me this blood, I immediately got
+quite excited and convinced. I told her
+I said we got a program. This is a
+walking working beautifully. So just
+shows you that you can see there's no
+treatment red is no very minimum protein
+with three sample um treated and from
+the mouse brain it shows a beautiful
+reactivation very clean.
+So on and the same thing we validated we
+have she has done like almost more than
+20 cohort several hundred miles
+validated all the funding pretty
+efficiently
+and one of the beauty for the step
+versus the other deliver technology AV
+we deliver the cast 9 protein as Jamian
+alluded to this protein goes into the
+invivo in we do the intraigal injection
+which shows you Here that green signal
+you can see after day one injection 1
+hour, 3 hour, 6 hour, 12 hour by 12 hour
+but 24 hours is almost you cannot detect
+any cast protein as you probably all
+quite familiar with when talk about
+crisp editing. We want to fix the
+genetic mistake here is inactivated. You
+also want to make sure
+this editing not go to the other part of
+the genome create another genetic
+condition. But with this technology so
+short transient press for in the in the
+cell. So to definitely minimize the
+potential off event which is one of the
+major concern for crisping that's a lot
+of advantage for crisping the major
+concern is the safety. So with this and
+then we also um demonstrate um using the
+animal model um we generated many many
+years ago when I was at Dr. dash lab and
+there many people use this line too. uh
+just shows you this is a very busy slide
+a lot of work to get a few key point one
+is we deliver the crisp editing at day
+one of the mice after birth day 21 day
+42 in this particular loan motor assay
+it's almost very very similar regardless
+day one day 21 and day 42 so that's the
+one point key point second key point
+which shows multiple cast 9 all working
+well for step technology which shows you
+the step may be able to adapt to many
+different type of the cash now other
+editor. Uh this Allison shows you this
+slide yesterday and we just quickly
+shows you um with the content which
+clearly see this as treat with crisper
+doing much much better all similar to
+the white type.
+We have shear have done a battery of lot
+of behavior testing because the time I
+just shows you a few key one. The second
+one we just show you is this sie
+susceptibility. Clearly with this
+paradigm developed by B a field part of
+UNC you can see the again different day
+day one or day 21 treatment they
+significant suppress the seizure
+threshold inj
+mouse model. So with that I'm going to
+turn to Allison.
+>> Great. So what you can see is, you know,
+he he called me and said, "You're never
+going to believe this. There's this guy
+at Yale, his name is Jang Bang Zoo, and
+he has this amazing technology, and I
+think it works for Angelmen syndrome."
+And I thought he was going to show me a
+couple cell lines, and we were going to
+get excited and fund grant to see if it
+worked. But instead, he showed me all of
+this animal data that Shauna had been
+doing. And what he showed was not only
+that it rescued every phenotype, but it
+rescued it at newborn, at juvenile, and
+at adult ages. And in some assays,
+adults did better than the newborns. So
+I was like, we have to support this.
+This is incredible. And so this is where
+we decided we're going to create a team,
+work together, and figure out a way to
+get this to humans because, as you know,
+really the only thing I care about is
+getting out of a mouse and getting into
+a human. And that's where my my strength
+is is what can we do to move this out of
+an academic lab and actually get it into
+a clinical center. And so Jennifer I
+recruited into this and said we have to
+do this. And she fully agreed and was
+blown away. And she's been she's not
+standing here, she's sitting there. But
+she's been a force with this program.
+And I'm going to explain why because
+it's actually really really complicated.
+It's beautifully elegant but also
+incredibly complicated. And she's been
+an unbelievable force on how we do that.
+So when we think about the translation,
+that next step to get from the Angelman
+mouse to an Angelman human, there's a
+lot of steps that we take and I'm not
+going to walk you through every bit of
+it, but it's the the safety assessments
+to understand is does it go where we
+want it to go and is it safe. So the
+steps it takes to get through that is
+called um you know the investigational
+approach to getting to a first in human
+clinical trial are IND enabling studies.
+It's those studies required by the
+regulatory authorities and for us to
+feel comfortable that it's doing what we
+want it to do. And so those experiments
+are really assessing very critical
+information related to safety, related
+to toxicity, understanding if it's, you
+know, having any ill effects, but also
+is it targeting the goal? Is it
+targeting the anti-sense transcript? Is
+it knocking down the anti-sense
+transcript? and is it expressing the
+paternal UB3A gene ultimately making the
+paternal UB3A protein and is it
+affecting anything outside of that?
+Right, that's the target. But what about
+offtarget? As Yangi mentioned, we don't
+want it to affect anything else other
+than the UV3 anti-sense transcript that
+could result in a different genetic
+disorder. Um, we're dealing with enough.
+We don't need a second genetic disorder.
+And so it's these studies are really
+critical in order to get there. And
+again, those are called IND enabling
+studies. And a lot of you like, well,
+what's taking so long? We've now heard
+about this for two years, and why aren't
+you in humans yet? Well, these studies
+are really complicated. They take a very
+long time, and they're very expensive.
+So, we really take all these rigorous
+activities. We work in parallel. We
+really bring in experts in the field to
+help us support us in getting this done.
+And um you know some of the most
+expensive aspects and the most time
+consuming parts of this program lie in
+this period where we have to understand
+the ph what we call the phicodnamics. So
+these are big words but ultimately it's
+does the step R&P knock it down and
+express the UB3 protein where does it go
+in the brain? Is it only in the brain
+stem? Is it only in the spinal cord? Is
+it in the cortex, the hippocampus? the
+parts of the brain that we know control
+the behaviors of people living with
+Angelmen syndrome. And so we want to
+make sure it gets throughout the brain
+into the critical brain areas that we
+believe are going to improve the
+symptoms of Angelmen syndrome. How are
+we going to deliver it? So that's called
+the route of administration. So ROA,
+route of administration. If we deliver
+it into the spinal cord, can we go from
+below at the lumbar spine like ASOS are
+delivered as Jim showed you? Is this
+behave like an AAV or like an ASO? If we
+go from below, can it get to the brain?
+If we go from the the base of the skull,
+does it get to the brain? Do we need to
+go with a little baby um catheter, a
+little surgery into the ventricle of the
+CSF compartment? And is that going to
+give us the best distribution to the
+brain? These are critical critical
+questions because if it's a single
+treatment therapy, we need to get the
+best biodistribution in the safest
+possible way and we need to be able to
+prove that because this is an untested
+therapeutic modality. We have a lot of
+data on AV gene therapy and how it gets
+to the brain and where it goes in the
+brain. We have a lot of data on ASOS and
+how it gets to the brain and where it
+goes in the brain, but we have no data
+on this very new crisper technology
+because it's not being carried by an ASO
+or by an AAV or by a lenti it's being
+carried by this novel step component and
+so we have to really answer those
+questions and then is it safe
+where at what dose level that we're
+testing this a low dose a mid dose a
+high dose? How does that translate from
+mouse to monkey? How does that translate
+from monkey to human? And we have to
+understand is it safe at the doses that
+give us the best brain distribution and
+that allow for the best UB3A paternal
+gene expression. And so these are very
+very critical questions that we had to
+ask. And so really what I want to show
+you is what you probably are going to
+register and remember is that we had to
+then put it in monkeys, right? And so
+this is really important because a mouse
+is not a monkey and a monkey is not a
+human, but a monkey is closer to a
+human. And so we want to know what is
+the best way to get it there. Is it
+safe? And how do we get to the largest
+portion of the brain? So we looked at a
+comparative study of monkeys using it
+lower spine like an ASO, ICM, back of
+the skull like an AV gene therapy or ICV
+into the ventricle through a small
+little um catheter that goes into the
+ventricle in the brain. And if you look
+at this at a half an hour on the left of
+each one, at 24 hours in the middle, and
+at 72 hours on the right, what you can
+see is pretty obvious. You can see you
+get much more of the compound to the
+brain with ICV delivery than you do with
+it or ICM. And so we really can see this
+bio what we call biodistribution to the
+brain and the route of administration is
+going to be best if we can deliver it
+that way. And doing that because it's
+hopefully just a single treatment
+therapy is not a hard thing to do. If we
+had to do that multiple times with like
+an ASO that would be very very
+complicated because it is a small
+surgery. It's neurosurgery to put a
+small catheter right through the skull
+and into that compartment. Um but a
+single treatment therapy that's possible
+and many gene therapies are actually
+using that approach because it's
+actually a little bit easier. A lot of
+neurosurgeons know how to do that to
+train people to do that. Even though the
+ICM is a little bit less invasive, ICV
+is possible because a lot of
+neurosurgeons know how to do it. But it
+is surgery. And so we needed to answer
+that question. And these experiments
+really allowed us to be able to do that
+and to be able to show that very nice
+distribution in these monkeys over time.
+And so that has taken almost two years
+to get to this point. And what we can
+see is that it's tolerated these doses
+the monkeys are surviving. And we are
+able to see that it goes throughout the
+brain by 72 hours. We really see you
+know even at 24 and a half an hour we're
+seeing a ton of it in the brain. And so
+when we put that into a graph, what you
+can see is that the entire brain has the
+best distribution of the radioisotope
+that's being captured by PET CT with the
+ICV delivery. And that is the first step
+to now the next stages of the program.
+With that, there's the manufacturing of
+this product. And I need to have a shout
+out to Jennifer and Conrad and Derek. I
+am only presenting this in the s most
+most simplistic way because I remove
+myself from all manufacturing
+conversations because I find them
+maddening and frustrating and they're
+too complicated for me to actually
+understand. So I'm being an imposttor at
+the moment. But ultimately for
+manufacturing it's really complicated.
+We have to make the final drug using
+what we call the drug product in a way
+that not only is safe in animals but has
+to be the cleanest possible way,
+cleanest possible substance for people.
+And that's very very complicated. Um
+it's expensive, it's complicated, and it
+takes a long time. And for this program,
+we have a guide, we have a cast protein,
+and we have a step molecule. That means
+three different manufacturing processes
+need to happen. And the quality of that,
+and the team that's working on that has
+been unbelievably incredible in order to
+get that to what we call a good
+manufacturing process for people. And so
+that takes a lot of time and a lot of
+money as well because of those
+complicated three components and there's
+not a track record like ASOS or gene
+therapy on how you manufacture this and
+complex it together. So if you put all
+of that together which hopefully you may
+think is very very complicated but I've
+tried to simplify it in a way in which
+you can see all of these pieces. You
+start here and you go you go you go you
+go. This is a drug development program.
+It's very very complicated. In order to
+get to the goal, which is the only thing
+I actually care about, which is getting
+to first in human, we have to be able to
+show that it works as well in a human as
+it does in a mouse because the mouse
+only tells us so much. But it takes a
+ton of work for the safety piece, for
+the manufacturing piece, for the
+understanding of age and distribution
+piece. And all of that together is what
+drives drug development. And this is a
+program that is being driven by so many
+incredible people that are all
+contributing to all of these pieces. And
+I I'm just representing this in one
+simple picture. And so you know
+ultimately these studies that need to
+bring human candidate to human
+application take a tremendous amount of
+coordination a tremendous amount of time
+and money very careful coordination
+between the real critical teams
+preclinical nonclinical manufacturing
+regulatory clinical all of this takes a
+tremendous amount of collaboration and
+every step of this you in drug
+development in general there's
+unexpected findings sometimes you're
+like well the dose that worked in mouse
+didn't work in monkey. Well, the dose
+that worked in mouse worked too well in
+monkey. We have to lower the dose. So,
+you have to do all of these studies to
+make sure you're really stepping up in a
+way that is going to provide the most
+information to ensure the rigor and
+safety for humans is of utmost
+importance and that can take time. So um
+ultimately with all of the work that was
+done here, we were able to leverage a
+grant from the NIH in order to allow us
+to leap from mouse to human and that is
+the drug development ecosystem and
+ultimately as we have done this
+discovery and preclinical work and we're
+moving toward the acceleration of this
+clinical work um it's very exciting to
+see this program moving forward you know
+day after day and month after month and
+it's super exciting to share that with
+you. Um, so in conclusion, the program
+shows incredible support through
+infrastructure and collaboration,
+bringing many teams together with
+various expertise to allow for
+efficiencies that can't really can't be
+achieved in any other way. If you don't
+get out of your silo, you get in your
+own way. And so, everyone on this team
+has gotten out of their silo, leveraged
+the expertise of others, and allowed
+them to work together to really advance
+this program. And the fact that Angelman
+syndrome is serving as an example for so
+many other rare neurogenetic disorders
+has allowed us to create this platform
+for future personalized medicine. Not
+only for Angelmen syndrome, not only for
+single mutations that might benefit from
+one different type of therapy or
+another, but utilizing this platform,
+but for other neurodedevelopmental
+disorders as well. And so it's wonderful
+and it feels great for Angelmen to be
+that platform to help so many other
+disorders. Um and as you know at fast we
+work really hard to ensure that we want
+to be the lowhanging fruit. We want to
+be the example but we must ensure that
+the example we show helps others that we
+cannot advance the field if we don't do
+that. So we are really leveraging our
+pre-clinical and our IND enabling work
+and our our clinical capacities
+throughout this network to be able to
+help many other diseases. Um so
+seriously we we could not do this
+without the support of the NIH. Um, we
+got an over $40 million grant to support
+this work. All of this work started in a
+lab at Yale. So to these guys, I'm only
+presenting the part that matters to me,
+which is getting to humans. But we
+couldn't do it without the unbelievable
+technology that they've developed and
+the commitment to the science that they
+have had been incredible. And we can't
+wait to bring Rush into the fold because
+the clinical trial will of course be
+supported by Yang at Yale and by Liz at
+Rush. So hopefully the next steps is
+when we can get to that clinical that
+clinical piece which we're just not
+quite there yet. Um so a thousand people
+to thank. I'm not going to thank the
+Yale team. They should thank the Yale
+team. But what I can say is that the
+collaboration of all of these people has
+been so unbelievably incredible. There
+is such a commitment to this program by
+the team at Yale and courage and
+courageous and fast and AS2 bio. Um,
+Jennifer is just been a force to be
+reckoned with and really been leveraging
+the regulatory expertise to get
+something so new and so unique um, over
+the finish line and really bring that to
+humans in a way that's safe, that's
+going to be agreeable and applicable for
+human application. And so it's been a
+real um, a real honor to work with this
+team and and I'm proud to represent them
+up here. So with that, thank you to all
+of these people that have been such a
+huge effort in this program.

@@ -1,0 +1,5240 @@
+1
+00:00:00,240 --> 00:00:06,879
+I'm excited to really kick off with the
+
+2
+00:00:03,679 --> 00:00:09,040
+roadmap to a cure. Um, firstly, I want
+
+3
+00:00:06,879 --> 00:00:12,639
+to start by thanking all of our amazing
+
+4
+00:00:09,040 --> 00:00:14,400
+sponsors for making yesterday, today,
+
+5
+00:00:12,639 --> 00:00:17,119
+and tomorrow possible for all of our
+
+6
+00:00:14,400 --> 00:00:19,520
+families to be here. A tremendous amount
+
+7
+00:00:17,119 --> 00:00:22,400
+of the support to get families here
+
+8
+00:00:19,520 --> 00:00:24,000
+through scholarships has been because of
+
+9
+00:00:22,400 --> 00:00:26,480
+our sponsors, particularly Mattiey's
+
+10
+00:00:24,000 --> 00:00:28,880
+Mission. So, I want to thank Mattiey's
+
+11
+00:00:26,480 --> 00:00:31,519
+mission for really bringing families
+
+12
+00:00:28,880 --> 00:00:34,960
+here and supporting that effort. People
+
+13
+00:00:31,519 --> 00:00:36,880
+have come up to me.
+
+14
+00:00:34,960 --> 00:00:39,520
+People have come up to me just so
+
+15
+00:00:36,880 --> 00:00:42,079
+grateful for the opportunity to sit in
+
+16
+00:00:39,520 --> 00:00:44,480
+this room and of course it's our
+
+17
+00:00:42,079 --> 00:00:46,239
+obligation for you to be in this room,
+
+18
+00:00:44,480 --> 00:00:48,640
+but really we couldn't do it without the
+
+19
+00:00:46,239 --> 00:00:51,520
+support of our sponsors. Um we you
+
+20
+00:00:48,640 --> 00:00:52,960
+you'll see sponsorship um titles around
+
+21
+00:00:51,520 --> 00:00:55,199
+the room and around the event, but
+
+22
+00:00:52,960 --> 00:00:56,879
+please thank the sponsors. We couldn't
+
+23
+00:00:55,199 --> 00:00:59,359
+get this done without them. This is
+
+24
+00:00:56,879 --> 00:01:01,280
+incredibly expensive, but it's a weekend
+
+25
+00:00:59,359 --> 00:01:03,600
+that all of the families deserve. So,
+
+26
+00:01:01,280 --> 00:01:06,799
+thank you. Um in addition, I want to
+
+27
+00:01:03,600 --> 00:01:09,600
+thank our team, uh the fast team,
+
+28
+00:01:06,799 --> 00:01:12,560
+particularly Laura. Uh Laura Faliano has
+
+29
+00:01:09,600 --> 00:01:14,720
+unbelievable ability to run a meeting.
+
+30
+00:01:12,560 --> 00:01:16,479
+And just so you know, like the heavy
+
+31
+00:01:14,720 --> 00:01:18,400
+lift of this has really been on Laura.
+
+32
+00:01:16,479 --> 00:01:21,439
+And so Laura, I don't know where you are
+
+33
+00:01:18,400 --> 00:01:22,880
+because I can't see anything, but um I
+
+34
+00:01:21,439 --> 00:01:26,080
+would like to acknowledge you if you're
+
+35
+00:01:22,880 --> 00:01:27,759
+here. So please stand if you are. And
+
+36
+00:01:26,080 --> 00:01:30,159
+she's probably back there. And if she's
+
+37
+00:01:27,759 --> 00:01:33,200
+not, let's just clap for Laura because
+
+38
+00:01:30,159 --> 00:01:36,560
+Laura has been amazing. Thank you,
+
+39
+00:01:33,200 --> 00:01:39,360
+Laura. We love you deeply. Um and
+
+40
+00:01:36,560 --> 00:01:43,280
+lastly, I would like everyone in the
+
+41
+00:01:39,360 --> 00:01:46,600
+room to raise their hand if they are a
+
+42
+00:01:43,280 --> 00:01:46,600
+family member.
+
+43
+00:01:46,799 --> 00:01:51,520
+All right. So, everyone look around.
+
+44
+00:01:48,799 --> 00:01:56,040
+These are our family members. Raise your
+
+45
+00:01:51,520 --> 00:01:56,040
+hand if you're a research scientist.
+
+46
+00:01:57,680 --> 00:02:03,399
+Raise your hand if you're an industry
+
+47
+00:02:00,399 --> 00:02:03,399
+member.
+
+48
+00:02:06,560 --> 00:02:11,200
+Awesome. So what you can see is that we
+
+49
+00:02:08,800 --> 00:02:13,599
+have every stakeholder in the room,
+
+50
+00:02:11,200 --> 00:02:16,160
+mostly families, but also researchers
+
+51
+00:02:13,599 --> 00:02:19,200
+and industry that's here to learn from
+
+52
+00:02:16,160 --> 00:02:22,319
+us and learn from you. And it's really
+
+53
+00:02:19,200 --> 00:02:25,840
+important that we share our story. And
+
+54
+00:02:22,319 --> 00:02:28,480
+so engage and talk and learn and really
+
+55
+00:02:25,840 --> 00:02:31,760
+learn about what these people are doing
+
+56
+00:02:28,480 --> 00:02:34,319
+here. and to industry and researchers
+
+57
+00:02:31,760 --> 00:02:37,120
+learn about why parents are here and
+
+58
+00:02:34,319 --> 00:02:39,760
+they care deeply for advancing therapies
+
+59
+00:02:37,120 --> 00:02:42,080
+for Angelmen syndrome. So, as most of
+
+60
+00:02:39,760 --> 00:02:44,000
+you know, um my name is Allison Brent
+
+61
+00:02:42,080 --> 00:02:46,640
+and I serve as the chief science officer
+
+62
+00:02:44,000 --> 00:02:49,040
+for FAST. Um I have a couple of roles
+
+63
+00:02:46,640 --> 00:02:50,879
+that I play. I'm also the co-director um
+
+64
+00:02:49,040 --> 00:02:53,280
+with my co-patriot Jennifer Panagulius
+
+65
+00:02:50,879 --> 00:02:55,120
+who you'll meet shortly who um for the
+
+66
+00:02:53,280 --> 00:02:57,200
+Angelmen Syndrome Biomarker and Outcome
+
+67
+00:02:55,120 --> 00:02:59,680
+Measure Consortium. And we're going to
+
+68
+00:02:57,200 --> 00:03:01,120
+go over later today the learnings from
+
+69
+00:02:59,680 --> 00:03:03,519
+that closed door meeting that we had
+
+70
+00:03:01,120 --> 00:03:05,840
+yesterday which I hope was incredibly
+
+71
+00:03:03,519 --> 00:03:07,280
+successful. I also stood on the stage a
+
+72
+00:03:05,840 --> 00:03:08,720
+lot of the time so I couldn't tell if
+
+73
+00:03:07,280 --> 00:03:10,640
+people enjoyed it but I certainly
+
+74
+00:03:08,720 --> 00:03:12,159
+enjoyed it so I hope everybody else did
+
+75
+00:03:10,640 --> 00:03:15,120
+as well. So we'll share the learnings
+
+76
+00:03:12,159 --> 00:03:17,280
+from that meeting yesterday. Um I also
+
+77
+00:03:15,120 --> 00:03:19,840
+am the co-director of the international
+
+78
+00:03:17,280 --> 00:03:23,280
+Angelman Syndrome Research Council which
+
+79
+00:03:19,840 --> 00:03:27,040
+is a um a pre-ompetitive collaborative
+
+80
+00:03:23,280 --> 00:03:30,239
+consortium where we are leading a group
+
+81
+00:03:27,040 --> 00:03:31,680
+of basically um experts around the world
+
+82
+00:03:30,239 --> 00:03:33,200
+that are not only working in Angelmen
+
+83
+00:03:31,680 --> 00:03:35,440
+syndrome but other neurodedevelopmental
+
+84
+00:03:33,200 --> 00:03:37,200
+disorders in order to learn and to fill
+
+85
+00:03:35,440 --> 00:03:40,640
+our gaps and understand our gap
+
+86
+00:03:37,200 --> 00:03:42,799
+analysis. Um, and I am the chief
+
+87
+00:03:40,640 --> 00:03:45,200
+development officer of the accelerator
+
+88
+00:03:42,799 --> 00:03:47,760
+that Fast started called AS2 Bio, which
+
+89
+00:03:45,200 --> 00:03:51,360
+we'll talk a little bit about today. And
+
+90
+00:03:47,760 --> 00:03:53,200
+most importantly, I am the mother to
+
+91
+00:03:51,360 --> 00:03:55,920
+three beautiful little girls. And this
+
+92
+00:03:53,200 --> 00:03:58,879
+is Quincy. She is 11 years old and she
+
+93
+00:03:55,920 --> 00:04:01,680
+lives with Angelmen syndrome.
+
+94
+00:03:58,879 --> 00:04:05,200
+Here are my disclosures.
+
+95
+00:04:01,680 --> 00:04:06,799
+So, we heard a lot about the basics, but
+
+96
+00:04:05,200 --> 00:04:09,439
+now I'm going to talk about the basics
+
+97
+00:04:06,799 --> 00:04:10,799
+of Angelmen syndrome and hopefully
+
+98
+00:04:09,439 --> 00:04:12,799
+everything you learned in the last
+
+99
+00:04:10,799 --> 00:04:14,959
+session will prepare you and give you
+
+100
+00:04:12,799 --> 00:04:17,359
+the tools to understand everything that
+
+101
+00:04:14,959 --> 00:04:19,120
+I'm going to say as well. So, Angelman
+
+102
+00:04:17,359 --> 00:04:21,600
+syndrome
+
+103
+00:04:19,120 --> 00:04:23,440
+involves a single gene on a single
+
+104
+00:04:21,600 --> 00:04:28,080
+chromosome. And as you learned, there
+
+105
+00:04:23,440 --> 00:04:30,639
+are 46 chromosomes in most of our cells.
+
+106
+00:04:28,080 --> 00:04:32,720
+23 pairs. one that comes from mom or
+
+107
+00:04:30,639 --> 00:04:35,440
+maternal and then one that comes from
+
+108
+00:04:32,720 --> 00:04:38,479
+dad or paternal
+
+109
+00:04:35,440 --> 00:04:43,120
+and it's caused by a severe reduction in
+
+110
+00:04:38,479 --> 00:04:46,160
+a single gene that is called ub3a
+
+111
+00:04:43,120 --> 00:04:48,240
+and that gene sits on the 15th
+
+112
+00:04:46,160 --> 00:04:51,520
+chromosome.
+
+113
+00:04:48,240 --> 00:04:55,199
+It affects approximately 1 in 12 to
+
+114
+00:04:51,520 --> 00:04:58,000
+15,000 people which could be 500,000
+
+115
+00:04:55,199 --> 00:05:01,600
+people in the world
+
+116
+00:04:58,000 --> 00:05:04,000
+and it's usually random. None of us or
+
+117
+00:05:01,600 --> 00:05:06,880
+very few of us are carriers for this.
+
+118
+00:05:04,000 --> 00:05:11,199
+There are some but very few are carriers
+
+119
+00:05:06,880 --> 00:05:14,800
+for this. It happens randomly in the egg
+
+120
+00:05:11,199 --> 00:05:19,440
+usually before fertilization.
+
+121
+00:05:14,800 --> 00:05:22,160
+So this happened likely in mom's egg
+
+122
+00:05:19,440 --> 00:05:25,680
+when she was being developed in her
+
+123
+00:05:22,160 --> 00:05:29,120
+mother's body, which means that this is
+
+124
+00:05:25,680 --> 00:05:33,919
+before we were even born that this egg
+
+125
+00:05:29,120 --> 00:05:38,720
+developed this mutation, a deletion or a
+
+126
+00:05:33,919 --> 00:05:41,039
+a changing of the letters of the gene.
+
+127
+00:05:38,720 --> 00:05:45,280
+Each chromosome, as you learned, is made
+
+128
+00:05:41,039 --> 00:05:49,120
+up of tons of genes, over 20,000 genes
+
+129
+00:05:45,280 --> 00:05:52,160
+per chromosome. And it codes for
+
+130
+00:05:49,120 --> 00:05:55,680
+different proteins in the body. So,
+
+131
+00:05:52,160 --> 00:05:57,759
+every gene that causes disease usually
+
+132
+00:05:55,680 --> 00:06:00,639
+is associated with some protein that's
+
+133
+00:05:57,759 --> 00:06:04,240
+not being made at all or it's not being
+
+134
+00:06:00,639 --> 00:06:06,560
+made well and ultimately results in a
+
+135
+00:06:04,240 --> 00:06:07,919
+change of function. So, we learned that
+
+136
+00:06:06,560 --> 00:06:10,479
+this morning, but hopefully we can
+
+137
+00:06:07,919 --> 00:06:12,560
+relate this to Angelman syndrome. And
+
+138
+00:06:10,479 --> 00:06:15,759
+so, let's blow that up a little bit.
+
+139
+00:06:12,560 --> 00:06:18,639
+Okay, here's the 15th chromosome.
+
+140
+00:06:15,759 --> 00:06:21,600
+And our cells have one copy from mom and
+
+141
+00:06:18,639 --> 00:06:24,800
+one copy from dad. And if we make that
+
+142
+00:06:21,600 --> 00:06:29,840
+into a schematic, what you can see is
+
+143
+00:06:24,800 --> 00:06:34,160
+that in neurons only,
+
+144
+00:06:29,840 --> 00:06:37,440
+the copy from dad in me, in you, and in
+
+145
+00:06:34,160 --> 00:06:40,960
+our children is silenced. It's silenced
+
+146
+00:06:37,440 --> 00:06:45,280
+by something called a long non-oding
+
+147
+00:06:40,960 --> 00:06:47,280
+RNA. Complicated. You may see it as UB3A
+
+148
+00:06:45,280 --> 00:06:50,000
+anti-sense
+
+149
+00:06:47,280 --> 00:06:56,160
+or the stop.
+
+150
+00:06:50,000 --> 00:07:00,160
+It stops the expression of the UB3 gene
+
+151
+00:06:56,160 --> 00:07:02,560
+in the neurons on the father's copy of
+
+152
+00:07:00,160 --> 00:07:06,639
+the gene.
+
+153
+00:07:02,560 --> 00:07:09,199
+But with Angelman syndrome, the mother's
+
+154
+00:07:06,639 --> 00:07:11,680
+copy is not being read
+
+155
+00:07:09,199 --> 00:07:14,319
+in all of the cells.
+
+156
+00:07:11,680 --> 00:07:17,360
+In you and I, our mother's copy is being
+
+157
+00:07:14,319 --> 00:07:19,280
+read in the neurons. The father's copy
+
+158
+00:07:17,360 --> 00:07:22,479
+is silent in the neurons. And we have
+
+159
+00:07:19,280 --> 00:07:25,840
+normal function. Well, you can make that
+
+160
+00:07:22,479 --> 00:07:27,440
+decision. Somewhat normal function.
+
+161
+00:07:25,840 --> 00:07:29,599
+But
+
+162
+00:07:27,440 --> 00:07:31,599
+in our kids with Angelmen, the mother's
+
+163
+00:07:29,599 --> 00:07:34,560
+copy is generally not being read or it's
+
+164
+00:07:31,599 --> 00:07:37,759
+deleted. And therefore, they don't have
+
+165
+00:07:34,560 --> 00:07:42,800
+expression of the UB3 gene resulting, as
+
+166
+00:07:37,759 --> 00:07:44,479
+you learned from Emma, the UB3 protein.
+
+167
+00:07:42,800 --> 00:07:46,639
+Because the father's copy is silent, the
+
+168
+00:07:44,479 --> 00:07:49,599
+mother's copy is gone. Therefore,
+
+169
+00:07:46,639 --> 00:07:51,440
+they're null. the neurons have nothing.
+
+170
+00:07:49,599 --> 00:07:53,840
+But in the rest of the body, the
+
+171
+00:07:51,440 --> 00:07:57,520
+father's copy is not silent. So they're
+
+172
+00:07:53,840 --> 00:08:01,879
+expressing the gene and therefore it's
+
+173
+00:07:57,520 --> 00:08:01,879
+only a disorder of neurons.
+
+174
+00:08:02,080 --> 00:08:05,759
+So this can happen in various different
+
+175
+00:08:04,000 --> 00:08:09,440
+ways which we're going to hear more
+
+176
+00:08:05,759 --> 00:08:13,360
+about later, but some and the most
+
+177
+00:08:09,440 --> 00:08:16,319
+common way is a deletion of a segment of
+
+178
+00:08:13,360 --> 00:08:19,680
+the mother's copy of that gene.
+
+179
+00:08:16,319 --> 00:08:22,879
+The next most common way is a mutation
+
+180
+00:08:19,680 --> 00:08:27,360
+within the UB3 gene, meaning a letter is
+
+181
+00:08:22,879 --> 00:08:30,960
+misspelled or a little piece is missing
+
+182
+00:08:27,360 --> 00:08:34,080
+or a little piece is added, making the
+
+183
+00:08:30,960 --> 00:08:36,000
+gene not read well, which makes them not
+
+184
+00:08:34,080 --> 00:08:39,279
+make a protein.
+
+185
+00:08:36,000 --> 00:08:42,719
+In a small proportion, the silencing of
+
+186
+00:08:39,279 --> 00:08:45,440
+the father's copy is also silenced on
+
+187
+00:08:42,719 --> 00:08:49,519
+the mother's copy. And that's an
+
+188
+00:08:45,440 --> 00:08:51,279
+imprinting center defect or UPD where
+
+189
+00:08:49,519 --> 00:08:52,959
+instead of a mother's copy and a
+
+190
+00:08:51,279 --> 00:08:55,920
+father's copy, there happens to be two
+
+191
+00:08:52,959 --> 00:08:59,600
+father's copies. And that means they're
+
+192
+00:08:55,920 --> 00:09:05,120
+both silent. Again, the result being a
+
+193
+00:08:59,600 --> 00:09:07,680
+lack of expression of UB3A in neurons.
+
+194
+00:09:05,120 --> 00:09:09,440
+And then there's one group, a very small
+
+195
+00:09:07,680 --> 00:09:12,880
+proportion of the population that has
+
+196
+00:09:09,440 --> 00:09:15,360
+something called mosaicism.
+
+197
+00:09:12,880 --> 00:09:19,839
+And that is an incredibly rare group,
+
+198
+00:09:15,360 --> 00:09:21,200
+but that group ultimately is a key to a
+
+199
+00:09:19,839 --> 00:09:23,519
+lot of information that we'll talk
+
+200
+00:09:21,200 --> 00:09:26,959
+about. And what that means is that it
+
+201
+00:09:23,519 --> 00:09:30,399
+didn't happen at the egg stage,
+
+202
+00:09:26,959 --> 00:09:34,720
+but the mutation or whatever went wrong
+
+203
+00:09:30,399 --> 00:09:38,399
+happened after the egg and the sperm
+
+204
+00:09:34,720 --> 00:09:42,080
+fertilized in the embryo. So it happened
+
+205
+00:09:38,399 --> 00:09:44,560
+very early. But what happens is that
+
+206
+00:09:42,080 --> 00:09:47,600
+most of the cells of the body are not
+
+207
+00:09:44,560 --> 00:09:51,920
+expressing maternal UB3A but some of
+
+208
+00:09:47,600 --> 00:09:54,080
+them are and we'll talk about that.
+
+209
+00:09:51,920 --> 00:09:55,839
+So the function I don't need to tell you
+
+210
+00:09:54,080 --> 00:09:58,720
+now which is wonderful because you've
+
+211
+00:09:55,839 --> 00:10:02,480
+just learned that right EV3 is an enzyme
+
+212
+00:09:58,720 --> 00:10:05,120
+the the E3 liase it tags proteins for
+
+213
+00:10:02,480 --> 00:10:09,040
+degradation or to keep them around for
+
+214
+00:10:05,120 --> 00:10:11,519
+longer and by doing that it allows for
+
+215
+00:10:09,040 --> 00:10:14,000
+neurons all of those proteins being
+
+216
+00:10:11,519 --> 00:10:16,880
+cleaned up in that space allows for
+
+217
+00:10:14,000 --> 00:10:18,959
+neurons to communicate well and if you
+
+218
+00:10:16,880 --> 00:10:21,600
+have too many of one protein or not
+
+219
+00:10:18,959 --> 00:10:24,480
+enough of another protein the neurons
+
+220
+00:10:21,600 --> 00:10:26,880
+are not going to communicate very well.
+
+221
+00:10:24,480 --> 00:10:30,240
+And that results in the symptoms of
+
+222
+00:10:26,880 --> 00:10:32,480
+Angelmen syndrome. And th that cleanup
+
+223
+00:10:30,240 --> 00:10:35,200
+and that that what we call homeostasis
+
+224
+00:10:32,480 --> 00:10:37,519
+is required for normal neuron function
+
+225
+00:10:35,200 --> 00:10:40,640
+in the brain. And our neurons are what
+
+226
+00:10:37,519 --> 00:10:44,320
+allow our brain to think, allow our
+
+227
+00:10:40,640 --> 00:10:47,600
+muscles to move, allow us to perform all
+
+228
+00:10:44,320 --> 00:10:48,880
+of the functions that we do. So this is
+
+229
+00:10:47,600 --> 00:10:50,399
+called, you may hear the word
+
+230
+00:10:48,880 --> 00:10:52,480
+synaptopathy.
+
+231
+00:10:50,399 --> 00:10:55,760
+It's it's called that because the
+
+232
+00:10:52,480 --> 00:10:59,120
+communication between two neurons is
+
+233
+00:10:55,760 --> 00:11:02,160
+what is abnormal. And so the syninnapse
+
+234
+00:10:59,120 --> 00:11:05,040
+is that junction where one neuron is
+
+235
+00:11:02,160 --> 00:11:08,160
+talking to another neuron. And those two
+
+236
+00:11:05,040 --> 00:11:12,079
+neurons need to speak because the second
+
+237
+00:11:08,160 --> 00:11:14,880
+neuron talks to our muscles. And if we
+
+238
+00:11:12,079 --> 00:11:17,440
+can't get the message from the first
+
+239
+00:11:14,880 --> 00:11:21,200
+neuron to our muscles, how are we going
+
+240
+00:11:17,440 --> 00:11:24,880
+to walk? How are we going to talk?
+
+241
+00:11:21,200 --> 00:11:27,680
+How are we going to rest, sleep?
+
+242
+00:11:24,880 --> 00:11:31,440
+All of our functions are intrinsic and
+
+243
+00:11:27,680 --> 00:11:33,839
+depend upon neuronal communication. And
+
+244
+00:11:31,440 --> 00:11:36,720
+that is disturbed when you don't have
+
+245
+00:11:33,839 --> 00:11:38,800
+normal function at that area, the
+
+246
+00:11:36,720 --> 00:11:40,880
+syninnapse,
+
+247
+00:11:38,800 --> 00:11:44,399
+and it results in the symptoms of
+
+248
+00:11:40,880 --> 00:11:47,279
+Angelmen. If we can't communicate one
+
+249
+00:11:44,399 --> 00:11:50,160
+neuron to our muscle to say when I take
+
+250
+00:11:47,279 --> 00:11:52,720
+a step I'm going to activate this leg
+
+251
+00:11:50,160 --> 00:11:55,200
+and relax this leg and now I'm going to
+
+252
+00:11:52,720 --> 00:11:58,000
+activate this leg and relax that leg.
+
+253
+00:11:55,200 --> 00:12:01,360
+That's communication. And if we can't do
+
+254
+00:11:58,000 --> 00:12:04,480
+that quickly as the neurons are firing
+
+255
+00:12:01,360 --> 00:12:07,120
+in milliseconds, micros secondsonds,
+
+256
+00:12:04,480 --> 00:12:09,279
+then how are we going to coordinate
+
+257
+00:12:07,120 --> 00:12:12,480
+thousands of muscles in our face, our
+
+258
+00:12:09,279 --> 00:12:14,320
+tongue, and our voice box to say a
+
+259
+00:12:12,480 --> 00:12:17,839
+single word?
+
+260
+00:12:14,320 --> 00:12:20,639
+That's all communication of nerves to
+
+261
+00:12:17,839 --> 00:12:22,079
+muscles. So you can imagine how if you
+
+262
+00:12:20,639 --> 00:12:25,839
+don't have that communication, you have
+
+263
+00:12:22,079 --> 00:12:28,240
+this buildup of proteins in that space.
+
+264
+00:12:25,839 --> 00:12:30,959
+Things are going to seem very foggy.
+
+265
+00:12:28,240 --> 00:12:32,399
+Things are going to be very slow and
+
+266
+00:12:30,959 --> 00:12:34,959
+things are not going to be able to
+
+267
+00:12:32,399 --> 00:12:37,440
+communicate at a pace in which normal
+
+268
+00:12:34,959 --> 00:12:41,360
+function can happen and that results in
+
+269
+00:12:37,440 --> 00:12:43,680
+the symptoms of Angelmen syndrome.
+
+270
+00:12:41,360 --> 00:12:46,880
+One thing I'd like to highlight is that
+
+271
+00:12:43,680 --> 00:12:50,560
+a majority of the population has a
+
+272
+00:12:46,880 --> 00:12:54,240
+genotype of deletion.
+
+273
+00:12:50,560 --> 00:12:57,120
+Deletion means an entire segment, not
+
+274
+00:12:54,240 --> 00:12:59,200
+just the gene, has been deleted. Now,
+
+275
+00:12:57,120 --> 00:13:01,120
+there is something called an introgenic
+
+276
+00:12:59,200 --> 00:13:03,519
+deletion, meaning there's only a
+
+277
+00:13:01,120 --> 00:13:06,240
+deletion within the gene. And we we
+
+278
+00:13:03,519 --> 00:13:09,200
+bucket that with mutation because it's
+
+279
+00:13:06,240 --> 00:13:11,200
+only affecting the UB3 gene. And I know
+
+280
+00:13:09,200 --> 00:13:12,959
+a parent in the community had a question
+
+281
+00:13:11,200 --> 00:13:16,399
+about that.
+
+282
+00:13:12,959 --> 00:13:19,440
+The deletion generally involves a big
+
+283
+00:13:16,399 --> 00:13:22,800
+segment of the chromosome. So if we blow
+
+284
+00:13:19,440 --> 00:13:26,160
+that out, here's the UB3A gene. Here's
+
+285
+00:13:22,800 --> 00:13:29,680
+the big segment that's been deleted.
+
+286
+00:13:26,160 --> 00:13:34,160
+So this could be like six million base
+
+287
+00:13:29,680 --> 00:13:35,920
+pairs of DNA. Imagine that. six million
+
+288
+00:13:34,160 --> 00:13:38,800
+base pairs of DNA that have just been
+
+289
+00:13:35,920 --> 00:13:41,920
+deleted, gone. Where a mutation might be
+
+290
+00:13:38,800 --> 00:13:43,519
+one base pair of DNA that's the wrong
+
+291
+00:13:41,920 --> 00:13:45,519
+letter.
+
+292
+00:13:43,519 --> 00:13:48,480
+That's the difference between a deletion
+
+293
+00:13:45,519 --> 00:13:52,560
+and a mutation. So it's important we
+
+294
+00:13:48,480 --> 00:13:55,920
+understand that because with deletion we
+
+295
+00:13:52,560 --> 00:13:59,680
+have all of these genes that are sitting
+
+296
+00:13:55,920 --> 00:14:02,800
+around UB3A that are missing that may
+
+297
+00:13:59,680 --> 00:14:04,720
+have some function that contribute to
+
+298
+00:14:02,800 --> 00:14:07,120
+why individuals with a deletion of
+
+299
+00:14:04,720 --> 00:14:09,199
+Angelmen syndrome may be a little bit
+
+300
+00:14:07,120 --> 00:14:12,639
+more symptomatic
+
+301
+00:14:09,199 --> 00:14:14,079
+than those with a mutation or UPD or ICD
+
+302
+00:14:12,639 --> 00:14:16,240
+where they're not missing these other
+
+303
+00:14:14,079 --> 00:14:18,800
+genes. Well, let's talk about those
+
+304
+00:14:16,240 --> 00:14:20,720
+other genes a little bit.
+
+305
+00:14:18,800 --> 00:14:24,160
+There are the GABA genes that we hear
+
+306
+00:14:20,720 --> 00:14:27,839
+about. All of these genes may contribute
+
+307
+00:14:24,160 --> 00:14:30,399
+to seizures, to sleep, to motor
+
+308
+00:14:27,839 --> 00:14:32,480
+function. And so, we don't want to
+
+309
+00:14:30,399 --> 00:14:34,720
+forget about those genes because as
+
+310
+00:14:32,480 --> 00:14:36,320
+we've moved toward addressing replacing
+
+311
+00:14:34,720 --> 00:14:38,480
+UB3A,
+
+312
+00:14:36,320 --> 00:14:40,240
+we really need to move toward thinking
+
+313
+00:14:38,480 --> 00:14:43,120
+about addressing these other genes
+
+314
+00:14:40,240 --> 00:14:45,440
+outside of UB3A.
+
+315
+00:14:43,120 --> 00:14:48,000
+And when we think about those genes, we
+
+316
+00:14:45,440 --> 00:14:50,320
+want to dig into the literature and say
+
+317
+00:14:48,000 --> 00:14:53,040
+which of them actually have clinical
+
+318
+00:14:50,320 --> 00:14:56,480
+function. Right? Our kids are missing
+
+319
+00:14:53,040 --> 00:15:00,480
+half of their copies of those extra
+
+320
+00:14:56,480 --> 00:15:03,600
+genes. They're fully missing UB3A in
+
+321
+00:15:00,480 --> 00:15:06,160
+neurons, but those other genes are not
+
+322
+00:15:03,600 --> 00:15:09,120
+silenced. So they're being expressed on
+
+323
+00:15:06,160 --> 00:15:12,399
+the father's copy. They're just not
+
+324
+00:15:09,120 --> 00:15:14,399
+being expressed on the mother's copy. So
+
+325
+00:15:12,399 --> 00:15:17,360
+if that's the case, we call that haplo
+
+326
+00:15:14,399 --> 00:15:20,240
+insufficiency or half of the expression
+
+327
+00:15:17,360 --> 00:15:23,040
+that they might need. So if we look at
+
+328
+00:15:20,240 --> 00:15:24,880
+those genes and we look into the
+
+329
+00:15:23,040 --> 00:15:27,440
+literature of the clinical signs
+
+330
+00:15:24,880 --> 00:15:30,639
+associated with those extra genes, what
+
+331
+00:15:27,440 --> 00:15:32,880
+we learn is not all of them likely are
+
+332
+00:15:30,639 --> 00:15:36,079
+related to disease.
+
+333
+00:15:32,880 --> 00:15:40,480
+The GABA genes, those two GABA genes do
+
+334
+00:15:36,079 --> 00:15:43,360
+seem to have some individuals that only
+
+335
+00:15:40,480 --> 00:15:46,560
+have mutations or loss of function of
+
+336
+00:15:43,360 --> 00:15:48,880
+one copy of those genes in which they
+
+337
+00:15:46,560 --> 00:15:50,480
+have some clinical symptoms. Those
+
+338
+00:15:48,880 --> 00:15:54,000
+symptoms might be associated with
+
+339
+00:15:50,480 --> 00:15:56,079
+seizures, some intellectual disability,
+
+340
+00:15:54,000 --> 00:15:57,839
+and maybe even some learning
+
+341
+00:15:56,079 --> 00:16:00,320
+disabilities.
+
+342
+00:15:57,839 --> 00:16:02,959
+Sleep may be impacted. So you can see
+
+343
+00:16:00,320 --> 00:16:06,160
+the overlap of the Angelman syndrome
+
+344
+00:16:02,959 --> 00:16:08,000
+symptoms and those genes. And so we
+
+345
+00:16:06,160 --> 00:16:11,360
+don't want to forget about them. But the
+
+346
+00:16:08,000 --> 00:16:15,920
+the two genes that rise to the top is
+
+347
+00:16:11,360 --> 00:16:18,880
+GABA B3 and GABA G3.
+
+348
+00:16:15,920 --> 00:16:21,680
+So we need to think about can we correct
+
+349
+00:16:18,880 --> 00:16:25,519
+those as well.
+
+350
+00:16:21,680 --> 00:16:27,440
+So with all of that in mind, UB3 alone
+
+351
+00:16:25,519 --> 00:16:30,160
+without even thinking about those extra
+
+352
+00:16:27,440 --> 00:16:33,120
+genes results in all of the symptoms we
+
+353
+00:16:30,160 --> 00:16:34,720
+live with. And just to educate those who
+
+354
+00:16:33,120 --> 00:16:36,480
+don't live with Angelmen syndrome,
+
+355
+00:16:34,720 --> 00:16:39,839
+because I do not need to educate those
+
+356
+00:16:36,480 --> 00:16:43,120
+of us that do, it is associated with a
+
+357
+00:16:39,839 --> 00:16:45,360
+universal lack of speech, significant
+
+358
+00:16:43,120 --> 00:16:47,680
+sleep disturbance,
+
+359
+00:16:45,360 --> 00:16:50,800
+a taxian incoordination where some
+
+360
+00:16:47,680 --> 00:16:54,880
+individuals don't even walk,
+
+361
+00:16:50,800 --> 00:16:57,519
+impulsive and hyperactive behaviors.
+
+362
+00:16:54,880 --> 00:16:59,839
+Sometimes that can lead to aggression
+
+363
+00:16:57,519 --> 00:17:02,560
+and frustration,
+
+364
+00:16:59,839 --> 00:17:04,319
+an inability to live an independent
+
+365
+00:17:02,560 --> 00:17:06,079
+life,
+
+366
+00:17:04,319 --> 00:17:09,439
+and all of the activities of daily
+
+367
+00:17:06,079 --> 00:17:12,959
+living that are tremendously impacted.
+
+368
+00:17:09,439 --> 00:17:18,880
+But what I don't want anyone to forget
+
+369
+00:17:12,959 --> 00:17:21,679
+is the impact it has on us parents.
+
+370
+00:17:18,880 --> 00:17:24,240
+Inability to maintain employment,
+
+371
+00:17:21,679 --> 00:17:27,120
+loss of sleep, anxiety, social
+
+372
+00:17:24,240 --> 00:17:29,600
+isolation,
+
+373
+00:17:27,120 --> 00:17:32,080
+fatigue, chronic fatigue. Imagine
+
+374
+00:17:29,600 --> 00:17:35,039
+sleeping 3 to four hours a night. Not
+
+375
+00:17:32,080 --> 00:17:40,559
+just during the newborn years, but for
+
+376
+00:17:35,039 --> 00:17:43,919
+25, 35, 45, 55 years. Because our kids
+
+377
+00:17:40,559 --> 00:17:47,120
+are not degenerative and they live a
+
+378
+00:17:43,919 --> 00:17:50,240
+normal length of life. We believe just
+
+379
+00:17:47,120 --> 00:17:52,160
+not a normal quality of life. And who is
+
+380
+00:17:50,240 --> 00:17:54,320
+impacted by their lack of sleep? Of
+
+381
+00:17:52,160 --> 00:17:55,919
+course, they are. But what about every
+
+382
+00:17:54,320 --> 00:17:58,640
+caregiver that has to take care of them
+
+383
+00:17:55,919 --> 00:18:02,240
+for the rest of their life? That is
+
+384
+00:17:58,640 --> 00:18:04,000
+profoundly impactful to families. So,
+
+385
+00:18:02,240 --> 00:18:05,760
+I'm speaking to the drug developers in
+
+386
+00:18:04,000 --> 00:18:07,520
+the room. When we think about the
+
+387
+00:18:05,760 --> 00:18:10,000
+symptoms we're addressing, we cannot
+
+388
+00:18:07,520 --> 00:18:12,480
+forget about the impact that these
+
+389
+00:18:10,000 --> 00:18:15,440
+symptoms have on families. And that is
+
+390
+00:18:12,480 --> 00:18:18,160
+what meaningful is. How can we address
+
+391
+00:18:15,440 --> 00:18:21,039
+the symptoms of this disorder that are
+
+392
+00:18:18,160 --> 00:18:25,120
+meaningful to families?
+
+393
+00:18:21,039 --> 00:18:26,480
+It's not always only to the child or to
+
+394
+00:18:25,120 --> 00:18:28,559
+the adult that's living with Angelman
+
+395
+00:18:26,480 --> 00:18:31,200
+syndrome.
+
+396
+00:18:28,559 --> 00:18:33,440
+So, I mentioned mosaicism and I'm going
+
+397
+00:18:31,200 --> 00:18:34,640
+to go back to that because anybody in
+
+398
+00:18:33,440 --> 00:18:37,440
+this room that has a child with
+
+399
+00:18:34,640 --> 00:18:39,600
+mosaicism, I just want to thank you
+
+400
+00:18:37,440 --> 00:18:42,960
+because you certainly when we got our
+
+401
+00:18:39,600 --> 00:18:46,480
+diagnosis saved my life.
+
+402
+00:18:42,960 --> 00:18:48,480
+When I learned the capacity of
+
+403
+00:18:46,480 --> 00:18:50,799
+individuals
+
+404
+00:18:48,480 --> 00:18:55,039
+that are expressing
+
+405
+00:18:50,799 --> 00:18:59,600
+one to five% of maternal UB3A in their
+
+406
+00:18:55,039 --> 00:19:04,080
+cells, meaning 99 to 95%
+
+407
+00:18:59,600 --> 00:19:06,400
+is gone. They only have 1 to 5%.
+
+408
+00:19:04,080 --> 00:19:10,000
+Those individuals
+
+409
+00:19:06,400 --> 00:19:12,880
+may have some speech.
+
+410
+00:19:10,000 --> 00:19:15,600
+They don't have seizures and they walk
+
+411
+00:19:12,880 --> 00:19:19,520
+beautifully.
+
+412
+00:19:15,600 --> 00:19:22,880
+That's a different child to the 99% of
+
+413
+00:19:19,520 --> 00:19:24,559
+us where our kids live with no maternal
+
+414
+00:19:22,880 --> 00:19:28,080
+UB3A.
+
+415
+00:19:24,559 --> 00:19:31,360
+What does that tell me? 20%
+
+416
+00:19:28,080 --> 00:19:35,120
+they can speak in sentences potentially
+
+417
+00:19:31,360 --> 00:19:36,720
+and 40% may not even be diagnosed
+
+418
+00:19:35,120 --> 00:19:39,919
+because they are mistaken as
+
+419
+00:19:36,720 --> 00:19:43,600
+neurotypical. Imagine that. Imagine
+
+420
+00:19:39,919 --> 00:19:46,880
+that. And what that tells me as a doctor
+
+421
+00:19:43,600 --> 00:19:48,799
+is that we don't need a lot to make a
+
+422
+00:19:46,880 --> 00:19:51,760
+huge difference.
+
+423
+00:19:48,799 --> 00:19:54,960
+Of course, I want 40% or more because I
+
+424
+00:19:51,760 --> 00:19:59,039
+want a neurotypical child. We all do
+
+425
+00:19:54,960 --> 00:20:01,760
+or many of us do. But 1 to 5% is a
+
+426
+00:19:59,039 --> 00:20:03,280
+quality of life improvement that I dream
+
+427
+00:20:01,760 --> 00:20:06,400
+about
+
+428
+00:20:03,280 --> 00:20:08,000
+and I think most of us do. And we
+
+429
+00:20:06,400 --> 00:20:10,559
+learned that because of the mosaic
+
+430
+00:20:08,000 --> 00:20:12,640
+children and adults. And so for that,
+
+431
+00:20:10,559 --> 00:20:14,160
+I'm grateful. But it allowed us to think
+
+432
+00:20:12,640 --> 00:20:17,039
+about drug development in a little bit
+
+433
+00:20:14,160 --> 00:20:18,720
+of a different way.
+
+434
+00:20:17,039 --> 00:20:20,160
+So how are we going to get there? How
+
+435
+00:20:18,720 --> 00:20:22,559
+are we going to address it? So this is
+
+436
+00:20:20,160 --> 00:20:23,919
+the road map. Okay. We used to have four
+
+437
+00:20:22,559 --> 00:20:25,840
+pillars and I'm going to explain the
+
+438
+00:20:23,919 --> 00:20:28,480
+five pillars, but your book has
+
+439
+00:20:25,840 --> 00:20:32,799
+everything in there about the pillars
+
+440
+00:20:28,480 --> 00:20:36,320
+and the why. So we can replace the
+
+441
+00:20:32,799 --> 00:20:40,480
+missing UB3 gene or protein
+
+442
+00:20:36,320 --> 00:20:43,280
+pillar one. We can unsilence the
+
+443
+00:20:40,480 --> 00:20:45,360
+paternal alil
+
+444
+00:20:43,280 --> 00:20:48,240
+pillar two.
+
+445
+00:20:45,360 --> 00:20:51,200
+By unsilencing it, we will allow it to
+
+446
+00:20:48,240 --> 00:20:53,840
+be read in neurons, which is essentially
+
+447
+00:20:51,200 --> 00:20:56,640
+similar to replacing it, but it's a
+
+448
+00:20:53,840 --> 00:20:59,840
+different strategy on how we think about
+
+449
+00:20:56,640 --> 00:21:03,760
+the molecular way to address that.
+
+450
+00:20:59,840 --> 00:21:08,159
+Pillar three is thinking about the genes
+
+451
+00:21:03,760 --> 00:21:10,799
+outside of UB3A for the deletion for UPD
+
+452
+00:21:08,159 --> 00:21:13,679
+and ICD because they all have different
+
+453
+00:21:10,799 --> 00:21:15,840
+genes that are probably contributing to
+
+454
+00:21:13,679 --> 00:21:18,960
+the phenotype and those genotypes that
+
+455
+00:21:15,840 --> 00:21:21,760
+are different than mutation.
+
+456
+00:21:18,960 --> 00:21:24,159
+Pillar four, everything we learned about
+
+457
+00:21:21,760 --> 00:21:27,120
+from Dr. Margolus about the downstream
+
+458
+00:21:24,159 --> 00:21:29,200
+targets. How do the downstream targets
+
+459
+00:21:27,120 --> 00:21:31,120
+affect
+
+460
+00:21:29,200 --> 00:21:34,240
+the function of the syninnapse and the
+
+461
+00:21:31,120 --> 00:21:36,880
+neurons and can we hit those targets in
+
+462
+00:21:34,240 --> 00:21:39,280
+a way that could benefit individuals
+
+463
+00:21:36,880 --> 00:21:41,440
+with Angelmen syndrome? And then
+
+464
+00:21:39,280 --> 00:21:44,000
+finally, pillar five is all the things
+
+465
+00:21:41,440 --> 00:21:45,679
+we need to do to set up and be prepared
+
+466
+00:21:44,000 --> 00:21:47,760
+for clinical trials in Angelmen
+
+467
+00:21:45,679 --> 00:21:49,280
+syndrome.
+
+468
+00:21:47,760 --> 00:21:52,960
+So
+
+469
+00:21:49,280 --> 00:21:57,600
+this is just a a gateway into everybody
+
+470
+00:21:52,960 --> 00:21:59,919
+working on this pillar one AAV gene
+
+471
+00:21:57,600 --> 00:22:03,520
+replacement therapy.
+
+472
+00:21:59,919 --> 00:22:05,120
+Lentivirus hematopoetic stem cell gene
+
+473
+00:22:03,520 --> 00:22:06,400
+therapy. I know these words sound really
+
+474
+00:22:05,120 --> 00:22:09,280
+big and scary, but we're going to go
+
+475
+00:22:06,400 --> 00:22:12,320
+through them one at a time. Enzyme
+
+476
+00:22:09,280 --> 00:22:16,159
+replacement therapy. All of those are to
+
+477
+00:22:12,320 --> 00:22:20,159
+replace the UB3A gene that is missing.
+
+478
+00:22:16,159 --> 00:22:22,320
+Pillar one. Pillar two, stop the stop.
+
+479
+00:22:20,159 --> 00:22:23,919
+Unsilence the father's copy of that
+
+480
+00:22:22,320 --> 00:22:25,840
+gene.
+
+481
+00:22:23,919 --> 00:22:29,120
+We can do that with an anti-sense
+
+482
+00:22:25,840 --> 00:22:32,480
+olonucleotide or ASO. It's all in your
+
+483
+00:22:29,120 --> 00:22:35,120
+glossery. Don't be overwhelmed. Just
+
+484
+00:22:32,480 --> 00:22:36,960
+listen and absorb. It's all in there.
+
+485
+00:22:35,120 --> 00:22:38,720
+You're going to be hit by this time and
+
+486
+00:22:36,960 --> 00:22:40,080
+time again over the next two days. I
+
+487
+00:22:38,720 --> 00:22:42,640
+promise you, you're going to walk out of
+
+488
+00:22:40,080 --> 00:22:45,919
+here and you're going to understand it.
+
+489
+00:22:42,640 --> 00:22:49,440
+Artificial transcription factors,
+
+490
+00:22:45,919 --> 00:22:51,520
+crisper gene editing,
+
+491
+00:22:49,440 --> 00:22:53,840
+and mirna
+
+492
+00:22:51,520 --> 00:22:57,679
+or sirna.
+
+493
+00:22:53,840 --> 00:23:01,679
+All of those technologies can unsilence
+
+494
+00:22:57,679 --> 00:23:02,880
+the father's copy of that gene.
+
+495
+00:23:01,679 --> 00:23:05,600
+How are we going to deal with those
+
+496
+00:23:02,880 --> 00:23:07,520
+genes outside of UB3A?
+
+497
+00:23:05,600 --> 00:23:10,320
+We're going to hear a talk later this
+
+498
+00:23:07,520 --> 00:23:14,080
+afternoon about how we can crisper
+
+499
+00:23:10,320 --> 00:23:17,039
+activate and turn up the notch of those
+
+500
+00:23:14,080 --> 00:23:20,159
+hapluins sufficient genes to increase
+
+501
+00:23:17,039 --> 00:23:22,080
+their expression on the father's copy in
+
+502
+00:23:20,159 --> 00:23:28,159
+which they are read because it's not
+
+503
+00:23:22,080 --> 00:23:30,159
+UB3A and we can increase that expression
+
+504
+00:23:28,159 --> 00:23:33,280
+downstream targeting we have small
+
+505
+00:23:30,159 --> 00:23:35,440
+molecules like drugs from neurin we're
+
+506
+00:23:33,280 --> 00:23:38,240
+going to hear a lecture from helix about
+
+507
+00:23:35,440 --> 00:23:40,960
+some drugs they're working on from RO
+
+508
+00:23:38,240 --> 00:23:43,280
+and from Brown University
+
+509
+00:23:40,960 --> 00:23:45,360
+and then critically preparing for
+
+510
+00:23:43,280 --> 00:23:47,120
+clinical trials which are all the ways
+
+511
+00:23:45,360 --> 00:23:48,960
+in which we have the models that we've
+
+512
+00:23:47,120 --> 00:23:51,200
+developed the endpoints and the
+
+513
+00:23:48,960 --> 00:23:54,400
+biomarkers that we're working so heavily
+
+514
+00:23:51,200 --> 00:23:56,559
+on and ensuring we have policy and
+
+515
+00:23:54,400 --> 00:23:58,400
+regulatory strategy so that the
+
+516
+00:23:56,559 --> 00:24:01,120
+regulators hear what we're doing and
+
+517
+00:23:58,400 --> 00:24:03,200
+help to support it.
+
+518
+00:24:01,120 --> 00:24:06,720
+So that's another way of looking at it
+
+519
+00:24:03,200 --> 00:24:11,279
+which is in your your program is those
+
+520
+00:24:06,720 --> 00:24:13,679
+five pillars maternal replacement
+
+521
+00:24:11,279 --> 00:24:15,919
+unsilencing dad
+
+522
+00:24:13,679 --> 00:24:18,799
+adjacent genes
+
+523
+00:24:15,919 --> 00:24:22,559
+downstream targets. Let's get prepared
+
+524
+00:24:18,799 --> 00:24:26,600
+to accelerate toward human application.
+
+525
+00:24:22,559 --> 00:24:26,600
+Let's start with pillar one.
+
+526
+00:24:28,080 --> 00:24:35,360
+That's a neuron and we need to get UB3A
+
+527
+00:24:32,159 --> 00:24:37,120
+into that neuron because it's missing.
+
+528
+00:24:35,360 --> 00:24:40,799
+And there are a couple of ways that we
+
+529
+00:24:37,120 --> 00:24:43,679
+can do that. One being with AAV gene
+
+530
+00:24:40,799 --> 00:24:47,279
+replacement therapy where we take a
+
+531
+00:24:43,679 --> 00:24:50,159
+virus which is a healthy virus where the
+
+532
+00:24:47,279 --> 00:24:53,600
+bad parts have been taken out of it and
+
+533
+00:24:50,159 --> 00:24:55,520
+we deposit the UB3 gene inside that
+
+534
+00:24:53,600 --> 00:24:58,640
+virus.
+
+535
+00:24:55,520 --> 00:25:01,360
+That virus is then injected into the
+
+536
+00:24:58,640 --> 00:25:02,799
+fluid around the brain, whether that's
+
+537
+00:25:01,360 --> 00:25:05,600
+through the fluid at the base of the
+
+538
+00:25:02,799 --> 00:25:07,679
+skull or the fluid through the brain
+
+539
+00:25:05,600 --> 00:25:10,080
+into the ventricle.
+
+540
+00:25:07,679 --> 00:25:12,080
+Or we're going to hear a talk tomorrow
+
+541
+00:25:10,080 --> 00:25:15,200
+about the potential to actually inject
+
+542
+00:25:12,080 --> 00:25:18,320
+it in the veins and the virus can cross
+
+543
+00:25:15,200 --> 00:25:21,200
+the bloodb brain barrier, go from the
+
+544
+00:25:18,320 --> 00:25:23,600
+veins to the brain. That would be
+
+545
+00:25:21,200 --> 00:25:25,520
+amazing and we'll talk about that. But
+
+546
+00:25:23,600 --> 00:25:29,679
+that's really something that doesn't
+
+547
+00:25:25,520 --> 00:25:32,159
+have yet that path in humans. We don't
+
+548
+00:25:29,679 --> 00:25:35,039
+have that long track record yet for that
+
+549
+00:25:32,159 --> 00:25:37,919
+very new and very exciting technology.
+
+550
+00:25:35,039 --> 00:25:40,640
+We'll talk more about that as well.
+
+551
+00:25:37,919 --> 00:25:44,159
+We can do it a different way. We can
+
+552
+00:25:40,640 --> 00:25:48,559
+take cells, as Emma showed you, outside
+
+553
+00:25:44,159 --> 00:25:51,520
+the body, our own blood cells.
+
+554
+00:25:48,559 --> 00:25:54,400
+We can put the UB3 gene into those blood
+
+555
+00:25:51,520 --> 00:25:58,000
+cells in a dish.
+
+556
+00:25:54,400 --> 00:26:00,159
+Then we can put them back into the body
+
+557
+00:25:58,000 --> 00:26:03,200
+if we make a little space for them in
+
+558
+00:26:00,159 --> 00:26:06,400
+our bone marrow for them to deposit and
+
+559
+00:26:03,200 --> 00:26:08,400
+create a factory in our bone marrow to
+
+560
+00:26:06,400 --> 00:26:10,080
+then release the cells out of the bone
+
+561
+00:26:08,400 --> 00:26:12,480
+marrow, the blood cells. They're called
+
+562
+00:26:10,080 --> 00:26:15,440
+blood stem cells.
+
+563
+00:26:12,480 --> 00:26:19,279
+And those blood stem cells cross the
+
+564
+00:26:15,440 --> 00:26:21,440
+bloodb brain barrier, go into the brain,
+
+565
+00:26:19,279 --> 00:26:24,320
+distribute throughout the brain,
+
+566
+00:26:21,440 --> 00:26:26,559
+touching almost every neuron, and
+
+567
+00:26:24,320 --> 00:26:30,159
+release UB3A
+
+568
+00:26:26,559 --> 00:26:33,679
+to get into those neurons to be read for
+
+569
+00:26:30,159 --> 00:26:35,919
+that protein to function. So that's
+
+570
+00:26:33,679 --> 00:26:39,760
+called hematopoetic
+
+571
+00:26:35,919 --> 00:26:41,360
+stem cell gene therapy. And then enzyme
+
+572
+00:26:39,760 --> 00:26:43,600
+replacement therapy. What if we can take
+
+573
+00:26:41,360 --> 00:26:45,600
+the UB3 protein and just put it into the
+
+574
+00:26:43,600 --> 00:26:48,559
+brain? So, we're going to hear about
+
+575
+00:26:45,600 --> 00:26:51,279
+that as well.
+
+576
+00:26:48,559 --> 00:26:52,640
+So, gene replacement therapy. You don't
+
+577
+00:26:51,279 --> 00:26:54,480
+need to read this slide because I'm just
+
+578
+00:26:52,640 --> 00:26:58,240
+going to summarize it for you. But what
+
+579
+00:26:54,480 --> 00:27:00,880
+I want you to see is that so much work
+
+580
+00:26:58,240 --> 00:27:03,440
+and time and money has gone into this
+
+581
+00:27:00,880 --> 00:27:05,520
+because of you. You have funded all of
+
+582
+00:27:03,440 --> 00:27:08,400
+these experiments and these are animal
+
+583
+00:27:05,520 --> 00:27:11,279
+experiments. These are mouse experiments
+
+584
+00:27:08,400 --> 00:27:15,200
+and we also have now monkey experiments
+
+585
+00:27:11,279 --> 00:27:18,400
+showing that if you replace the UB3A
+
+586
+00:27:15,200 --> 00:27:20,720
+gene, you can correct the behaviors of
+
+587
+00:27:18,400 --> 00:27:23,760
+the mouse that may be somewhat
+
+588
+00:27:20,720 --> 00:27:26,240
+translational to people. And we can do
+
+589
+00:27:23,760 --> 00:27:29,760
+that with AAV gene replacement therapy.
+
+590
+00:27:26,240 --> 00:27:32,559
+So what you can see is that the graphs
+
+591
+00:27:29,760 --> 00:27:35,279
+you're going to see high, low, high,
+
+592
+00:27:32,559 --> 00:27:38,080
+right? when you see correction to wild
+
+593
+00:27:35,279 --> 00:27:40,480
+type or normal which Dr. Samako
+
+594
+00:27:38,080 --> 00:27:43,279
+explained to us wild type is the normal
+
+595
+00:27:40,480 --> 00:27:46,559
+mouse or the neurotypical mouse. If we
+
+596
+00:27:43,279 --> 00:27:49,120
+can get back toward neurotypical and
+
+597
+00:27:46,559 --> 00:27:50,960
+away from Angelman syndrome, we are
+
+598
+00:27:49,120 --> 00:27:53,440
+improving the behaviors of these mice
+
+599
+00:27:50,960 --> 00:27:56,880
+with these technologies. And so this
+
+600
+00:27:53,440 --> 00:27:59,520
+gene therapy on the top is the AAV, at
+
+601
+00:27:56,880 --> 00:28:01,679
+the bottom is the HSC, but you don't
+
+602
+00:27:59,520 --> 00:28:04,559
+really care about that. I think you care
+
+603
+00:28:01,679 --> 00:28:06,640
+a little bit more about this where let's
+
+604
+00:28:04,559 --> 00:28:09,120
+just look at the reality of it. Right?
+
+605
+00:28:06,640 --> 00:28:13,039
+So this is a program the hematopoetic
+
+606
+00:28:09,120 --> 00:28:14,960
+stem cell gene replacement therapy where
+
+607
+00:28:13,039 --> 00:28:17,440
+you can see a mouse on the left with
+
+608
+00:28:14,960 --> 00:28:20,880
+Angelman syndrome
+
+609
+00:28:17,440 --> 00:28:23,120
+and that mouse is having a hard time.
+
+610
+00:28:20,880 --> 00:28:26,399
+He can't keep up. He's hitting his back
+
+611
+00:28:23,120 --> 00:28:29,520
+legs. He's maintained in this system but
+
+612
+00:28:26,399 --> 00:28:31,840
+he's really falling behind in a single
+
+613
+00:28:29,520 --> 00:28:34,960
+mouse after gene replacement therapy
+
+614
+00:28:31,840 --> 00:28:38,080
+using hematopetic stem cells. Look at
+
+615
+00:28:34,960 --> 00:28:40,320
+that same mouse.
+
+616
+00:28:38,080 --> 00:28:43,039
+Doesn't take a scientist to look at that
+
+617
+00:28:40,320 --> 00:28:45,120
+and say, "Well, hell, can you do that to
+
+618
+00:28:43,039 --> 00:28:48,240
+my daughter? I'd like her to walk like
+
+619
+00:28:45,120 --> 00:28:50,480
+that." So, you can see the benefit of
+
+620
+00:28:48,240 --> 00:28:53,279
+these animal models to show us the
+
+621
+00:28:50,480 --> 00:28:55,200
+possibility of improving gate, for
+
+622
+00:28:53,279 --> 00:28:56,640
+example.
+
+623
+00:28:55,200 --> 00:29:00,159
+One thing about this program, which
+
+624
+00:28:56,640 --> 00:29:03,039
+we've been funding since 2016, is that
+
+625
+00:29:00,159 --> 00:29:04,159
+it used something called an MNDU3
+
+626
+00:29:03,039 --> 00:29:06,320
+promoter. Well, you don't care about
+
+627
+00:29:04,159 --> 00:29:08,080
+that. And Dr. Kon is going to talk to us
+
+628
+00:29:06,320 --> 00:29:09,440
+about that tomorrow. He's our keynote in
+
+629
+00:29:08,080 --> 00:29:11,440
+the morning and I really encourage you
+
+630
+00:29:09,440 --> 00:29:13,360
+to come and listen to this talk because
+
+631
+00:29:11,440 --> 00:29:16,320
+it's really important for you to
+
+632
+00:29:13,360 --> 00:29:18,399
+understand this. But we had to change
+
+633
+00:29:16,320 --> 00:29:21,039
+this promoter because this promoter was
+
+634
+00:29:18,399 --> 00:29:22,880
+associated with some safety challenges
+
+635
+00:29:21,039 --> 00:29:24,960
+in the clinic in humans with other
+
+636
+00:29:22,880 --> 00:29:26,480
+programs not in Angelmen syndrome. So
+
+637
+00:29:24,960 --> 00:29:28,320
+before we went to Angelman syndrome, we
+
+638
+00:29:26,480 --> 00:29:30,399
+said we're not going to use the
+
+639
+00:29:28,320 --> 00:29:32,799
+promiscuous promoter that might have
+
+640
+00:29:30,399 --> 00:29:36,320
+risk. We're going to find promoters that
+
+641
+00:29:32,799 --> 00:29:38,559
+have 15 or 20 years of experience where
+
+642
+00:29:36,320 --> 00:29:41,200
+we can feel the safety track record is
+
+643
+00:29:38,559 --> 00:29:42,799
+stronger. So, let's see what can we do
+
+644
+00:29:41,200 --> 00:29:45,039
+with the new promoters. Well, I want you
+
+645
+00:29:42,799 --> 00:29:47,760
+to look at the top left, which is a wild
+
+646
+00:29:45,039 --> 00:29:49,200
+type or neurotypical mouse. I'm going to
+
+647
+00:29:47,760 --> 00:29:51,919
+have you look at the top right, which is
+
+648
+00:29:49,200 --> 00:29:53,840
+an Angelman mouse, and the bottom left
+
+649
+00:29:51,919 --> 00:29:57,120
+and the bottom right are two new
+
+650
+00:29:53,840 --> 00:29:59,039
+promoters that we have that have a
+
+651
+00:29:57,120 --> 00:30:00,480
+better safety track record than the
+
+652
+00:29:59,039 --> 00:30:04,960
+prior promoter that was done in that
+
+653
+00:30:00,480 --> 00:30:08,080
+early work. So, look here, top left, top
+
+654
+00:30:04,960 --> 00:30:09,679
+right, bottom left, bottom right. You
+
+655
+00:30:08,080 --> 00:30:11,840
+could see the wild type mouse is getting
+
+656
+00:30:09,679 --> 00:30:14,640
+to the end with no trouble. Promoter one
+
+657
+00:30:11,840 --> 00:30:16,480
+and promoter two are having a race and
+
+658
+00:30:14,640 --> 00:30:18,640
+Angelmen untreated is having a really
+
+659
+00:30:16,480 --> 00:30:20,320
+hard time.
+
+660
+00:30:18,640 --> 00:30:23,200
+Doesn't take a scientist to look at that
+
+661
+00:30:20,320 --> 00:30:26,080
+and say that's different.
+
+662
+00:30:23,200 --> 00:30:28,240
+We've corrected the balance and motor
+
+663
+00:30:26,080 --> 00:30:31,760
+function of that mouse, that single
+
+664
+00:30:28,240 --> 00:30:34,880
+mouse. When you see profound effect like
+
+665
+00:30:31,760 --> 00:30:37,679
+that, it gets you really excited that
+
+666
+00:30:34,880 --> 00:30:40,720
+there's the possibility
+
+667
+00:30:37,679 --> 00:30:44,559
+of this type of therapy improving the
+
+668
+00:30:40,720 --> 00:30:48,399
+symptoms of Angelman syndrome.
+
+669
+00:30:44,559 --> 00:30:50,159
+What gets me more excited than that as a
+
+670
+00:30:48,399 --> 00:30:53,360
+as someone who understands the research
+
+671
+00:30:50,159 --> 00:30:56,559
+is to say, okay, Angelman's at the top.
+
+672
+00:30:53,360 --> 00:30:59,120
+Look at UB3A, which is the third column
+
+673
+00:30:56,559 --> 00:31:01,520
+where there's no green.
+
+674
+00:30:59,120 --> 00:31:05,039
+Neurotypical, you see green, the wild
+
+675
+00:31:01,520 --> 00:31:06,960
+type mouse. Promoter one and promoter 2,
+
+676
+00:31:05,039 --> 00:31:08,799
+I think I see green. Well, the green is
+
+677
+00:31:06,960 --> 00:31:10,720
+UB3A.
+
+678
+00:31:08,799 --> 00:31:13,200
+Well, hold on. Let's dive in a little
+
+679
+00:31:10,720 --> 00:31:15,440
+bit more. I see a lot of UB3A. And it
+
+680
+00:31:13,200 --> 00:31:18,960
+looks like the red are the neurons and
+
+681
+00:31:15,440 --> 00:31:21,760
+the UB3A is in the neurons. All right,
+
+682
+00:31:18,960 --> 00:31:25,039
+let's dig in a little bit more. Wow,
+
+683
+00:31:21,760 --> 00:31:26,720
+there's a lot of UB3 in those neurons.
+
+684
+00:31:25,039 --> 00:31:29,279
+And that's why you can see the behavior
+
+685
+00:31:26,720 --> 00:31:31,440
+of those mice gets so much better
+
+686
+00:31:29,279 --> 00:31:33,760
+because this is a mouse. And remember, a
+
+687
+00:31:31,440 --> 00:31:36,399
+mouse is not a human. And we don't know
+
+688
+00:31:33,760 --> 00:31:41,360
+how this will translate to humans. But
+
+689
+00:31:36,399 --> 00:31:43,440
+what we do know is that I call this the
+
+690
+00:31:41,360 --> 00:31:45,519
+field of puppies
+
+691
+00:31:43,440 --> 00:31:48,080
+because that's what it looks like. And
+
+692
+00:31:45,519 --> 00:31:52,080
+that's very exciting to see because with
+
+693
+00:31:48,080 --> 00:31:54,480
+most therapies, we don't see that. And
+
+694
+00:31:52,080 --> 00:31:56,480
+so that's an exciting program all
+
+695
+00:31:54,480 --> 00:31:58,559
+because of you and your funding to help
+
+696
+00:31:56,480 --> 00:32:01,679
+support it.
+
+697
+00:31:58,559 --> 00:32:04,399
+Let's move to pillar two. Pillar two is
+
+698
+00:32:01,679 --> 00:32:07,120
+on silencing the father's copy of the
+
+699
+00:32:04,399 --> 00:32:09,120
+gene. You could do that like I said with
+
+700
+00:32:07,120 --> 00:32:13,039
+anti-sense, oligos, zinc, fingers,
+
+701
+00:32:09,120 --> 00:32:14,960
+mirna, shrna, sirna, crisper. So many
+
+702
+00:32:13,039 --> 00:32:17,039
+things. I can roll these terms off my
+
+703
+00:32:14,960 --> 00:32:19,039
+tongue because you guys now know what
+
+704
+00:32:17,039 --> 00:32:21,760
+they are thanks to the education that
+
+705
+00:32:19,039 --> 00:32:23,519
+you got this morning. Let's unsilence
+
+706
+00:32:21,760 --> 00:32:24,880
+that father's copy. Well, how do we do
+
+707
+00:32:23,519 --> 00:32:28,880
+that? And how does that look in the
+
+708
+00:32:24,880 --> 00:32:31,679
+animal models? ASOS can rescue phenotype
+
+709
+00:32:28,880 --> 00:32:32,880
+in the animal model. In an adult, there
+
+710
+00:32:31,679 --> 00:32:34,480
+was some of the phenotype that was
+
+711
+00:32:32,880 --> 00:32:37,760
+corrected.
+
+712
+00:32:34,480 --> 00:32:40,320
+So, we have optimism that in older
+
+713
+00:32:37,760 --> 00:32:42,080
+animals, maybe we can see benefit. And
+
+714
+00:32:40,320 --> 00:32:44,399
+that was enough for us to be able to
+
+715
+00:32:42,080 --> 00:32:45,840
+push that through to human application,
+
+716
+00:32:44,399 --> 00:32:49,120
+which we'll talk about, which is
+
+717
+00:32:45,840 --> 00:32:51,679
+incredibly exciting. Zinc fingers, we
+
+718
+00:32:49,120 --> 00:32:53,519
+were able to see that we can unsilence
+
+719
+00:32:51,679 --> 00:32:55,600
+the father's copy, and you could see the
+
+720
+00:32:53,519 --> 00:32:56,960
+brown at the top, no brown in the
+
+721
+00:32:55,600 --> 00:32:58,960
+middle, and the brown at the bottom.
+
+722
+00:32:56,960 --> 00:33:01,760
+What does that mean? UB3A has been
+
+723
+00:32:58,960 --> 00:33:03,919
+restored into the neurons of the brain.
+
+724
+00:33:01,760 --> 00:33:06,640
+That's exciting. That's a positive
+
+725
+00:33:03,919 --> 00:33:08,880
+result. And then it also corrected the
+
+726
+00:33:06,640 --> 00:33:11,600
+behaviors in the mouse model of Angelmen
+
+727
+00:33:08,880 --> 00:33:14,799
+syndrome. So super exciting. What about
+
+728
+00:33:11,600 --> 00:33:16,399
+crisper gene editing? Same thing. These
+
+729
+00:33:14,799 --> 00:33:18,399
+slides don't mean anything to you in
+
+730
+00:33:16,399 --> 00:33:20,159
+terms of you see a high black bar, you
+
+731
+00:33:18,399 --> 00:33:22,720
+see a very low white bar, and you see an
+
+732
+00:33:20,159 --> 00:33:25,200
+in between gray bar. The in between gray
+
+733
+00:33:22,720 --> 00:33:28,320
+bar is what was corrected in one
+
+734
+00:33:25,200 --> 00:33:31,440
+experiment using AAV crisper delivery in
+
+735
+00:33:28,320 --> 00:33:34,480
+order to deliver the editor to the brain
+
+736
+00:33:31,440 --> 00:33:37,200
+and and um deliver UB unsilence and
+
+737
+00:33:34,480 --> 00:33:38,480
+deliver UB3A to those to those neurons.
+
+738
+00:33:37,200 --> 00:33:40,080
+And then on the right you can see that
+
+739
+00:33:38,480 --> 00:33:42,960
+there's lots of bars of correcting the
+
+740
+00:33:40,080 --> 00:33:44,960
+phenotype of UB3A of uh Angelman
+
+741
+00:33:42,960 --> 00:33:46,480
+syndrome in the mice. But this probably
+
+742
+00:33:44,960 --> 00:33:48,320
+means a little more to you. And this is
+
+743
+00:33:46,480 --> 00:33:50,159
+my favorite video. Sorry Shauna. I know
+
+744
+00:33:48,320 --> 00:33:52,720
+this is your video and I steal it every
+
+745
+00:33:50,159 --> 00:33:54,720
+time. But it's so important for families
+
+746
+00:33:52,720 --> 00:33:56,480
+to see. We have the wild type mouse on
+
+747
+00:33:54,720 --> 00:33:59,039
+the left, the untreated Angelman mouse
+
+748
+00:33:56,480 --> 00:34:01,519
+in the middle. Oops. And the angelman
+
+749
+00:33:59,039 --> 00:34:03,519
+treated mouse on the right. What's more
+
+750
+00:34:01,519 --> 00:34:05,519
+important to me in this video, similar
+
+751
+00:34:03,519 --> 00:34:09,839
+to the other video for HSSE gene
+
+752
+00:34:05,519 --> 00:34:14,240
+therapy, is that these are adult mice,
+
+753
+00:34:09,839 --> 00:34:17,280
+not newborn mice, not neonatal mice, not
+
+754
+00:34:14,240 --> 00:34:19,760
+mice that are in uterero. These are
+
+755
+00:34:17,280 --> 00:34:22,879
+adult mice, adolescent mice, teenage
+
+756
+00:34:19,760 --> 00:34:25,760
+mice that are having benefit after
+
+757
+00:34:22,879 --> 00:34:27,760
+birth, well after birth in order to
+
+758
+00:34:25,760 --> 00:34:29,520
+rescue these phenotypes. We don't know
+
+759
+00:34:27,760 --> 00:34:32,560
+how that will behave in humans. We have
+
+760
+00:34:29,520 --> 00:34:35,119
+no idea, but we don't know it won't
+
+761
+00:34:32,560 --> 00:34:36,960
+improve phenotype in humans. And the
+
+762
+00:34:35,119 --> 00:34:39,359
+only way we're going to know is if we
+
+763
+00:34:36,960 --> 00:34:40,879
+try. And there's reason to believe based
+
+764
+00:34:39,359 --> 00:34:42,960
+on what you're going to hear tomorrow
+
+765
+00:34:40,879 --> 00:34:45,359
+with the ASOS and clinical trials in
+
+766
+00:34:42,960 --> 00:34:47,280
+both adults, young children, and
+
+767
+00:34:45,359 --> 00:34:49,440
+adolescence that benefit is being seen
+
+768
+00:34:47,280 --> 00:34:51,839
+across the board for all individuals
+
+769
+00:34:49,440 --> 00:34:54,480
+living with Angelman syndrome. And so
+
+770
+00:34:51,839 --> 00:34:56,079
+that's really optimistic that maybe that
+
+771
+00:34:54,480 --> 00:34:59,040
+therapeutic window that a lot of people
+
+772
+00:34:56,079 --> 00:35:01,200
+like to talk about is different for
+
+773
+00:34:59,040 --> 00:35:04,960
+neurodedevelopmental disorders than it
+
+774
+00:35:01,200 --> 00:35:08,079
+is for neurodeenerative disorders.
+
+775
+00:35:04,960 --> 00:35:11,119
+Let's talk about pillar three. Pillar
+
+776
+00:35:08,079 --> 00:35:12,960
+three we have a program where we are
+
+777
+00:35:11,119 --> 00:35:15,520
+upregulating
+
+778
+00:35:12,960 --> 00:35:17,680
+the haplo insufficient genes in the
+
+779
+00:35:15,520 --> 00:35:20,160
+deletion genotype. We already talked
+
+780
+00:35:17,680 --> 00:35:22,000
+about that. This is a group out of UCSF.
+
+781
+00:35:20,160 --> 00:35:23,599
+Um Dr. Dr. Nadavatio is going to talk to
+
+782
+00:35:22,000 --> 00:35:25,440
+us later today about the program that
+
+783
+00:35:23,599 --> 00:35:28,160
+we're working with a collaboration
+
+784
+00:35:25,440 --> 00:35:30,320
+between Yale University, North Carolina
+
+785
+00:35:28,160 --> 00:35:32,480
+State and University of California, San
+
+786
+00:35:30,320 --> 00:35:35,839
+Francisco. And this is where we're
+
+787
+00:35:32,480 --> 00:35:39,760
+upregulating those genes to try to see
+
+788
+00:35:35,839 --> 00:35:42,480
+if we can have a benefit in improving
+
+789
+00:35:39,760 --> 00:35:44,000
+the the expression of some of those
+
+790
+00:35:42,480 --> 00:35:45,359
+genes. And I'm not going to give it
+
+791
+00:35:44,000 --> 00:35:47,680
+away. I'm going to let him share his
+
+792
+00:35:45,359 --> 00:35:51,680
+data. But what you can see here is that
+
+793
+00:35:47,680 --> 00:35:53,760
+we have found constructs for humans that
+
+794
+00:35:51,680 --> 00:35:56,320
+can increase expression of those genes
+
+795
+00:35:53,760 --> 00:35:59,440
+that we think really matter, which is
+
+796
+00:35:56,320 --> 00:36:03,359
+very exciting. And then finally, pillar
+
+797
+00:35:59,440 --> 00:36:06,640
+four, those downstream targets.
+
+798
+00:36:03,359 --> 00:36:08,640
+Each one of these downstream targets has
+
+799
+00:36:06,640 --> 00:36:10,160
+a different path that they are
+
+800
+00:36:08,640 --> 00:36:12,960
+addressing. And we learned that there
+
+801
+00:36:10,160 --> 00:36:15,440
+are thousands of paths that we might be
+
+802
+00:36:12,960 --> 00:36:18,480
+able to address. And each one of these
+
+803
+00:36:15,440 --> 00:36:21,680
+programs, Nurin UN, uh, Brown
+
+804
+00:36:18,480 --> 00:36:24,320
+University, BDNF Analog, OPC, OPC
+
+805
+00:36:21,680 --> 00:36:25,680
+rescue, Aloabat from from RO that
+
+806
+00:36:24,320 --> 00:36:27,040
+they're going to talk about tomorrow,
+
+807
+00:36:25,680 --> 00:36:29,359
+and Helix you're going to hear about
+
+808
+00:36:27,040 --> 00:36:31,760
+later today. All talking about different
+
+809
+00:36:29,359 --> 00:36:35,400
+constructs that might affect the synapse
+
+810
+00:36:31,760 --> 00:36:35,400
+and improve function.
+
+811
+00:36:35,520 --> 00:36:40,720
+And then finally, where does that put
+
+812
+00:36:37,520 --> 00:36:42,480
+us? It puts us to say, this is
+
+813
+00:36:40,720 --> 00:36:44,640
+overwhelming. there's a whole lot to be
+
+814
+00:36:42,480 --> 00:36:46,320
+excited about, but how do we compare
+
+815
+00:36:44,640 --> 00:36:49,599
+this to that or that to this? I don't
+
+816
+00:36:46,320 --> 00:36:52,960
+understand. And so, somebody did a a
+
+817
+00:36:49,599 --> 00:36:56,240
+study where they looked at if we knock
+
+818
+00:36:52,960 --> 00:37:00,720
+if we replace UB3A at different time
+
+819
+00:36:56,240 --> 00:37:03,359
+points prenatally at birth in a young
+
+820
+00:37:00,720 --> 00:37:05,839
+animal, in an adolescent animal, or in
+
+821
+00:37:03,359 --> 00:37:09,280
+an adult animal. You could see as they
+
+822
+00:37:05,839 --> 00:37:11,839
+get older, you get less rescue of the
+
+823
+00:37:09,280 --> 00:37:14,560
+behaviors, which led people to believe
+
+824
+00:37:11,839 --> 00:37:17,920
+the younger the better. And that that's
+
+825
+00:37:14,560 --> 00:37:21,119
+logical. But what's interesting is that
+
+826
+00:37:17,920 --> 00:37:23,200
+if you look at the actual therapeutic
+
+827
+00:37:21,119 --> 00:37:26,160
+modalities that are translational to
+
+828
+00:37:23,200 --> 00:37:28,880
+humans and you use the mouse model
+
+829
+00:37:26,160 --> 00:37:31,280
+that's truly translational to a human, a
+
+830
+00:37:28,880 --> 00:37:34,160
+mutation model of a mouse where their
+
+831
+00:37:31,280 --> 00:37:36,480
+UB3 gene is not functional. It's not
+
+832
+00:37:34,160 --> 00:37:38,880
+expressing on the maternal alil just
+
+833
+00:37:36,480 --> 00:37:41,760
+like a mutation in humans where the
+
+834
+00:37:38,880 --> 00:37:44,400
+other model is not that that model. um
+
+835
+00:37:41,760 --> 00:37:49,599
+and you actually give them AAV gene
+
+836
+00:37:44,400 --> 00:37:53,920
+therapy, HSC gene therapy, ASOS, crisper
+
+837
+00:37:49,599 --> 00:37:56,640
+gene editors, or ATFs. Well, wow, that
+
+838
+00:37:53,920 --> 00:38:00,079
+heat map looks a little different.
+
+839
+00:37:56,640 --> 00:38:02,400
+A lot less red, a lot more green.
+
+840
+00:38:00,079 --> 00:38:03,920
+Whether you're an adult, you're an
+
+841
+00:38:02,400 --> 00:38:07,359
+adolescent,
+
+842
+00:38:03,920 --> 00:38:09,920
+or you're a newborn, there's phenotypic
+
+843
+00:38:07,359 --> 00:38:12,000
+rescue at every age. And we have reason
+
+844
+00:38:09,920 --> 00:38:15,599
+to believe for for functions like
+
+845
+00:38:12,000 --> 00:38:19,520
+cognition, learning and memory, motor,
+
+846
+00:38:15,599 --> 00:38:22,160
+um, be apply, you know, behaviors, EEGs,
+
+847
+00:38:19,520 --> 00:38:24,000
+sleep, biomarkers. If we look at all of
+
+848
+00:38:22,160 --> 00:38:26,720
+the behaviors that we translate to
+
+849
+00:38:24,000 --> 00:38:28,960
+humans, there's reason to believe we
+
+850
+00:38:26,720 --> 00:38:32,640
+might be able to have a benefit in the
+
+851
+00:38:28,960 --> 00:38:33,920
+lives of all humans at all ages. The
+
+852
+00:38:32,640 --> 00:38:36,400
+only way we're going to know the answer
+
+853
+00:38:33,920 --> 00:38:39,280
+to that is when we test these therapies
+
+854
+00:38:36,400 --> 00:38:41,920
+in humans at all ages. And that's very
+
+855
+00:38:39,280 --> 00:38:44,720
+exciting. And so I just want to direct
+
+856
+00:38:41,920 --> 00:38:47,760
+you on your table. There's a journal
+
+857
+00:38:44,720 --> 00:38:50,400
+that fast started thanks to Ed Weieber
+
+858
+00:38:47,760 --> 00:38:52,079
+called the Fast Dart Journal. Um so
+
+859
+00:38:50,400 --> 00:38:54,160
+basically this journal which you guys
+
+860
+00:38:52,079 --> 00:38:56,880
+can look at is going to be online
+
+861
+00:38:54,160 --> 00:39:00,480
+available to all in order to be able to
+
+862
+00:38:56,880 --> 00:39:02,240
+publish analyses, papers, and review
+
+863
+00:39:00,480 --> 00:39:04,800
+articles for Angelmen Syndrome that
+
+864
+00:39:02,240 --> 00:39:06,640
+could benefit our learnings. and it's
+
+865
+00:39:04,800 --> 00:39:08,240
+meant for the scientific community, but
+
+866
+00:39:06,640 --> 00:39:11,119
+everyone will have access to it because
+
+867
+00:39:08,240 --> 00:39:13,119
+it's free. And one paper that's in there
+
+868
+00:39:11,119 --> 00:39:15,520
+that I want you to take a look at that
+
+869
+00:39:13,119 --> 00:39:17,040
+I'm really, really proud of is this
+
+870
+00:39:15,520 --> 00:39:19,119
+metaanalysis
+
+871
+00:39:17,040 --> 00:39:22,320
+where we took all of the studies that
+
+872
+00:39:19,119 --> 00:39:25,200
+have been done, over 40 studies, put
+
+873
+00:39:22,320 --> 00:39:28,160
+them together, and said, "How do rodent
+
+874
+00:39:25,200 --> 00:39:31,520
+models define the potential for human
+
+875
+00:39:28,160 --> 00:39:33,680
+benefit?" a translational review for
+
+876
+00:39:31,520 --> 00:39:35,839
+Angelman Syndrome. Rather than people
+
+877
+00:39:33,680 --> 00:39:37,920
+and scientists picking one paper at a
+
+878
+00:39:35,839 --> 00:39:41,440
+time and trying to put it together to
+
+879
+00:39:37,920 --> 00:39:44,079
+make a story, we put it all together
+
+880
+00:39:41,440 --> 00:39:48,400
+very scientifically to say this is the
+
+881
+00:39:44,079 --> 00:39:52,320
+story. Look at that heat map.
+
+882
+00:39:48,400 --> 00:39:55,839
+The reinstatement model contradicts
+
+883
+00:39:52,320 --> 00:39:59,440
+the gene delivery model which is more
+
+884
+00:39:55,839 --> 00:40:01,520
+translational to our kids. And so we
+
+885
+00:39:59,440 --> 00:40:03,040
+really need the data in humans because
+
+886
+00:40:01,520 --> 00:40:05,599
+there's too much contradiction in
+
+887
+00:40:03,040 --> 00:40:08,640
+animals to truly understand what any of
+
+888
+00:40:05,599 --> 00:40:11,520
+that means. But there's possibilities.
+
+889
+00:40:08,640 --> 00:40:14,800
+There's potential to expect we might see
+
+890
+00:40:11,520 --> 00:40:16,960
+profound change. We also have a list of
+
+891
+00:40:14,800 --> 00:40:18,400
+all of the different phenotypes in these
+
+892
+00:40:16,960 --> 00:40:21,200
+animal models for the research
+
+893
+00:40:18,400 --> 00:40:24,480
+community. So you can understand what
+
+894
+00:40:21,200 --> 00:40:27,440
+model is testing what and how that
+
+895
+00:40:24,480 --> 00:40:29,359
+translates to humans and all of the
+
+896
+00:40:27,440 --> 00:40:31,359
+models that are out there. As Rodney
+
+897
+00:40:29,359 --> 00:40:35,119
+Smakco said earlier, we have way too
+
+898
+00:40:31,359 --> 00:40:37,760
+many models, but 95% of people use one
+
+899
+00:40:35,119 --> 00:40:40,640
+model and that is Dr. Jiang's model, the
+
+900
+00:40:37,760 --> 00:40:43,760
+mouse model that is a a imitation of a
+
+901
+00:40:40,640 --> 00:40:46,560
+mutation, nonfunctional loss of function
+
+902
+00:40:43,760 --> 00:40:48,960
+mutation from 1998.
+
+903
+00:40:46,560 --> 00:40:51,599
+And that's what most people use. So we
+
+904
+00:40:48,960 --> 00:40:55,119
+welcome you to take a look at that. So
+
+905
+00:40:51,599 --> 00:40:57,760
+now let's move to the fifth pillar,
+
+906
+00:40:55,119 --> 00:41:00,880
+accelerating and preparing for clinical
+
+907
+00:40:57,760 --> 00:41:04,880
+trials because those faces are what
+
+908
+00:41:00,880 --> 00:41:06,960
+matter and that's why we're here.
+
+909
+00:41:04,880 --> 00:41:10,400
+So the efforts to support clinical trial
+
+910
+00:41:06,960 --> 00:41:13,839
+readiness have been vast and incredibly
+
+911
+00:41:10,400 --> 00:41:16,240
+expensive and taken more time than
+
+912
+00:41:13,839 --> 00:41:18,000
+anybody ever thought. But we're getting
+
+913
+00:41:16,240 --> 00:41:20,640
+there and we're doing it. One of those
+
+914
+00:41:18,000 --> 00:41:23,119
+is creating the tools, the animal
+
+915
+00:41:20,640 --> 00:41:25,359
+models. We have rats and pigs and mice
+
+916
+00:41:23,119 --> 00:41:28,880
+galore. No more models, please. We're
+
+917
+00:41:25,359 --> 00:41:32,319
+good. Cell lines. We have every cell
+
+918
+00:41:28,880 --> 00:41:35,280
+line of every genotype that is available
+
+919
+00:41:32,319 --> 00:41:37,440
+pre-ompetitively for anybody to use at
+
+920
+00:41:35,280 --> 00:41:40,720
+Ebisk that any company could have access
+
+921
+00:41:37,440 --> 00:41:43,599
+to. That's nonproprietary. So nobody's
+
+922
+00:41:40,720 --> 00:41:45,920
+waiting for academic collaborations and
+
+923
+00:41:43,599 --> 00:41:48,240
+and and um research grants and
+
+924
+00:41:45,920 --> 00:41:50,960
+contracts. We made it available for
+
+925
+00:41:48,240 --> 00:41:52,319
+anybody to use at any time and that was
+
+926
+00:41:50,960 --> 00:41:53,760
+through a collaboration with Yale
+
+927
+00:41:52,319 --> 00:41:56,319
+University and Young Way is going to
+
+928
+00:41:53,760 --> 00:41:58,319
+talk about that this afternoon. Um, and
+
+929
+00:41:56,319 --> 00:42:00,079
+we have different ways. Organoids that
+
+930
+00:41:58,319 --> 00:42:02,400
+you saw earlier, these little mini
+
+931
+00:42:00,079 --> 00:42:06,240
+brains, all of those things you heard,
+
+932
+00:42:02,400 --> 00:42:07,760
+these are those in vitro tools.
+
+933
+00:42:06,240 --> 00:42:09,520
+And this is all on our website as well
+
+934
+00:42:07,760 --> 00:42:12,880
+for the research community that wants to
+
+935
+00:42:09,520 --> 00:42:15,119
+have access to this.
+
+936
+00:42:12,880 --> 00:42:16,560
+And then in sync international angelman
+
+937
+00:42:15,119 --> 00:42:18,000
+syndrome research council which I talked
+
+938
+00:42:16,560 --> 00:42:20,160
+to you about earlier is a collaboration
+
+939
+00:42:18,000 --> 00:42:22,240
+we have with the Simons Foundation with
+
+940
+00:42:20,160 --> 00:42:24,800
+the goal to fill gaps in Angelman
+
+941
+00:42:22,240 --> 00:42:26,960
+syndrome drug development and other
+
+942
+00:42:24,800 --> 00:42:28,720
+neurodedevelopmental disorders. So
+
+943
+00:42:26,960 --> 00:42:31,760
+Angelman syndrome happens to be
+
+944
+00:42:28,720 --> 00:42:33,760
+relatively far advanced in terms of drug
+
+945
+00:42:31,760 --> 00:42:36,240
+development activities compared to many
+
+946
+00:42:33,760 --> 00:42:39,040
+of these other newly diagnosed genetic
+
+947
+00:42:36,240 --> 00:42:41,680
+neurologic disorders. And it's unfair
+
+948
+00:42:39,040 --> 00:42:44,319
+for us to take everything we've learned
+
+949
+00:42:41,680 --> 00:42:45,920
+and live in a silo. So we invite other
+
+950
+00:42:44,319 --> 00:42:49,040
+neurodedevelopmental disorders to the
+
+951
+00:42:45,920 --> 00:42:51,520
+table to not only help advance them on
+
+952
+00:42:49,040 --> 00:42:53,520
+where they are, but they have learnings
+
+953
+00:42:51,520 --> 00:42:55,520
+that can help advance us on where we
+
+954
+00:42:53,520 --> 00:42:57,359
+are. Everyone goes at this from a
+
+955
+00:42:55,520 --> 00:42:59,680
+different angle. And if there's anything
+
+956
+00:42:57,359 --> 00:43:01,200
+that we can learn from them and they can
+
+957
+00:42:59,680 --> 00:43:04,160
+learn from us, we advance the field
+
+958
+00:43:01,200 --> 00:43:05,680
+together. And that's the only way for us
+
+959
+00:43:04,160 --> 00:43:07,839
+all to make a difference in the lives of
+
+960
+00:43:05,680 --> 00:43:10,560
+these individuals is to get out of our
+
+961
+00:43:07,839 --> 00:43:12,640
+silos, work together, and advance the
+
+962
+00:43:10,560 --> 00:43:16,000
+field. And this has allowed that to
+
+963
+00:43:12,640 --> 00:43:18,160
+happen in a really great way.
+
+964
+00:43:16,000 --> 00:43:20,000
+Advocacy Day on the Hill. That's part of
+
+965
+00:43:18,160 --> 00:43:22,240
+our pillar five. Ryan's going to have a
+
+966
+00:43:20,000 --> 00:43:24,480
+talk lunch and learn today about this.
+
+967
+00:43:22,240 --> 00:43:26,480
+his efforts here and him and Jennifer
+
+968
+00:43:24,480 --> 00:43:29,520
+and Amanda Moore, she's hopefully in the
+
+969
+00:43:26,480 --> 00:43:31,280
+room somewhere, um have been incredible.
+
+970
+00:43:29,520 --> 00:43:33,440
+Getting you all out there and fighting
+
+971
+00:43:31,280 --> 00:43:36,000
+for what's right, fighting for what we
+
+972
+00:43:33,440 --> 00:43:38,319
+need in order to be able to improve the
+
+973
+00:43:36,000 --> 00:43:41,200
+lives of our children. That's been
+
+974
+00:43:38,319 --> 00:43:42,560
+incredible. The externally led patient
+
+975
+00:43:41,200 --> 00:43:45,839
+focused drug development meeting that
+
+976
+00:43:42,560 --> 00:43:48,240
+most of you participated in has been an
+
+977
+00:43:45,839 --> 00:43:50,079
+unbelievable wealth of information that
+
+978
+00:43:48,240 --> 00:43:52,960
+we've been able to leverage and our
+
+979
+00:43:50,079 --> 00:43:54,960
+entire day yesterday was around this
+
+980
+00:43:52,960 --> 00:43:57,440
+concept and Jennifer is going to talk to
+
+981
+00:43:54,960 --> 00:43:59,359
+you about that in the updated ABOM talk
+
+982
+00:43:57,440 --> 00:44:03,040
+shortly. So I don't want to give this
+
+983
+00:43:59,359 --> 00:44:06,880
+away but ultimately what we know is what
+
+984
+00:44:03,040 --> 00:44:09,520
+impacts our daily lives the most and
+
+985
+00:44:06,880 --> 00:44:13,119
+what are the priorities in impact for
+
+986
+00:44:09,520 --> 00:44:17,280
+treatments. And what was so clear for me
+
+987
+00:44:13,119 --> 00:44:20,640
+out of all of this was that what a
+
+988
+00:44:17,280 --> 00:44:23,200
+neurotypical family might consider a
+
+989
+00:44:20,640 --> 00:44:28,000
+minimal change
+
+990
+00:44:23,200 --> 00:44:30,400
+an Angelman family feels is profound. If
+
+991
+00:44:28,000 --> 00:44:32,720
+we can improve one domain,
+
+992
+00:44:30,400 --> 00:44:35,520
+communication,
+
+993
+00:44:32,720 --> 00:44:37,040
+independent living skills, motor
+
+994
+00:44:35,520 --> 00:44:39,200
+function,
+
+995
+00:44:37,040 --> 00:44:41,200
+sleep,
+
+996
+00:44:39,200 --> 00:44:43,920
+cognition,
+
+997
+00:44:41,200 --> 00:44:45,760
+we would take it because that any of
+
+998
+00:44:43,920 --> 00:44:49,599
+those things will improve our children's
+
+999
+00:44:45,760 --> 00:44:53,760
+lives and ours. And 342
+
+1000
+00:44:49,599 --> 00:44:56,000
+of you made that very clear. We cannot
+
+1001
+00:44:53,760 --> 00:44:58,319
+do that without you. and we are so
+
+1002
+00:44:56,000 --> 00:44:59,920
+grateful for your participation in these
+
+1003
+00:44:58,319 --> 00:45:01,440
+activities.
+
+1004
+00:44:59,920 --> 00:45:03,520
+And then we have a natural history
+
+1005
+00:45:01,440 --> 00:45:05,760
+study. Again, all of the work you
+
+1006
+00:45:03,520 --> 00:45:07,680
+families have put into this and I can't
+
+1007
+00:45:05,760 --> 00:45:10,079
+thank enough the natural history study
+
+1008
+00:45:07,680 --> 00:45:12,560
+teams at Boston Children's and Raidies
+
+1009
+00:45:10,079 --> 00:45:14,720
+and Colorado and, you know, all over
+
+1010
+00:45:12,560 --> 00:45:19,920
+Canada and the United States. These
+
+1011
+00:45:14,720 --> 00:45:24,960
+teams over 19 and a half years has put
+
+1012
+00:45:19,920 --> 00:45:28,480
+together data on over 650 of our kids
+
+1013
+00:45:24,960 --> 00:45:31,839
+over 19 and a half years to understand
+
+1014
+00:45:28,480 --> 00:45:33,760
+the trajectory of developmental change
+
+1015
+00:45:31,839 --> 00:45:37,040
+so that we can compare that to natural
+
+1016
+00:45:33,760 --> 00:45:39,839
+history data. And why is that important?
+
+1017
+00:45:37,040 --> 00:45:42,880
+Well, this is why.
+
+1018
+00:45:39,839 --> 00:45:46,720
+The top is the data presented last year
+
+1019
+00:45:42,880 --> 00:45:48,960
+by Ionis for the ASO clinical trial. And
+
+1020
+00:45:46,720 --> 00:45:51,280
+that study showed because it's open
+
+1021
+00:45:48,960 --> 00:45:53,760
+label, the only thing they can compare
+
+1022
+00:45:51,280 --> 00:45:56,000
+the treatment group to is the natural
+
+1023
+00:45:53,760 --> 00:45:58,319
+history of the disease. How did
+
+1024
+00:45:56,000 --> 00:46:00,640
+individuals not treated do compared to
+
+1025
+00:45:58,319 --> 00:46:03,680
+our individuals that were treated? On
+
+1026
+00:46:00,640 --> 00:46:05,599
+the bottom is the ultragenics data. And
+
+1027
+00:46:03,680 --> 00:46:07,920
+I'm not here to compare one to the
+
+1028
+00:46:05,599 --> 00:46:10,480
+other. All I'm here to show you is that
+
+1029
+00:46:07,920 --> 00:46:13,119
+on the top, black is the change in
+
+1030
+00:46:10,480 --> 00:46:16,079
+natural history over time. Red is the
+
+1031
+00:46:13,119 --> 00:46:21,040
+change in treated Angelmen patients
+
+1032
+00:46:16,079 --> 00:46:23,520
+after an ASO over time in cognition
+
+1033
+00:46:21,040 --> 00:46:26,319
+communication,
+
+1034
+00:46:23,520 --> 00:46:28,640
+the things we care most about. And you
+
+1035
+00:46:26,319 --> 00:46:30,880
+can see the trajectory both with the
+
+1036
+00:46:28,640 --> 00:46:33,520
+data at the top Ionis. The data at the
+
+1037
+00:46:30,880 --> 00:46:36,800
+bottom ultragenics just presented in two
+
+1038
+00:46:33,520 --> 00:46:39,520
+different ways that both of them have
+
+1039
+00:46:36,800 --> 00:46:42,319
+completely changed the trajectory
+
+1040
+00:46:39,520 --> 00:46:44,240
+compared to natural history. If we
+
+1041
+00:46:42,319 --> 00:46:46,000
+didn't have you all participating in
+
+1042
+00:46:44,240 --> 00:46:48,079
+those natural history studies for so
+
+1043
+00:46:46,000 --> 00:46:51,680
+long, there's no way we would have that
+
+1044
+00:46:48,079 --> 00:46:54,319
+data for them to say, I believe there's
+
+1045
+00:46:51,680 --> 00:46:55,680
+a potential treatment effect here. we
+
+1046
+00:46:54,319 --> 00:46:58,079
+are going to move into a phase three
+
+1047
+00:46:55,680 --> 00:47:00,319
+clinical trial which has to be a
+
+1048
+00:46:58,079 --> 00:47:02,720
+controlled study to truly prove if these
+
+1049
+00:47:00,319 --> 00:47:05,280
+drugs are working without that natural
+
+1050
+00:47:02,720 --> 00:47:07,760
+history data. That's just not possible.
+
+1051
+00:47:05,280 --> 00:47:10,720
+And this has been all thanks to our
+
+1052
+00:47:07,760 --> 00:47:13,359
+community, to the natural history team,
+
+1053
+00:47:10,720 --> 00:47:16,400
+to all of our sponsors, and the support
+
+1054
+00:47:13,359 --> 00:47:18,319
+and collaboration of the ABOM, which is
+
+1055
+00:47:16,400 --> 00:47:20,640
+the Angelman Syndrome Biomarker and
+
+1056
+00:47:18,319 --> 00:47:22,400
+Outcome Measure Consortium that was
+
+1057
+00:47:20,640 --> 00:47:25,400
+started as a collaboration between
+
+1058
+00:47:22,400 --> 00:47:25,400
+FastTompetitive
+
+1059
+00:47:26,400 --> 00:47:31,760
+space that Jennifer is going to talk
+
+1060
+00:47:27,680 --> 00:47:35,440
+about. And where we are today in 2025
+
+1061
+00:47:31,760 --> 00:47:39,760
+is that we've went from a $50,000 budget
+
+1062
+00:47:35,440 --> 00:47:43,760
+to having spent over $5.1 million on
+
+1063
+00:47:39,760 --> 00:47:46,480
+this since 2016. We have everybody
+
+1064
+00:47:43,760 --> 00:47:49,119
+around the table, including the FDA, who
+
+1065
+00:47:46,480 --> 00:47:52,000
+is supporting the efforts for
+
+1066
+00:47:49,119 --> 00:47:54,480
+understanding what is a minimal
+
+1067
+00:47:52,000 --> 00:47:57,119
+meaningful change. And Jennifer is going
+
+1068
+00:47:54,480 --> 00:47:59,760
+to talk more about that shortly. What
+
+1069
+00:47:57,119 --> 00:48:01,440
+are the domains that matter? How are we
+
+1070
+00:47:59,760 --> 00:48:03,520
+going to measure them? And how are we
+
+1071
+00:48:01,440 --> 00:48:06,640
+going to put them into clinical trials?
+
+1072
+00:48:03,520 --> 00:48:08,720
+This is so vitally important for us all
+
+1073
+00:48:06,640 --> 00:48:10,640
+to understand why clinical trials are
+
+1074
+00:48:08,720 --> 00:48:11,920
+complicated because we have to measure
+
+1075
+00:48:10,640 --> 00:48:14,240
+all of these things and we're going to
+
+1076
+00:48:11,920 --> 00:48:16,640
+talk a lot more about that tomorrow. But
+
+1077
+00:48:14,240 --> 00:48:18,800
+you have to understand why we have all
+
+1078
+00:48:16,640 --> 00:48:20,880
+of these assessments for our kids
+
+1079
+00:48:18,800 --> 00:48:23,359
+because we have to understand what can
+
+1080
+00:48:20,880 --> 00:48:25,119
+capture change.
+
+1081
+00:48:23,359 --> 00:48:28,400
+This isn't for you to read. It's for you
+
+1082
+00:48:25,119 --> 00:48:30,559
+to understand it's a lot of work. It's a
+
+1083
+00:48:28,400 --> 00:48:33,599
+lot of money. And this is where your
+
+1084
+00:48:30,559 --> 00:48:35,200
+dollars go to support these efforts for
+
+1085
+00:48:33,599 --> 00:48:37,760
+us to be able to get over the finish
+
+1086
+00:48:35,200 --> 00:48:40,400
+line for all of these amazing sponsors
+
+1087
+00:48:37,760 --> 00:48:43,119
+that are sitting in this room to do
+
+1088
+00:48:40,400 --> 00:48:45,599
+everything they can to help our kids and
+
+1089
+00:48:43,119 --> 00:48:48,240
+that's why we're here. And so that is
+
+1090
+00:48:45,599 --> 00:48:50,240
+just a testament to the commitment. So
+
+1091
+00:48:48,240 --> 00:48:53,440
+hopefully what you can see is that every
+
+1092
+00:48:50,240 --> 00:48:56,160
+platform that we're talking about may
+
+1093
+00:48:53,440 --> 00:48:58,880
+benefit different targets.
+
+1094
+00:48:56,160 --> 00:49:02,960
+Each modality may lead to different
+
+1095
+00:48:58,880 --> 00:49:05,680
+amounts of drug or UB3A in the brain in
+
+1096
+00:49:02,960 --> 00:49:08,880
+different places and that may all have a
+
+1097
+00:49:05,680 --> 00:49:11,200
+different clinical effect on our kids.
+
+1098
+00:49:08,880 --> 00:49:13,359
+Different families are going to have
+
+1099
+00:49:11,200 --> 00:49:14,960
+different preferences.
+
+1100
+00:49:13,359 --> 00:49:17,520
+Some people may be very uncomfortable
+
+1101
+00:49:14,960 --> 00:49:19,119
+with a single treatment gene therapy.
+
+1102
+00:49:17,520 --> 00:49:21,440
+Some may be very uncomfortable going
+
+1103
+00:49:19,119 --> 00:49:23,359
+under anesthesia every three months to
+
+1104
+00:49:21,440 --> 00:49:24,880
+get a lumbar puncture to have an ASO
+
+1105
+00:49:23,359 --> 00:49:26,720
+delivered.
+
+1106
+00:49:24,880 --> 00:49:29,200
+Some may only want an oral pill for
+
+1107
+00:49:26,720 --> 00:49:31,040
+their kids. And some may never want to
+
+1108
+00:49:29,200 --> 00:49:33,599
+enter a hospital and will only do a
+
+1109
+00:49:31,040 --> 00:49:36,800
+remote clinical trial because it is too
+
+1110
+00:49:33,599 --> 00:49:39,520
+much energy, effort, and challenge to
+
+1111
+00:49:36,800 --> 00:49:42,079
+get their children to be seen in a
+
+1112
+00:49:39,520 --> 00:49:43,680
+hospital in a clinical trial setting.
+
+1113
+00:49:42,079 --> 00:49:45,839
+So these are all things we have to think
+
+1114
+00:49:43,680 --> 00:49:48,079
+about as an organization to meet the
+
+1115
+00:49:45,839 --> 00:49:50,480
+needs of every one of you. And we work
+
+1116
+00:49:48,079 --> 00:49:52,960
+really hard to try to do that. And what
+
+1117
+00:49:50,480 --> 00:49:54,880
+we also don't know is what if
+
+1118
+00:49:52,960 --> 00:49:58,079
+combination therapy is the best therapy
+
+1119
+00:49:54,880 --> 00:50:00,319
+of all? What if we need an ASO with a
+
+1120
+00:49:58,079 --> 00:50:02,400
+gene therapy? What if we need a small
+
+1121
+00:50:00,319 --> 00:50:05,200
+molecule with an ASO or with a gene
+
+1122
+00:50:02,400 --> 00:50:07,440
+therapy? How are we going to know if we
+
+1123
+00:50:05,200 --> 00:50:09,839
+don't develop all of them and support
+
+1124
+00:50:07,440 --> 00:50:12,559
+those developing all of them? And that
+
+1125
+00:50:09,839 --> 00:50:15,119
+is our role because we do know the more
+
+1126
+00:50:12,559 --> 00:50:17,520
+options we have for our kids, the better
+
+1127
+00:50:15,119 --> 00:50:20,319
+chance of them having something that
+
+1128
+00:50:17,520 --> 00:50:22,880
+leads to a meaningful change in their
+
+1129
+00:50:20,319 --> 00:50:25,200
+lives and ours.
+
+1130
+00:50:22,880 --> 00:50:27,280
+So the standard drug development process
+
+1131
+00:50:25,200 --> 00:50:30,960
+looks like this.
+
+1132
+00:50:27,280 --> 00:50:33,599
+For every 15,000 drugs that are in early
+
+1133
+00:50:30,960 --> 00:50:36,800
+discovery, that are in a dish, that are
+
+1134
+00:50:33,599 --> 00:50:38,960
+in a mouse, that are in an organoid,
+
+1135
+00:50:36,800 --> 00:50:41,599
+one gets approved.
+
+1136
+00:50:38,960 --> 00:50:44,160
+What does that mean? We have to address
+
+1137
+00:50:41,599 --> 00:50:45,760
+all shots on goal. But what does that
+
+1138
+00:50:44,160 --> 00:50:49,200
+cost?
+
+1139
+00:50:45,760 --> 00:50:51,520
+3 to 10 years in pre-clinical, two to
+
+1140
+00:50:49,200 --> 00:50:54,960
+three years in all of the safety studies
+
+1141
+00:50:51,520 --> 00:50:57,920
+required by the FDA, 3 to five years for
+
+1142
+00:50:54,960 --> 00:51:01,040
+an earlyphase study, two to five years
+
+1143
+00:50:57,920 --> 00:51:04,480
+for late phase studies.
+
+1144
+00:51:01,040 --> 00:51:09,440
+Well, let's just do the math.
+
+1145
+00:51:04,480 --> 00:51:11,760
+That's a lot of money for one program.
+
+1146
+00:51:09,440 --> 00:51:14,079
+So what happens is that we wait for
+
+1147
+00:51:11,760 --> 00:51:15,760
+pharmaceutical companies who in our mind
+
+1148
+00:51:14,079 --> 00:51:18,319
+as parents have all the money in the
+
+1149
+00:51:15,760 --> 00:51:20,800
+world. Yes, you industry, we think you
+
+1150
+00:51:18,319 --> 00:51:22,240
+have all the money in the world to
+
+1151
+00:51:20,800 --> 00:51:26,240
+support the development of these
+
+1152
+00:51:22,240 --> 00:51:28,480
+programs. But guess what? They don't. So
+
+1153
+00:51:26,240 --> 00:51:30,160
+they have to make priorities. They have
+
+1154
+00:51:28,480 --> 00:51:32,880
+to think about what has the highest
+
+1155
+00:51:30,160 --> 00:51:36,160
+chance of success because we have to
+
+1156
+00:51:32,880 --> 00:51:38,880
+fund what we believe can be successful
+
+1157
+00:51:36,160 --> 00:51:40,960
+to maintain our pipeline. They can't
+
+1158
+00:51:38,880 --> 00:51:43,760
+take every shot on goal even though they
+
+1159
+00:51:40,960 --> 00:51:46,720
+might want to. So that leaves this area
+
+1160
+00:51:43,760 --> 00:51:48,640
+which we call the valley of death where
+
+1161
+00:51:46,720 --> 00:51:51,920
+we have a promising candidate in a mouse
+
+1162
+00:51:48,640 --> 00:51:54,480
+in a dish and we have to understand how
+
+1163
+00:51:51,920 --> 00:51:56,720
+it behaves in a human.
+
+1164
+00:51:54,480 --> 00:52:00,240
+That valley of death costs somewhere
+
+1165
+00:51:56,720 --> 00:52:02,640
+between 15 to$25 million per program.
+
+1166
+00:52:00,240 --> 00:52:04,880
+Who's going to pay for that?
+
+1167
+00:52:02,640 --> 00:52:07,200
+Industry might not.
+
+1168
+00:52:04,880 --> 00:52:11,280
+Yeah. So far, it's been you guys paying
+
+1169
+00:52:07,200 --> 00:52:13,280
+for that. So, thank you for filling this
+
+1170
+00:52:11,280 --> 00:52:15,839
+valley of death because it's the only
+
+1171
+00:52:13,280 --> 00:52:17,359
+way we can get drugs to patients.
+
+1172
+00:52:15,839 --> 00:52:20,400
+And what I want to share with you is
+
+1173
+00:52:17,359 --> 00:52:21,839
+that 10 years ago, and I know a lot of
+
+1174
+00:52:20,400 --> 00:52:23,680
+you that have been here for year after
+
+1175
+00:52:21,839 --> 00:52:24,960
+year wait for these slides because you
+
+1176
+00:52:23,680 --> 00:52:27,520
+want to see the progress that's being
+
+1177
+00:52:24,960 --> 00:52:30,319
+made. And it brings me more joy than you
+
+1178
+00:52:27,520 --> 00:52:32,559
+know to share these slides. 10 years
+
+1179
+00:52:30,319 --> 00:52:34,240
+ago, we had five programs in early
+
+1180
+00:52:32,559 --> 00:52:37,200
+development and not a single program in
+
+1181
+00:52:34,240 --> 00:52:40,319
+a clinical trial.
+
+1182
+00:52:37,200 --> 00:52:42,319
+Eight years ago, after we had our first
+
+1183
+00:52:40,319 --> 00:52:45,200
+large infusion of funds, thanks to the
+
+1184
+00:52:42,319 --> 00:52:48,240
+generosity of a single family,
+
+1185
+00:52:45,200 --> 00:52:50,240
+we had 15 programs,
+
+1186
+00:52:48,240 --> 00:52:53,040
+two in clinical trials, and multiple
+
+1187
+00:52:50,240 --> 00:52:56,480
+headed toward clinical trials.
+
+1188
+00:52:53,040 --> 00:52:58,800
+Four years ago, 34 programs, three in
+
+1189
+00:52:56,480 --> 00:53:00,800
+clinical trials, multiple headed toward
+
+1190
+00:52:58,800 --> 00:53:05,280
+clinical trials.
+
+1191
+00:53:00,800 --> 00:53:07,280
+And in 2022, the stock market crashed.
+
+1192
+00:53:05,280 --> 00:53:11,599
+Those
+
+1193
+00:53:07,280 --> 00:53:13,520
+34 programs went down to 24 programs.
+
+1194
+00:53:11,599 --> 00:53:16,480
+And that is the shoots and ladders of
+
+1195
+00:53:13,520 --> 00:53:19,520
+drug development. And it happens. And we
+
+1196
+00:53:16,480 --> 00:53:21,359
+had an awakening of the fact that we
+
+1197
+00:53:19,520 --> 00:53:25,040
+can't wait for everyone to do this for
+
+1198
+00:53:21,359 --> 00:53:28,160
+us because they might not.
+
+1199
+00:53:25,040 --> 00:53:30,400
+And when we lost 10 programs, it was
+
+1200
+00:53:28,160 --> 00:53:32,640
+devastating.
+
+1201
+00:53:30,400 --> 00:53:35,359
+But a year ago, we did not stop. We kept
+
+1202
+00:53:32,640 --> 00:53:38,480
+on going and we went from 24 to 27 last
+
+1203
+00:53:35,359 --> 00:53:40,240
+year. And where we are today is we have
+
+1204
+00:53:38,480 --> 00:53:41,680
+30 programs. A lot of these are
+
+1205
+00:53:40,240 --> 00:53:43,599
+undisclosed so they're not going to be
+
+1206
+00:53:41,680 --> 00:53:46,000
+on our website. Just I know Megan Edber
+
+1207
+00:53:43,599 --> 00:53:47,440
+is having a heart attack. They're not on
+
+1208
+00:53:46,000 --> 00:53:49,599
+our website. But I want you to
+
+1209
+00:53:47,440 --> 00:53:52,400
+understand how many people are working
+
+1210
+00:53:49,599 --> 00:53:56,319
+on Angelman Syndrome. Of those 30
+
+1211
+00:53:52,400 --> 00:53:58,640
+programs we have, count them. One, two,
+
+1212
+00:53:56,319 --> 00:54:02,240
+three, four, five, six in clinical
+
+1213
+00:53:58,640 --> 00:54:05,440
+trials. our first gene therapy in a
+
+1214
+00:54:02,240 --> 00:54:08,160
+clinical trial.
+
+1215
+00:54:05,440 --> 00:54:09,200
+We have three in IND enabling studies,
+
+1216
+00:54:08,160 --> 00:54:11,359
+which means they're going to be in
+
+1217
+00:54:09,200 --> 00:54:14,000
+clinical trials. Hopefully, if those
+
+1218
+00:54:11,359 --> 00:54:16,240
+studies come out positive because they
+
+1219
+00:54:14,000 --> 00:54:19,599
+can still fail, they will go into
+
+1220
+00:54:16,240 --> 00:54:22,880
+clinical trials in the near term. And 16
+
+1221
+00:54:19,599 --> 00:54:24,640
+of those are being pushed by your
+
+1222
+00:54:22,880 --> 00:54:26,400
+dollars.
+
+1223
+00:54:24,640 --> 00:54:29,119
+That's important for everyone to
+
+1224
+00:54:26,400 --> 00:54:33,119
+recognize is that your dollars are going
+
+1225
+00:54:29,119 --> 00:54:36,000
+so far but it is not easy to get there.
+
+1226
+00:54:33,119 --> 00:54:39,520
+The the the pillar five is moving
+
+1227
+00:54:36,000 --> 00:54:42,240
+rapidly as well equally well and as we
+
+1228
+00:54:39,520 --> 00:54:44,640
+move forward we have a lot that we
+
+1229
+00:54:42,240 --> 00:54:46,480
+should be proud of. Numerous potential
+
+1230
+00:54:44,640 --> 00:54:50,079
+therapeutic platforms have been invested
+
+1231
+00:54:46,480 --> 00:54:52,000
+in as Angelman syndrome is unique with
+
+1232
+00:54:50,079 --> 00:54:54,319
+many many elegant gene targeted
+
+1233
+00:54:52,000 --> 00:54:56,640
+therapies and opportunities underway.
+
+1234
+00:54:54,319 --> 00:54:57,839
+Promising clinical trial results we have
+
+1235
+00:54:56,640 --> 00:55:00,720
+seen to date which you're going to hear
+
+1236
+00:54:57,839 --> 00:55:03,359
+all about tomorrow. and fast has focused
+
+1237
+00:55:00,720 --> 00:55:05,520
+on identifying the scientific gaps to
+
+1238
+00:55:03,359 --> 00:55:08,079
+accelerate all potential strategies and
+
+1239
+00:55:05,520 --> 00:55:10,559
+support all shots on goal because we
+
+1240
+00:55:08,079 --> 00:55:12,880
+have no idea what the human experiment
+
+1241
+00:55:10,559 --> 00:55:14,880
+is going to show and we have to make
+
+1242
+00:55:12,880 --> 00:55:18,240
+sure that we find something for anybody
+
+1243
+00:55:14,880 --> 00:55:20,079
+who wants a therapy. Traditional drug
+
+1244
+00:55:18,240 --> 00:55:23,040
+development unfortunately has failed
+
+1245
+00:55:20,079 --> 00:55:24,800
+rare disease across the globe, not just
+
+1246
+00:55:23,040 --> 00:55:27,760
+Angelmen syndrome. And that's because
+
+1247
+00:55:24,800 --> 00:55:30,079
+money is drying up, investment is low,
+
+1248
+00:55:27,760 --> 00:55:32,240
+and companies have changing leadership,
+
+1249
+00:55:30,079 --> 00:55:33,839
+and they change their priorities. And
+
+1250
+00:55:32,240 --> 00:55:36,319
+sometimes those priority changes happen
+
+1251
+00:55:33,839 --> 00:55:40,000
+overnight. But we're not going to let it
+
+1252
+00:55:36,319 --> 00:55:42,800
+fail this one because FAST will continue
+
+1253
+00:55:40,000 --> 00:55:44,720
+to dream big because you guys asked us
+
+1254
+00:55:42,800 --> 00:55:48,720
+to.
+
+1255
+00:55:44,720 --> 00:55:48,720
+This is about parents and their dreams.
+
+1256
+00:55:48,960 --> 00:55:55,119
+So this is why fast decided to start the
+
+1257
+00:55:51,599 --> 00:55:58,240
+drug accelerator AS2 bio.
+
+1258
+00:55:55,119 --> 00:56:00,960
+And AS2 Bio is really meant to take
+
+1259
+00:55:58,240 --> 00:56:03,359
+venture philanthropy from patient
+
+1260
+00:56:00,960 --> 00:56:06,160
+advocacy and advance that into a
+
+1261
+00:56:03,359 --> 00:56:09,599
+disruptive accelerator. And that is the
+
+1262
+00:56:06,160 --> 00:56:12,720
+ecosystem of discovery in mice to
+
+1263
+00:56:09,599 --> 00:56:16,079
+discovery in human. And the only way we
+
+1264
+00:56:12,720 --> 00:56:19,119
+could do that is with this team. And
+
+1265
+00:56:16,079 --> 00:56:22,799
+there's so much that has gone into that
+
+1266
+00:56:19,119 --> 00:56:24,319
+through the support of the NIH and Yale
+
+1267
+00:56:22,799 --> 00:56:26,000
+University for the Crisper program,
+
+1268
+00:56:24,319 --> 00:56:28,880
+which you'll hear about tomorrow.
+
+1269
+00:56:26,000 --> 00:56:30,799
+Through the support of UCLA and Don
+
+1270
+00:56:28,880 --> 00:56:32,880
+Conn, who's here and being our keynote
+
+1271
+00:56:30,799 --> 00:56:34,480
+tomorrow, and SERM, the California
+
+1272
+00:56:32,880 --> 00:56:36,160
+Institute of Regenerative Medicine, who
+
+1273
+00:56:34,480 --> 00:56:38,960
+believes in this program and is
+
+1274
+00:56:36,160 --> 00:56:40,799
+advancing us to an IND
+
+1275
+00:56:38,960 --> 00:56:43,040
+through Maverick's bio. And I'd like to
+
+1276
+00:56:40,799 --> 00:56:45,839
+just acknowledge not only did our IND
+
+1277
+00:56:43,040 --> 00:56:48,000
+clear in April that everyone was really
+
+1278
+00:56:45,839 --> 00:56:49,520
+excited about, but yesterday it was
+
+1279
+00:56:48,000 --> 00:56:52,520
+announced that the first patient was
+
+1280
+00:56:49,520 --> 00:56:52,520
+dosed.
+
+1281
+00:56:55,119 --> 00:57:00,480
+And I would like to acknowledge a team
+
+1282
+00:56:57,680 --> 00:57:03,599
+that is sitting in this area that made
+
+1283
+00:57:00,480 --> 00:57:06,240
+that happen. The Mavericks team is here.
+
+1284
+00:57:03,599 --> 00:57:08,640
+Most of them, some of them are online.
+
+1285
+00:57:06,240 --> 00:57:10,960
+And none of that would be poss would be
+
+1286
+00:57:08,640 --> 00:57:14,079
+possible without this incredible team
+
+1287
+00:57:10,960 --> 00:57:16,480
+who believed we can help make a
+
+1288
+00:57:14,079 --> 00:57:17,680
+difference for Angelmen syndrome. And we
+
+1289
+00:57:16,480 --> 00:57:18,640
+don't know what's going to happen and we
+
+1290
+00:57:17,680 --> 00:57:20,960
+don't know where the data is going to
+
+1291
+00:57:18,640 --> 00:57:23,520
+go. But they never stopped believing and
+
+1292
+00:57:20,960 --> 00:57:25,280
+they worked their butt off to get us
+
+1293
+00:57:23,520 --> 00:57:30,119
+here. So I could not be more proud of
+
+1294
+00:57:25,280 --> 00:57:30,119
+that team at that table. So thank you.
+
+1295
+00:57:32,880 --> 00:57:38,880
+Ultrogenics has advanced the ASO program
+
+1296
+00:57:36,400 --> 00:57:41,599
+that we started and this was before the
+
+1297
+00:57:38,880 --> 00:57:44,480
+that AS2 was initiated and thanks to
+
+1298
+00:57:41,599 --> 00:57:46,799
+them we were able to do that. We are so
+
+1299
+00:57:44,480 --> 00:57:49,520
+proud of that collaboration and our
+
+1300
+00:57:46,799 --> 00:57:52,640
+collaboration with everybody Ionis and
+
+1301
+00:57:49,520 --> 00:57:54,559
+Oakill. We are so proud of incoded all
+
+1302
+00:57:52,640 --> 00:57:56,960
+of our programs. We don't help to stop
+
+1303
+00:57:54,559 --> 00:57:59,839
+stopping to support everybody. But it
+
+1304
+00:57:56,960 --> 00:58:02,720
+started with ultragenics and a dream.
+
+1305
+00:57:59,839 --> 00:58:05,280
+And that led to Mavericks, Courageous,
+
+1306
+00:58:02,720 --> 00:58:08,079
+Transformatics, and other programs that
+
+1307
+00:58:05,280 --> 00:58:10,640
+we're actively working on. So, something
+
+1308
+00:58:08,079 --> 00:58:13,280
+that's always important to remember is
+
+1309
+00:58:10,640 --> 00:58:18,200
+that it always seems impossible until
+
+1310
+00:58:13,280 --> 00:58:18,200
+it's done. Thank you.
+

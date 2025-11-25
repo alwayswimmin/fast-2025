@@ -1,0 +1,1284 @@
+1
+00:00:00,160 --> 00:00:04,880
+Um, so our next speaker is uh Dr. Abby
+
+2
+00:00:03,040 --> 00:00:06,560
+Rder. She's going to be speaking to us
+
+3
+00:00:04,880 --> 00:00:08,880
+about the Orca, the observer reported
+
+4
+00:00:06,560 --> 00:00:11,840
+communication ability measure and really
+
+5
+00:00:08,880 --> 00:00:14,960
+trying to explain to us what is a
+
+6
+00:00:11,840 --> 00:00:16,480
+minimal meaningful change. And it's very
+
+7
+00:00:14,960 --> 00:00:18,000
+important to try to understand that
+
+8
+00:00:16,480 --> 00:00:19,760
+because we take these measures and we
+
+9
+00:00:18,000 --> 00:00:23,039
+spend a lot of time in these assessments
+
+10
+00:00:19,760 --> 00:00:25,119
+and the community rallied in 300 people
+
+11
+00:00:23,039 --> 00:00:27,039
+filling out the original survey, another
+
+12
+00:00:25,119 --> 00:00:29,279
+200 people filling out another survey
+
+13
+00:00:27,039 --> 00:00:31,439
+over the last five, six years and then
+
+14
+00:00:29,279 --> 00:00:34,559
+again just recently in two weeks time we
+
+15
+00:00:31,439 --> 00:00:36,079
+had another 150 families more than that
+
+16
+00:00:34,559 --> 00:00:38,079
+filling out an additional survey in
+
+17
+00:00:36,079 --> 00:00:40,800
+order for her to collect this data with
+
+18
+00:00:38,079 --> 00:00:43,280
+the ultimate goal being for us to
+
+19
+00:00:40,800 --> 00:00:45,360
+understand what does a point change mean
+
+20
+00:00:43,280 --> 00:00:47,039
+for for our children. What does that
+
+21
+00:00:45,360 --> 00:00:49,280
+mean? Two points, three points, five
+
+22
+00:00:47,039 --> 00:00:50,879
+points. It means nothing to us. But if
+
+23
+00:00:49,280 --> 00:00:53,520
+we can understand if our kid were to
+
+24
+00:00:50,879 --> 00:00:55,440
+gain two points, that's a finger point.
+
+25
+00:00:53,520 --> 00:00:57,360
+That's an eye gaze. That's responding to
+
+26
+00:00:55,440 --> 00:00:59,199
+their name. That's responding to the
+
+27
+00:00:57,360 --> 00:01:00,800
+word yes or no. That's saying the word
+
+28
+00:00:59,199 --> 00:01:02,640
+yes or no with a headshake or a head
+
+29
+00:01:00,800 --> 00:01:04,879
+knot. All of those things are so
+
+30
+00:01:02,640 --> 00:01:06,799
+important. What do these scores actually
+
+31
+00:01:04,879 --> 00:01:09,200
+mean? So Aby's going to walk you through
+
+32
+00:01:06,799 --> 00:01:11,119
+some of the the the statistical methods
+
+33
+00:01:09,200 --> 00:01:12,400
+and the reasons why they did what they
+
+34
+00:01:11,119 --> 00:01:14,240
+did and they asked you to do those
+
+35
+00:01:12,400 --> 00:01:15,600
+incredible surveys. That was a lot of
+
+36
+00:01:14,240 --> 00:01:17,600
+work, but we're very grateful to
+
+37
+00:01:15,600 --> 00:01:19,280
+everybody that participated. So Abby,
+
+38
+00:01:17,600 --> 00:01:22,280
+please come and share with everybody the
+
+39
+00:01:19,280 --> 00:01:22,280
+results.
+
+40
+00:01:31,600 --> 00:01:34,600
+>> Hi
+
+41
+00:01:35,920 --> 00:01:40,320
+Okay. Um, yeah. So, like Allison said,
+
+42
+00:01:38,799 --> 00:01:42,320
+I'm going to present on the Orca
+
+43
+00:01:40,320 --> 00:01:43,360
+measure. Um, and specifically, you know,
+
+44
+00:01:42,320 --> 00:01:45,040
+we've talked about the Bailey and
+
+45
+00:01:43,360 --> 00:01:46,640
+Vineland, and you get these nice numbers
+
+46
+00:01:45,040 --> 00:01:48,640
+from them, but what do those actually
+
+47
+00:01:46,640 --> 00:01:50,240
+mean? So, both in terms of what's a
+
+48
+00:01:48,640 --> 00:01:52,560
+meaningful change, but then also in
+
+49
+00:01:50,240 --> 00:01:56,159
+terms of what is a score of 50, what is
+
+50
+00:01:52,560 --> 00:01:58,880
+a score of, you know, 35? Um, brief
+
+51
+00:01:56,159 --> 00:02:01,520
+disclosures.
+
+52
+00:01:58,880 --> 00:02:04,000
+Okay, tiny bit of background. So in
+
+53
+00:02:01,520 --> 00:02:06,960
+order to effectively measure any new
+
+54
+00:02:04,000 --> 00:02:09,440
+treatment, whatever it's for, it has to
+
+55
+00:02:06,960 --> 00:02:11,120
+be fit for purpose. What does that mean?
+
+56
+00:02:09,440 --> 00:02:13,599
+Essentially, it's measuring what we
+
+57
+00:02:11,120 --> 00:02:16,239
+intend for it to measure and it works in
+
+58
+00:02:13,599 --> 00:02:18,000
+the population that we are using it in.
+
+59
+00:02:16,239 --> 00:02:20,720
+Um, so in this case, that would be
+
+60
+00:02:18,000 --> 00:02:23,200
+Angelmen. And what we find is that a lot
+
+61
+00:02:20,720 --> 00:02:25,280
+of the measures that were developed were
+
+62
+00:02:23,200 --> 00:02:27,120
+developed for a verbal population. So
+
+63
+00:02:25,280 --> 00:02:30,879
+specifically for communication which is
+
+64
+00:02:27,120 --> 00:02:32,879
+one of the most important domains um the
+
+65
+00:02:30,879 --> 00:02:34,640
+my team at Duke developed the observer
+
+66
+00:02:32,879 --> 00:02:37,360
+reported communication ability measure
+
+67
+00:02:34,640 --> 00:02:40,720
+directly with input from caregivers and
+
+68
+00:02:37,360 --> 00:02:42,400
+fast organization leadership everyone to
+
+69
+00:02:40,720 --> 00:02:44,800
+make sure it was like the best measure
+
+70
+00:02:42,400 --> 00:02:47,680
+we could make reflecting what's actually
+
+71
+00:02:44,800 --> 00:02:49,200
+important to caregivers. Um it measures
+
+72
+00:02:47,680 --> 00:02:51,760
+three domains of communication
+
+73
+00:02:49,200 --> 00:02:54,080
+expressive receptive and pragmatic. So
+
+74
+00:02:51,760 --> 00:02:56,080
+expressive is like you know conveying
+
+75
+00:02:54,080 --> 00:02:57,519
+your needs, thoughts, emotions in
+
+76
+00:02:56,080 --> 00:03:00,239
+Angelmen normally through things like
+
+77
+00:02:57,519 --> 00:03:01,840
+eye gaze or pointing towards something
+
+78
+00:03:00,239 --> 00:03:03,360
+things like that. Receptive
+
+79
+00:03:01,840 --> 00:03:04,800
+communication which is showing that you
+
+80
+00:03:03,360 --> 00:03:08,319
+understand something that was said to
+
+81
+00:03:04,800 --> 00:03:09,840
+you. Um and then uh pragmatic or social
+
+82
+00:03:08,319 --> 00:03:12,560
+communication.
+
+83
+00:03:09,840 --> 00:03:14,400
+Um just to state this again. So funding
+
+84
+00:03:12,560 --> 00:03:17,680
+all came from fast. So this has all come
+
+85
+00:03:14,400 --> 00:03:19,920
+from you all. So thank you.
+
+86
+00:03:17,680 --> 00:03:22,239
+Um so while the orc itself was developed
+
+87
+00:03:19,920 --> 00:03:26,080
+using these super rigorous you know well
+
+88
+00:03:22,239 --> 00:03:29,360
+accepted in the field methods um you
+
+89
+00:03:26,080 --> 00:03:31,840
+know when we actually run this algorithm
+
+90
+00:03:29,360 --> 00:03:33,760
+to get these scores from it they don't
+
+91
+00:03:31,840 --> 00:03:36,319
+mean anything on their own. And so what
+
+92
+00:03:33,760 --> 00:03:38,480
+we have to do is basically develop these
+
+93
+00:03:36,319 --> 00:03:40,799
+things called vignettes or in this case
+
+94
+00:03:38,480 --> 00:03:43,840
+that's what we did um to show what these
+
+95
+00:03:40,799 --> 00:03:46,319
+distinct score regions and ranges um
+
+96
+00:03:43,840 --> 00:03:47,280
+actually mean. Um, so for example, you
+
+97
+00:03:46,319 --> 00:03:50,400
+might have a three-year-old with
+
+98
+00:03:47,280 --> 00:03:52,879
+Angelmen who has a score 55. How does
+
+99
+00:03:50,400 --> 00:03:54,560
+that actually compare to others for one
+
+100
+00:03:52,879 --> 00:03:57,519
+thing and then also if they change
+
+101
+00:03:54,560 --> 00:03:59,760
+scores later on? Um, is that meaningful
+
+102
+00:03:57,519 --> 00:04:01,360
+to the individual in their family? So
+
+103
+00:03:59,760 --> 00:04:02,480
+that's my objective here. And like I
+
+104
+00:04:01,360 --> 00:04:05,360
+said before, I'm going to be showing
+
+105
+00:04:02,480 --> 00:04:07,920
+some vignettes. Um,
+
+106
+00:04:05,360 --> 00:04:10,319
+and I'm not going to go too in depth
+
+107
+00:04:07,920 --> 00:04:11,680
+into the like fancy statistics behind
+
+108
+00:04:10,319 --> 00:04:14,480
+everything just because it gets pretty
+
+109
+00:04:11,680 --> 00:04:16,880
+complicated. But the basis of it is that
+
+110
+00:04:14,480 --> 00:04:19,600
+with the Orca, with this really complex
+
+111
+00:04:16,880 --> 00:04:21,680
+algorithm, we can get kind of the most
+
+112
+00:04:19,600 --> 00:04:23,680
+likely communication behaviors at every
+
+113
+00:04:21,680 --> 00:04:25,759
+single individual score. And using
+
+114
+00:04:23,680 --> 00:04:27,280
+those, we can make these pretty
+
+115
+00:04:25,759 --> 00:04:29,040
+vignettes.
+
+116
+00:04:27,280 --> 00:04:30,400
+Um, that will not come out this pretty.
+
+117
+00:04:29,040 --> 00:04:33,840
+This takes quite a bit of work to get
+
+118
+00:04:30,400 --> 00:04:35,759
+the pictures on it. Um, but we can do
+
+119
+00:04:33,840 --> 00:04:39,040
+this for any score. So here I'm going to
+
+120
+00:04:35,759 --> 00:04:42,160
+show 35, 50, and 65. But these can be
+
+121
+00:04:39,040 --> 00:04:43,759
+used for any score, any score change on
+
+122
+00:04:42,160 --> 00:04:47,040
+the orca. And these same methods can be
+
+123
+00:04:43,759 --> 00:04:48,560
+used for for other measures as well. Um,
+
+124
+00:04:47,040 --> 00:04:51,040
+so like I said before, this is
+
+125
+00:04:48,560 --> 00:04:53,280
+presenting a hypothetical child, Alex.
+
+126
+00:04:51,040 --> 00:04:55,120
+Um, and you know, some of the things
+
+127
+00:04:53,280 --> 00:04:57,040
+Alex is able to do, Alex is on kind of
+
+128
+00:04:55,120 --> 00:05:01,280
+the higher end of the low end of the
+
+129
+00:04:57,040 --> 00:05:03,040
+scale. Um, so 35. Um, Alex sometimes
+
+130
+00:05:01,280 --> 00:05:05,199
+communicates that he wants an object by
+
+131
+00:05:03,040 --> 00:05:06,479
+reaching or pointing, making a sound,
+
+132
+00:05:05,199 --> 00:05:07,840
+looking at the object, and then his
+
+133
+00:05:06,479 --> 00:05:11,600
+parent or bringing the object to his
+
+134
+00:05:07,840 --> 00:05:13,680
+parent. Um, for getting attention, Alex
+
+135
+00:05:11,600 --> 00:05:15,840
+almost always grabs, taps, pulls on
+
+136
+00:05:13,680 --> 00:05:17,600
+someone, or makes a sound, and that one
+
+137
+00:05:15,840 --> 00:05:19,440
+we will follow across kind of the score
+
+138
+00:05:17,600 --> 00:05:22,320
+range. Um, and then there's some other
+
+139
+00:05:19,440 --> 00:05:24,400
+skills. Um, in the bottom, uh, left
+
+140
+00:05:22,320 --> 00:05:26,800
+you'll see some skills that Alex isn't
+
+141
+00:05:24,400 --> 00:05:28,160
+able to do. um with the Orca and then
+
+142
+00:05:26,800 --> 00:05:30,560
+also with these vignettes, we wanted to
+
+143
+00:05:28,160 --> 00:05:32,320
+focus on what uh these kids couldn't do
+
+144
+00:05:30,560 --> 00:05:33,759
+as opposed to what they couldn't do. Um
+
+145
+00:05:32,320 --> 00:05:36,000
+but just note because this is slightly
+
+146
+00:05:33,759 --> 00:05:38,880
+on the lower end, part of what is on the
+
+147
+00:05:36,000 --> 00:05:40,080
+Orca is things that um you know, kids on
+
+148
+00:05:38,880 --> 00:05:43,039
+the higher end of the scale would be
+
+149
+00:05:40,080 --> 00:05:45,039
+able to do. So a score of 50, this is
+
+150
+00:05:43,039 --> 00:05:47,840
+right in the middle. Um and what we see
+
+151
+00:05:45,039 --> 00:05:50,080
+here with this child, Jamie, uh is Jamie
+
+152
+00:05:47,840 --> 00:05:51,919
+is able to use AAC devices. So that's
+
+153
+00:05:50,080 --> 00:05:54,720
+kind of a big characteristic of this
+
+154
+00:05:51,919 --> 00:05:57,680
+score. Um, looking at the get attention
+
+155
+00:05:54,720 --> 00:06:02,000
+category in the, uh, far left side over
+
+156
+00:05:57,680 --> 00:06:04,160
+here, um, uh, Jamie is sometimes able to
+
+157
+00:06:02,000 --> 00:06:06,000
+use a symbol on her device to get
+
+158
+00:06:04,160 --> 00:06:07,600
+attention from her parent. Now, to be
+
+159
+00:06:06,000 --> 00:06:09,199
+reflective of the wording on the orca,
+
+160
+00:06:07,600 --> 00:06:11,120
+we also include word approximations
+
+161
+00:06:09,199 --> 00:06:12,240
+here. Realistically, at a score 50,
+
+162
+00:06:11,120 --> 00:06:14,639
+you're probably not seeing word
+
+163
+00:06:12,240 --> 00:06:16,720
+approximations, but again, trying to be
+
+164
+00:06:14,639 --> 00:06:18,400
+consistent.
+
+165
+00:06:16,720 --> 00:06:20,400
+So, then Riley is on the higher end of
+
+166
+00:06:18,400 --> 00:06:22,160
+the scale, and we see even more
+
+167
+00:06:20,400 --> 00:06:24,479
+advancements. And I think you know the
+
+168
+00:06:22,160 --> 00:06:26,000
+big landmark with Riley is that she is
+
+169
+00:06:24,479 --> 00:06:29,199
+able to use one to three word or word
+
+170
+00:06:26,000 --> 00:06:31,120
+approximations. Um and then again
+
+171
+00:06:29,199 --> 00:06:34,800
+tracking kind of that uh get attention
+
+172
+00:06:31,120 --> 00:06:36,639
+category in the far left. Um she almost
+
+173
+00:06:34,800 --> 00:06:38,319
+always uses a symbol on her device or
+
+174
+00:06:36,639 --> 00:06:39,680
+word approximation to get attention. So
+
+175
+00:06:38,319 --> 00:06:42,000
+going from sometimes doing that to
+
+176
+00:06:39,680 --> 00:06:43,440
+always doing that. Um these will be all
+
+177
+00:06:42,000 --> 00:06:45,199
+put up on the poster that I have
+
+178
+00:06:43,440 --> 00:06:46,560
+outside. So if you wanted to read more
+
+179
+00:06:45,199 --> 00:06:48,639
+thoroughly into the different skills,
+
+180
+00:06:46,560 --> 00:06:50,319
+you're welcome to.
+
+181
+00:06:48,639 --> 00:06:51,840
+So this is great. we have these
+
+182
+00:06:50,319 --> 00:06:53,520
+vignettes,
+
+183
+00:06:51,840 --> 00:06:54,639
+what do they what what can they do for
+
+184
+00:06:53,520 --> 00:06:55,919
+us? And I think that that's the
+
+185
+00:06:54,639 --> 00:06:58,000
+important question is if we're going to
+
+186
+00:06:55,919 --> 00:07:00,000
+use the Orca in clinical trials, it's
+
+187
+00:06:58,000 --> 00:07:02,000
+great. It's developed, you know, really
+
+188
+00:07:00,000 --> 00:07:04,720
+with so much input by caregivers, we
+
+189
+00:07:02,000 --> 00:07:06,639
+want it to be the best measure possible.
+
+190
+00:07:04,720 --> 00:07:08,319
+We want to make sure that any changes
+
+191
+00:07:06,639 --> 00:07:11,120
+were used uh we're tracking with the
+
+192
+00:07:08,319 --> 00:07:12,479
+Orca are meaningful. And so that's
+
+193
+00:07:11,120 --> 00:07:15,680
+essentially what we did. We used those
+
+194
+00:07:12,479 --> 00:07:17,919
+vignettes and we presented them right
+
+195
+00:07:15,680 --> 00:07:19,280
+next to each other. So we did two
+
+196
+00:07:17,919 --> 00:07:21,840
+points, four points, six points and
+
+197
+00:07:19,280 --> 00:07:24,800
+eight points. Um and we presented them
+
+198
+00:07:21,840 --> 00:07:26,639
+straight to caregivers and said is this
+
+199
+00:07:24,800 --> 00:07:28,000
+a meaningful improvement? You know if
+
+200
+00:07:26,639 --> 00:07:30,560
+this is a hypothetical child with
+
+201
+00:07:28,000 --> 00:07:33,120
+Angelman syndrome and you know it
+
+202
+00:07:30,560 --> 00:07:34,800
+started at a score of 55 and then went
+
+203
+00:07:33,120 --> 00:07:36,880
+up to a score of 57. Of course not
+
+204
+00:07:34,800 --> 00:07:39,120
+showing them that that's the change.
+
+205
+00:07:36,880 --> 00:07:41,039
+Would that be meaningful to you? Um and
+
+206
+00:07:39,120 --> 00:07:43,440
+what we found is that at a score change
+
+207
+00:07:41,039 --> 00:07:45,039
+of two points over half of participants
+
+208
+00:07:43,440 --> 00:07:49,360
+in the study said that that would be
+
+209
+00:07:45,039 --> 00:07:51,120
+meaningful to them. Um, so
+
+210
+00:07:49,360 --> 00:07:52,639
+what does that actually look like? And I
+
+211
+00:07:51,120 --> 00:07:55,039
+think what's really interesting here is
+
+212
+00:07:52,639 --> 00:07:57,440
+that a twopoint change might seem
+
+213
+00:07:55,039 --> 00:07:59,360
+relatively small. Um, especially in the
+
+214
+00:07:57,440 --> 00:08:01,280
+context of, you know, the score range of
+
+215
+00:07:59,360 --> 00:08:04,000
+the orca, which goes from about 20 to
+
+216
+00:08:01,280 --> 00:08:05,599
+80. Um, but when we look at the actual
+
+217
+00:08:04,000 --> 00:08:07,520
+changes that would happen that would
+
+218
+00:08:05,599 --> 00:08:10,080
+correspond to a twopoint change, they
+
+219
+00:08:07,520 --> 00:08:12,240
+could be quite dramatic to daily life.
+
+220
+00:08:10,080 --> 00:08:13,919
+Um, so some examples of this would be
+
+221
+00:08:12,240 --> 00:08:16,000
+you might see someone go from responding
+
+222
+00:08:13,919 --> 00:08:18,000
+when told no or stop to also sometimes
+
+223
+00:08:16,000 --> 00:08:19,599
+following onestep directions. You might
+
+224
+00:08:18,000 --> 00:08:21,360
+see someone start sometimes answering
+
+225
+00:08:19,599 --> 00:08:22,879
+yes or no questions. So go from never
+
+226
+00:08:21,360 --> 00:08:24,960
+answering yes or no questions to
+
+227
+00:08:22,879 --> 00:08:26,639
+sometimes doing that. And then for those
+
+228
+00:08:24,960 --> 00:08:28,240
+who are already sometimes answering yes
+
+229
+00:08:26,639 --> 00:08:29,840
+or no questions, you might see them also
+
+230
+00:08:28,240 --> 00:08:32,159
+sometimes answering open-ended question,
+
+231
+00:08:29,840 --> 00:08:34,719
+which is a huge improvement in skill.
+
+232
+00:08:32,159 --> 00:08:35,919
+Um, with a three-point change, of
+
+233
+00:08:34,719 --> 00:08:38,000
+course, it includes all of those
+
+234
+00:08:35,919 --> 00:08:41,440
+twopoint changes as well. But what
+
+235
+00:08:38,000 --> 00:08:43,039
+you'll also find is some some kids that
+
+236
+00:08:41,440 --> 00:08:45,600
+maybe already start pretty high
+
+237
+00:08:43,039 --> 00:08:47,040
+functioning will start using symbols.
+
+238
+00:08:45,600 --> 00:08:49,200
+And then a four-point change, it gets
+
+239
+00:08:47,040 --> 00:08:51,120
+even bigger where you see again kids who
+
+240
+00:08:49,200 --> 00:08:52,560
+are relatively high functioning start to
+
+241
+00:08:51,120 --> 00:08:54,640
+use uh one to three word or word
+
+242
+00:08:52,560 --> 00:08:56,800
+approximations. This is not to say that
+
+243
+00:08:54,640 --> 00:08:58,640
+this is very very common at this level.
+
+244
+00:08:56,800 --> 00:09:01,120
+this is really only happening in a few
+
+245
+00:08:58,640 --> 00:09:03,760
+kids where you start to see um you know
+
+246
+00:09:01,120 --> 00:09:05,680
+it become much more consistent is around
+
+247
+00:09:03,760 --> 00:09:06,959
+an eight point change. Um and there's
+
+248
+00:09:05,680 --> 00:09:10,240
+actually a plot you can see where it
+
+249
+00:09:06,959 --> 00:09:12,160
+just levels out at eight. Um but I think
+
+250
+00:09:10,240 --> 00:09:15,200
+you know the the major takeaway here is
+
+251
+00:09:12,160 --> 00:09:17,600
+that when we actually talk to caregivers
+
+252
+00:09:15,200 --> 00:09:20,320
+about what's meaningful in their lives a
+
+253
+00:09:17,600 --> 00:09:23,120
+relatively small score change of two
+
+254
+00:09:20,320 --> 00:09:25,040
+potentially even smaller is actually
+
+255
+00:09:23,120 --> 00:09:26,640
+very meaningful. Um, and this is, I
+
+256
+00:09:25,040 --> 00:09:28,640
+think, what a lot of people predicted,
+
+257
+00:09:26,640 --> 00:09:30,720
+what a lot of you probably already knew.
+
+258
+00:09:28,640 --> 00:09:33,360
+Um, but it's great to have, you know, in
+
+259
+00:09:30,720 --> 00:09:35,600
+an actual study that we will publish and
+
+260
+00:09:33,360 --> 00:09:36,880
+hopefully tell the FDA that, you know,
+
+261
+00:09:35,600 --> 00:09:40,000
+this is something that's meaningful to
+
+262
+00:09:36,880 --> 00:09:41,600
+this population. Um, future directions,
+
+263
+00:09:40,000 --> 00:09:42,880
+you know, we're hoping to continue the
+
+264
+00:09:41,600 --> 00:09:45,040
+study about meaningful score
+
+265
+00:09:42,880 --> 00:09:46,959
+differences. So, like, you know, this is
+
+266
+00:09:45,040 --> 00:09:49,839
+very preliminary data. We will continue
+
+267
+00:09:46,959 --> 00:09:52,000
+onward with everything. Um, also, we're
+
+268
+00:09:49,839 --> 00:09:54,720
+working on creating kind of regions. So
+
+269
+00:09:52,000 --> 00:09:57,120
+low intermediate and high ability um
+
+270
+00:09:54,720 --> 00:09:58,800
+communication ability and then also the
+
+271
+00:09:57,120 --> 00:10:00,800
+orc itself is being translated into
+
+272
+00:09:58,800 --> 00:10:03,920
+other neurodedevelopmental conditions.
+
+273
+00:10:00,800 --> 00:10:07,120
+Um so hopefully we can use these same
+
+274
+00:10:03,920 --> 00:10:10,240
+methods to develop venance for them too.
+
+275
+00:10:07,120 --> 00:10:11,920
+Big thank you to everyone on my team. Um
+
+276
+00:10:10,240 --> 00:10:13,839
+yeah, especially Bryce Ree who's sitting
+
+277
+00:10:11,920 --> 00:10:15,440
+right here and Nicole Lucas. Um and then
+
+278
+00:10:13,839 --> 00:10:17,760
+also of course Allison and Jennifer for
+
+279
+00:10:15,440 --> 00:10:19,440
+all they've done and thank you to all of
+
+280
+00:10:17,760 --> 00:10:22,880
+you all. This is all supported by
+
+281
+00:10:19,440 --> 00:10:22,880
+caregivers. So thank you.
+
+282
+00:10:30,560 --> 00:10:33,920
+That's incredible work and it's been
+
+283
+00:10:32,320 --> 00:10:35,040
+years of effort and thank you for
+
+284
+00:10:33,920 --> 00:10:36,560
+putting that all together for our
+
+285
+00:10:35,040 --> 00:10:38,880
+community because this has been a huge
+
+286
+00:10:36,560 --> 00:10:40,399
+effort by our community. Um, what I want
+
+287
+00:10:38,880 --> 00:10:42,240
+everyone to acknowledge is when we look
+
+288
+00:10:40,399 --> 00:10:43,920
+at these end points in clinical trials,
+
+289
+00:10:42,240 --> 00:10:46,480
+when we're trying to understand and
+
+290
+00:10:43,920 --> 00:10:48,880
+assess expressive or receptive language,
+
+291
+00:10:46,480 --> 00:10:51,360
+which we all want desperately, things
+
+292
+00:10:48,880 --> 00:10:53,279
+like the Bailey don't capture anything
+
+293
+00:10:51,360 --> 00:10:55,839
+but words, word approximations, or
+
+294
+00:10:53,279 --> 00:10:58,640
+babble. They don't capture the AAC use
+
+295
+00:10:55,839 --> 00:11:01,040
+that might change well before or instead
+
+296
+00:10:58,640 --> 00:11:03,360
+of words. it doesn't really capture
+
+297
+00:11:01,040 --> 00:11:06,160
+signs and symbols, gestures and eye
+
+298
+00:11:03,360 --> 00:11:08,399
+gaze, all of those things in which are
+
+299
+00:11:06,160 --> 00:11:10,640
+really meaningful as our kids gain
+
+300
+00:11:08,399 --> 00:11:12,880
+skills and communication abilities. And
+
+301
+00:11:10,640 --> 00:11:15,680
+so for us to be able to see a measure
+
+302
+00:11:12,880 --> 00:11:18,959
+that deeply captures that that real
+
+303
+00:11:15,680 --> 00:11:22,079
+distinguished change at a granular level
+
+304
+00:11:18,959 --> 00:11:24,720
+to truly be able to place my child in a
+
+305
+00:11:22,079 --> 00:11:27,600
+category so I can see change in all of
+
+306
+00:11:24,720 --> 00:11:30,000
+these areas that I dream about for her
+
+307
+00:11:27,600 --> 00:11:31,760
+is huge. And that is all because of the
+
+308
+00:11:30,000 --> 00:11:34,079
+work of you guys. This was one of the
+
+309
+00:11:31,760 --> 00:11:35,440
+only measures for Angelmen syndrome to
+
+310
+00:11:34,079 --> 00:11:37,760
+date that is being used in clinical
+
+311
+00:11:35,440 --> 00:11:39,600
+trials that we started from scratch from
+
+312
+00:11:37,760 --> 00:11:42,320
+nothing. And that was because of the
+
+313
+00:11:39,600 --> 00:11:44,320
+input and the collaboration and the real
+
+314
+00:11:42,320 --> 00:11:46,560
+commitment by caregivers. So, thank you
+
+315
+00:11:44,320 --> 00:11:48,079
+to Bryce and Nicole and Abby for their
+
+316
+00:11:46,560 --> 00:11:50,000
+their commitment to this project. And
+
+317
+00:11:48,079 --> 00:11:52,000
+thank you to the FDA for recommending we
+
+318
+00:11:50,000 --> 00:11:53,519
+do this project. Um, but most
+
+319
+00:11:52,000 --> 00:11:54,720
+importantly, thank you to the caregivers
+
+320
+00:11:53,519 --> 00:11:57,440
+because we couldn't have done it without
+
+321
+00:11:54,720 --> 00:11:57,440
+all of you.
+

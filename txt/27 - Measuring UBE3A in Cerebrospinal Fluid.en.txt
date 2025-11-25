@@ -1,0 +1,130 @@
+So now we are going to move to Dr. Morty
+Razavi who's going to be presenting on a
+UB3A assay, a biioarker as we talked
+about earlier, um a potential biomarker
+that we're looking at to measure UB3A
+levels in the CSF. Morty,
+>> thank you. It's good to be here with you
+guys today. Um over the past 20 years
+I've worked on maybe two 300 protein
+biomarkers and I've only made emotional
+connection to a handful of them and
+UB31A1
+uh is one of them. Um this is such a
+master protein when you think about it
+uh in our neurons for the function of
+the brain for proper function of the
+cells and this is what you've been
+hearing all day that people are focusing
+on developing therapeutics that can
+replenish uh the neurons in Angelman
+syndrome uh with this one protein and
+that's why it's so important to me and
+and our team regardless of the approach
+that you're going to take for the
+therapeutic the fundamental question
+remains are you actually introducing
+UB3A
+uh in the neurons and what are the
+levels of this protein uh and are they
+able to be sustained over a long period
+of time. So some of the reasons why you
+would want to measure this protein in
+the context of the therapeutics first
+and foremost are you delivering the
+protein where it needs to be delivered
+to the neurons. Secondly, how much of it
+is there after you do your gene therapy
+or other forms of therapy? uh that's
+crucial information that you need to
+properly dose uh the therapeutic so that
+the protein is is getting expressed at
+the levels that it needs to be. And the
+third thing is once you do both of those
+things is a protein actually going to
+stay there for a long enough period of
+time and so longitudinal measurement of
+this protein uh to make sure that uh the
+results are sustained is going to be
+important to all the all the therapies
+out there.
+So if you look at different ways that
+people measure UB3A in different sample
+types u you are looking at three
+different uh assays. The first one is a
+protein assay. There are different ways
+of doing this. Uh but they're all
+looking at the protein which is the
+functional end here. That is the right
+thing to do. That is the correct type of
+biomarker to be looking at. The problem
+that exists with these assays is
+twofold.
+um there are such low levels of this
+protein in the neurons in in in CSF uh
+that sometimes you're making a mistake.
+Am I really measuring the correct thing?
+And so the sensitivity of these assays
+is usually where the challenge is. Uh a
+different type of assay looks at the the
+uh products of the genome. So you
+measure the RNA, but the challenge there
+is that you can make good measurements
+of of these RNAs, but that doesn't
+guarantee that the protein is actually
+there. And so you want to go the next
+level up and look at the protein as a
+biomarker. And there are assays out
+there that look at the tissue. You can
+actually visualize where the protein is.
+uh those are powerful assays, but
+tissue, brain tissue is not the kind of
+sample that you want to be working with
+if you're running clinical trials. You
+ideally want to have an assay that works
+in in a surrogate matrix like the CSF.
+uh and that's why um thanks to your
+donations and under leadership of
+Allison and Jennifer uh we started
+developing a gold standard assay that is
+sensitive enough to be able to
+quantitate CS uh UB3A in CSF of Angelman
+syndrome patients especially in support
+of all the ongoing clinical trials.
+So that work started about 18 months ago
+and we've successfully developed this
+gold standard assay. You're seeing some
+measurements that we've made in actual
+Angelman syndrome CSF samples that we
+have received and we've determined the
+levels in these samples to be on the
+level of phentogram grams per mill.
+The way to translate that to a lay
+audience is that that's reminiscent of
+looking at a bee on a flower on a lily
+pad in a pond all the way from the space
+station and you're doing that with your
+naked eyes. So that's the level of
+sensitivity we've been able to
+accomplish with this assay. The next
+levels are now that this tool is
+available to the community, we're going
+to start answering some important
+biological questions. For example, is
+UB3A neuronal or not? So we're working
+with the community to get proper sample
+types including age match neurotypical
+samples to answer these kinds of
+biological questions. And the second
+thing we're doing as a company, we're
+making sure that this assay is
+commercially available to anybody who's
+developing therapeutics. Any researcher
+out there who is developing uh
+methodologies for curing this disease,
+if they need to measure UB3A, this assay
+is available to them. On that note, u
+huge thanks to fast to Allison and
+Jennifer for uh bringing this really
+interesting project to us and thank you
+all uh for your support.

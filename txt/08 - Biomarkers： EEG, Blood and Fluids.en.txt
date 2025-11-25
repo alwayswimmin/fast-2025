@@ -1,0 +1,488 @@
+Hopefully she didn't go too far. She's
+coming back up and she's going to talk
+to you about biomarkers.
+>> Thanks.
+All right. I know I'm between you and
+lunch so I will be fast.
+Um these are my disclosures. All right.
+So biomarkers uh biomarkers are
+characteristics that you can measure in
+the body. And so it's not an outcome
+like um I don't have any verbal
+communication skills or I have limited
+mobility. Biomarkers are objective
+measures that we can measure. And in
+Angelman syndrome, we look at CSF, EEG,
+and MRI. These are some of the
+biomarkers that we're interested in
+because they're relevant to individuals
+with Angelman syndrome. Um on the right
+here, what you'll see is essentially um
+FDA's road map of what biomarkers can
+do. Um they can be diagnostic. So it
+could be a gene test for diagnosis of a
+disease. Um they could be for safety
+reasons. So maybe you have an antibbody
+at baseline and if you were going to get
+a specific treatment, maybe that's not
+safe for you. But what ABOM is really
+focused on are biomarkers that predict
+response or or indicate a response to a
+treatment which are efficacy biomarkers
+or sometimes you might hear them
+referred to as surrogate endpoints. So
+this is kind of what we we've been
+looking at as the Abomb. So first you
+have to understand what is an endpoint.
+So an endpoint is something that you
+measure in a clinical trial. a targeted
+outcome in a clinical trial that you
+analyze statistically to determine if a
+drug is safe and effective. And the way
+that we do that is we include outcomes
+that are relevant to the disorder. So in
+Angelman syndrome, it could be
+communication, sleep, activities of
+daily living and and whatnot. These are
+outcomes. And then you pick an outcome
+and say, "I'm going to look at the
+change in this outcome from
+pre-treatment to after treatment to
+determine if there was a response."
+Um, usually an outcome measure focuses
+on a way a patient feels or functions.
+So when I mentioned communication, that
+would be sort of how a patient is
+functioning or an individual with
+Angelin syndrome that has limited uh
+speech capabilities or communication
+capabilities, we might look at that as
+an outcome in terms of how they are
+functioning. Um and importantly, outcome
+measures should be relevant to the
+disorder. It seems obvious, but they
+really need to be relevant and ideally
+capturing what matters to you, which I
+just mentioned in the prior
+presentation. On the bottom here, this
+graph is the top 10 treatment priorities
+as determined by the PFDD survey. It's
+in the voice of the patient report. And
+so what we're trying to do is make sure
+we have outcomes that capture symptoms
+that you rank as important. So, for
+example, we wouldn't want to do a study
+that's focused on pain if you say, "I
+don't care about pain or how much pain
+my child has. What I care about is do
+they communicate more effectively? Do
+they understand me better?
+Biomarkers can sometimes also be
+endpoints in clinical trials. And this
+is what I mentioned before as a
+surrogate endpoint. And that's a
+biomarker like measuring blood or CSF
+that's thought to predict clinical
+benefit. and meaning that you're not
+measuring how a patient feels or
+functions through the biioarker, but you
+think that there's a relationship
+between that biomarker and an outcome
+measure so that the biomarker will
+predict a change in that outcome measure
+later. Um, and oftentimes you use
+biomarkers as surrogate endpoints in
+disorders when it takes a really long
+time to measure that outcome. And so an
+example of this would be in a a study
+maybe where you were looking at people
+with cardiovascular diseases and you
+were trying to see if a drug changes the
+number of strokes that happen in a
+population. And so if you enrolled a
+group of individuals that had risk
+factors for stroke, if you had to follow
+them until they all had or didn't have a
+stroke, you might be following them for
+a very very long time. And so usually
+what happens instead is they focus on
+other measures or biomarkers like blood
+pressure and say okay if I give this
+patient a drug and do I make their blood
+pressure go down and then you can get an
+approval off of that biioarker instead
+of waiting all the way to see the
+outcome.
+But to do this, you have to accumulate
+extensive evidence. And I want to say
+extensive evidence because from a
+regulatory perspective, FDA and other
+agencies will really want you to show
+that you you really know how the
+biomarker does relate to that outcome.
+And usually you need clinical trials to
+do that to really prove the relationship
+between that biomarker or surrogate
+endpoint and the clinical outcome that
+you think will be changed.
+So if we think now about Angelman
+syndrome, some of the biomarkers that we
+believe are important and have
+investigated as the Abomb um are EEG,
+MRI and CSF markers. So I'll start with
+EEG. So here you may have heard um in
+some forums um delta power is measured.
+So it's a parameter on EEG that we see
+is increased during sleep and wake
+periods in individuals with Angelman
+syndrome. And if you start on the left,
+you will see um in that plot there's a
+red line and a gray line. And the red is
+Angelman syndrome and the gray is a
+neurotypical or a group of neurotypical
+individuals. And you can see that this
+delta band is increased clearly in
+individuals with Angelmen syndrome. We
+also know that this delta band or delta
+power decreases over time with age just
+naturally. But if you look at the middle
+plot, you'll see the red is still higher
+than the gray. So, it's still higher in
+individuals with Angelman syndrome than
+it is in neurotypical individuals. Um,
+and this increased delta power is really
+thought to be due to the lack of UB3A
+that impacts synaptic functioning. And
+you heard about both UB3A and some of
+its effects this morning. If you look on
+the all the way to the right, we see
+that in individuals with deletion
+mutations or non-deion mutations, it's a
+little bit higher in individuals with
+deletion, which might accord to the fact
+that deletion is um usually the the most
+severe presentation of Angelman
+syndrome. And so it's very much
+increased and there's a little bit of a
+difference even between mutation types.
+I'm not going to explain all of what's
+in this plot, but essentially it's safe
+to say that there's been some ABOM
+groups or some ABOM members I should say
+that have investigated how delta power
+might relate to outcomes in Angelman
+syndrome. And what they've seen through
+data and analyses of the natural history
+is that the higher your delta power is,
+the lower your cognitive function would
+be predicted to be. So they can see in
+individuals with high delta power, their
+cognitive abilities are lower. And so
+that's how that relationship might
+unfold. That if we bring delta power
+down, maybe some abilities would would
+grow.
+Importantly, we know that the mouse, the
+angelman mouse that you heard about this
+morning, also has this delta power
+increase. And there have been studies by
+some of the groups involved in Abomb
+that have looked at using an olucleotide
+in a mouse. And if you look at the blue
+group here, they took uh mice and they
+gave them an anti-sense aloneucleotide
+that targeted that paternal gene
+anti-sense transcript to try to
+unsilence the paternal uh gene and allow
+UB3 expression. And so they treated
+these mice, the blue group, and they
+compared them to mice treated with a
+control oligonucleotide. So either
+angelin mice um on the left or in green
+wild type or or or typical mice. They
+saw that they were able to bring the
+delta power down in the mice that were
+treated with the incense oligoucleotide
+that was specific for Angelman syndrome.
+Whereas the mice that got the control
+ASO that had Angelmen syndrome didn't
+change at all. So we they saw with
+treatment they could bring down this
+delta power. Most importantly is now
+through clinical trials evidence is
+emerging that you can do the same in in
+humans. And what they've seen in the red
+here versus the blue, the red is the
+natural history data predictions. So
+again, the power of natural history data
+because we can compare delta power in
+untreated individuals versus treated. So
+red is the natural history prediction
+and blue is the treated group on an
+olonucleotide. And you can see that
+their delta power is coming down. And
+importantly on the right, you could see
+this group also had an increase in their
+cognition abilities based on an
+assessment by the Bailey scale. And so
+it sort of is following that predicted
+trend that if you improve their delta
+power, you bring it down with treatment,
+you might see a change in outcomes.
+We're also looking at MRI as a potential
+biomarker. We know very little about
+this. What we do know um as Allison
+mentioned in her talk is that
+individuals with Angelman syndrome have
+um delayed mileelination. And so what
+you're looking at here is a plot of
+individuals males and females with as in
+the circles those sort of blue and
+pinkish circles as compared to the
+triangles which are neurotypical
+population. And you can kind of see that
+on average the brain size is a little
+bit less in those younger individuals
+with Angelin syndrome. If we could use
+MRI that might be a nice way to see if
+that changes with treatment and if that
+if they catch up in that myelination and
+then that brain volume. So that's
+something that we're going to follow
+further to explore and and look at.
+And then we look at fluids. You heard
+that um in Allison's talk. And this is
+something we saw yesterday. We had some
+really interesting talks at the Ebomb on
+biomarkers yesterday. And one of them um
+was about a a test that's run by a
+company called Saskappa. And you're
+going to hear Morty talk later today
+about this in more detail. But what
+they've done is take cerebrros spinal
+fluid or CSF from individuals with
+Angelman syndrome and also neurotypicals
+to see if you if there is a difference
+in their UB3A expression. So can you see
+if there's protein that UB3A protein in
+neurotypical individuals and then it's
+missing in individuals with Angelman
+syndrome? And that's in fact what
+they've started to see on this test. And
+I'll let uh Morty talk about that more
+in his talk. But this is very important
+from a regulatory perspective because if
+we could measure UB3A, so if there was
+none before treatment and then you see
+it go up after treatment, that would be
+an indicator of response to a therapy
+that we could see earlier
+maybe than some of the outcomes on the
+clinical measures like the Bailey or the
+Orca or the Vineland, right? It would
+give us really early evidence and
+powerful evidence of a change because
+you wouldn't expect it to be there.
+That's the lefth hand side. On the right
+hand side, we also have a company called
+Somalogic that's doing some um
+exploration into proteins in the CSF.
+And this is a busy plot, but if you
+basically look at that bottom box in in
+red where you see some pink and reds,
+what we've started to see is there's
+some protein signatures that's a little
+bit different in individuals with
+Angelman syndrome than neurotypicals.
+And so we're we need to further explore
+what those what those signatures mean.
+Um and do they correlate to outcomes
+that we don't know yet.
+So based on what we know about EEG and
+CSF and MRI, the question is are these
+biomarkers uh surrogate endpoints yet?
+Can we use these in trials and make that
+sort of the primary focus and and look
+at the outcomes later to maybe speed up
+um our clinical trials and readouts?
+Unfortunately, no. We're not there yet.
+We just we're just not there yet. We
+need to know more and your that your
+data contributions and the samples that
+you've provided help us explore this
+further and it's not something we're
+going to give up on but we're just not
+there yet. We need to build more
+evidence to to do this. And what I'm
+showing here are the two phase three
+trials that are ongoing now uh with
+Ultragenics and Ionis. And you can see
+their primary outcome measures are on
+the Bailey scale some aspect of the
+Bailey scale. And that's because we're
+not there yet with those um other
+measures including delta power to
+utilize that as the primary focus of the
+trial.
+This is a busy slide, but what I want to
+show you here is that biomarkers are
+powerful even if they're not ready to be
+a surrogate endpoint. And that's because
+they provide really good objective
+evidence that that rounds out your whole
+data set and they can support outcome
+measures. And I like to think of it as a
+belt and suspenders in your clinical
+trial. Um, Topherin is a drug that was
+approved a few years ago for ALS. And in
+the top two boxes here, I think I have a
+build. Um, what I wanted to show you is
+that they did a pivotal trial, so a
+phase three trial in individuals with
+ALS, and they used a rating scale that's
+assessed by a doctor to look at whether
+or not their symptoms of ALS are
+improving. So sometimes when you have
+these scales, you can have variability
+from doctor to doctor and how they
+assess it. Even if you really try to
+train them up and make sure there's
+consistency, there's a little bit of
+variability. And so sometimes that
+impacts the analysis. And what happened
+in this study was that they failed. They
+they did not hit that primary endpoint.
+It was not um successful. But they had
+studied a biomarker called NFL or
+neuropilament light chain. And there had
+been a lot of work to understand what
+does this mean in ALS? and it's
+basically a marker of neurons
+degenerating and they understood that it
+related to the progression of ALS and
+this was part of the trial and so even
+though they failed the primary outcome
+the FDA said well you know we've learned
+a lot about NFL and what we see in your
+data set what you're showing us is that
+in patients that have a reduction in NFL
+they also have like the best reduction
+in their ALS rating score so there's
+some sort of relationship there with
+bringing down this biioarker and
+improvement even if you failed the
+primary end point. And so even though
+you didn't hit what you were supposed to
+hit, when we look at the total package
+of evidence, we think that there's
+something there and we're going to
+approve this basically um on this
+surrogate endpoint, even though that's
+not where you started, that's where
+you're going to end up because this
+evidence was persuasive and we feel like
+biologically something's going on. And
+that's what good biomarkers can do. they
+sort of build up and provide evidence
+that something is happening at a
+biological level even if some of the
+outcome measures um don't really show
+that yet.
+The other thing that biomarkers do are
+they can revol revolutionize the
+landscape of development and this is
+because sometimes you can read out these
+biomarkers very early and I'm showing
+you here a paper about multiple
+sclerosis and they had a real explosion
+in that area because they had
+advancements in MRI technologies and
+they started to have better confidence
+that they could measure the lesions on
+the brain that are involved in MS and
+predict how that would relate to how the
+patient felt and functioned in terms of
+like their relapse relapse activity. And
+so what they did was they built this
+data set of correlating number of
+lesions to activity in patients. And
+they could basically start to see that
+if we treat patients with the drug and
+we see these lesions go away, then we
+have good confidence and good evidence
+here that shows that they won't have as
+much activity. they won't relapse as
+much and have as much loss of function
+and feel bad. And what this did was
+absolutely explode that area because
+companies could come in and say, "I'm
+going to do a short study and I'm going
+to look at MRI over three months and I'm
+going to know whether this drug works or
+doesn't. And if it works, I'm going to
+put money into developing it and if it
+doesn't, we're going to move on to
+something else." And this area has, I
+think, over 20 approved therapies. I I
+can't even count how many therapies
+there are approved for MS. But that
+biioarker absolutely moved that
+landscape and that's basically what we
+want to do here. Even if these
+biomarkers aren't providing us what we
+want for today, we want to invest in
+them for tomorrow because we may get to
+a point where we can screen candidates
+earlier and quickly make those good ones
+advance and move away from things that
+don't. And I just want to end by
+thanking you for your contributions,
+especially with bioarkers because
+they're not easy to get. Um, thank you
+so much because you are absolutely
+enriching and informing the development
+landscape. Thanks.
+[applause]
+Thanks.
+>> Okay. I'm the only thing standing
+between you and lunch. I understand
+that. Um, so we're going to get you
+there. One thing I want to just announce
+is a couple of items were left at the
+community event last night. So, out at
+registration, there's like shoes and
+maybe even a purse and scarves and
+things. um please go out to the
+registration desk to go and get that. Um
+in addition the um uh sign up to meet
+with a specialist. So just so everyone
+knows we have here some unbelievable and
+highly experienced specialists in PT,
+OT, speech therapy, ABA therapy, vision
+therapy, neuro feedback, and feeding and
+swallowing therapy. and you for free
+families can sign up and have a
+consultation with them. There's the meet
+the specialist sign up if you walk out
+the door and go to the left. There's um
+Bianca is going to be waiting there and
+anybody can sign up and there's still
+some slots left and take advantage of
+this because all of these individuals
+have worked deeply with children with
+Angelmen syndrome and adults and have
+been incredibly supportive of helping
+families get through whatever challenges
+they're having and give them some
+advice. So, please go out there and sign
+up. If everyone wants to um break for
+lunch, we're going to meet back in here
+with your food um for a lunch and learn.
+So, Ryan's going to talk to us about
+advocacy, but you're welcome to bring
+your food back in and um eat and listen
+at 120. So, go out, have yourself some
+food, bring it back in here. Everyone,
+eat in here so Ryan can get started
+while you're eating at 1:20. We'll see
+you soon.

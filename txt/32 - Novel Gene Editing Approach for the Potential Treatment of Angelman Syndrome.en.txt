@@ -1,0 +1,275 @@
+So, our next speaker is Dr. Raph Benjam
+um coming to us from Arbor
+Biotechnologies. I'm so happy that you
+guys are here presenting today on this
+stage. Just for the record, I've been
+talking to Arbor for a long time. Um but
+I have never been able to disclose that
+I'm talking to Arbor for a long time.
+And the fact that they agreed to speak
+to our families about their Angelman
+program to disclose out of stealth that
+they're working on Angelmen syndrome is
+really exciting. And it's early days,
+but we're super thrilled and we're so
+great grateful to be able to support
+you.
+>> Good morning. Thank you Allison for the
+introduction and uh it is truly an honor
+to be standing in front of you today. My
+name is Rafael Benjam. I'm here on
+behalf of Arbor Bio and I'm going to be
+talking to you today about uh novel gene
+editing approaches for the potential
+treatment of Angelman syndrome. Let me
+see if this works. These are my
+disclosures.
+So I'll take a few seconds to briefly
+tell you about Arbor Bio. Arbor is a
+clinical stage company whose therapies
+um leverage the potential of crisper
+gene editing. Um, Arbor has several
+pipelines in progress, including one
+liver indication for PH1, currently in
+phase one clinical trials, as well as
+several CNS pipelines at different
+stages of pre-clinical development. And
+more recently, as Allison mentioned, um,
+Arbor's gene editing technology combined
+with our expertise in AEV delivery for
+CNS disorders is now being applied to
+the potential treatment of Angelmen
+syndrome.
+So, Arbor employs um about a little more
+than 10 unique gene editors including uh
+type five nucleaces and I'll tell you a
+little bit about that in a second. But
+before I do, I wanted to take a second
+to briefly refresh your memory on the
+component of crisper and you've heard
+about crisper many points uh during the
+past three days. And I'll just be quick
+and tell you that um crisper gene
+editing allows for the precise
+modification or disruption of a
+particular gene of interest. And it does
+so by using two main components. The
+first is the cast protein which is this
+red kidney bean shape here on the
+diagram. And the cast protein serves as
+a molecular scissor to disrupt the the
+gene of interest. And it does so thanks
+to the guide um by by the gRNA or guide
+RNA which will bring the CAS protein to
+to the gene of interest. And you should
+also know that there are at least six
+major types of crisper gene editors. And
+I'll talk about two specifically today.
+Type two nucleases are the most
+well-known and cast 9 and is an example
+of type two nucleases. You've heard
+about cast 9 many times during the past
+three days. Cast 9 is widely used in
+clinical trials and is even FDA approved
+for the treatment of cickle cell
+disease. In uh contrast, type five
+nucleases
+um are less wellknown but are
+particularly well suited for use in
+therapeutics for the following two
+reasons. The first is that on average
+there are smaller than type two
+nucleases and their guide RNAs are
+smaller as well which makes packaging
+type five nucleuses into AVs easier. And
+the second reason is they have a
+different type of cut compared to type
+two nucleases. Um, type five nucleaces
+will perform a staggered cut shown here
+which will typically lead toward larger
+deletion which is particularly
+advantageous when disrupting the UB3A
+ATS.
+And so it is no surprise to hear that
+Arbor's AS pipeline will um target the
+will aim to disrupt the UB3A ATS um in
+an attempt to unsilent dad's gene or as
+is commonly known as fast circles as
+pillar 2.
+And to delve into um our therapeutic
+approach a little deeper, Arbur's gene
+editor is intended to be packaged into
+an AEV and intended for a one-time
+administration and the potential there
+is for durable unsilencing of paternal
+UB3A.
+The clinical benefits of this approach
+have been demonstrated by ASOS currently
+in clinical trials and you'll hear about
+those updates um later today. And
+finally, arbor's small nucleus leaves
+room for incorporation of different
+safety features, potential safety
+features to prevent sustained nucleus
+expression.
+And so I'll now walk you through the
+different stages of our preclinical in
+vitro developments starting with our
+high throughput screening. Now a
+targeted region within the UB3A ATS
+locus spans around 50,000 bases which is
+quite large and we therefore had to
+screen many guides around 300 first in
+an immortalized cell line to first
+filter out guides with poor activity.
+The guides that made it through were
+validated in IPS derived human cortical
+neurons derived from Angelmen patient
+and with those we were able to rank the
+guides based on their ability to um
+recover UB3A protein expression.
+The top candidates were then optimized
+and we were able to improve their
+potency by up to 14 folds. And we were
+able to demonstrate that our top
+candidates can recover an invitro
+phenotype
+um and reverse hyperexitability
+um in Angelmen neurons in vitro. And
+I'll now uh briefly highlight some key
+data sets to uh show you the the
+progress that we've made since the
+assumption of this project. So what
+you're seeing here is a graph that
+illustrates the UB3A protein expression
+recovery of an Angelman neuron following
+the treatment with our top um nucleus
+and guide combinations. The bar in red
+is showing UB3A expression of a
+neurotypical control and the average of
+that expression is shown by the top
+dotted line.
+The expression of UB3A in an angelman
+neuron untreated Angelman neuron is
+shown in gray and the average of that
+expression is shown by the bottom dotted
+line.
+In green are 14 candidates uh 14
+candidates spanning two different
+nucleases and several guides and they
+show different varying levels of UB3
+protein recovery. In orange are two
+guides that are able to reach levels
+similar to those of neurotypical
+control. In blue are seven more guides
+that are close to reaching neurotypical
+control, but more importantly that are
+able to reach levels similar to a
+researchgrade ASO uh designed and
+published by the Dindo lab that we have
+been using as a benchmark in these
+assays.
+And now that we were able to show
+robustly that we can recover UB through
+protein expression angelman neurons, our
+next question was do those top
+candidates are they able to reverse an
+invitro phenotype? And in the literature
+there are reports that Angeloman neurons
+exhibit elevated excitability
+and this has been shown in both IPS
+derived neurons in vitro as well as the
+Angelmen neuron models in vivo.
+And so we chose to use a machine called
+the MEA or multi-elerode array. And this
+machine allows us to quantify a neuron's
+electrical activity in the dish. And
+more specifically, it allows us to
+compare the excitability of an Angelman
+neuron compared to a neurot neurotypical
+neuron and ultimately allows us to
+prioritize guides based on their ability
+to reduce hyperexitability in vitro.
+So I'll walk you through the data. The
+graph on the left here shows a measure
+of synchrony. Um the higher the number,
+the higher the synchrony. And you should
+know that a hypoexitable neuron, one of
+the hallmarks is an elevated synchrony.
+And we see that data reflected here. An
+angelman neuron in red is showing
+elevated synchrony compared to two
+neurotypical lines in blue. And so after
+treatment with our top candidates, we
+are able to reduce the synchrony of the
+angel minuron once again in red down to
+neuro to neurotypical range. And you see
+that with two guides in light and dark
+green. And the quantification of that is
+shown in the graph on the right um with
+area under the curve acting as a proxy
+for uh synchrony. The lower the number,
+the lower the synchrony. And we see that
+our guys are able to reduce that
+synchrony of Angelmen neurons down to
+neurotypical levels. And more
+interestingly, we saw a high correlation
+of the percentage of reduction of
+hypersynchrony and the percentage of UBA
+UB3A protein recovery with those same
+guides.
+So I'll quickly summarize what I've just
+told you. Arbur's gene editor um is are
+intended to be packaged in an AEV and
+intended for one-time administration and
+the potential there is for durable
+unsilencing of paternal UB3A. Our top
+gene editors and guide RNA candidates
+are able to recover UB3A protein level
+in Angelmen neurons to neurotypical
+level. We've shown that we can develop a
+novel in vitro um assay on the MEA and
+replicate a previously reported
+phenotype of hyperexitability
+and our top candidates can reverse the
+hyperexitability phenotype to
+neurotypical range. And so I'll end my
+talk by thanking you thinking fast the
+organizers for the invitation to speak
+today. Thank you to Allison for being um
+a thought partner, as she said earlier
+in the talk, a thought partner from the
+beginning of this project. And of
+course, thank you to the Angelment
+community. Um this community is one of a
+kind. I'm sure you know this. And your
+um continued attendance at this meeting
+and your continued advocacy and support
+of drug development efforts for your
+loved ones living with AS is inspiring.
+So, thank you for your support and thank
+you for your attention today.
+Awesome.
+So for anybody who didn't understand
+that because that was beautiful science.
+Basically various different guides that
+target different parts of the anticense
+had different benefit showing that you
+can knock down the antisense upreculate
+the protein and rescue what is almost
+like a seizure phenotype or the cells
+that are that are excitable the neurons
+that are excitable. You can actually
+rescue that to bring it to more
+neurotypical or or normal levels in
+neurons. And so you can see that
+sequence matters, location of where
+you're targeting matters. And to be able
+to find the best um the best solution
+and the best candidate, you want to be
+able to address that in the greatest way
+with expressing the most amount of UB3A
+and rescuing a behavior like seizure
+activity in a neuron. So that's really
+exciting work and I really look forward
+to seeing that go forward in vivo.

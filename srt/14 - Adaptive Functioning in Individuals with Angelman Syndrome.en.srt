@@ -1,0 +1,1280 @@
+1
+00:00:00,480 --> 00:00:04,720
+So now we're going to shift gears
+
+2
+00:00:02,159 --> 00:00:08,240
+totally um for the rest of the session
+
+3
+00:00:04,720 --> 00:00:11,519
+to human application and really talk a
+
+4
+00:00:08,240 --> 00:00:14,240
+bit about endpoints meaningfulness and
+
+5
+00:00:11,519 --> 00:00:16,800
+how we think about the assessments that
+
+6
+00:00:14,240 --> 00:00:19,520
+we're doing on our kids and how to best
+
+7
+00:00:16,800 --> 00:00:21,760
+understand them, support them and be
+
+8
+00:00:19,520 --> 00:00:24,480
+able to interpret them. So our next
+
+9
+00:00:21,760 --> 00:00:25,519
+speaker is Dr. Sarah Nelson Potter and
+
+10
+00:00:24,480 --> 00:00:27,119
+she's going to be speaking about
+
+11
+00:00:25,519 --> 00:00:29,359
+adaptive functioning in individuals with
+
+12
+00:00:27,119 --> 00:00:31,279
+Angelman Syndrome. And one thing I'm I I
+
+13
+00:00:29,359 --> 00:00:33,600
+would be remiss not to mention is that
+
+14
+00:00:31,279 --> 00:00:36,960
+you may have just received 250 emails
+
+15
+00:00:33,600 --> 00:00:37,920
+from fast and if you did that was um
+
+16
+00:00:36,960 --> 00:00:39,920
+likely because of the government
+
+17
+00:00:37,920 --> 00:00:42,399
+shutdown. So we can blame the government
+
+18
+00:00:39,920 --> 00:00:43,920
+shutdown for that. Um but no apparently
+
+19
+00:00:42,399 --> 00:00:45,520
+something happened with Cvent and a
+
+20
+00:00:43,920 --> 00:00:48,480
+bunch of emails warning you about the
+
+21
+00:00:45,520 --> 00:00:50,800
+flights went out to the entire listerve
+
+22
+00:00:48,480 --> 00:00:52,320
+and um ultimately there may be a lot of
+
+23
+00:00:50,800 --> 00:00:53,760
+emails coming your way. So you're going
+
+24
+00:00:52,320 --> 00:00:56,160
+to hear from us a lot in the next five
+
+25
+00:00:53,760 --> 00:00:58,079
+minutes and for that we apologize. Um,
+
+26
+00:00:56,160 --> 00:01:01,079
+so Sarah Potter, please come in for
+
+27
+00:00:58,079 --> 00:01:01,079
+that.
+
+28
+00:01:11,520 --> 00:01:16,080
+>> Thanks, Alison, for the introduction.
+
+29
+00:01:13,760 --> 00:01:17,840
+Um, I'm really super happy to be here
+
+30
+00:01:16,080 --> 00:01:19,840
+today to tell you about some of our
+
+31
+00:01:17,840 --> 00:01:21,680
+recent work in uh aimed at better
+
+32
+00:01:19,840 --> 00:01:23,040
+understanding adaptive functioning in
+
+33
+00:01:21,680 --> 00:01:25,920
+individuals living with Angelman
+
+34
+00:01:23,040 --> 00:01:28,240
+syndrome. And so adaptive behavior
+
+35
+00:01:25,920 --> 00:01:30,479
+refers to the everyday skills that we
+
+36
+00:01:28,240 --> 00:01:32,320
+all need to live independently. This
+
+37
+00:01:30,479 --> 00:01:33,840
+includes how we communicate with others,
+
+38
+00:01:32,320 --> 00:01:36,720
+how we take care of our own personal
+
+39
+00:01:33,840 --> 00:01:38,320
+needs. Things like eating, toileting,
+
+40
+00:01:36,720 --> 00:01:40,240
+hygiene,
+
+41
+00:01:38,320 --> 00:01:42,560
+um how we do chores around the house,
+
+42
+00:01:40,240 --> 00:01:45,119
+preparing food, managing our daily
+
+43
+00:01:42,560 --> 00:01:47,040
+routines at school, at work, at home,
+
+44
+00:01:45,119 --> 00:01:49,840
+and in the community, how we interact
+
+45
+00:01:47,040 --> 00:01:51,840
+with others socially, motor skills, and
+
+46
+00:01:49,840 --> 00:01:54,159
+so on. And we know that individuals
+
+47
+00:01:51,840 --> 00:01:56,000
+living with Angelman syndrome experience
+
+48
+00:01:54,159 --> 00:01:59,040
+significant deficits in adaptive
+
+49
+00:01:56,000 --> 00:02:01,439
+behavior that significantly affect
+
+50
+00:01:59,040 --> 00:02:03,680
+quality of life both for the affected
+
+51
+00:02:01,439 --> 00:02:06,320
+individual and for their caregivers as
+
+52
+00:02:03,680 --> 00:02:09,679
+you all know and this makes adaptive
+
+53
+00:02:06,320 --> 00:02:12,720
+behavior a key target for uh change in
+
+54
+00:02:09,679 --> 00:02:14,800
+therapeutic development in as
+
+55
+00:02:12,720 --> 00:02:17,760
+so many of you have participated in a
+
+56
+00:02:14,800 --> 00:02:19,760
+vin assessment before and the vin 3 is
+
+57
+00:02:17,760 --> 00:02:22,080
+the current edition of the vin and it's
+
+58
+00:02:19,760 --> 00:02:23,520
+considered is a gold standard caregiver
+
+59
+00:02:22,080 --> 00:02:25,599
+reported measure of adaptive
+
+60
+00:02:23,520 --> 00:02:27,360
+functioning. It measures adaptive
+
+61
+00:02:25,599 --> 00:02:29,920
+functioning in four domains.
+
+62
+00:02:27,360 --> 00:02:32,319
+Communication, daily living skills,
+
+63
+00:02:29,920 --> 00:02:33,760
+socialization, and motor skills. Today
+
+64
+00:02:32,319 --> 00:02:35,519
+we're going to talk a little bit about
+
+65
+00:02:33,760 --> 00:02:38,319
+both receptive and expressive
+
+66
+00:02:35,519 --> 00:02:40,800
+communication. Receptive receptive
+
+67
+00:02:38,319 --> 00:02:42,879
+communication being how an individual
+
+68
+00:02:40,800 --> 00:02:44,319
+understands language and expressive
+
+69
+00:02:42,879 --> 00:02:47,599
+communication involving how an
+
+70
+00:02:44,319 --> 00:02:50,160
+individual uses sounds, gestures, and
+
+71
+00:02:47,599 --> 00:02:51,920
+words. Um, we're going to talk about
+
+72
+00:02:50,160 --> 00:02:54,800
+daily living skills in the personal
+
+73
+00:02:51,920 --> 00:02:57,360
+subdomain. So that includes toileting,
+
+74
+00:02:54,800 --> 00:02:59,120
+hygiene, dressing, and eating. We'll
+
+75
+00:02:57,360 --> 00:03:00,800
+talk a little bit about interpersonal
+
+76
+00:02:59,120 --> 00:03:03,840
+relationships. So that's things like
+
+77
+00:03:00,800 --> 00:03:06,959
+early social behavior, imitation,
+
+78
+00:03:03,840 --> 00:03:08,560
+recognizing and expressing emotions, and
+
+79
+00:03:06,959 --> 00:03:10,000
+we're going to talk about both gross and
+
+80
+00:03:08,560 --> 00:03:11,680
+fine motor. So, we're going to talk
+
+81
+00:03:10,000 --> 00:03:13,840
+about gross motor being how an
+
+82
+00:03:11,680 --> 00:03:16,400
+individual uses their arms and legs for
+
+83
+00:03:13,840 --> 00:03:18,480
+movement and coordination and fine motor
+
+84
+00:03:16,400 --> 00:03:21,519
+being how an individual uses their hands
+
+85
+00:03:18,480 --> 00:03:23,440
+and fingers to manipulate objects. And
+
+86
+00:03:21,519 --> 00:03:24,959
+so, a few years ago, we had a study
+
+87
+00:03:23,440 --> 00:03:27,760
+looking at adaptive skills of
+
+88
+00:03:24,959 --> 00:03:30,720
+individuals with Angelman syndrome using
+
+89
+00:03:27,760 --> 00:03:32,560
+the Vinand 2, but some significant
+
+90
+00:03:30,720 --> 00:03:34,640
+improvements were made between these two
+
+91
+00:03:32,560 --> 00:03:37,680
+versions of the Violin. So the violin 3
+
+92
+00:03:34,640 --> 00:03:39,200
+has more items that measure early skills
+
+93
+00:03:37,680 --> 00:03:41,360
+which is really important for our
+
+94
+00:03:39,200 --> 00:03:43,920
+population. It has different scoring
+
+95
+00:03:41,360 --> 00:03:46,720
+criteria and most importantly it
+
+96
+00:03:43,920 --> 00:03:48,879
+accounts for AAC use in the expressive
+
+97
+00:03:46,720 --> 00:03:51,680
+communication subdomain. So you know how
+
+98
+00:03:48,879 --> 00:03:53,920
+important that is. So the aims of this
+
+99
+00:03:51,680 --> 00:03:56,239
+study are to describe how adaptive
+
+100
+00:03:53,920 --> 00:03:58,159
+functioning changes over time in
+
+101
+00:03:56,239 --> 00:04:00,560
+individuals with Angelmen syndrome and
+
+102
+00:03:58,159 --> 00:04:03,120
+to examine whether changes in adaptive
+
+103
+00:04:00,560 --> 00:04:07,680
+skills over time differ by molecular
+
+104
+00:04:03,120 --> 00:04:10,720
+subtype. All right. So we had 331
+
+105
+00:04:07,680 --> 00:04:12,239
+individuals in this study. Uh little
+
+106
+00:04:10,720 --> 00:04:14,080
+less than twothirds had a deletion
+
+107
+00:04:12,239 --> 00:04:17,040
+subtype and it was relatively evenly
+
+108
+00:04:14,080 --> 00:04:19,359
+split between males and females. age at
+
+109
+00:04:17,040 --> 00:04:22,079
+the first visit was um a little bit over
+
+110
+00:04:19,359 --> 00:04:24,160
+11 years on average. Um you can see it
+
+111
+00:04:22,079 --> 00:04:27,120
+ranged from six months to over 50 years
+
+112
+00:04:24,160 --> 00:04:29,280
+of age. Um which is really great. Um at
+
+113
+00:04:27,120 --> 00:04:31,919
+the last visit the average age was
+
+114
+00:04:29,280 --> 00:04:33,680
+around 12 and a half. Um and on average
+
+115
+00:04:31,919 --> 00:04:37,280
+participants had two visits but this
+
+116
+00:04:33,680 --> 00:04:39,120
+ranged from 1 to six. And so caregivers
+
+117
+00:04:37,280 --> 00:04:41,840
+completed the comprehensive interview
+
+118
+00:04:39,120 --> 00:04:43,680
+form of the violin 3 in the Angelman
+
+119
+00:04:41,840 --> 00:04:45,919
+syndrome natural history study in
+
+120
+00:04:43,680 --> 00:04:48,800
+Friious um in the brain development
+
+121
+00:04:45,919 --> 00:04:51,040
+study in uh Mark Shen's lab or at the
+
+122
+00:04:48,800 --> 00:04:53,199
+UNCC clinic and all of these data were
+
+123
+00:04:51,040 --> 00:04:56,880
+contributed to the latter database and
+
+124
+00:04:53,199 --> 00:04:59,120
+we access these data for this study. So
+
+125
+00:04:56,880 --> 00:05:01,440
+to address these aims we used mixed
+
+126
+00:04:59,120 --> 00:05:04,639
+effects models with restricted maximum
+
+127
+00:05:01,440 --> 00:05:06,639
+likelihood estimation. This isn't um all
+
+128
+00:05:04,639 --> 00:05:08,320
+that meaningful to many of you, but I'll
+
+129
+00:05:06,639 --> 00:05:10,000
+explain a little bit why this is. So, we
+
+130
+00:05:08,320 --> 00:05:11,039
+examine Vineland growth scale values,
+
+131
+00:05:10,000 --> 00:05:12,960
+which I'm going to talk a little bit
+
+132
+00:05:11,039 --> 00:05:15,199
+more about in a second, in relation to
+
+133
+00:05:12,960 --> 00:05:17,280
+the natural log of age and molecular
+
+134
+00:05:15,199 --> 00:05:19,039
+subtype. So, we use these models to
+
+135
+00:05:17,280 --> 00:05:21,039
+account for repeated assessments from
+
+136
+00:05:19,039 --> 00:05:23,360
+the same participants over time. And
+
+137
+00:05:21,039 --> 00:05:26,080
+this log transformation of age helped us
+
+138
+00:05:23,360 --> 00:05:27,919
+capture the faster gains that we saw
+
+139
+00:05:26,080 --> 00:05:30,000
+early on and the slower rate of change
+
+140
+00:05:27,919 --> 00:05:32,160
+that happens later, which you'll see in
+
+141
+00:05:30,000 --> 00:05:34,240
+just a second. So, a little bit more
+
+142
+00:05:32,160 --> 00:05:36,720
+about growth scale values. They provide
+
+143
+00:05:34,240 --> 00:05:39,120
+us with an absolute measure of adaptive
+
+144
+00:05:36,720 --> 00:05:41,280
+skill level and they're derived directly
+
+145
+00:05:39,120 --> 00:05:43,919
+from raw scores. They're not ageormed.
+
+146
+00:05:41,280 --> 00:05:46,320
+So, they allow us to track true within
+
+147
+00:05:43,919 --> 00:05:48,880
+individual change over time even when
+
+148
+00:05:46,320 --> 00:05:50,479
+standard scores are staying the same or
+
+149
+00:05:48,880 --> 00:05:52,479
+they're at the floor of the assessment.
+
+150
+00:05:50,479 --> 00:05:54,880
+And so, really, this just means that we
+
+151
+00:05:52,479 --> 00:05:56,880
+can observe more subtle changes in
+
+152
+00:05:54,880 --> 00:05:59,520
+development that's not often allowed
+
+153
+00:05:56,880 --> 00:06:02,320
+with some of our standardized tests. And
+
+154
+00:05:59,520 --> 00:06:04,720
+GSVs have equal interval scaling,
+
+155
+00:06:02,320 --> 00:06:07,600
+meaning that a one unitit change has the
+
+156
+00:06:04,720 --> 00:06:09,759
+same meaning across the entire scale.
+
+157
+00:06:07,600 --> 00:06:12,080
+And this makes them very well suited for
+
+158
+00:06:09,759 --> 00:06:14,240
+tracking growth over time within
+
+159
+00:06:12,080 --> 00:06:16,800
+individuals. So let's get to our
+
+160
+00:06:14,240 --> 00:06:18,560
+results. We are looking at these plots
+
+161
+00:06:16,800 --> 00:06:20,800
+now. We've got receptive communication
+
+162
+00:06:18,560 --> 00:06:24,080
+on the left and expressive communication
+
+163
+00:06:20,800 --> 00:06:26,080
+on the right. On our x axis, we've got
+
+164
+00:06:24,080 --> 00:06:30,240
+age in years ranging from zero to over
+
+165
+00:06:26,080 --> 00:06:31,919
+50. And then our GSVs are on the Y ais.
+
+166
+00:06:30,240 --> 00:06:34,080
+So our individuals with a deletion
+
+167
+00:06:31,919 --> 00:06:36,639
+subtype are represented here in blue.
+
+168
+00:06:34,080 --> 00:06:38,960
+Those with a UB3A mutation in green and
+
+169
+00:06:36,639 --> 00:06:41,919
+those with UPD or an imprinting center
+
+170
+00:06:38,960 --> 00:06:45,360
+defect are in red. And so for both of
+
+171
+00:06:41,919 --> 00:06:47,520
+these subdomains, those with a non-deion
+
+172
+00:06:45,360 --> 00:06:49,680
+had a higher level of skills compared to
+
+173
+00:06:47,520 --> 00:06:51,360
+those with a deletion. In receptive
+
+174
+00:06:49,680 --> 00:06:53,680
+communication, we saw that the rate of
+
+175
+00:06:51,360 --> 00:06:55,520
+growth in receptive skills did not
+
+176
+00:06:53,680 --> 00:06:56,639
+differ significantly between the subtype
+
+177
+00:06:55,520 --> 00:06:58,560
+groups. So you can see that their
+
+178
+00:06:56,639 --> 00:07:01,280
+trajectories are running parallel with
+
+179
+00:06:58,560 --> 00:07:03,599
+each other. However, in the expressive
+
+180
+00:07:01,280 --> 00:07:06,240
+uh subdomain, we saw that the rate of
+
+181
+00:07:03,599 --> 00:07:08,080
+growth was steeper in those with a
+
+182
+00:07:06,240 --> 00:07:10,080
+non-deion compared to those with a
+
+183
+00:07:08,080 --> 00:07:12,080
+deletion. So those with the non-deion
+
+184
+00:07:10,080 --> 00:07:13,199
+have a faster rate of growth early in
+
+185
+00:07:12,080 --> 00:07:16,160
+development. You can see it's a little
+
+186
+00:07:13,199 --> 00:07:18,080
+bit of a steeper trajectory.
+
+187
+00:07:16,160 --> 00:07:20,080
+In terms of personal daily living
+
+188
+00:07:18,080 --> 00:07:23,120
+skills, we see that again that those
+
+189
+00:07:20,080 --> 00:07:24,960
+with a non-deion have higher level
+
+190
+00:07:23,120 --> 00:07:27,280
+skills compared to those with a
+
+191
+00:07:24,960 --> 00:07:29,759
+deletion. And here the rate of growth is
+
+192
+00:07:27,280 --> 00:07:31,440
+actually steeper in the UB3A mutation
+
+193
+00:07:29,759 --> 00:07:34,000
+group compared to the deletion group. So
+
+194
+00:07:31,440 --> 00:07:35,840
+we see a faster rate of growth in those
+
+195
+00:07:34,000 --> 00:07:37,360
+early years relative to those with the
+
+196
+00:07:35,840 --> 00:07:40,080
+deletion.
+
+197
+00:07:37,360 --> 00:07:42,319
+In terms of interpersonal relationships,
+
+198
+00:07:40,080 --> 00:07:44,319
+we again see that uh that those with the
+
+199
+00:07:42,319 --> 00:07:46,639
+non-deion had a higher level of skills
+
+200
+00:07:44,319 --> 00:07:48,960
+compared to those with a deletion. Um
+
+201
+00:07:46,639 --> 00:07:50,880
+but we like we saw with the receptive
+
+202
+00:07:48,960 --> 00:07:52,639
+communication subdomain, the rate of
+
+203
+00:07:50,880 --> 00:07:54,080
+growth did not differ significantly
+
+204
+00:07:52,639 --> 00:07:55,680
+between the subtype groups. So again,
+
+205
+00:07:54,080 --> 00:07:57,440
+they're sort of running parallel with
+
+206
+00:07:55,680 --> 00:08:00,960
+each other.
+
+207
+00:07:57,440 --> 00:08:03,440
+And for both gross gross and fine motor
+
+208
+00:08:00,960 --> 00:08:05,360
+we see again that the non-deion groups
+
+209
+00:08:03,440 --> 00:08:07,919
+demonstrated a higher level of skills
+
+210
+00:08:05,360 --> 00:08:10,080
+compared to those with a deletion. And
+
+211
+00:08:07,919 --> 00:08:11,360
+again the rate of growth is not
+
+212
+00:08:10,080 --> 00:08:13,599
+significantly different between the
+
+213
+00:08:11,360 --> 00:08:18,479
+groups. They're running in parallel with
+
+214
+00:08:13,599 --> 00:08:20,639
+each other. So um we found that similar
+
+215
+00:08:18,479 --> 00:08:22,960
+to previous research individuals with
+
+216
+00:08:20,639 --> 00:08:24,960
+non-deion subtypes demonstrate a higher
+
+217
+00:08:22,960 --> 00:08:27,199
+level of skills compared to those with
+
+218
+00:08:24,960 --> 00:08:28,960
+deletion subtypes. There are some
+
+219
+00:08:27,199 --> 00:08:31,360
+differences between subtypes in the rate
+
+220
+00:08:28,960 --> 00:08:33,919
+of growth in various subdomains.
+
+221
+00:08:31,360 --> 00:08:36,560
+And we see these faster gains early in
+
+222
+00:08:33,919 --> 00:08:39,039
+development and slower change later on.
+
+223
+00:08:36,560 --> 00:08:40,880
+So the most rapid progress is happening
+
+224
+00:08:39,039 --> 00:08:42,880
+early in development and then gains
+
+225
+00:08:40,880 --> 00:08:45,600
+become slower over time, but they are
+
+226
+00:08:42,880 --> 00:08:47,360
+still happening. Individuals are still
+
+227
+00:08:45,600 --> 00:08:49,839
+gaining skills and they're demonstrating
+
+228
+00:08:47,360 --> 00:08:52,399
+growth in all adaptive domains. And this
+
+229
+00:08:49,839 --> 00:08:54,480
+really justifies a need for continued
+
+230
+00:08:52,399 --> 00:08:56,800
+services. So things like speech,
+
+231
+00:08:54,480 --> 00:08:59,920
+occupational and physical therapies as
+
+232
+00:08:56,800 --> 00:09:01,920
+well as academic academic modifications
+
+233
+00:08:59,920 --> 00:09:04,320
+which can provide opportunities for
+
+234
+00:09:01,920 --> 00:09:06,800
+sustained development.
+
+235
+00:09:04,320 --> 00:09:08,880
+And so we're next going to look at how
+
+236
+00:09:06,800 --> 00:09:10,880
+seizures affect the development of
+
+237
+00:09:08,880 --> 00:09:13,040
+adaptive skills and we're going to
+
+238
+00:09:10,880 --> 00:09:15,680
+examine whether other factors affect
+
+239
+00:09:13,040 --> 00:09:17,600
+adaptive skills and growth. And so I
+
+240
+00:09:15,680 --> 00:09:19,440
+just want to thank my colleagues at um
+
+241
+00:09:17,600 --> 00:09:22,080
+RTI and at Boston Children's Hospital
+
+242
+00:09:19,440 --> 00:09:24,320
+for helping to prepare this presentation
+
+243
+00:09:22,080 --> 00:09:27,120
+for today. Mark Shen at UNCC for
+
+244
+00:09:24,320 --> 00:09:30,640
+contributing data, the RO uh team at
+
+245
+00:09:27,120 --> 00:09:32,399
+Friezia for contributing data and our
+
+246
+00:09:30,640 --> 00:09:34,560
+Angelman syndrome natural history study
+
+247
+00:09:32,399 --> 00:09:37,279
+sites. Uh thanks most of all to all of
+
+248
+00:09:34,560 --> 00:09:39,610
+you families who participate in research
+
+249
+00:09:37,279 --> 00:09:46,950
+and thanks for your attention.
+
+250
+00:09:39,610 --> 00:09:46,950
+[Applause]
+
+251
+00:09:50,640 --> 00:09:53,839
+Thanks Sarah for that. And I think it's
+
+252
+00:09:52,320 --> 00:09:55,600
+important for families to understand
+
+253
+00:09:53,839 --> 00:09:57,040
+that that's information we've known for
+
+254
+00:09:55,600 --> 00:09:59,040
+a long time, but that's been based off
+
+255
+00:09:57,040 --> 00:10:00,480
+of the Vinand 2 and the Vinand 3. The
+
+256
+00:09:59,040 --> 00:10:02,160
+only reason that's important for you to
+
+257
+00:10:00,480 --> 00:10:03,519
+know the difference is because in the
+
+258
+00:10:02,160 --> 00:10:05,440
+current clinical trials where we're
+
+259
+00:10:03,519 --> 00:10:07,519
+trying to compare to the natural history
+
+260
+00:10:05,440 --> 00:10:09,920
+of the disease, we need to compare it to
+
+261
+00:10:07,519 --> 00:10:12,320
+the Violin 3. So having this now data
+
+262
+00:10:09,920 --> 00:10:14,079
+set is really important for sponsors as
+
+263
+00:10:12,320 --> 00:10:15,680
+they're looking at the use of island 3
+
+264
+00:10:14,079 --> 00:10:17,360
+in the clinical trials. One other thing
+
+265
+00:10:15,680 --> 00:10:19,040
+I just want to highlight for families
+
+266
+00:10:17,360 --> 00:10:20,399
+which I think is incredibly important
+
+267
+00:10:19,040 --> 00:10:23,600
+and often in these research
+
+268
+00:10:20,399 --> 00:10:26,560
+presentations um isn't really recognized
+
+269
+00:10:23,600 --> 00:10:28,560
+is the fact that we're dissecting out in
+
+270
+00:10:26,560 --> 00:10:29,839
+this enormous magnified way the
+
+271
+00:10:28,560 --> 00:10:32,160
+difference between deletion and
+
+272
+00:10:29,839 --> 00:10:33,760
+non-deion. And I guarantee you some of
+
+273
+00:10:32,160 --> 00:10:36,320
+you are even dissecting out the
+
+274
+00:10:33,760 --> 00:10:38,320
+difference between UPDICD and mutation
+
+275
+00:10:36,320 --> 00:10:41,200
+and wondering why the mutation line is
+
+276
+00:10:38,320 --> 00:10:43,600
+marginally above the UPD line. Um, but
+
+277
+00:10:41,200 --> 00:10:45,519
+you need to mag out a moment and realize
+
+278
+00:10:43,600 --> 00:10:47,040
+that they didn't show you actually how
+
+279
+00:10:45,519 --> 00:10:49,519
+that compares to neurotypically
+
+280
+00:10:47,040 --> 00:10:51,440
+developing peers that are age matched.
+
+281
+00:10:49,519 --> 00:10:52,640
+And if you were to mag out, the
+
+282
+00:10:51,440 --> 00:10:55,760
+difference between deletion and
+
+283
+00:10:52,640 --> 00:10:57,440
+non-deion becomes much much smaller. The
+
+284
+00:10:55,760 --> 00:10:59,600
+difference between UPD and ICD becomes
+
+285
+00:10:57,440 --> 00:11:01,600
+practically non-existent. And the
+
+286
+00:10:59,600 --> 00:11:05,200
+difference between Angelmen as a whole
+
+287
+00:11:01,600 --> 00:11:07,440
+and neurotypical is tremendous. And so I
+
+288
+00:11:05,200 --> 00:11:09,040
+think I have heard and as I I speak to
+
+289
+00:11:07,440 --> 00:11:12,959
+sponsors or people getting into the
+
+290
+00:11:09,040 --> 00:11:16,800
+field, I am often asked, well, it seems
+
+291
+00:11:12,959 --> 00:11:19,279
+like nonddion are not nearly as severe
+
+292
+00:11:16,800 --> 00:11:21,839
+as deletion. So maybe we need to focus
+
+293
+00:11:19,279 --> 00:11:24,959
+on the deletion. But what people need to
+
+294
+00:11:21,839 --> 00:11:26,959
+hear is that they're all really severe.
+
+295
+00:11:24,959 --> 00:11:28,959
+It's just that when you blow it out and
+
+296
+00:11:26,959 --> 00:11:31,760
+look at the details from a statistical
+
+297
+00:11:28,959 --> 00:11:34,000
+perspective, they're they're marginally
+
+298
+00:11:31,760 --> 00:11:36,160
+different. And so you can see those
+
+299
+00:11:34,000 --> 00:11:39,200
+differences. But what I really try to
+
+300
+00:11:36,160 --> 00:11:41,680
+explain to people is that regardless of
+
+301
+00:11:39,200 --> 00:11:43,839
+their genotype, they're non-verbal.
+
+302
+00:11:41,680 --> 00:11:46,240
+Regardless of their genotype, they will
+
+303
+00:11:43,839 --> 00:11:48,640
+not live an independent life. They will
+
+304
+00:11:46,240 --> 00:11:51,360
+have challenges with self-care and they
+
+305
+00:11:48,640 --> 00:11:53,360
+will will have challenges with fine
+
+306
+00:11:51,360 --> 00:11:55,360
+motor and gross motor skills. Yes,
+
+307
+00:11:53,360 --> 00:11:57,279
+they're different. but they're still
+
+308
+00:11:55,360 --> 00:11:59,600
+quite severe and I don't want to
+
+309
+00:11:57,279 --> 00:12:02,480
+underestimate that and the severity of
+
+310
+00:11:59,600 --> 00:12:05,600
+that and the implications that we all
+
+311
+00:12:02,480 --> 00:12:07,279
+want more regardless of the genotype.
+
+312
+00:12:05,600 --> 00:12:09,279
+So, it's important to just back it up
+
+313
+00:12:07,279 --> 00:12:11,120
+for a moment and put into perspective
+
+314
+00:12:09,279 --> 00:12:12,480
+for the industry partners in the room
+
+315
+00:12:11,120 --> 00:12:14,240
+that are thinking about how they're
+
+316
+00:12:12,480 --> 00:12:16,240
+going to design their trials because all
+
+317
+00:12:14,240 --> 00:12:18,480
+of these kids compared to neurotypically
+
+318
+00:12:16,240 --> 00:12:19,920
+developing peers are quite different in
+
+319
+00:12:18,480 --> 00:12:22,399
+a very similar way. So I just want to
+
+320
+00:12:19,920 --> 00:12:22,399
+make that very
+

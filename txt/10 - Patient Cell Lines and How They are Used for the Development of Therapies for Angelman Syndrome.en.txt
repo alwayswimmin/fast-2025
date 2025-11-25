@@ -1,0 +1,329 @@
+I'm very happy to introduce our next
+speaker who is Dr. Yang Wee Jiang who
+most of you know and I don't think he
+needs an introduction. Um he happens to
+be one of my favorite people on the
+planet and also somebody who believes
+deeply in this community. Um from
+everything from creating the tools,
+testing them from in vitro to invivo and
+actually moving that from the bench to
+the bedside. And so you're going to hear
+a lot from him and his team um today
+with in vitro and then the following
+talk is someone Jeanoo from his team
+talking about in in vivo. But then
+tomorrow you're going to hear about the
+translation of that to human clinical
+trials. So um very exciting and very
+happy to have him here. He's going to
+talk to us about what those cell lines
+in a dish look like for Angelman
+syndrome. So Young Way
+Well, thank you Allison and good to see
+everyone every year this time too. Um
+I'm extremely impressed by Ryan's um
+talk and Allison remind me I'm talking
+to most of you are parents uh multiple
+times once you understand my science
+then you can go to DC and request more
+money for the research back to the Yale.
+So you are much much much more powerful
+voice than we do as a scientist.
+Government say okay you always want
+money but no impact. Um can my my slide
+up.
+Oh okay. Um
+so I already yeah go that's fine. Why go
+back? Oh that's first one. Oh okay. So
+Allison give me this title. um try to go
+over the some of the work we have done
+in the lab with the fast support over
+last four or five years. Um from this
+morning's talk you probably already
+learn
+animal model like mice it's pretty
+valuable. Um that's we as many of you
+know me that I created the first and
+mouse model when I was in Dr. last lab
+as student but again it's a additional
+model we created last couple years and
+this one with larger delion the original
+one is a good one but there a one we're
+going to see here later after my talk
+probably is an even better mouse model.
+uh the reason we can use the mouse model
+is there's a lot of syn between human
+and mice we call conserve which is
+similar particular at a concept level or
+mechanis level however if we go into the
+microscope like ultra structure getting
+the we call the DNA sequence human and
+mice are different so that's what this
+morning you heard the talk mice is not
+human that's a limitation using the
+animal model but how do you do it in the
+human particular form you do need a
+human neuron. So that's the technology
+common particular for example if
+anti-sense oliggo many of you familiar
+with was testing the animal it's not
+directly translatable to the human
+because human and the mice for the
+anti-sense oliggo that stretched DNA
+sequence is a completely different so
+everything you learn from the mouse
+model you have to be retested that
+redesign and before you go to the human
+so overcoming the limitation for animal
+model we need a human neuron the
+technology mentioned early in the
+morning too called IPSC it's a short
+abbreviation for in the poly potent stem
+cell which you clearly see the
+difference between human and mice it's
+the human brain is a thousand time
+bigger than mouse and even
+mouse is still invivo we call invivo
+model live model so since 2020 21 uh in
+the middle of co Alice and I had a
+discussion so we start this project so
+yes we we need to build up a bio
+repository with all the different
+patient different genotype so that's
+what I show here so we're happy to say
+um we completed this project every
+individual genotype hope everyone here
+the family here we all have the IPSC
+created at the Yale stem center and we
+also created some of control as for this
+experiment and again thank you a lot of
+you here fast support or individuals
+listed here on the last genotype many of
+you contribute you remember it's a
+middle of a co I had a conversation the
+zone meeting with you and eventually we
+work out how to do it and during the co
+time so just walk through a few key step
+once uh we get blood from your kids and
+then how it was worked out at Yale. It's
+a pretty complicated process and a long
+duration too. Remember I talked to you
+and goes through this we call RB
+requirement explain to you the protocol
+and what will we do and at Yale and make
+sure you understand everything we do.
+Then you say yes, I will contribute.
+Then you put your signature on the paper
+and then you mail back to us. Then we
+arrang into the blood collection during
+the co time. Thank you a lot of your
+local physician pediatrician support. So
+we're able to do this. So we collect a
+blood then we will um do the sort of
+spin down and that time we're going to
+testing a lot of things like a
+micropplasma hepatitis B hepatitis C and
+during the covid time we also testing co
+for the sample we collected then we use
+the term called reprogramming basically
+we collect a sample from blood by the
+special technology called reprogramming
+return to the blood cell we call adult
+cell all the old cell converting to the
+baby cell called a stem cell. So that
+term called reprogramming it's a
+technology developed by the Japanese
+scientist which got a Nobel Prize for
+about 15 years ago. So with that
+technology then we generate using kind
+of reprogramming and a lot of magic
+process in the picture dish. Then we say
+hey um indeed we can turn to the blood
+cell to the baby cell kind of stem cell.
+After that when we make sure when we do
+the reprogramming
+everything still maintain the good
+quality. So we have do lot of the we
+callization look at the genotype then
+eventually this cell was preserved then
+we can shipping out to many many
+investigator in the in the world. So
+that here's a step we took and we were
+going to first confirm the genotype of
+Anderman still maintain and in addition
+as no other sort of genetic
+alteration due to the reprogramming
+mistake happened it's now no longer end
+plus something that's not good. We also
+did all other work together confirm
+every cell is good and that's ready to
+go and also we must make sure this cell
+after called reprogramming they indeed
+could poly potent which is stem cell we
+use a different marker beautiful looking
+for individual marker say okay cell
+looking good and also we were going to
+transfer the cell to the life mice which
+is immune deficiency mice make sure this
+cell indeed as a capability to
+differential or turn into many different
+type of cell like a neuron and muscle
+and other called a terteratoma assay. So
+after that one we keep in the storage
+then we make many expanded many many
+clone and many vials. So anyone come
+from any institution interested we say
+okay yeah we have it we shipping to you
+in next day so eventually and fast Alice
+and other we work out say okay this is a
+resource would be good for community in
+the long term we got to re make this one
+public so we finally made this ebisic
+repository so everyone in the world
+commercial entity farmer and uh
+investigating in the academic
+institution they can free access to so
+Happy to say uh we already distributed
+many many PI and a few company. Uh happy
+also to say there are two paper using
+this cell line. It's under review right
+now. So very soon you will see this uh
+product in the community.
+So um
+once we do this I'm going to show you a
+few case what we do how to use the cell
+line to develop a treatment or testing
+treatment. So once once you get a
+disease and then you say okay um what do
+we do one thing for sure the purpose is
+we can we need to generate a human
+neuron. So that's two technology we
+using one we call 2D neuron basically
+peach dish you can see individual neuron
+in a peach dish second we call organal
+you heard this morning we call 3D neuron
+sometime which basically it's a mini
+brain it's a much more complex than 2D
+it's a 3D threedimension look like the
+human brain of course it's a mini size
+it's not perfect but it's the best we
+can do right now
+um so we can use have first testing for
+example testing for new treatment. This
+one we're working on on as you know we
+do this called gene editing using a new
+technology not viral non nanop particle.
+So we can use this cell screen many many
+different guard here we can testing 20
+which you can see each guard is
+different efficiency then the pink the
+highest one tells you the best one. So
+that's the first thing you can do very
+easily can do in a couple weeks time and
+we also show beautiful you can see this
+green signal shows you indeed you knock
+out anti- sense and reactivate the sense
+the UB3 the green signal is very very
+efficient and that's another way to look
+at this result then furthermore we
+create organal which you can see this is
+three dimension structure so you choose
+a very complex mimicking the human brain
+structure with different color shows you
+different type of cell and it also shows
+you most interesting for part of you
+focus on the green signal it's a UBCA we
+attached to the UBCA gene with EGFP
+green form proteins you can see after
+incubator this green organal or 3D
+neuron you see the green signal shows
+you reactivation happening editing it's
+working.
+So with that also you can see this
+particular one as we engineer with the
+human neuron. So we put the EGFP touch
+to the enderman UPCA gene. So you treat
+with a crisp editing you can see the
+reactivation happen. So when Alice and I
+look at this data she said okay this is
+perfect for precision medicine. As many
+of parents probably know you talking
+each other say hey my kids have a delion
+your kids have delion so my kids is not
+same as your kid the same thing for the
+UBC mutation so that come down to the
+heterogeneity or complexity but ideal
+way in ideal way you would say okay
+before you get a trim everyone should
+get a cell and we testing first and see
+whether it's efficient for this one. So
+this is a beautiful example. You can see
+this cell is a patient with larger
+deletion. We treated with a crisp
+editing. You can see the reactivation
+happen. It's quite efficient. Of course,
+it's not 100% but it's pretty efficient
+way as Allison talking earlier. If you
+have a 20% versus 40% or five 10%. So
+that's the future. Of course, we have no
+resource. We're not able to generate
+cell line for every one of you but we
+will use this as a showcase indeed the
+value of this cell line would generate
+for future for develop additional new
+treatment with that I'm going to
+summarize
+indeed with the fast support many of
+your contribution and also particular
+for many family and contributed blood
+and that we were able to generate 15 and
+cell line from all different genotype
+UPD delion po mutation imprint mutation
+all cover for that case everyone
+particular investigate interesting study
+this one you can just send email to me
+or go to ebisk they are free to
+distribute uh for this particular this
+all we generated we're free it's a free
+distribution that's one condition
+Allison very clear when we talk this
+project make sure y allow allow this
+free distribution for everyone including
+farmer for the cell line we generated we
+achieve that goal for the purpose um for
+sure we show you the case that indeed
+it's valuable for the human neuron
+different from the mice but it's a human
+neuron which often time eventually is
+needed to move into the human drug
+product for all different reason so this
+cell line indeed I think it's extremely
+valuable for engine community often time
+is also valuable for other community
+they can come to us as we call they call
+okay can we have engine cell as a
+country yeah perfectly yeah we will give
+to you to help your community for the
+research
+for sure uh this project we're now
+getting started with the fast without
+fast support and a lot of people
+contribute Allison and
+um other from board member and all the
+family contribute this repository. The
+people in my lab and Shaa are
+particularly contributed for this
+project. With that stop here, thank you
+for the opportunity.
+Thank you, Young Way. That that was
+great. And hopefully everyone realizes
+the power of your kids blood did that.
+And that is how drugs are being
+developed is based off of the blood of
+your children that have become neurons.
+Um, so that's incredibly important and
+thank you for everyone who committed and
+donated cells for this initiative that
+is helping all industry members
+ultimately.

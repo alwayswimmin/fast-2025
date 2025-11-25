@@ -1,0 +1,326 @@
+So, next I'm excited to introduce Dr.
+Kim Goodspeed, who leads the GTX 102
+clinical trial at Ultragenics. She's
+going to be talking to us about um a
+framework that we've heard about before,
+but not explicitly called the MDRI or
+the multi-dommain responder index, which
+really can capture some of the
+meaningful changes in Angelmen Syndrome.
+So, I'm going to let her explain to you
+exactly what that is.
+Almost there. Hello everybody. What
+great talks we've had today, right? Um,
+so as Allison mentioned, I'm Kim
+Goodspeed. I'm uh the clinical lead for
+GTX 102 at Ultragenics. Uh, really
+honored to be here. I'm a child
+neurologist by training and um just
+thrilled to be getting to work with this
+community still. So, first and foremost,
+thank you. Uh, thanks for being here,
+for listening. thanks to all our um
+families who have participated in our
+trials and all of our investigators and
+your study teams who have made those
+trials happen. So without you guys um
+none of this data would exist and
+because we're um have some opportunities
+here, I wanted to be able to dive into
+the methodology behind our MDRI. So
+that's really what we're going to kind
+of focus on today is what is this tool
+that we've kind of shown you a couple of
+times now. Um but we can dive into it a
+little bit deeper. But first and
+foremost um GTX 102 is not an approved
+product. Right? So it's an
+investigational drug and the data we are
+going to look at today is from an uh
+interim data from an open label study.
+So it's not definitive. And again I
+really want to focus on the methodology
+today and kind of what are the nuts and
+bolts of the MDRI the multi-dommain
+responder index.
+But first, can I also tell you that the
+reason we think about things like the
+MDRI is because we know that in
+especially rare disease clinical trials,
+selecting a single primary efficacy
+endpoint can be really challenging. But
+that's generally how clinical trials are
+set up. So they're designed to evaluate
+efficacy based on this one symptom and
+you measure it in one particular way and
+you need to have most of the trial
+participants improve in that particular
+symptom.
+So in order to demonstrate that
+therapeutic benefit on that particular
+symptom, you probably need to make sure
+that most of the individuals in the
+trial have that symptom when they come
+into the trial. Well, in some scenarios,
+that might end up narrowing the
+population of individuals that you get
+to study. And then you get into some
+questions around well how much can we
+generalize this data if we had to limit
+our study population to this one
+particular symptom.
+But even more than that I think we're in
+a new era right we learned all kinds of
+interesting things about ASOS gene
+therapies um crisper therapies this
+morning these are all designed to treat
+the underlying cause of Angelman
+syndrome which we know doesn't manifest
+as just one symptom. So if we're
+treating the underlying cause, you can
+imagine that individuals are going to
+benefit in different ways because they
+have different symptoms at the
+beginning. And so we know that even
+drugs that exist today can impact
+patients in many many different ways,
+but the trials that were used to approve
+those drugs really had to rely on that
+single primary efficacy endpoint. So our
+solution is the MDRI, so the
+multi-dommain responder index, and it's
+a way to evaluate the data looking at
+all these different symptom domains at a
+single time um in one analytical tool.
+So let's talk about what it is. So
+again, it's an analytical strategy. It's
+a tool that we can use to see different
+symptoms and how individual participants
+from that trial respond to each of those
+different symptoms and then kind of
+tally up the data to see the overall
+responder rate.
+So, it's important that each of these
+symptoms that we're measuring are
+clinically distinct and are important.
+And so, these are the five we've
+identified for Angelman syndrome. And
+we'll talk a little bit more about that,
+but most of that data actually came from
+y'all again. So from your disease
+concept studies, your natural history
+studies, you have taught us what is
+important and what we need to measure.
+And so those are the key aspects that
+we've focused on. Now what is the MDRI
+not? It is not a composite endpoint
+which it often gets kind of confused or
+lumped with. The difference that I think
+is the main difference is that in the
+MTRI we get to measure different
+symptoms with different endpoints and
+they're all thought to be clinically
+meaningful for the population. A
+composite endpoint is really taking one
+symptom but measuring that symptom in a
+lot of different ways. So this coronary
+artery example here at the bottom is
+showing you that we're have all these
+different ways that we can measure
+coronary artery disease um from kind of
+milder to more severe ways of measuring
+it versus taking different symptoms and
+manifestations of Angelmen syndrome. So
+it's a little bit of a nuance difference
+but an important one.
+So how does it work? Um you initially
+identify anywhere from four to six. We
+picked the sweet spot of five for this
+trial. Um clinically meaningful domains.
+So symptoms and they need to be
+important. So they have to be things
+that you care about as a community and
+they need to be independent and be able
+to measure it independently.
+And then we identify a clinical endpoint
+that appropriately measures each of
+those symptoms. And then we define a
+meaningful score difference. So, what is
+the smallest change that we think would
+be an indicator of improvement or
+worsening? And then we assign a score to
+that. So, here in the middle of the
+screen, we've got the pink, the white,
+and the green boxes. So, [snorts] if
+that meaningful score difference is met
+or surpassed in the direction of
+improvement, we assign that a score of
+plus one. If it's met or surpassed in
+the direction of worsening, we assign it
+a score of minus one and give it a pink
+color. If it falls somewhere in the
+middle, we say, "We're not sure if
+that's clinically meaningful or not. We
+don't know if that's a true treatment
+effect." And so we uh leave that box
+white and we give it a score of zero.
+You tally up all of these scores to give
+you your net responder uh net response.
+So like in this little theoretical
+example here, uh domain one is a plus
+one because they improved. Uh z domain
+two and five, there wasn't a clear
+change, so that's a zero point. Three
+gets a plus one. four is a minus one.
+Sum that up, you get a plus one net
+score.
+Then you look at this through the entire
+group, apply some statistical analyses
+to it, and decide if it's statistically
+significant or not. And we've already
+said that each of these boxes is
+clinically meaningful. So then we get to
+apply the statistical analysis on top of
+that. And then we display the results as
+a responder index. So for Angelman
+Syndrome, we started with the domains.
+these really truly came from your
+conceptual model. So what are the things
+that are the unmet need and things that
+we can measure in a trial um and that
+are important to you that they could
+potentially improve with treatment. So
+sleep, motor, behavior, communication,
+cognition. And then um the next sorry
+we've got some formatting stuff that was
+not on my laptop but um then we identify
+which endpoints we assign to each of
+those. So this data comes from our phase
+one two data. We measured for example
+sleep in many different ways and then we
+look at our data and say which one do we
+think is actually capturing what
+families care about and we also ask you
+which of these measures seems like it's
+capturing what you care about and what
+do you care about and then we land on
+which endpoint we think is the most
+appropriate to assign to that clinical
+domain. So in this case, we used our um
+Angelman syndrome severity assessment
+scale. It's a scale that's completed by
+the clinician and we're using the sleep
+domain
+um and so forth throughout um each of
+those clinical endpoints. Then we define
+the uh MSD or the meaningful score
+difference. This has been term has
+shifted a lot over time. So you may have
+heard it called an MID or minimal
+important difference before. There's a
+number of different acronyms, but
+essentially all it means is what is that
+scores threshold that we think if we go
+beyond it, that would mean a clinical
+improvement that would be meaningful to
+you. So, they're all listed here and
+that again formatting is coming out kind
+of wonky. Um, but it's a plus or minus
+one for the first two, a plus or minus
+six for the next two, and a plus or
+minus five for the last one.
+And then we look at it across all of
+these kids. Um this is a sampling from
+our cohorts A and B. And so to orient
+you to that graph, uh we have each
+column representing an individual
+symptom domain that's being measured by
+one of those clinical endpoints. Each
+row is a participant
+and then we code each box by that color.
+So if they met or surpassed the
+meaningful score difference in the uh
+improvement direction, we color it
+green. If they met passed in the
+worsening direction, we color it pink.
+And if there was not a clear change or
+wasn't a sufficient change to meet
+either of those thresholds, we leave it
+white. Every green box gets a plus one,
+every white box gets a zero, and every
+pink box gets a minus one. So let's look
+at a couple of examples.
+So participant one from the top of that
+last graph, they had a improvement in
+each one of these domains. So surpassed
+each of those clinically meaningful
+thresholds in the direction of
+improvement. So 1 plus 1 plus 1 plus 1
+plus 1 gives us five. That's the max
+score.
+Another participant though that had some
+variable responses improved in three
+domains that are all colored green. They
+didn't have a clear change in um two
+domains. And so that gives us an overall
+score of plus three for this individual.
+And one more example. So we've got a
+score uh a domain that wasn't clearly
+changed. We've got two domains that met
+or surpassed that uh clinical worsening
+and we've got two domains that met or
+surpassed clinical improvement and they
+get a net score of zero. So it's a
+really interesting way to be able to
+look at all of these kids. I'm not
+actually going to go back to this slide
+one more time, but it's a nice way to
+look at all these kids um from a bird's
+eye view and Overall, you can see that
+kids are responding in different ways.
+Um, and some kids aren't responding in
+certain domains. And we don't know if
+that's because they didn't have that
+symptom to begin with and it just was
+never a problem, so it didn't need to
+change or what exactly happened, but it
+does give us a sense that we can get
+these variable responses. The other nice
+thing is you're not just limited to this
+analysis. It's a super powerful tool in
+conjunction with everything else we do
+to analyze our data and be able to look
+at everything on the continuous scale.
+So we're looking at it in graphs where
+we're plotting it out by group and
+understanding what the group is also
+doing on each one of these measures
+individually. So hopefully I have shared
+a little bit of the secret sauce behind
+the MDRI. Um again it's it's a
+analytical tool. It's a different way to
+visualize the data and understand the
+clinically meaningful improvements that
+we see across multiple domains um using
+a single tool. It allows for enrollment
+of a broader population potentially and
+allows you to also then look at safety
+across a more diverse population which
+can also help with our interpretability
+and generalizability of all of these uh
+results.
+So we think it's a great tool. Um we
+think it's especially great in
+populations like yours that have complex
+phenotypes, complex presentations, um,
+and a really nice way to be able to
+analyze the data. Thank you.
+>> Thank you for that. And and thank you
+for for willing the willingness and the
+attempt to actually try to capture our
+kids holistically rather than try to put
+them in separate buckets of which we
+know that Angelman syndrome is a diverse
+and global disorder and holistic capture
+of clinical domains that are of meaning
+is incredibly important to these event.

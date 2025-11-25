@@ -1,0 +1,804 @@
+1
+00:00:00,080 --> 00:00:04,960
+With that, our next speaker is Dr.
+
+2
+00:00:02,159 --> 00:00:06,640
+Nadavatu, who's gonna perfectly
+
+3
+00:00:04,960 --> 00:00:08,800
+complement what was just talked about,
+
+4
+00:00:06,640 --> 00:00:11,280
+which is how do we think about the genes
+
+5
+00:00:08,800 --> 00:00:12,960
+outside of UB3A. And so, he's going to
+
+6
+00:00:11,280 --> 00:00:14,240
+talk to us about a new technology. I
+
+7
+00:00:12,960 --> 00:00:15,679
+think you heard from him last year and
+
+8
+00:00:14,240 --> 00:00:17,359
+the year before, but we've made some
+
+9
+00:00:15,679 --> 00:00:19,279
+really nice progress in the last year
+
+10
+00:00:17,359 --> 00:00:21,279
+about upregulating the genes that are
+
+11
+00:00:19,279 --> 00:00:25,000
+important outside of EB3A. So, please
+
+12
+00:00:21,279 --> 00:00:25,000
+come and present.
+
+13
+00:00:28,080 --> 00:00:32,640
+Thanks.
+
+14
+00:00:30,720 --> 00:00:35,680
+>> Thank you so much and for the
+
+15
+00:00:32,640 --> 00:00:38,680
+introduction. And so let me see if it
+
+16
+00:00:35,680 --> 00:00:38,680
+starts.
+
+17
+00:00:38,719 --> 00:00:43,440
+>> Oh, cool. All right. So, we'll start
+
+18
+00:00:40,399 --> 00:00:46,960
+with disclosure and move to gene
+
+19
+00:00:43,440 --> 00:00:49,120
+regulatory elements. So, um my lab works
+
+20
+00:00:46,960 --> 00:00:51,680
+on gene regulatory elements and what
+
+21
+00:00:49,120 --> 00:00:54,000
+we've been using them for here is in
+
+22
+00:00:51,680 --> 00:00:55,600
+terms of therapy. So, just a quick 101
+
+23
+00:00:54,000 --> 00:00:57,600
+on gene regulatory elements. So
+
+24
+00:00:55,600 --> 00:01:00,800
+everybody's on board. If you have a
+
+25
+00:00:57,600 --> 00:01:03,120
+gene, you probably have a promoter which
+
+26
+00:01:00,800 --> 00:01:05,600
+serve an onoff switch right next to the
+
+27
+00:01:03,120 --> 00:01:08,159
+gene that turns on if we envision it as
+
+28
+00:01:05,600 --> 00:01:10,159
+like a light bulb. But in addition, you
+
+29
+00:01:08,159 --> 00:01:12,320
+have what's called dimmer switches that
+
+30
+00:01:10,159 --> 00:01:15,520
+could be very far away that are called
+
+31
+00:01:12,320 --> 00:01:17,759
+enhancers that sort of turn on the other
+
+32
+00:01:15,520 --> 00:01:19,680
+switch at different time points in
+
+33
+00:01:17,759 --> 00:01:22,400
+different locations. And they can
+
+34
+00:01:19,680 --> 00:01:24,000
+control the levels of the gene that's
+
+35
+00:01:22,400 --> 00:01:25,600
+being expressed, which is very important
+
+36
+00:01:24,000 --> 00:01:29,280
+here.
+
+37
+00:01:25,600 --> 00:01:31,840
+So um going back to
+
+38
+00:01:29,280 --> 00:01:34,320
+why I've told you about this. Well, we
+
+39
+00:01:31,840 --> 00:01:37,439
+started a work in the lab over 12 years
+
+40
+00:01:34,320 --> 00:01:40,479
+ago on trying to take advantage of these
+
+41
+00:01:37,439 --> 00:01:42,079
+switches for diseases where you have low
+
+42
+00:01:40,479 --> 00:01:44,320
+dosage. So if you have a gene that's
+
+43
+00:01:42,079 --> 00:01:47,280
+expressed at a lower dose, can we sort
+
+44
+00:01:44,320 --> 00:01:49,520
+of pump up the volume of a switch to fix
+
+45
+00:01:47,280 --> 00:01:50,960
+those diseases? And we started on these
+
+46
+00:01:49,520 --> 00:01:53,920
+types of diseases called Haplo
+
+47
+00:01:50,960 --> 00:01:56,479
+insufficient. HLO is half insufficient
+
+48
+00:01:53,920 --> 00:01:59,200
+is not enough. And so we have basically
+
+49
+00:01:56,479 --> 00:02:01,040
+two copies of a gene, one from mom, one
+
+50
+00:01:59,200 --> 00:02:04,159
+from dad. That leads to normal gene
+
+51
+00:02:01,040 --> 00:02:07,280
+levels. And if we have one copy that's a
+
+52
+00:02:04,159 --> 00:02:09,440
+loss of function, that leads to 50% and
+
+53
+00:02:07,280 --> 00:02:12,560
+that could lead to disease. And there's
+
+54
+00:02:09,440 --> 00:02:15,920
+actually 660 genes that lead to human
+
+55
+00:02:12,560 --> 00:02:19,120
+disease due to having just one copy and
+
+56
+00:02:15,920 --> 00:02:21,440
+a lot of severe epilepsies, cancer, and
+
+57
+00:02:19,120 --> 00:02:23,520
+many others. And the numbers could be
+
+58
+00:02:21,440 --> 00:02:25,280
+much higher. If you look at a lot of
+
+59
+00:02:23,520 --> 00:02:28,160
+genome sequencing that has been done in
+
+60
+00:02:25,280 --> 00:02:30,319
+humans, you see 3,000 genes where you
+
+61
+00:02:28,160 --> 00:02:31,760
+never see this. Basically, one gene
+
+62
+00:02:30,319 --> 00:02:34,400
+non-functional and one that's
+
+63
+00:02:31,760 --> 00:02:36,160
+functional. So, I'm assuming everybody's
+
+64
+00:02:34,400 --> 00:02:38,640
+heard about crisper that can come and
+
+65
+00:02:36,160 --> 00:02:40,560
+cut the DNA and change it. But here,
+
+66
+00:02:38,640 --> 00:02:43,120
+we've been using a different form of
+
+67
+00:02:40,560 --> 00:02:45,519
+crisper where there's two mutations in
+
+68
+00:02:43,120 --> 00:02:48,560
+crisper. And so, it can't work as a
+
+69
+00:02:45,519 --> 00:02:51,440
+scissors. It can't cut the DNA. But what
+
+70
+00:02:48,560 --> 00:02:54,160
+you can use it is a delivery truck to
+
+71
+00:02:51,440 --> 00:02:56,800
+bring things to a specific zip code in
+
+72
+00:02:54,160 --> 00:02:58,640
+the genome to a specific location. And
+
+73
+00:02:56,800 --> 00:03:00,640
+for example, you can bring it to these
+
+74
+00:02:58,640 --> 00:03:04,239
+promoters that I just told you, these
+
+75
+00:03:00,640 --> 00:03:06,800
+switches, and you can tag along with it
+
+76
+00:03:04,239 --> 00:03:09,760
+for the ride an activator, something
+
+77
+00:03:06,800 --> 00:03:12,800
+that will sort of pump up the volume of
+
+78
+00:03:09,760 --> 00:03:16,480
+that switch and just force it to make
+
+79
+00:03:12,800 --> 00:03:19,920
+more RNA, more protein. And that's been
+
+80
+00:03:16,480 --> 00:03:22,640
+called crisper A for crisper activation.
+
+81
+00:03:19,920 --> 00:03:25,040
+So going back to this model, you still
+
+82
+00:03:22,640 --> 00:03:28,080
+have one copy that's perfectly fine.
+
+83
+00:03:25,040 --> 00:03:30,879
+It's just not it's just giving you 50%.
+
+84
+00:03:28,080 --> 00:03:34,560
+So what if we target it with crisper A
+
+85
+00:03:30,879 --> 00:03:36,720
+and force it to make more RNA? Can we
+
+86
+00:03:34,560 --> 00:03:39,599
+fix those diseases with just one
+
+87
+00:03:36,720 --> 00:03:42,080
+functional copy? And so that worked very
+
+88
+00:03:39,599 --> 00:03:44,080
+nicely. We did it initially on obesity.
+
+89
+00:03:42,080 --> 00:03:46,879
+And you can see here on the left a mouse
+
+90
+00:03:44,080 --> 00:03:49,599
+that has one copy of a gene called sim 1
+
+91
+00:03:46,879 --> 00:03:51,840
+that leads it to be very very obese. And
+
+92
+00:03:49,599 --> 00:03:54,480
+in the middle you see a mouse that has
+
+93
+00:03:51,840 --> 00:03:56,959
+exactly the same genotype. So it should
+
+94
+00:03:54,480 --> 00:03:58,799
+be very obese but you can see that it
+
+95
+00:03:56,959 --> 00:04:00,879
+looks like a wild type mice suggesting
+
+96
+00:03:58,799 --> 00:04:04,000
+that this could work and not only on
+
+97
+00:04:00,879 --> 00:04:05,840
+this but on many other diseases. So over
+
+98
+00:04:04,000 --> 00:04:08,159
+the years we've been working on a few
+
+99
+00:04:05,840 --> 00:04:10,400
+other diseases. One of them recently was
+
+100
+00:04:08,159 --> 00:04:13,360
+published in nature three weeks ago
+
+101
+00:04:10,400 --> 00:04:14,560
+where we went after SCN2A which is the
+
+102
+00:04:13,360 --> 00:04:16,479
+top neuro one of the top
+
+103
+00:04:14,560 --> 00:04:18,959
+neurodedevelopmental genes in humans. We
+
+104
+00:04:16,479 --> 00:04:21,359
+did a very similar approach and we
+
+105
+00:04:18,959 --> 00:04:24,560
+managed to rescue action potential. We
+
+106
+00:04:21,359 --> 00:04:26,880
+also managed to rescue a neuronal age
+
+107
+00:04:24,560 --> 00:04:29,360
+and maturity even in more adult mice
+
+108
+00:04:26,880 --> 00:04:31,520
+suggesting that here also similar to
+
+109
+00:04:29,360 --> 00:04:33,919
+Angelmen there could be a chance of
+
+110
+00:04:31,520 --> 00:04:35,600
+rescuing at a later stage. And we've
+
+111
+00:04:33,919 --> 00:04:37,919
+also rescued seizures. So you can see
+
+112
+00:04:35,600 --> 00:04:40,960
+here on the top in black is a wild type
+
+113
+00:04:37,919 --> 00:04:43,840
+mice. In blue you can see a mouse that's
+
+114
+00:04:40,960 --> 00:04:45,120
+has one copy and has seizures and then
+
+115
+00:04:43,840 --> 00:04:48,240
+all the way below you can see the
+
+116
+00:04:45,120 --> 00:04:52,000
+crisper for that where we rescue those
+
+117
+00:04:48,240 --> 00:04:54,479
+seizures using this approach.
+
+118
+00:04:52,000 --> 00:04:56,240
+So, and in addition, we also did this in
+
+119
+00:04:54,479 --> 00:04:58,080
+human cells in a dish where we
+
+120
+00:04:56,240 --> 00:05:01,440
+differentiate them to neurons just like
+
+121
+00:04:58,080 --> 00:05:03,280
+young wei showed before and we put them
+
+122
+00:05:01,440 --> 00:05:05,600
+in a dish for two months, grow them as
+
+123
+00:05:03,280 --> 00:05:08,000
+neurons and you could see on the left
+
+124
+00:05:05,600 --> 00:05:10,080
+the wild type in the middle of the heads
+
+125
+00:05:08,000 --> 00:05:13,600
+and on the right we managed to rescue
+
+126
+00:05:10,080 --> 00:05:15,440
+their action potential in the dish. So,
+
+127
+00:05:13,600 --> 00:05:18,479
+what does that all have to do with
+
+128
+00:05:15,440 --> 00:05:20,000
+Angelmen? Well, going back here with the
+
+129
+00:05:18,479 --> 00:05:23,600
+beautiful work that's being done here
+
+130
+00:05:20,000 --> 00:05:26,160
+for UB3A and hopefully that'll be fixed.
+
+131
+00:05:23,600 --> 00:05:28,080
+There'll still be a problem for many of
+
+132
+00:05:26,160 --> 00:05:31,600
+the patients that are missing and have
+
+133
+00:05:28,080 --> 00:05:34,400
+this micro deletion and missing 16 genes
+
+134
+00:05:31,600 --> 00:05:36,880
+which amongst them we think some of them
+
+135
+00:05:34,400 --> 00:05:39,039
+could be haplo insufficient and these in
+
+136
+00:05:36,880 --> 00:05:41,600
+red are the five that we think might be
+
+137
+00:05:39,039 --> 00:05:42,960
+problematic. Similar to the one gene
+
+138
+00:05:41,600 --> 00:05:45,759
+that I've showed you where you have just
+
+139
+00:05:42,960 --> 00:05:48,960
+one copy, that's not enough. Here we
+
+140
+00:05:45,759 --> 00:05:52,160
+have five. That's not enough. And so
+
+141
+00:05:48,960 --> 00:05:55,440
+what we could do, similar to before, is
+
+142
+00:05:52,160 --> 00:05:58,639
+upregulate not just one gene, but try to
+
+143
+00:05:55,440 --> 00:06:00,560
+upregulate basically all five at once.
+
+144
+00:05:58,639 --> 00:06:05,039
+And if we could do that, that could be
+
+145
+00:06:00,560 --> 00:06:08,080
+very beneficial for these individuals.
+
+146
+00:06:05,039 --> 00:06:10,720
+And so we went through all five genes
+
+147
+00:06:08,080 --> 00:06:12,319
+and basically designed guides where
+
+148
+00:06:10,720 --> 00:06:14,240
+we're transfecting and trying to
+
+149
+00:06:12,319 --> 00:06:16,800
+optimize these conditions for them. And
+
+150
+00:06:14,240 --> 00:06:19,919
+then we turn to a deno associated virus
+
+151
+00:06:16,800 --> 00:06:23,120
+which is used as a a delivery tool in
+
+152
+00:06:19,919 --> 00:06:25,759
+clinical studies and then made a a
+
+153
+00:06:23,120 --> 00:06:27,520
+vector that has all five genes. As you
+
+154
+00:06:25,759 --> 00:06:29,680
+can see this actually worked very
+
+155
+00:06:27,520 --> 00:06:31,759
+nicely. You can see all five genes and
+
+156
+00:06:29,680 --> 00:06:35,520
+all five of them we managed to
+
+157
+00:06:31,759 --> 00:06:37,199
+upregulate very nicely in these cells.
+
+158
+00:06:35,520 --> 00:06:39,840
+And so now what we're doing is we're
+
+159
+00:06:37,199 --> 00:06:42,319
+working with Young Way's lab to give him
+
+160
+00:06:39,840 --> 00:06:44,720
+these AAVs. And we're in the process now
+
+161
+00:06:42,319 --> 00:06:46,160
+of actually sending them to test in the
+
+162
+00:06:44,720 --> 00:06:49,360
+cell lines that he just showed you
+
+163
+00:06:46,160 --> 00:06:52,240
+before to see can we upregulate all five
+
+164
+00:06:49,360 --> 00:06:54,000
+genes and can that lead to a therapeutic
+
+165
+00:06:52,240 --> 00:06:56,319
+benefit.
+
+166
+00:06:54,000 --> 00:06:58,880
+In addition, we're also doing this in
+
+167
+00:06:56,319 --> 00:07:01,440
+mice and we're almost there. We have one
+
+168
+00:06:58,880 --> 00:07:03,280
+last gene, GABA G3, that's been very
+
+169
+00:07:01,440 --> 00:07:05,440
+problematic. It's hardly expressed in
+
+170
+00:07:03,280 --> 00:07:08,000
+any cell type that we've tried, but
+
+171
+00:07:05,440 --> 00:07:10,720
+we're trying now in mice to see can we
+
+172
+00:07:08,000 --> 00:07:12,720
+optimize it there. And once we do that,
+
+173
+00:07:10,720 --> 00:07:14,880
+we'll go to yet I think another mouse
+
+174
+00:07:12,720 --> 00:07:17,759
+model that wasn't mentioned where there
+
+175
+00:07:14,880 --> 00:07:21,039
+is the deletion but UB3A is rescued in
+
+176
+00:07:17,759 --> 00:07:24,479
+that and see can we rescue all of that
+
+177
+00:07:21,039 --> 00:07:26,080
+in these mice again with young ways lab.
+
+178
+00:07:24,479 --> 00:07:27,759
+So that's where we are at the moment and
+
+179
+00:07:26,080 --> 00:07:31,280
+I hope that next year we'll finally have
+
+180
+00:07:27,759 --> 00:07:33,199
+phenotypic results for this. Finally, I
+
+181
+00:07:31,280 --> 00:07:34,960
+want to thank my amazing lab who's doing
+
+182
+00:07:33,199 --> 00:07:37,840
+this, her amazing collaboration with
+
+183
+00:07:34,960 --> 00:07:39,680
+Young Ways Lab and also Allison in
+
+184
+00:07:37,840 --> 00:07:41,840
+particular who really jumpst started
+
+185
+00:07:39,680 --> 00:07:44,319
+this project and put us all together and
+
+186
+00:07:41,840 --> 00:07:46,960
+without her none of this would have been
+
+187
+00:07:44,319 --> 00:07:50,160
+done and I should mention that if this
+
+188
+00:07:46,960 --> 00:07:52,319
+works there are 200 syndromes in humans
+
+189
+00:07:50,160 --> 00:07:53,919
+that are caused by micro deletions and
+
+190
+00:07:52,319 --> 00:07:56,160
+so this will not only be amazing for
+
+191
+00:07:53,919 --> 00:08:00,440
+Angelmen but amazing for another 200
+
+192
+00:07:56,160 --> 00:08:00,440
+diseases. So thank you Alison.
+
+193
+00:08:10,720 --> 00:08:13,759
+That was great and and very well
+
+194
+00:08:12,240 --> 00:08:15,280
+understood. And so, as you can see,
+
+195
+00:08:13,759 --> 00:08:17,039
+we're we're moving there, but it's a
+
+196
+00:08:15,280 --> 00:08:18,160
+process and it takes time. Um, but we're
+
+197
+00:08:17,039 --> 00:08:19,759
+getting there. And hopefully next year
+
+198
+00:08:18,160 --> 00:08:22,080
+we can share with you our approach and
+
+199
+00:08:19,759 --> 00:08:23,039
+how we think about translating that into
+
+200
+00:08:22,080 --> 00:08:26,240
+humans and how we can actually
+
+201
+00:08:23,039 --> 00:08:26,240
+upregulate some of these genes.
+

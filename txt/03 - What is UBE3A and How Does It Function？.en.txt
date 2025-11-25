@@ -1,0 +1,547 @@
+Um, but this next talk is really meant
+to explain what is UB3A. We all say it.
+We've all learned to say it. Um, but do
+we all understand actually what it does
+and and why it's so important and why
+ensuring we have UB3A
+can help to improve the lives of those
+living with Angelman Syndrome. So, um,
+I'm excited for you to to hear Dr. Seth
+Margolus from John Hopkins University. I
+was lucky enough to hear him speak in at
+fast Italy last year and when I heard
+his presentation I was incredibly
+touched by the intricacies of his
+knowledge of UB3A and I've been working
+now on UB3A for almost a decade and I
+haven't heard someone so elegantly
+explain what it does. So I thought it
+was really important that I didn't only
+hear that but you all heard that. So,
+I've tasked him with explaining it in a
+way that we all can understand because
+it's complicated. It's super
+complicated. Um, but I think he's going
+to do that. I previewed his slides and
+they're excellent. So, I have no doubt
+that you're going to accomplish this.
+And you could also explain that your
+wife is a school teacher. So, you
+promised me she was going to give a
+thumbs up to your slides before you
+actually gave them to our community. So,
+Seth, thank you.
+>> All right. Thank you, Seth. Thank you.
+[applause]
+All right.
+Okay. All right. Um, thank you to the
+Allison and to the organizers for the
+invitation and thank you Allison for
+that nice introduction. Um, as Allison
+said, today I'm going to talk to you
+about UB3A.
+Um, and I think before I get into that,
+I wanted to give some context.
+So, our nervous systems, central and
+peripheral nervous systems are made up
+of neurons. we're all very familiar with
+and they're really critical for our
+behaviors, controlling our behaviors and
+sensing our world. And within our
+neurons, in all of our neurons and many
+of you have already now seen from
+several of the slides in previous talks,
+these beautifully colored images,
+these are proteins within all of our
+neurons. These are proteins and
+scientists have the capacity to color
+these proteins. So, and I just name a
+few up there and the specifics aren't
+really important. What's really
+important here is just to realize that
+within our neurons are these proteins
+and these proteins are what's doing the
+functions of our neurons. So, the first
+sort of take-home is neurons contain
+proteins that do the work.
+So, proteins aren't just there. They
+don't just pop up from nowhere. Proteins
+are made. proteins are made in all of
+our cells. Okay? And I'm not going to go
+through the details of these complex
+molecular events that make our proteins.
+But on the top part here where I write
+nason protein, that's the birth of a
+protein. And then there's the process
+where it's folded. And eventually in the
+folded protein, that's the protein that
+goes on and does all the important
+functions of all of our cells, including
+neurons. And throughout this process,
+our cells have this amazing capacity to
+determine whether the protein's being
+made properly or at a specific time
+whether we no longer need that protein.
+And that's this process where you see
+the red being broken up into tiny little
+lines. That's protein degradation. And
+this process in whole is referred to as
+protein homeostasis. All of our cells,
+neurons included, want to make sure that
+our protein levels, both the proteins
+that are made and the proteins that are
+degraded are kept at a even level. It's
+very well regulated.
+So the next take-home is proteins are
+made and removed in our neurons. And
+this removal process is controlled by
+this incredible structure within all of
+our cells, including neurons. This is
+referred to as the proteosome. It's
+something my lab studies in great
+detail. And it might look complicated,
+and I'm not going to get into all of the
+details of what you're looking at here,
+but I think you can appreciate that this
+picture of this 20s proteosome on the
+left looks kind of like a rectangular
+barrel. And if we flip it and look down
+the top, there's a hole there. And that
+hole is where our proteins go to get
+degraded.
+So it's in some regard referred to as
+the trash can of the cell.
+So I'm going to go back. Okay. So the
+protein complex here that's degrading
+our proteins is really important for
+cell function, including neuron
+function. And all it does is degrade
+proteins. So it needs help in
+determining which protein should we
+degrade. Otherwise it would just degrade
+every protein that it came near. So
+these larger structures, these gray
+structures on the top, these are
+referred to as caps. It looks like a
+cap. It sits on the top and the bottom.
+And these structures are very important
+for unfolding our proteins. Remember you
+saw that red folded protein. proteins
+are in that folded shape. These
+structures unfold the protein and put it
+into that pore so it can get degraded.
+So proteosomes remove our proteins.
+Those are the key players. These are the
+key critical players in this protein
+homeostasis process and they're really
+important for nervous system function.
+So here's a neuron. It's flashing. It's
+active. It's functioning. Okay. If I
+inhibit the proteosome using a small
+chemical inhibitor, you get a very small
+change in in activity very rapidly. And
+this is to illustrate here quantified
+that a proteome
+functions to control the neuron and if
+we inhibit it, it very rapidly can
+change the neuron's function.
+Okay. So simply no proteomes you get no
+protein removal and the neurons don't
+function well. So the control the
+proteosome's ability to control protein
+degradation is critical. And I as as I
+just mentioned
+it doesn't just function all by itself.
+It needs to be told what to degrade. We
+don't just degrade every protein.
+Just as you wouldn't just throw
+everything in your house into the trash
+can, it needs to be told what to
+degrade. And that's largely controlled
+by this process. This is the ubiquitin
+proteome system. And many of you may
+already be familiar with this. And
+there's a series of steps that I just
+want to quickly take you through. So
+there is a substrate. A substrate is the
+protein we want to degrade. And then
+there are these other molecules E1, E2
+and E3.
+They work together
+to associate with that substrate and put
+that protein into the proteosome to
+degrade it. And the E3,
+that's what UB3A is. UB3A is the E3
+ligase. It's one of 600 E3 liases in our
+genome
+that helps to target specific proteins
+to go to the proteosome to get degraded.
+And so
+what I want you to appreciate is that
+UB3A in our cells in our neurons tags
+some proteins, not all proteins, but
+specific proteins to be removed by the
+proteosome and that's good for the
+neuron. That's the key appreciation for
+understanding UB3A. And there's a lot of
+mechanistic detail about how it does
+that. We're not going to get into that
+here, but I'm going to tell you more at
+a high level about what are the types of
+proteins that UB3A might target. How do
+we go about finding that? And how may
+that give us insight on how when UB3A is
+gone, you get such a broad change in
+developmental function.
+So, a couple other details that I want
+to point out.
+Neuron is a complex cell type. You've
+seen pictures of these before. You have
+a soma, a nucleus, this sort of
+triangular shape at the bottom, but then
+you have these long processes and there
+are proteins across the entire neuron
+including inside the nucleus. And
+proteosomes are located everywhere and
+so is UV3A. And you can have ubiquitin
+mediated proteosome dependent
+degradation
+at all of these locations.
+And what's not always so obvious when
+you look at these images is that the
+substrates while the I should back up
+while the proteosomes and the E3 liases
+are everywhere the substrates in these
+different location remember those are
+the things that want to be degraded are
+different throughout the cell.
+I also wanted to make this point which
+is UB3A is an E3 ligase is disrupted in
+Angelman syndrome and there are other E3
+liases that have also been found when
+mutated lead to other
+neurodedevelopmental disorders.
+And so a big question in the field and
+something my lab is particularly
+interested in is to understand
+what protein substrates of E3 liases are
+relevant to human health. and in
+particular Angelman syndrome. What are
+the substrates of UB3A that give rise to
+phenotypes that lead to
+neurodedevelopmental dysfunction? And
+I'm going to tell you towards the end of
+why I think that has some value in
+thinking of leading to potential
+treatments. So I'm going to sort of skip
+over a lot of years of data and I'm
+going to share with you at least one
+substrate first and then I'm going to
+tell you how we went to find every
+substrate we could possibly find.
+So as a postoc when I was working with
+Michael Greenberg at Harvard we had
+discovered this protein referred to as a
+fexin 5 and this protein played a very
+unique function in the nervous system.
+So this these neurons are what we're
+looking at here are fluorescent neurons.
+These are expressing this GFP protein.
+And we could quantify the number of
+contacts these neurons were making with
+other neurons. And what I hope you can
+appreciate just from this bar graph is
+that if you remove effects in five, you
+get way more contacts. It seems like
+it's a good thing, but it's actually not
+the ideal situation.
+So when we looked at this protein
+effects and five labeled E5 on the top,
+I hope you can appreciate and this is a
+developmental
+representation of looking at effects and
+five at different stages in development
+from neurons and you can see that
+protein band at the very top going away.
+That's this protein getting degraded.
+So naturally this protein gets degraded
+and that's something we learned as we
+were doing research on this protein.
+So, FEXin 5 blocks the neuron and it we
+found was degraded by the proteosome and
+it turns out with further research that
+UB3A
+was the E3 liase targeting this protein.
+And what I'm showing you here is that
+when I mix UB3A with effectin 5, you get
+this smear, this band that sort of rides
+up on the gel. And that's an indication
+that this thing is being ubiquitated.
+This is being targeted by effectin 5.
+And in animal models where we remove
+UB3A,
+if you look in the middle lane of the
+three lanes there, you can see there's
+more effects in five. Okay, so this
+predicted that UB3A targets effects in
+five. That's what the data we're
+demonstrating to the proteosome, which
+we all learned about now. And so no U3A
+is too much effect five. Okay, which
+turns out to not be great for the
+neuron. And the reason it's not great is
+because when you have too much effects
+in five, you actually have reduced
+synaptic contact. And so we predicted
+from a substrate sort of hypothesis that
+if we reduced the effects in five in the
+UB3A animal models, we would potentially
+rescue behavior. And that's sort of what
+we saw. So these behavioral tests sort
+of evaluates
+the sort of cognitive functioning of the
+animal. And we learned on the left side
+here that the animals have reduced
+behavior compared to controls. That's
+these lower error bars.
+But that if we remove effects in five,
+we could rescue that. And so reducing
+effects in five restores function when
+UB3 is gone. And in a more general
+sense, it indicated the possibility that
+substrates might be we know are
+downstream of UB3A. That when UB3 is
+gone, those substrates are now
+deregulated. They're not being degraded
+or they're not being regulated properly
+and might be the foundation for some
+aspects of phenotypes observed in
+Angelman syndrome. So my lab became very
+interested in like what are all the
+substrates of UB3A? lot of technology
+today allows us affords us the
+opportunity to sort of go after
+everything at once. So what this is sort
+of de this image here is sort of showing
+you is a sort of experimental outline of
+what we did and I can take you through
+it briefly. So we have basically glass
+slides with 20,000 human proteins
+printed on the slides. We can then
+incubate remember the E1, E2 and in this
+case UB3A and ubiquitin on these slides
+and we could look at every protein that
+could potentially be ubiquitated by
+UB3A.
+And on the right is a heat map. This
+sort of demonstrates things proteins
+that are more ubiquitated with UB3A
+versus controls.
+So what do we learn? UB3A has many
+possible protein targets
+and it's hard actually to look at the
+data and you know easily separate out
+which are the most important targets,
+which are the ones that might have the
+highest relevance. And so you have to
+take your time to systematically
+think about this and use
+artificial intelligence or other types
+of approaches to really begin to
+understand what does all of this mean?
+And I also want to keep something in
+mind. Even though we see all of these
+proteins that can be ubiquitated
+by UB3A, it doesn't mean that they all
+are being ubiquitated in our neurons
+equally well or at least in a capacity
+that mediates effects on our biology.
+But it gives us a foundation.
+So when we look at all these different
+proteins and we try to understand what
+are the different classes of proteins
+we're seeing a couple things come out
+that are interesting. Many of them are
+expressed in the brain. Some of those
+substrates are associated with other
+neurodedevelopmental dysfunction. And
+there are various pathways that might
+indicate a relationship between the loss
+of UB3A
+and changes in some of the behaviors
+that we've seen including motor deficits
+and others that I think this group will
+hear more about in the talks to coming
+and are very familiar with.
+So the sort of take-home here is some
+UB3 targets are known a typo there to
+impact various brain disease and be a
+part of many brain processes. Okay. So
+what do we do with this information?
+Clearly adding back UB3A makes the most
+sense. I think it's really the best way
+to go because it's going to take care of
+the loss of capacity of targeting these
+different substrates. But if we were to
+actually want to go after specific
+substrates such as say effects in five,
+how would we do that? Is that even
+possible? That seems really hard. Well,
+I'll tell you that technology today is
+given us the opportunity to do that. And
+some of that stems from the recognition
+and the realization and alpha fold was
+already introduced that we know the
+structures or can generate the
+structures of every one of these
+substrates in association with UB3A.
+So this is just an illustration where in
+blue is the UB3A structure and in orange
+is different substrates that we
+identified. Now, why is this important?
+Well, it's important because it tells us
+that UB3A binds its substrates
+as do all liases. Okay? And that means
+we can control that. We can control it
+by using or identifying small molecules
+that can bring together any two proteins
+together. And these molecules are
+referred to as molecular glues. So if
+our goal was to take U was to say we
+wanted to in the absence of UV3A target
+one of the substrates, I could build a
+molecular glue that could bring a liase
+that is available that is still
+expressed and target it to a substrate
+that UB3A would normally target but now
+can no longer because it's not there.
+And I just wanted to introduce that
+technology because I think it's relevant
+for this audience.
+So this comes from a collaboration with
+a team of Hopkins scientists that I'm
+introducing here where we've spent the
+last four or five years maybe longer
+trying to build some technology at
+John's Hopkins to find these molecular
+glue type molecules that would allow us
+to bring together any E3 ligase with any
+substrate of interest. And we do this in
+such a way where we can look at as many
+as possible.
+Okay.
+So drugging the human proteome.
+So you're I've already introduced this
+process to you to some extent where you
+have a substrate, okay, and you have an
+E2 and then you're bringing that
+substrate all the way down to the point
+where you're getting to the proteosome
+where you can then get rid of that
+substrate. And this little um I guess
+it's a yellow drug, that's our molecular
+glue. And our goal has been to identify
+these molecular glues that bring
+together an E3 ligase to a substrate of
+interest to drive it to the proteosome.
+So simply the way we do this is we can
+express a large number of different
+proteins. We can make any one of the
+20,000 proteins in the human proteome.
+There's actually more than that because
+of isoforms, but we can make almost any
+of them in any E3 liases. So in the
+context of Angelman syndrome, we've been
+making liases that we know are available
+and still expressed and we've been
+making substrates that we believe to be
+relevant to the biology. We can then do
+largecale screening and we can
+ultimately identify these small
+compounds that are effectively molecular
+glues that allow for degradation. And
+this is early days and this is a complex
+process but we've had some success and
+it gives us some opportunity to think
+more deeply about the fact that there
+are drug druggable capacities that allow
+us to control normal cellular
+degradation to remove target proteins
+with a purpose and that would be an
+ultimate goal and being able to test
+that purpose is of great value moving
+forward.
+So I want to summarize getting us back
+on time here. I want to summarize. So
+neurons contain proteins that work. I
+think that's very important to recognize
+that they the proteins do the work in
+our neur in our neurons. And proteins
+are both made and they're removed. And
+that's also really important to think
+about. And proteosomes do this process
+of removal. But you don't just remove
+any protein, right? you have to
+selectively choose that protein.
+Okay. And another point I I sort of
+skipped here, which is if you don't have
+the ability to remove the protein, it's
+not really ideal for the neuron. And the
+way to specifically remove a protein in
+the context of UB3A is to tag that
+protein with ubiquitin, which then sends
+it to the proteosome, and that's what
+the neuron wants to have happen.
+Now we've learned now that UB3A has many
+many targets.
+Okay. And those targets to some extent
+give us insight into how the loss of
+UB3A might give rise to a variety of
+different pathways.
+And reducing a UB3A substrate at least
+in the one example I shared and there
+are others in the field restores neuron
+function when UV3A is gone. and that
+there's now new technology that even
+though UB3A may not be there, that would
+allow us to still target those
+substrates by co-opting another liase
+and using a molecular glue to send that
+substrate of interest to the proteosome.
+And with that I will end a little early
+but this none of this work is done
+without the tremendous help from the
+researchers that come through the lab as
+well as the funding sources. So thank
+you.
+[applause]
+That was an excellent talk and I got
+text messages throughout it just for the
+record that said that that was the best
+overview of UB3A function that they've
+ever heard from scientists. So just so
+you're aware that was amazing and
+hopefully families could keep up with
+understanding in summary that UB3A is
+complicated and it has thousands of
+targets of what proteins it's
+controlling. Either it's tagging it to
+be broken down or it's tagging it to be
+maintained.
+and trying to understand every
+downstream target is really hard. Um,
+and what I learned was that there are
+600 E3 liases and UB3 is one of them.
+And this is the result of that one out
+of 600 liases. That's only E3, not E1
+and E2, which shows the power of one
+gene, which is pretty incredible.
+Therefore, we need to replace that one
+gene and then we can ultimately affect
+all the targets. But you need to
+understand the complication of this.
+Which is why when we think about how we
+approach and fund research, we have to
+think about what is the impact that that
+research could have on individuals
+living with Angelmen.

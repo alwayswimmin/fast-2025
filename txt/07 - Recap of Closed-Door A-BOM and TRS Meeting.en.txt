@@ -1,0 +1,642 @@
+So with that, I will welcome our next
+speaker
+who is myself and Jennifer Panagulus who
+is hopefully sitting somewhere near Oh,
+she's right there. Um, so Jennifer
+Panagulius is um an unbelievable force.
+Most of you know her. I'm gonna let her
+introduce herself. But one thing I would
+like to say is that
+so much of what I just showed you at AS2
+Bio and Ebon is because of her and she
+doesn't like to be seen or heard. She
+likes to stay in the background, but she
+deserves more credit than any of you
+will ever know. So, Jennifer, please
+come up.
+[applause]
+So we will go to the next presentation.
+We are going to recap what we heard
+yesterday at the Angelman Syndrome
+Bioarker and Alchemist Consortium and
+the translational research symposium. We
+want to recap that for you because it's
+a closed door session in which parents
+aren't there. And the reason for that is
+to keep it intimate, collaborative, and
+very research focused and driven in a
+way in which we don't want people to
+have to change the tone or the tenor of
+the way they're speaking about research
+from to make sure the whole audience
+understands it. It's fast. It's a
+lightning speed. It was 35 talks in nine
+hours, but we got there and we got
+through it and we learned so very much.
+So basically 20 talks for ABOM
+and 10 talks for the translational
+research symposium
+and we're going to summarize those for
+you. So, as most of you know, I've
+already introduced myself. I have many
+roles here, but the most important role
+that I play, particularly for the Avon,
+is that I'm the mother to Quincy. And I
+have to think about and talk about what
+is meaningful and measurable to her
+because that is patient focused drug
+development. And I'm going to pass it
+off to Jennifer to give you the scoop of
+everything that we learned yesterday.
+>> Do you want me to just jump to the
+summary slide, do you think? No,
+>> introduce yourself. Okay.
+I don't know where that went.
+Ah, here we go. Hi, thank you um for
+having me here today. It's always a
+pleasure to be here and it's really
+amazing every year to see how many
+people attend this meeting and take the
+time out of your busy lives to come and
+learn. So, thank you so much. Um I'm
+Jennifer Panigulas. and the head of
+regulatory and policy at FAST,
+co-director of the Abomb with Allison.
+Um, and I also have a role at AS2 Bio
+and and some of the portfolio companies
+like Maverick's Bio. Um, but I'm also an
+advocate and I absolutely love um
+engaging with the community in PFDD and
+advocacy activities. And I want to thank
+Ryan and Amanda in particular for an
+amazing year this year. I think it was a
+landmark year in terms of our raising
+vis visibility for Angelman syndrome in
+Washington and with the FDA in
+particular and that was really um you
+know driven by your stories and your
+participation in those efforts and it
+really goes a long way with the
+regulators to help their understanding.
+So thank you. Um, I'm going to tell you
+a little bit about the ABOM, um, which
+Allison alluded to in her last
+presentation, but essentially we have a
+goal of advancing or creating
+identifying drug development tools that
+will advance the regulatory science for
+Angelman syndrome. And that's really
+just a fancy way of saying we want to
+make sure that there's appropriate tools
+to measure changes if we're running
+clinical trials of individuals um, with
+Angelman syndrome to make sure that the
+changes are in fact meaningful. And in
+advancing the regulatory science, we're
+just trying to make it easy for the
+regulators to understand these tools so
+that they can make decisions about
+whether or not to approve drugs for AS.
+The purpose is really to bring together
+uh a consortium of individuals including
+um academics, so researchers, doctors,
+industry, and advocates to make sure
+we're really all on the same page about
+what we're measuring and how we measure
+it. And you would think that this is an
+easy thing to do, but it's not always
+that easy. People are doing this in
+addition to their full-time jobs at at
+uh hospitals or at companies or at fast
+and ASF. And it's really important
+because having that consensus is an
+important way to drive things forward
+with with the FDA, with the European
+Medicine's Agency and other regulators
+around the world because when we're on
+the same page, it gives them confidence
+that we're moving in the right
+direction. And part of that is engaging
+with them, which we did yesterday and we
+do periodically to make sure that they
+feel aligned with where we're going with
+the identification of outcome measures
+and biomarkers to be used in clinical
+trials of Angelman syndrome. Um, a
+really important part of the ABOM is in
+identifying what's out there. If we see
+gaps, we have to think about should we
+fill them? Should we work as the ABOM to
+fill these gaps? And an example of a gap
+we filled was on a measure to assess
+communication in individuals with AS.
+And that's called the ORCA or the
+observer reported communication
+abilities measure which I think some of
+you have heard of and participated in
+surveys to develop. Um and that really
+really was born out of a conversation
+with FDA several years ago where they
+felt maybe we didn't have the best
+battery of assessments to look at
+communication abilities in someone who
+is non-verbal. Uh and so we we started
+to work on that as the ABOM together
+with Duke University. And you'll hear
+more about that measure later today. But
+that's an example of where we saw a gap
+and filled it. And really making sure
+that we have rigorous tools that they're
+high quality and we feel like they're
+fit for purpose to use in trials and
+sharing. This is actually the most
+important thing that the ABOM does is
+making sure information isn't held back
+or siloed by one group because it
+doesn't help the field at large and the
+community at large just to have
+information here and have nobody else
+know about it. So if you're part of this
+forum, you're expected to share and we
+want to uh hold everybody to that high
+standard to really push the community
+forward as a whole.
+The mission is to really make sure we
+have a framework for clinical trial
+design. And that means having outcome
+measures that that look at symptoms that
+are meaningful and important to measure
+in individuals with Angelin syndrome. So
+that if we use a treatment, we're seeing
+that it has positive benefits in those
+measures. We also look to identify
+biomarkers and I'm going to talk about
+that more in my next presentation. and
+just to make sure we have consensus
+about that to push field forward the
+field of research in the hopes that
+we're going to benefit all individuals.
+So we're not thinking about one age
+group or one genotype. We're trying to
+think holistically across the whole um
+spectrum of individuals that live with
+Angelman syndrome.
+Allison showed you this and um what I
+just want to mention here is that the
+ABOM is part of a really bigger
+framework that FAST has uh undertaken
+over the years to make sure that we're
+ready to have therapies approved for
+Angelmen syndrome and it starts with
+research. You've heard about uh
+organoids and cell lines and animal
+models and that's all part of it. But
+the Abbomb's a really important link in
+that chain because once you have
+promising candidates or promising drugs
+that you think might work in improving
+the symptoms of Angelman syndrome, you
+have to have a framework to measure
+that. And so making sure that clinical
+trial readiness is part of the landscape
+is a really critical piece because if if
+companies in particular, if industry
+thinks there's not a good way to measure
+change in Angelman syndrome, it makes it
+hard and then they don't want to
+necessarily spend the money to run
+trials there. So equally important with
+animal models and cell lines is making
+sure we have ways to measure change.
+Allison took you through this. So I'm
+going to jump through our history and
+and vision. Um and you know about the
+symptoms, but what I want to comment on
+here is something the Abomb thinks about
+deeply is the impact of the symptoms of
+your children on you as the parent. And
+that comes into our our focus about how
+we measure change and what's the meaning
+of that change because sometimes when we
+look at change uh in the individual, it
+also has a positive impact on the
+family. And a great example is sleep,
+right? That came up yesterday and we had
+a long talk about that. But if your
+child's sleep improves, it's probably
+also true that your sleep improves if
+you're not up at night taking care of
+your child and attending to their needs
+or having to sleep with them every
+night. So we think about the impact and
+factor that into what we're looking at
+at times.
+We do that by collecting patient
+experience data. And this has been
+something that the ABOM has been focused
+on since its inception. And really it
+started with work to outline the disease
+through a concept model which is really
+just a map of all the symptoms and a
+publication in 2020 that mapped that and
+then survey work. So we do surveys even
+as simple as a Facebook survey or or the
+more robust surveys like the one that
+was before the patient focused drug
+development meeting that happened in
+April to get feedback from you on your
+lived experience. And this is really
+important because if we're not designing
+trials in a way that factors in your
+lived experience, we might be measuring
+the wrong things or measuring things
+that you don't think are important.
+Um Allison has talked about the natural
+history study. Um but what I think is a
+a great um uh feature of the Abomb's
+work is that we've actually financially
+supported this study. So um it goes back
+to 2006
+uh through the work of WHON the team at
+Boston Children's Raidies um and this
+has been a really important data
+collection vehicle for many many years.
+So it was first funded by the NIH and
+then for five years by FDA and then the
+last three years by some of the members
+of the ABOM and we see the value in
+keeping this going. So your
+contributions there are critically
+important and we thank you for that.
+That's also given rise to um other
+natural history studies in the UK,
+Belgium, uh Latam and Spain supported by
+other entities and so it helps us
+globally to really continue to collect
+this data and inform the research
+landscape.
+Uh this is what Allison just showed you
+which is essentially that that natural
+history data has a strong application.
+And what I want to highlight here is
+that it's so informative with global
+regulators because they are really of
+the mindset that you have to show me the
+proof, right? It's not just enough to
+tell me like in my clinical experience
+as a physician, which I'm not, but in
+the case of a physician talking to the
+agency, in my clinical experience, I I
+ran a trial and I think that my patient
+on this drug is doing better because I
+know that generally my patients don't do
+this. And what FDA and the European
+Medicine's Agency really want to see is
+the proof, right? They want to see the
+proof that you've actually made a change
+and you can see that it's different than
+an untreated individual. Um, and so data
+really underly this and make it more
+powerful when you're trying to show them
+that we believe that a drug is having a
+promising effect because it's vastly
+different than what we know and is
+documented. So when you put that in
+front of them, it's very powerful.
+I'll skip ahead on this.
+I'm going to go um to the patient
+focused drug development meeting. Um
+this meeting in in April was really so
+pivotal in the understanding and it
+resulted in a voice of the patient
+report which was published yesterday on
+FDA's website. So you can access it or
+it's also available on the fast and ASF
+website and it details important aspects
+of the lived experience in terms of
+symptoms that you feel as a community
+are very important how they impact you
+and how they impact your loved one and
+what you want to see as treatment
+priorities. And this report gets
+utilized by FDA and even other agencies
+uh to really help them understand
+what the meaning of these symptoms and
+the meaning of changes are to you and
+they need to factor that into their
+regulatory decision making. So it's
+really key in in their regulatory review
+of applications that they'll get in the
+future and it also as I said informs the
+work that we do at ABOM because we want
+to make sure we we focus more on the
+measures that you care most about.
+So with that, yesterday's meeting um was
+a great meeting. It was one of the best
+meetings I think we've ever had as the
+ABOM. Um and what we started with was a
+conversation really around the PFDD
+meeting. It's not noted here on my
+slide, but Ryan Fischer gave an overview
+of the work that was done um in the
+premeating survey and then in the
+meeting itself that led to the voice of
+the patient report highlighting some of
+the the uh the feedback and testimonies
+that were given and the impact of that.
+Um, and it was really a great review and
+I want to thank everybody that
+participated in the surveys and the
+meeting itself because we did have a
+debrief with FDA after that meeting and
+they said it was so impactful that at
+times some of your feedback was actually
+hard to hear because they didn't even
+understand how absolutely devastating
+the condition can be on families and it
+really makes them feel more motivated
+but also they understand more. they
+learn more about the impact of symptoms
+on your day-to-day life. And so that was
+really good feedback and we had amazing
+attendance. Almost 50 people from the
+FDA were at the PFDD meeting or
+virtually part of it. Um and it's really
+something that they want to build on and
+so they asked the Abbomb to follow up on
+a few things coming out of that meeting.
+One of those things was better
+understanding your attitudes as a
+community towards the risks and benefits
+of gene therapies for Angelman syndrome.
+So what we did coming out of the PFDD
+meeting was we had some focus groups
+where we got feedback from individuals
+in the community about their attitudes
+towards how you would think about the
+benefits and risks of gene therapies.
+What are you worried about? What do you
+think about the safety? Um what do you
+think about the efficacy? Importantly,
+what do you need to know to help make
+decisions about considering
+participation in a clinical trial of a
+gene therapy? um how do you need
+information presented to you and really
+are you willing to do it? Are you
+willing to consider this for your child?
+What's your willingness or what are what
+are your reservations? And the agency
+really wants to know that better because
+they've said to us that especially in a
+rare disease they understand the way
+that it's often approached is you're
+willing to do anything. At the outset
+you think I am willing to do whatever it
+takes to get a treatment for my child.
+But sometimes there comes a point where
+you're presented with information and
+you feel, you know, maybe this is a step
+too far or maybe I don't understand
+enough about this. And that's what the
+agency really wants us to do so we can
+think about in taking these trials
+forward. What's the best way to
+communicate with you and present
+educational materials or have the doctor
+have conversations with you that really
+educate you? And the only way we can
+know what you think about it is for you
+to tell us. And so we presented on that
+yesterday, which was really an an
+interesting conversation.
+I didn't get to update my slide, but we
+were supposed to um hear from the FDA on
+this as well, and unfortunately they
+canled due to the shutdown. So, in
+addition to disrupting all your flights,
+the shutdown was keeping FDA from coming
+to our meeting.
+We also talked about the Orca and what
+Orca scores mean. Um, and really what we
+did there was we had a very powerful
+panel where we heard from five moms
+about how they uh how how their child
+communicates and they took part in a
+survey about the orca and really gave
+feedback to the team about what changes
+in the ORCA mean like what do they think
+a score um let's say of 50 you know when
+you're developing these measures you
+have to understand how they work but
+then also how do you score them and what
+does that score really mean? So, they
+reflected on what a score meant to them
+based on their child's abilities and
+what they thought a meaningful change
+would be. And that really informs how we
+think about changes on the scale. Do you
+need to move two points? Do you need to
+move four points? And and that feedback
+is very powerful in informing how we
+interpret those scores and how
+regulators interpret those scores. And
+then we really built off that lived
+experience of families from the patient
+focused drug development meeting in a in
+a number of sessions. One focused on
+challenging behaviors and this was an
+area followup followup that FDA wanted
+us to undertake. They heard you talk a
+lot about anxiety in that meeting and in
+the survey and and what we really want
+to do is sort of tease apart what is
+anxiety and angelman syndrome. Is it
+really challenging behaviors? And so
+they asked us to dive deeper into that.
+We actually did have someone from the
+FDA who still participated in the
+meeting come and talk to us about that
+and how we might consider that and
+measure that. But what we did was
+reflect on the learnings from the PFDD
+meeting. And if any of you participated
+in the premeating survey, we asked you
+to rank your top five treatment
+priorities, but then to explain to us in
+writing what you thought would be a
+meaningful change in a symptom. And so
+if you did that, I want to thank you
+because we got almost 1,700 line items
+on a spreadsheet and we actually went
+through all of those responses and
+presented it back to the Abomb to sort
+of think about what's really involved in
+the concept of anxiety and challenging
+behaviors. What does that really mean?
+Is it aggression? Is it hitting? Is it
+impulsivity? And really like teasing
+that apart to understand it more so we
+can better design measures and trials to
+capture that. And importantly to hear
+what you think is important. And we
+clearly heard that very small changes in
+behavior could make a big difference in
+your day-to-day.
+We did the same for sleep and cognitive
+domains. Uh and really what we did was
+hear from uh teams at Rush and Boston
+Children's about what they've learned
+about aspects of sleep and cognition
+that are important to you, how we
+measure those, what's the best way to
+consider measure those in trials. And
+again reflecting that experience that
+you gave through your responses in the
+survey about what matters to you in
+sleep, sleeping more, waking up less at
+night, uh maybe using less sleep
+medications. All of that we're factoring
+into our considerations of how we
+measure that in clinical trials. And I
+think that I will hand it off to
+Allison.
+>> [applause]
+>> Thank you Jennifer that was perfect. Um
+and so overall I think that um you can
+see her conclusions about the regulatory
+engagement that we have, the industry
+and advocacy engagement that we have and
+we keep reminding everyone why we're
+here and we are here for these children
+and that is the only reason and we need
+to ensure that patient focused drug
+development is at the core of everything
+that we do and is at the core of
+everyone in this room. um because that's
+the only way we can transform the lives
+of those that we love deeply living with
+Angelman syndrome. Um we followed that
+with the translational research
+symposium which is where our scientists
+can get deep deep deep into the science
+and not have to you know keep it in lay
+terms for all of the rest of us to
+understand. Um, and so again, we um had
+those 20 talks at AOM and then we had
+these 10 lightning abstracts that I'm
+really excited for you guys to see
+something similar today, but we're doing
+it in lay terms. Um, and those abstracts
+were incredibly helpful and I actually
+loved the format. these and these folks
+spoke so fast and so quickly and got to
+the point and didn't, you know, really
+have to explain the background because
+everyone in the room knew the background
+and could really just get to the
+conclusions which were the core and the
+purpose. And so really we started the
+translational research symposium to
+create an environment where cutting edge
+research can be shared with colleagues
+in the scientific field and industry and
+the clinicians who are going to see this
+coming forward on the medical side for
+our for our kids hopefully soon. Um and
+we like to foster collaboration and
+shared knowledge and problem solve
+understand scientific discovery in a way
+in which we can help improve the
+outcomes of other people's labs by
+learnings in a different lab. And if we
+don't have an environment to collaborate
+and do that, ultimately everyone's going
+to work in a silo, which is not great
+for any of our children. And so we
+really are able to consider novel ideas,
+bring the field closer to transformative
+therapeutic development and be okay if
+something fails, and say, "We're going
+to bring this forward. This didn't work.
+This failed. This is why." And maybe
+somebody's going to have an idea of how
+to rescue that and prevent it from
+failure or agree that this is something
+we should not continue to pursue because
+there are failures in science. and we
+need to be prepared for that. Um we
+share and in that we share both positive
+and negative data. So we had over fif
+150 people in attendance at the
+symposium including researchers,
+clinicians, uh regulators and industry
+members, 10 lightning scientific talks
+and over 30 posters in the poster
+session that you're going to see also
+yourselves um after this meeting which
+was really exciting and the take-home
+from that was that um we had a
+presentation from Dave Dave Seagull on
+crisper cast 13 as a gene editing
+strategy that we've been supporting um
+for the last few years and ultimately
+there was a decision made that this was
+a no-go decision. ision and that this
+program didn't look like it had
+superiority or advancement in what is
+currently being developed and we were
+not going to continue furthering that
+program. Um, and that was that was a
+really great talk to show how and why
+they made that decision. Um, followed by
+a talk on Zincfinger showing how on the
+opposite end how that's looking really
+good and we're really seeing some um
+potential candidates, drug candidates
+for humans that could potentially knock
+down that anti-sense and upregulate the
+copy of that UB3 gene. Um, we heard a
+talk from Eric Lavine about the
+importance of genes outside of UB3A in
+the deletion and how we can think about
+measuring up regulation and the impact
+and effect of those genes. Um, and we
+heard a talk from Brown University by
+Alvin Wang about the function of of
+something called autophagy and brain
+health and how some drugs can improve
+autophagy and neuronal function. Um, we
+heard from North Carolina State
+University team and you'll hear more
+about that today about a new assay that
+they developed called the ubiquination
+assay to measure the function of a gene
+therapy or of a protein therapy and how
+that UB3A protein is working. And we
+heard some great talks and you're going
+to hear some of them this afternoon as
+well about how people are really trying
+hard to detect UB3A in the CSF.
+Jennifer's going to talk a little bit
+more about that in the next talk, so I'm
+not going to give anything away. But as
+a potential future biioarker, which
+she's going to explain to you what that
+is, that can have really incredible
+impact if we can find something like
+that that works and can show us target
+engagement in UB3A expression. Um, so we
+were able to share all of that and
+really learn from that, which was
+incredible. And so with that, um, that's
+a conclusion of 35 talks in nine hours
+presented to you in 15 minutes. Um, but
+thank you. Thank you for listening.
+Thank you to our sponsors. Thank you to
+everyone who was there yesterday. Um it
+was a big day. It was a really important
+day and I feel really proud of everyone
+that really participated and engaged and
+wants to advance the field in a very
+very similar way. So thank you for that.

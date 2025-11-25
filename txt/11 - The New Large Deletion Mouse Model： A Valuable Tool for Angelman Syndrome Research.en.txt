@@ -1,0 +1,342 @@
+So now our next speaker is uh Dr. Shauna
+Louu and many of you know her as a
+little spitfire who um I always used to
+say that I think that you know Yang we
+might be the the smartest person that I
+know and then I met Shauna and realized
+that she might be smarter than him. Um
+but she also speaks very fast and so if
+you don't understand what she's saying
+you raise your hand because I'm going to
+make her slow down because she has so
+much to say and she's so stinking smart
+that she doesn't understand that no one
+else can keep up with her. So there's a
+lot to say, but she only has actually um
+15 minutes, I think, uh in order to be
+able to get through everything she wants
+to. So slow and steady so everyone can
+understand the amazing work that you are
+doing. And she we asked her and tasked
+her to create one last model, the last
+one to ever be created, please, for the
+large deletion genotype of Angelmen
+syndrome, including all of those other
+genes that we talked about outside of
+UB3A.
+and through incredible effort and trial
+and tribulation, she has been
+successful. So, I'm so excited to share
+this with you because I hate models, but
+this one I think is a true testament to
+her dedication. So, Shauna, please.
+Okay. Um, thanks for this opportunity.
+Today I'd like to share an update of our
+study um, the new large deletion MOS
+model for and syndrome.
+The commonly used UB3A XM2 deletion
+model only represent about 10% of
+androma syndrome patients with
+intrangenic mutation. Since most people
+with androma syndrome carry a large
+leion in the chromosome 15 k1 to k13
+region to better understand the full
+spectrum of syndrome and to develop more
+efficient treatment we generate a new
+mouse model which carries a six megabase
+large edition on the maternal
+chromosome. This model represents over
+70% of and syndrome patients making a
+much closer to the typical clinical
+presentation.
+So last time we shared the
+neurobbehavioral differences between the
+large leion and the obcomize.
+Today I will focus on what we have
+learned from their EG recording how
+their brain activity and sleep differ.
+What that tells about uh of the
+treatment development for and syndrome
+using the EG as a biomarker.
+We use the uh wireless EG transmitter
+placed in a small subcutaneous pocket on
+the back of each mice. Each transmitter
+have four layers. Two EG lays positioned
+to the skull to capture the activity
+across entire cortex and two EMGs placed
+on the tropetious muscles to monitor
+muscle tone. By combining EG and EMG
+signals, we could accurately assess both
+seizure activity and sleep pattern.
+Let's start with an example. Here's a 15
+minutes uh EG snapshot from a white time
+marks. You can see a stable consistent
+baseline across all frequency band in
+different color uh reflecting typical
+brain activity under normal condition.
+Next, this is an example of a cedar like
+episode u composed of multiple spike
+trains. These are the bursts of a highly
+aptitude risma uh activity reflecting a
+hypers synchronized discharge in the
+cortex.
+When we zoom in one of these spectrrens,
+we can see a distinct onsite and
+resolution, a sharp increase in delta za
+and a beta power and a rhythmic
+synchronization across a frequency bands
+following a return to baseline. These
+are classic features of generalized
+seedl like events.
+When we compare EEG across large leion
+use knockout and the white time mice, we
+found that the large leure mice showed
+significantly more spike trends than
+white type controls and their spike
+occurs more often at night. The UB3
+knock mice also had increased spike
+activity compared to white type but much
+less than large vision mice.
+When we quantify those spike duration
+and spike per second their indicators of
+seure uh severity both are much higher
+in the large leium mice. In the UB non
+mice the spike trends were rare roughly
+one shot uh event every 12 hours. um
+lasting about one to two seconds. This
+explains why many studies using the OB
+in noncom that are recording AG for four
+to six hours every day often miss these
+rare events.
+Next we examine the sleep patterns. Both
+the large lean and obice
+slept more at night than white controls.
+Also our groups took similar daytime
+naps. However, the quality of nighttime
+sleep was very different.
+The large leium mice had the longest
+resting wake apparas, meaning they were
+awake but not fully alert, reflecting
+lighter and less restorative sleep. Both
+mutton groups showed a a shorter active
+w active wave PRS compared to whiteab
+especially large leion.
+When we broke this down by sleep stage,
+slow web sleep which indicated the deep
+sleep uh was more disrupted in the large
+leium mice. While the paradoxical sleep
+show different changes in the true
+groups but is a large likely influenced
+by the nighttime surgery event.
+When we visualize the sleep stage
+transition, we found that both mutton
+lines and the frequent transitions
+between stage and night a clear uh sun
+are fragmented sleep. In contrast, the
+white tub showed a stable consolidated
+sleep.
+Interesting. Um, during the daytime,
+sleep architecture was more comparable
+among all groups and the OB knockice
+were even applied slight slightly more
+alert.
+When we look at the EG rhythms and power
+spectrum, here's an example of a 12-hour
+daytime EG in the white time to on top.
+You can see normal distinction of delta
+power in red, the alpha power in green
+and beta power in yellow. In the large
+leium mice to on the bottom, the delta
+power in red was dramatically increased
+while the alpha power in green and beta
+power in yellow is remarkably reduced.
+When we extracted and and compared those
+specific frequency bands, we found
+increased delta power only significant
+in large leium mice but not in the UB
+knockout.
+The reduced alpha sigma and beta power
+in both models but more pronounced in
+the large leium mice. This pattern
+highly delta, low alpha and beta match
+the EG signatures in androma syndrome
+patients suggesting the large vision um
+model better capture the human
+phenotypes.
+To summarize this part, seizure
+susceptibility was highest in large mice
+moderate in the UB3 knockout. Sleep
+architecture was fragmented in both and
+syndrome mouse model. The AG power
+spectrum changes in crisis of delta rad
+alpha sigma and beta was only seen in
+the large leium mice aligning with human
+eg patterns.
+Next we apply our step R&P the crisper
+based gene editing therapy to the large
+leure mice. We treated two groups, one
+at postnatal day one and another at the
+postnatal day 21 and compare them with
+untrade later base and wab controls. The
+EG was recorded at six months and one
+year of age.
+We found the step R&P significantly rad
+susceptibility in both postnatal day one
+and postnatal day 21s
+at six months age. On the day one
+treatise already show [snorts] a strong
+reduction in spike trains duration and
+spike per seconds which indicated the
+reduction in both seedure frequency and
+severity
+by one year. The day 21 mice still
+maintain its improvements.
+As for the sleep, step RP treatment
+reduced resting wake duration and
+paradoxic sleep uh duration
+and increase the weight uh active awake
+and slow wave sleep indicating more
+consolidated sleep by just six months
+after the treatment.
+By the one year the day one treated a
+mice showed extended slow wave sleep
+compared to white type level despite a
+confounding factor of aging.
+When we visualize uh the sleep stage
+transition treat mice showed a fewer
+fragmented transition at night
+approaching the stable patterns of a
+white tab at six months after treatment
+man. At one year, the day 21 titanomize
+showed sleep state transition pattern
+nearly identical to the Y type
+indicating a delayed yet progressive
+restoration of neurosircuit
+organization.
+Similar pattern also observed during the
+daytime recording.
+By one year of age, the steep transition
+between traed large leion and the white
+high pers are nearly indistinguishable
+in easy reasons power the K biomarker
+was significantly reduced after the
+treatment in both groups. The day one
+trait mice match the white level by just
+six months of six months after
+treatment.
+Meanwhile, both the day one and day 21
+trader groups showed a significant
+increase in alpha power. And in day one
+trade group, the alpha power was fully
+restored to the white type level.
+By one year, the therapeutic effect
+still maintain and the delta power of
+the day 21 trait mice are even at the
+same as white. During the daytime,
+the day 21 treated the mice showed even
+higher of alpha powers than white
+controls suggesting an enhanced cortical
+synchronization even with delayed
+treatment and confounding factor of
+aging.
+Therefore, we summarize the second
+section. The step RP treatment reduce
+seizure frequency, duration and severity
+in both early stage and later stage
+treatment.
+It improves sleep quality, restored more
+stable sleep pattern and normalized e
+rhythms towards white level.
+Overall, this data demonstrate that the
+new large leion mouse model provides a
+much more comprehensive and clinical
+relevant representation of and syndrome.
+It recapulated the key neurological
+features observing the patients with
+large leion including increasure
+susceptibility disrupt sleep
+architecture and the distinct age rhythm
+changes of and syndrome
+by capturing those broader phenotypes
+that traditional UB3 a mice um missed.
+This large leion model serve as a power
+tool for understanding the full genetic
+contribution of the 15 Q11 to Q1 region
+Q13 region and for the testing future
+therapeutics under condition that more
+closely to mirror the majority of
+syndrome patients. Ultimately, this new
+MOS model brings us one more step closer
+to the translate translation discovery
+in the lab into meaningful improvement
+for the families living with and
+syndrome.
+Beyond today's topic, I'm excited to
+share news. We recently generated the
+first asupdia mouse model which carries
+a six macbased deletion on the maternal
+chromosone and a six macbased
+duplication on the paternal chromone.
+mimicking the ASUPD
+ASUPD form. This I uh this idea actually
+come from one of your questions last
+time. If there's a gold model and
+treatment developed for the large
+leation, what about UPD? We are now
+conducting baseline behavior test on
+this new model and I'm looking forward
+to share the results with you soon.
+At the end, I'd like to thank my mentor
+Dr. Jang and our lab member close
+collaborator Joe Lab and founding
+support.
+[applause]
+I said no more models and there she
+goes. She made another model. Um no we
+we um purposefully wanted to ensure that
+as we think about the genes outside of
+UB3A we also think about the genes in
+UPD and ICD. That's incredibly
+important. Um, so, so really I know that
+was a whirlwind and probably very few of
+you really captured the significance of
+that and I'm going to summarize it in
+one sentence which essentially is that
+they made a model that is more
+significantly impaired than the
+traditional Angelman knockout model
+which is just the UB3A. But what they
+also showed is when they put crisper in
+to just edit UB3A, they actually
+corrected almost all of the phenotypes.
+But what's more important than that,
+what it tells us is that that model may
+not distinguish the specific between
+nonUB3 genes and UV3 genes in
+correction. But what it will tell us is
+that again they repeated the fact that
+they were able to rescue phenotype
+almost equally if not equally in the
+newborn mice as they were in a P21 mouse
+which would be an adolescent a teenager
+mouse. And ultimately what they found
+was over time at six months and at one
+year that correction got better and
+better for the older animals which is
+something we believe is probably true
+for humans. Right? It may take more time
+for an adult or an adolescent to see the
+same benefit as a 2-year-old or a
+one-year-old. But we have all the time
+in the world. We've just been waiting.
+So it's okay if it takes more time. But
+it may have to drive the fact that in a
+clinical trial environment, we can't be
+cutting these trials off too early
+because we may see the best of benefit
+over time. And so for me, that's what I
+learned from that presentation. And I
+hope that you can take that home as real
+success and really good information as
+we think about discovering drug
+development.

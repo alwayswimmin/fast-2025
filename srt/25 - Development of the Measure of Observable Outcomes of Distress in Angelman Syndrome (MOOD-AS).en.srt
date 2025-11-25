@@ -1,0 +1,584 @@
+1
+00:00:00,000 --> 00:00:03,120
+Our next presentation is actually a
+
+2
+00:00:01,600 --> 00:00:04,319
+video. It's Dr. Annne Wheeler.
+
+3
+00:00:03,120 --> 00:00:05,759
+Unfortunately, she couldn't be here with
+
+4
+00:00:04,319 --> 00:00:07,440
+us today, but she'll be here tomorrow.
+
+5
+00:00:05,759 --> 00:00:09,280
+She promises. We'll see what happens
+
+6
+00:00:07,440 --> 00:00:10,960
+with the shutdown. Maybe that'll change.
+
+7
+00:00:09,280 --> 00:00:12,240
+Um, but she's going to present to us on
+
+8
+00:00:10,960 --> 00:00:14,240
+the development of the measure for the
+
+9
+00:00:12,240 --> 00:00:18,759
+observable outcomes of distress and
+
+10
+00:00:14,240 --> 00:00:18,759
+Angelmen syndrome, the mood as
+
+11
+00:00:19,840 --> 00:00:23,600
+hi everyone. I'm so sorry to not be
+
+12
+00:00:21,920 --> 00:00:25,199
+there in person today. What an amazing
+
+13
+00:00:23,600 --> 00:00:27,439
+meeting it's been. I hope everyone's
+
+14
+00:00:25,199 --> 00:00:29,199
+enjoying themselves and learning a lot.
+
+15
+00:00:27,439 --> 00:00:30,800
+Here I want to share with you some
+
+16
+00:00:29,199 --> 00:00:32,880
+initial findings from our effort to
+
+17
+00:00:30,800 --> 00:00:34,559
+better understand behaviors in Angelmen
+
+18
+00:00:32,880 --> 00:00:39,000
+syndrome, especially those that appear
+
+19
+00:00:34,559 --> 00:00:39,000
+to be related to anxiety or distress.
+
+20
+00:00:39,280 --> 00:00:43,440
+Many of you have told us that your loved
+
+21
+00:00:41,040 --> 00:00:45,200
+one with Angelmen experiences anxiety.
+
+22
+00:00:43,440 --> 00:00:47,440
+And many of you also describe behaviors
+
+23
+00:00:45,200 --> 00:00:49,840
+like aggression or clinginess. But
+
+24
+00:00:47,440 --> 00:00:51,760
+anxiety is considered an internal issue,
+
+25
+00:00:49,840 --> 00:00:53,440
+meaning that we can we as observers
+
+26
+00:00:51,760 --> 00:00:55,360
+cannot determine for sure that an
+
+27
+00:00:53,440 --> 00:00:56,719
+individual is experiencing anxiety
+
+28
+00:00:55,360 --> 00:00:58,800
+unless they are able to tell us
+
+29
+00:00:56,719 --> 00:01:00,960
+themselves, which of course is a major
+
+30
+00:00:58,800 --> 00:01:02,640
+challenge for individuals with Angelmen.
+
+31
+00:01:00,960 --> 00:01:04,479
+And so we have set out to develop a
+
+32
+00:01:02,640 --> 00:01:06,960
+measure that uses only observed
+
+33
+00:01:04,479 --> 00:01:10,960
+behaviors in order to understand how
+
+34
+00:01:06,960 --> 00:01:13,520
+anxiety as described by a caregiver um
+
+35
+00:01:10,960 --> 00:01:15,439
+is manifesting in Angelmen.
+
+36
+00:01:13,520 --> 00:01:16,799
+All phases of the study that I'm going
+
+37
+00:01:15,439 --> 00:01:19,439
+to describe have been done in
+
+38
+00:01:16,799 --> 00:01:22,880
+collaboration between the United States
+
+39
+00:01:19,439 --> 00:01:25,759
+folks um RTI and uh the natural history
+
+40
+00:01:22,880 --> 00:01:28,240
+study as well as the Arasmus Center in
+
+41
+00:01:25,759 --> 00:01:29,920
+the Netherlands and the pro this program
+
+42
+00:01:28,240 --> 00:01:32,920
+has been funded by the Angelman Syndrome
+
+43
+00:01:29,920 --> 00:01:32,920
+Foundation.
+
+44
+00:01:33,360 --> 00:01:37,680
+So we took a four-phase approach to
+
+45
+00:01:35,520 --> 00:01:40,159
+developing this measure. The first thing
+
+46
+00:01:37,680 --> 00:01:42,720
+we did was do some concept elicitation
+
+47
+00:01:40,159 --> 00:01:44,960
+interviews with families. Then we
+
+48
+00:01:42,720 --> 00:01:46,640
+decided how those items that we heard
+
+49
+00:01:44,960 --> 00:01:48,960
+from interviews mapped on to other
+
+50
+00:01:46,640 --> 00:01:50,880
+measures, developed a new measure, did
+
+51
+00:01:48,960 --> 00:01:53,360
+some cognitive interviewing, and are now
+
+52
+00:01:50,880 --> 00:01:55,680
+in the phase of collecting data on the
+
+53
+00:01:53,360 --> 00:01:57,759
+existing measure.
+
+54
+00:01:55,680 --> 00:01:59,840
+In the first phase, we conducted 23
+
+55
+00:01:57,759 --> 00:02:01,280
+interviews with caregivers, about half
+
+56
+00:01:59,840 --> 00:02:03,439
+of whom had an individual with a
+
+57
+00:02:01,280 --> 00:02:06,159
+deletion subtype and the other half had
+
+58
+00:02:03,439 --> 00:02:07,920
+an individual with a non-deion subtype.
+
+59
+00:02:06,159 --> 00:02:09,840
+Almost all of these caregivers reported
+
+60
+00:02:07,920 --> 00:02:11,680
+behaviors associated with anxiety in
+
+61
+00:02:09,840 --> 00:02:13,440
+their loved ones with common behaviors
+
+62
+00:02:11,680 --> 00:02:15,920
+including things like freezing,
+
+63
+00:02:13,440 --> 00:02:18,480
+flinching more, crying, hand flapping,
+
+64
+00:02:15,920 --> 00:02:20,000
+and aggression. These interviews also
+
+65
+00:02:18,480 --> 00:02:21,360
+allowed us to understand a bit more
+
+66
+00:02:20,000 --> 00:02:24,000
+about what families mean when they
+
+67
+00:02:21,360 --> 00:02:26,640
+describe some behaviors. For example,
+
+68
+00:02:24,000 --> 00:02:28,560
+clingy was endorsed by nearly 80% of the
+
+69
+00:02:26,640 --> 00:02:30,319
+sample. But when we asked about what
+
+70
+00:02:28,560 --> 00:02:32,160
+clingy looks like, we found that that
+
+71
+00:02:30,319 --> 00:02:34,000
+could mean anything from increased
+
+72
+00:02:32,160 --> 00:02:35,920
+increased whining when left alone,
+
+73
+00:02:34,000 --> 00:02:37,519
+watching the caregivers's every move,
+
+74
+00:02:35,920 --> 00:02:39,840
+holding on to the caregiver, or
+
+75
+00:02:37,519 --> 00:02:41,440
+aggressive behavior towards others. So
+
+76
+00:02:39,840 --> 00:02:43,360
+this helped us understand the types of
+
+77
+00:02:41,440 --> 00:02:44,959
+observable behaviors we can ask more
+
+78
+00:02:43,360 --> 00:02:48,160
+about to understand what clinginess
+
+79
+00:02:44,959 --> 00:02:50,000
+looks like for that individual.
+
+80
+00:02:48,160 --> 00:02:52,000
+After this, we developed a long list of
+
+81
+00:02:50,000 --> 00:02:53,760
+behaviors we heard parents describe and
+
+82
+00:02:52,000 --> 00:02:56,239
+limited those behaviors to ones that can
+
+83
+00:02:53,760 --> 00:02:59,840
+be observed by others. The final list of
+
+84
+00:02:56,239 --> 00:03:02,159
+69 behaviors are ranked on two scales. A
+
+85
+00:02:59,840 --> 00:03:05,680
+frequency scale from never to often and
+
+86
+00:03:02,159 --> 00:03:08,319
+a severity scale from mild to severe.
+
+87
+00:03:05,680 --> 00:03:10,480
+This set of items makes up what we're
+
+88
+00:03:08,319 --> 00:03:12,080
+now calling the measure of observable
+
+89
+00:03:10,480 --> 00:03:15,280
+outcomes of distress in Angelmen
+
+90
+00:03:12,080 --> 00:03:18,159
+syndrome or the mood as before we
+
+91
+00:03:15,280 --> 00:03:20,319
+launched this measure to get
+
+92
+00:03:18,159 --> 00:03:22,239
+psychometric data. We did some cognitive
+
+93
+00:03:20,319 --> 00:03:23,840
+testing with 14 caregivers where we
+
+94
+00:03:22,239 --> 00:03:25,599
+asked them to give us feedback on the
+
+95
+00:03:23,840 --> 00:03:27,360
+clarity of the items and how well it
+
+96
+00:03:25,599 --> 00:03:29,680
+represents their loved one with Angelman
+
+97
+00:03:27,360 --> 00:03:32,000
+syndrome. We got very positive feedback
+
+98
+00:03:29,680 --> 00:03:34,159
+with only minor revisions to wording and
+
+99
+00:03:32,000 --> 00:03:37,480
+of instructions, severity items and some
+
+100
+00:03:34,159 --> 00:03:37,480
+impact items.
+
+101
+00:03:37,519 --> 00:03:40,799
+So we are now in the psychometric
+
+102
+00:03:39,040 --> 00:03:42,640
+evaluation period with data being
+
+103
+00:03:40,799 --> 00:03:44,480
+collected through oneoff surveys in
+
+104
+00:03:42,640 --> 00:03:46,480
+multiple countries and sites as well as
+
+105
+00:03:44,480 --> 00:03:48,159
+through the natural history study. This
+
+106
+00:03:46,480 --> 00:03:50,000
+phase is just getting started, so we
+
+107
+00:03:48,159 --> 00:03:52,000
+don't have much data yet. But from the
+
+108
+00:03:50,000 --> 00:03:54,480
+first 31 participants, it seems that the
+
+109
+00:03:52,000 --> 00:03:57,200
+most frequently endorsed behaviors are
+
+110
+00:03:54,480 --> 00:03:58,720
+easily distracted, refusing to separate,
+
+111
+00:03:57,200 --> 00:04:01,040
+pulling on others, and mouththing
+
+112
+00:03:58,720 --> 00:04:02,480
+behaviors. The most severe behaviors
+
+113
+00:04:01,040 --> 00:04:04,640
+include reduced communication when
+
+114
+00:04:02,480 --> 00:04:08,560
+upset, biting nails, checking the time,
+
+115
+00:04:04,640 --> 00:04:10,159
+lying down, and mouththing behaviors.
+
+116
+00:04:08,560 --> 00:04:11,760
+Once we have enough data, we will be
+
+117
+00:04:10,159 --> 00:04:13,120
+able to use this information to better
+
+118
+00:04:11,760 --> 00:04:14,959
+understand the extent of behavior
+
+119
+00:04:13,120 --> 00:04:16,639
+challenges in Angelmen and perhaps be
+
+120
+00:04:14,959 --> 00:04:18,079
+able to categorize the behaviors into
+
+121
+00:04:16,639 --> 00:04:20,000
+clusters that can help us get to the
+
+122
+00:04:18,079 --> 00:04:21,600
+root and function of these behaviors to
+
+123
+00:04:20,000 --> 00:04:23,759
+better help address the distress being
+
+124
+00:04:21,600 --> 00:04:25,280
+experienced by the individual. We have
+
+125
+00:04:23,759 --> 00:04:26,960
+an initial idea of how these behaviors
+
+126
+00:04:25,280 --> 00:04:28,720
+might cluster, including clusters that
+
+127
+00:04:26,960 --> 00:04:31,280
+may point directly to function, for
+
+128
+00:04:28,720 --> 00:04:33,440
+example, communication versus avoided
+
+129
+00:04:31,280 --> 00:04:34,800
+related distress. Stay tuned for more
+
+130
+00:04:33,440 --> 00:04:36,560
+information about this measure in the
+
+131
+00:04:34,800 --> 00:04:38,080
+next year.
+
+132
+00:04:36,560 --> 00:04:39,840
+If you are a caregiver interested in
+
+133
+00:04:38,080 --> 00:04:41,919
+completing the mood as to contribute to
+
+134
+00:04:39,840 --> 00:04:43,680
+data on this topic or if you are a
+
+135
+00:04:41,919 --> 00:04:45,600
+researcher or clinician interested in
+
+136
+00:04:43,680 --> 00:04:47,199
+using the mood as in your setting,
+
+137
+00:04:45,600 --> 00:04:49,759
+please contact me and we would love to
+
+138
+00:04:47,199 --> 00:04:51,199
+collaborate. My Sarah my colleague Sarah
+
+139
+00:04:49,759 --> 00:04:52,800
+Potter who has been involved in the
+
+140
+00:04:51,199 --> 00:04:54,560
+development of this measure is there at
+
+141
+00:04:52,800 --> 00:04:56,160
+the conference right now and I will be
+
+142
+00:04:54,560 --> 00:04:58,160
+there on Saturday if any of you want to
+
+143
+00:04:56,160 --> 00:05:00,160
+find us to ask questions and discuss
+
+144
+00:04:58,160 --> 00:05:01,440
+more about this tool. Thank you so much
+
+145
+00:05:00,160 --> 00:05:04,840
+for your time. I look forward to seeing
+
+146
+00:05:01,440 --> 00:05:04,840
+you all on Saturday.
+

@@ -1,0 +1,204 @@
+So, our next speaker is Dr. Bridget
+Keller, and she's going to be talking to
+us about Project Wellcast, p
+personalizing mental um well wellness
+support for Angelman Syndrome
+caregivers, which we all desperately
+need. So, if somebody can help
+personalize my mental wellness, that
+would be great.
+[Applause]
+All right, where are the caregivers in
+the room? Yay. Yay. Okay, give
+yourselves a round of applause for
+staying this long in the day. Okay, so
+this one is for you. I won't talk about
+any animal models, I promise. Um, so I
+am going to share with you today results
+of a recent very large clinical trial
+that we conducted to understand more
+about how to support caregivers. The
+original pilot data for this project was
+actually funded by ASF in 2019. So all
+of this started with Angelman syndrome
+and I want to underscore that. So the
+goal of our trial was to try to
+understand how we could match caregivers
+of people with rare genetic conditions
+to personalize 100% remote support that
+would actually meet their unique family
+needs. So a lot of times when you roll
+into your local clinic or you see
+somebody online, they're thinking about
+two things in terms of what to support
+you with. One is what are your mental
+health needs? Do you kind of exceed the
+threshold on this on the checklist,
+right? And the other is what's
+available. But we know that especially
+for rare families and especially for
+Angelmen families, a lot else is going
+on. You might have, you know, compared
+to other families who are showing up at
+that clinic, different feelings about
+Angelmen syndrome. You might have a
+child who has different needs. You have
+different levels of existing care. And
+you might have different forms of other
+treatments available to you, different
+cultural factors and values, different
+social support, caregiving stage, you
+know, have you been doing this for
+decades or is it a new diagnosis,
+personality differences, lifestyle,
+time, literacy, respit care, lots and
+lots and lots of things. Um, and we
+actually are measuring all of this now.
+And we're trying to understand how do we
+take not just your score, but the
+topography of your life to figure out
+what you need.
+So, how did we do this? Um, so we
+received about $3 million from NIH who
+really cares about this issue to try to
+develop a precision health tool or an
+algorithm. And when I say algorithm, I
+don't mean AI. I mean a, you know, a
+decision tree that clinicians, policy
+leaders, PAGS can use to help figure out
+what to offer their families. So, the
+first step of this was to design an
+algorithm. And to do this, we use two
+primary forms of data. So when families
+come into the study, they provide two
+weeks of data collection. One is your
+standard self report questionnaires that
+you've done millions of, right? Um the
+other is innovative. It's ecological
+momentary assessment where we pinged
+caregivers smartphones as they went
+about their days and asked about all of
+those things I just showed you on the
+other screen. Together, we formed a
+clinical decision tree that matched what
+we know just from science alone on what
+treatments and support programs that are
+typically available in communities,
+things like acceptance and commitment
+therapy or peer-to-peer coaching, which
+of these things might best fit
+caregivers with various unique profiles.
+We knew we would not get this right, and
+we told NIH that we were going to be
+wrong. And I'm very glad they still
+funded us. And the reason they did that
+is we told them as we went through this
+trial, we would test and refine the
+algorithm. To to do this, we had a
+community academic partnership that was
+really incredible. We hired eight rare
+disorder caregiver coaches who worked on
+our team, deployed some of the
+treatments, helped us figure out how to
+fix our algorithm, and they also worked
+with over 50 trainees across the United
+States and New Zealand who offered the
+treatments to caregivers. So, it also
+functioned as this great training
+program for next generation clinicians.
+So all of these folks would then deploy
+the algorithm to the f the people in the
+trial. Half were assigned to the
+algorithm. Half were assigned to a more
+random treatment. Um and then we looked
+at what worked.
+To do that, we developed a a a protocol
+that we now called cascade paneling. So
+this is a new model and I'm sharing the
+the publication here in case anybody
+wants to learn more about it. Um to make
+clinically informed decisions alongside
+community partners in research settings.
+So we essentially looked at the data
+together and we had preset criteria for
+how we would fix the algorithm based on
+what the data looked like. And we did
+that three times. So across the last
+four semesters, this happened very
+quickly. We tried three different
+versions of this algorithm that we
+refined based on the data in the trial
+and caregiver input. So I'll just show
+you a few results and then I would love
+for you to see us at posters. I think we
+have like five posters out there, so
+come visit us. Uh we enrolled over 400
+families. 64 of those were Angelmen
+caregivers which we were so excited to
+see. They were across the US and across
+this protocol the families received a
+lot of support over 1,400 coaching
+sessions. So part of this I won't talk
+about today is we also looked at peer
+coaching as a method for boosting
+engagement in clinical trials. This is
+something I would love to talk with
+industry partners about in particular.
+Um, and so people got coaching, but they
+also got over 2400 hours of free therapy
+and support programs deployed by these
+excellent graduate student trainees. We
+collected a lot of data, over 80,000 of
+those smartphone surveys across four
+semesters. And then we also had
+self-report forms and some additional
+behavioral data I won't share here.
+What did we find? The study was feasible
+over we hit our 80% metric over and
+over. So this model of doing everything
+remotely from assessment to treatment
+and partnering with these clinical
+graduate students and these amazing peer
+coaches worked. The families showed up
+and the next step is they found it
+acceptable. Um we actually had to
+develop a new acceptability tool for
+this trial because nothing quite existed
+that looked at both the program and the
+context and whether it mattered to
+caregivers. So if you want to learn more
+about that, we've published it. Um, but
+according to the threshold of this tool,
+91% of participants, regardless of
+whether they got their first choice
+treatment, found the program to be
+acceptable. And then finally, it was
+feasible. We hit our 80% threshold for
+feasibility across all of the different
+outcomes. Oh, wait, I'm going backwards.
+Um, we also found that it was
+efficacious. So, depression is moving
+across the treatment. We'll be
+publishing more about this in the
+future. Um, and we are also able to look
+at those more innovative kind of uh,
+ecological surveys to see outcomes and
+those are showing us different sources
+of information. So that'll be a preview
+to next year. Um, but huge thanks to the
+big team that made this happen including
+the investigators, the staff, uh, the
+peer coaches and all of the trainees.
+Um, and check out our posters. And I
+also wanted to mention we offer a free
+webinar series where we just take one
+little piece of data from this and share
+it back with families every month. It's
+super fun and we would love to have you
+there. Um, so come see us at posters to
+learn more. Thanks.
+[Applause]
+>> Thanks, Bridget. You know, five slides
+or 10 slides, it's all good. I'm just
+kidding. I was like, five slides, 10
+slides. Like, it's close.

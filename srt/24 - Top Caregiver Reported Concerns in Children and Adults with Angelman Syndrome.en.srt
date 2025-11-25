@@ -1,0 +1,556 @@
+1
+00:00:00,000 --> 00:00:04,960
+Our next speaker is uh Maline Graming
+
+2
+00:00:02,960 --> 00:00:06,799
+from Boston Children's Hospital um
+
+3
+00:00:04,960 --> 00:00:08,639
+talking about top caregiver reported
+
+4
+00:00:06,799 --> 00:00:12,360
+concerns in children and adults living
+
+5
+00:00:08,639 --> 00:00:12,360
+with Angelmen syndrome.
+
+6
+00:00:22,240 --> 00:00:27,039
+Whoops.
+
+7
+00:00:24,960 --> 00:00:28,720
+Hey. Hi everyone. My name is Maddie. I'm
+
+8
+00:00:27,039 --> 00:00:30,080
+a coordinator working with the Angelman
+
+9
+00:00:28,720 --> 00:00:32,000
+Syndrome Clinical Research Group at
+
+10
+00:00:30,080 --> 00:00:33,600
+Boston Children's Hospital and I'm going
+
+11
+00:00:32,000 --> 00:00:35,200
+to be giving a brief overview of our
+
+12
+00:00:33,600 --> 00:00:37,440
+research looking at top caregiver
+
+13
+00:00:35,200 --> 00:00:40,160
+concerns reported uh for children and
+
+14
+00:00:37,440 --> 00:00:41,920
+adults with Angelman Syndrome.
+
+15
+00:00:40,160 --> 00:00:43,920
+I'll start by giving some background on
+
+16
+00:00:41,920 --> 00:00:46,079
+our project. First, we know that all
+
+17
+00:00:43,920 --> 00:00:48,079
+challenges and experiences within the AS
+
+18
+00:00:46,079 --> 00:00:49,840
+community are unique and may vary upon
+
+19
+00:00:48,079 --> 00:00:52,559
+an individual's age and molecular
+
+20
+00:00:49,840 --> 00:00:53,840
+subtype. The caregiver perspective is
+
+21
+00:00:52,559 --> 00:00:56,079
+crucial for understanding their
+
+22
+00:00:53,840 --> 00:00:57,680
+day-to-day challenges and concerns, and
+
+23
+00:00:56,079 --> 00:00:59,359
+insight into these concerns could
+
+24
+00:00:57,680 --> 00:01:02,800
+potentially help to guide interventions
+
+25
+00:00:59,359 --> 00:01:04,640
+and policies for individuals with AS.
+
+26
+00:01:02,800 --> 00:01:06,400
+Our aims for this project are to
+
+27
+00:01:04,640 --> 00:01:08,880
+evaluate common developmental,
+
+28
+00:01:06,400 --> 00:01:11,520
+behavioral, medical, and other concerns
+
+29
+00:01:08,880 --> 00:01:13,840
+reported by caregivers, identify the
+
+30
+00:01:11,520 --> 00:01:16,640
+major reported concerns by caregivers of
+
+31
+00:01:13,840 --> 00:01:19,280
+individuals as with AS based on their
+
+32
+00:01:16,640 --> 00:01:21,360
+molecular subtype and their age, and to
+
+33
+00:01:19,280 --> 00:01:23,680
+use those caregiver reported concerns to
+
+34
+00:01:21,360 --> 00:01:27,600
+identify areas of unmet need as well as
+
+35
+00:01:23,680 --> 00:01:29,360
+gaps in care in the community.
+
+36
+00:01:27,600 --> 00:01:31,119
+Um, the data for this project were
+
+37
+00:01:29,360 --> 00:01:33,680
+collected as part of the AS natural
+
+38
+00:01:31,119 --> 00:01:35,360
+history study. At annual study visits,
+
+39
+00:01:33,680 --> 00:01:37,439
+caregivers participate in an interview
+
+40
+00:01:35,360 --> 00:01:38,880
+with the study team during which they're
+
+41
+00:01:37,439 --> 00:01:41,759
+prompted to give their top three
+
+42
+00:01:38,880 --> 00:01:43,360
+concerns for their loved one with AS.
+
+43
+00:01:41,759 --> 00:01:45,280
+They're given the option to rank these
+
+44
+00:01:43,360 --> 00:01:47,920
+concerns on a scale of one to three with
+
+45
+00:01:45,280 --> 00:01:50,000
+one being their greatest concern. These
+
+46
+00:01:47,920 --> 00:01:51,680
+are responses are recorded on a form by
+
+47
+00:01:50,000 --> 00:01:53,200
+the study team where they're either
+
+48
+00:01:51,680 --> 00:01:55,280
+listed as part of a pre-established
+
+49
+00:01:53,200 --> 00:01:58,159
+category or entered as a free text
+
+50
+00:01:55,280 --> 00:02:00,000
+concern under other. After our initial
+
+51
+00:01:58,159 --> 00:02:02,159
+data collection and during review of
+
+52
+00:02:00,000 --> 00:02:04,159
+this data set, we recoded all these free
+
+53
+00:02:02,159 --> 00:02:06,640
+text concerns to either fit into one of
+
+54
+00:02:04,159 --> 00:02:08,239
+the pre-existing categories or we
+
+55
+00:02:06,640 --> 00:02:10,800
+created new categories that would
+
+56
+00:02:08,239 --> 00:02:13,120
+capture these data. We ended up with a
+
+57
+00:02:10,800 --> 00:02:15,599
+final 23 concern categories to analyze
+
+58
+00:02:13,120 --> 00:02:17,120
+which we analyzed in the following ways.
+
+59
+00:02:15,599 --> 00:02:19,120
+First, we looked at the percentage of
+
+60
+00:02:17,120 --> 00:02:21,200
+caregivers who reported each concern
+
+61
+00:02:19,120 --> 00:02:23,760
+regardless of how they chose to end rank
+
+62
+00:02:21,200 --> 00:02:25,599
+or endorse that concern. We then took a
+
+63
+00:02:23,760 --> 00:02:28,560
+closer look at just the number one
+
+64
+00:02:25,599 --> 00:02:31,599
+concern um and analyze those concerns by
+
+65
+00:02:28,560 --> 00:02:33,920
+both age and molecular subtype.
+
+66
+00:02:31,599 --> 00:02:37,120
+Now, a quick look at our sample. We
+
+67
+00:02:33,920 --> 00:02:38,959
+included uh data from 193 unique
+
+68
+00:02:37,120 --> 00:02:42,239
+participants in the AS natural history
+
+69
+00:02:38,959 --> 00:02:44,160
+study. For analyses, we split uh our
+
+70
+00:02:42,239 --> 00:02:46,800
+sample up into four age cohorts
+
+71
+00:02:44,160 --> 00:02:48,879
+represented here. As you can see, uh the
+
+72
+00:02:46,800 --> 00:02:52,480
+most predominant cohort was individuals
+
+73
+00:02:48,879 --> 00:02:54,879
+in the um age 6 to 12 years cohort. Um
+
+74
+00:02:52,480 --> 00:02:56,640
+and then for our subtype breakdown, um
+
+75
+00:02:54,879 --> 00:02:58,959
+as expected, the majority of our sample
+
+76
+00:02:56,640 --> 00:03:01,920
+was deletion positive, followed by those
+
+77
+00:02:58,959 --> 00:03:04,959
+with a UB3A mutation and then UPD and
+
+78
+00:03:01,920 --> 00:03:07,440
+imprinting defects.
+
+79
+00:03:04,959 --> 00:03:09,920
+Right. Um here is a quick look at some
+
+80
+00:03:07,440 --> 00:03:11,200
+of our results. Shown here is our graph
+
+81
+00:03:09,920 --> 00:03:13,120
+uh representing the percentage of
+
+82
+00:03:11,200 --> 00:03:14,720
+caregivers who reported each concern
+
+83
+00:03:13,120 --> 00:03:17,040
+regardless of how they chose to rank
+
+84
+00:03:14,720 --> 00:03:19,280
+that concern. The list of concerns on
+
+85
+00:03:17,040 --> 00:03:21,360
+the left hand side um are the 23
+
+86
+00:03:19,280 --> 00:03:23,360
+categories that we came up with after we
+
+87
+00:03:21,360 --> 00:03:26,239
+did our recoding and then we further
+
+88
+00:03:23,360 --> 00:03:29,120
+collapsed overlapping categories. Uh in
+
+89
+00:03:26,239 --> 00:03:31,120
+this figure um the greater represented
+
+90
+00:03:29,120 --> 00:03:32,879
+concerns and more frequently reported
+
+91
+00:03:31,120 --> 00:03:35,200
+concerns are represented by the longer
+
+92
+00:03:32,879 --> 00:03:36,720
+bars um as well as the darker red color.
+
+93
+00:03:35,200 --> 00:03:38,640
+And it's clear from looking at these
+
+94
+00:03:36,720 --> 00:03:40,480
+results that the most commonly reported
+
+95
+00:03:38,640 --> 00:03:42,879
+concern was expressive communication in
+
+96
+00:03:40,480 --> 00:03:44,799
+our sample. Uh this was followed by
+
+97
+00:03:42,879 --> 00:03:47,360
+externalizing behaviors which are things
+
+98
+00:03:44,799 --> 00:03:49,680
+like hitting and slapping um as well as
+
+99
+00:03:47,360 --> 00:03:51,440
+sleep. But we do still see um
+
+100
+00:03:49,680 --> 00:03:54,000
+endorsement and representation of those
+
+101
+00:03:51,440 --> 00:03:55,760
+concerns across all of our domains. We
+
+102
+00:03:54,000 --> 00:03:57,360
+did take this a step further and analyze
+
+103
+00:03:55,760 --> 00:04:00,000
+concerns within age cohorts and
+
+104
+00:03:57,360 --> 00:04:01,599
+molecular subtype. Um those data will be
+
+105
+00:04:00,000 --> 00:04:02,959
+shown on our poster in the session
+
+106
+00:04:01,599 --> 00:04:04,480
+following this. So, please, if you're
+
+107
+00:04:02,959 --> 00:04:07,040
+interested, feel free to come and check
+
+108
+00:04:04,480 --> 00:04:08,799
+those out.
+
+109
+00:04:07,040 --> 00:04:10,239
+And to wrap this up, um, I'm just going
+
+110
+00:04:08,799 --> 00:04:12,560
+to share some of our key takeaways from
+
+111
+00:04:10,239 --> 00:04:14,080
+what we've learned so far. Um, first, as
+
+112
+00:04:12,560 --> 00:04:15,920
+I've already mentioned, expressive
+
+113
+00:04:14,080 --> 00:04:17,919
+communication was by far, uh, the most
+
+114
+00:04:15,920 --> 00:04:21,120
+frequently reported caregiver concern in
+
+115
+00:04:17,919 --> 00:04:23,440
+our sample. Um, identifying those key
+
+116
+00:04:21,120 --> 00:04:25,840
+concerns for individuals with AS across
+
+117
+00:04:23,440 --> 00:04:28,000
+various life stages and across genetic
+
+118
+00:04:25,840 --> 00:04:30,479
+subtypes supports a more targeted
+
+119
+00:04:28,000 --> 00:04:32,240
+person- centered approach to care. and
+
+120
+00:04:30,479 --> 00:04:33,919
+the caregiver voice is critical for
+
+121
+00:04:32,240 --> 00:04:36,000
+advancing treatments and support
+
+122
+00:04:33,919 --> 00:04:38,240
+services that specifically address the
+
+123
+00:04:36,000 --> 00:04:40,080
+most pressing needs of the AS community.
+
+124
+00:04:38,240 --> 00:04:42,160
+Um, and I'll just wrap up by giving a
+
+125
+00:04:40,080 --> 00:04:43,840
+quick thank you to the ABOM, um, to all
+
+126
+00:04:42,160 --> 00:04:45,600
+the investigators and study teams that
+
+127
+00:04:43,840 --> 00:04:46,960
+are part of the natural history study
+
+128
+00:04:45,600 --> 00:04:48,720
+and of course to all of our wonderful
+
+129
+00:04:46,960 --> 00:04:51,250
+families who have contributed to this
+
+130
+00:04:48,720 --> 00:04:56,860
+data. So, thank you.
+
+131
+00:04:51,250 --> 00:04:56,860
+[Applause]
+
+132
+00:05:02,000 --> 00:05:05,040
+I love seeing the opportunity of all
+
+133
+00:05:03,440 --> 00:05:06,400
+these research coordinators and students
+
+134
+00:05:05,040 --> 00:05:08,960
+that are coming up here and presenting
+
+135
+00:05:06,400 --> 00:05:11,680
+to this ent enormous audience. It's so
+
+136
+00:05:08,960 --> 00:05:13,600
+impressive to see these young academic
+
+137
+00:05:11,680 --> 00:05:15,280
+researchers really getting involved and
+
+138
+00:05:13,600 --> 00:05:17,680
+caring enough to put this together and
+
+139
+00:05:15,280 --> 00:05:17,680
+present to
+

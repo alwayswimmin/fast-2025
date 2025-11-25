@@ -1,0 +1,761 @@
+We will start with our first talk and we
+really wanted to kick off the day with
+everybody being grounded in knowledge.
+As you all know, I feel very strongly
+that knowledge is our power. But if we
+don't understand what the people on this
+stage are telling you, one, we're
+wasting your time. And you being here
+away from your family and getting
+caregivers support is honestly a
+privilege for us. We do not want to
+waste one minute of your time being
+here. So, we need to ground you in
+knowledge, which means that we're going
+to talk about different things this
+morning. What does in vitro mean? What
+does that mean? And why is it important
+to develop drugs for our children? We're
+going to follow that by what does invivo
+mean? So in vitro in a dish in vivo
+inside a body and then we're going to
+talk about the UB3 gene. What is the
+function of UB3A?
+I can tell you what it doesn't do. Meet
+my daughter. But what we're going to
+learn is what it is supposed to do. And
+that's very important for us to
+understand if we give it back,
+what symptoms we can address potentially
+with that. And then we're going to talk
+about what is gene therapy. Gene therapy
+is a word we use all the time, but I
+guarantee you 90% of you don't actually
+know what it is. So, we're going to talk
+about what it is. Really get a good
+understanding to make very important
+decisions about your child in the
+future. You need to understand what
+we're talking about. So, with that,
+let's kick off the morning with Dr.
+Michael Boland. Dr. Dr. Michael Bolan
+comes to us from the University of
+Pennsylvania Pearland School of
+Medicine. I'm going to let him introduce
+his incredible academic accolades
+because he's one of the smartest people
+that I know. He's a neuroscientist who's
+incredibly brilliant. But the most
+important title is he's a dad. And I'm
+going to let you him tell his story.
+Michael,
+>> thank you.
+Thank you, Allison. Uh, it's it's an
+incredible honor to be here and I'd like
+to thank the organizers and uh fast for
+for putting this on and for everyone
+showing up to listen to this. So,
+get my slides up.
+There we go. So Allison, as Allison
+alluded to, I'm the um strategic
+director for the translational and
+clinical research at the center for
+epilepsy and neurodedevelopmental
+disorders, which spans both pen medicine
+as well as children's hospital of
+Philadelphia.
+But before that, I was a faculty member
+at the University of um at the Columbia
+University Medical Center where I was
+studying pediatric epilepsies. My
+background is in uh developmental
+neurobiology, pediatric epilepsy,
+genetics, transcrytoics. Um, and I was
+using human pur potent stem cell models,
+which we'll get into in a minute, as
+well as genetic mouse models to study a
+number of monogenic
+single gene disorders that cause
+pediatric epilepsy and autism spectrum
+disorder. Uh, worked on a number of
+different developmental and epileptic
+encphylopathies.
+And it was actually during this time
+that my son Lucas was born with,
+strangely enough, a developmental and
+epileptic and sephylopathy. He was
+having seizures the day after he was
+born. And I had to convince the
+neonatlogists on call at the hospital
+that he was having seizures. And
+finally, they agreed with me. And at on
+the second day of life, he was admitted
+to the NICU.
+Every tests um came back negative. now
+you know MRI uh uh spinal tap for to
+check for u viral infection in the in
+the um central nervous system.
+Everything came back except for abnormal
+EEG. And then a couple weeks later we
+got the diagnosis that he had a frame
+shift in a gene called STXBP1.
+Um we'll talk a little bit more about
+STX BPP1. And I want to use this as kind
+of a model system for as I walk you
+through how we can develop or use in
+vitro tools to develop disease models
+that can help predict um pathogenic
+phenotypes as well as response to
+therapies. So I want to first walk you
+through some nomenclature um common
+nomenclature that I think will be useful
+for you to hear throughout the day. Um
+some genetics uh description of
+non-neuronal cell lines and and and what
+they're useful for. And then we'll go
+into human induced pur potent stem
+cells, genomic engineering, and a bunch
+of different um methods to to study um
+essentially neurons in a dish. And then
+we'll I'll give you a real world
+application revolved around um STX BP1
+modeling in a dish and a gene targeted
+therapy to correct some of the deficits
+seen in in those cells.
+So, I just want to give you a quick
+reminder. Most of you probably don't
+know what SDXBP1 is. Um, all of you know
+what UB3A is, but SDXBP-1
+is expressed in all neurons and it's
+absolutely critical for how neurons
+communicate.
+Neurons communicate through
+neurotransmission
+mediated by synaptic vesicle release
+that goes from one neuron to the next
+neuron. in there by initiating the
+action potential and um electrical
+propagation and so STX BPP1 is critical
+for release of those synaptic vesicles
+uh exocytosis and neurotransmitter
+release into the synaptic cleft. So it's
+absolutely critical for communication in
+the brain.
+So as Allison said in the in the opening
+there's a couple of different ways that
+we can we can develop disease models.
+One is in vitro and this is in a in a
+most likely a cell line in a dish and we
+can manipulate those cells in a number
+of different ways. Uh and then there's
+also in vivo and Rodney is going to talk
+to you after this about um most likely
+about um mouse models of different
+diseases. he's he's really terrific at
+characterizing behavior and whatnot of
+of mouse models of of disease. Um, but
+we're going to focus a little bit on in
+vitro for the next 15 minutes or so. And
+so in vitro means just in a dish. We can
+take cells such as um cells treated with
+a drug um Angelman syndrome, neurons,
+what have you, and study DNA,
+mRNA, the UBA
+3A protein, that's actually that's the
+structure of it down there at the
+bottom. Uh that squiggly thing. Um there
+was a Nobel Prize awarded last year for
+Alphafold which is a an uh AI method to
+predict protein structure which is going
+to revolutionize drug discovery
+and like I said there a number of things
+that we can do with these cell models
+and for instance drug screening treating
+them with drugs different anti-sense
+oligouonucleotides
+um we can look at cellular morphology
+through high content imaging and and um
+and also look at metabolic profiling to
+to see how the metabolism of neurons or
+or cell types affected by disorder are
+are changed and are different from
+control cell lines.
+So going way back to the basics, you
+know that you have two sets of
+chromosomes, one set from your mother,
+one set from your father. Each one of
+those gameamtes had 23 chromosomes and
+when they combine to form the embryo you
+now you have 46 chromosomes and that's
+called diploid.
+Another
+technical term scientific term that
+you'll probably hear is transfection.
+This is moving DNA into a cell using a
+nonviral means like a lipid nano
+particle which you'll probably also hear
+about today. And there's also
+transduction and this is the process by
+which viruses enter a cell to to deliver
+a cargo such as mRNA or DNA.
+So, some of the more common cell lines
+that people use
+are actually pretty terrible because if
+you look at each one of these cell
+lines, whether it's the human embryionic
+kidney, the epithelial cancer, Hila,
+um the retinal pigmented epithelium, or
+the neuroblastoma cell line that I've
+indicated here,
+look at the number of chromosomes here.
+They're highly annoyed. These are
+essentially cancer in a dish. And so
+these don't represent very good cell
+models of disease, but they do have
+their utility because they're very easy
+to work with. They're easily
+transfectable and you can use them in
+really high throughput to screen tens of
+thousands of drugs. This is one of the
+first steps you would use a cell line
+such as this to give you an indication
+that for instance um if you're screening
+an anti-sense oligouonucleotide or some
+small molecule or even virally delivered
+genes whether or not this is going to
+have an effect in uh a real disease
+model
+but these like I said these aren't
+typically used for disease modeling
+because they're in incredibly artificial
+In 2007, Shina Yamanaka published a
+paper where they took adult fiber
+blasts. So just a fiber blast um taken
+from a skin punch biopsy grown out in
+culture and they were able to revert
+that cell type from a from an adult
+person back into what resembled it human
+embryionic stem cell. That's a stem
+cell. It's a fleeting um sulfate very
+early in in development. These
+embryionic stem cells give rise to every
+cell type in the body, the entire embryo
+proper. He won the Nobel Prize for this
+discovery in 2012. And this became um
+the de facto way to start to generate
+and look at purip potent stem cells
+because you didn't have to destroy an
+embryo to derive them. You could take
+dermal fiberblasts or um monucleiated
+cells from the blood and apply these
+viruses that contain these reprogramming
+factors and turn these back into what's
+called a humaninduced pur potent stem
+cell which is also able to give rise to
+all cell types in an adult organism. And
+you can take these cells and using small
+molecules and other and other proteins
+and whatnot that mimic um that that
+mimic the developmental cascades that
+give rise to different cell types and
+germ layers.
+You can generate a number of different
+cell types muscle, heart, pancreas, you
+what have you. We can also generate all
+the cell types in the brain for instance
+neurons or aststerytes. And uh these pur
+potent stem cells these IPS cells were
+proven to be biochemically
+equivalent to embryionic stem cells when
+a group that I was involved with at
+Scripps Research uh were able to clone
+mice using these cells. So demonstrating
+that they they truly can give rise to
+any uh cell type in the body because we
+we cloned mice that were fertile and
+could and and could breed and whatnot.
+So there are a few different ways to
+make these IPS cells. Um all involve
+that that reprogramming using those
+reprogramming factors. But there are
+some different models that that we
+should consider. So this is a trio or a
+familial model where most of you have
+had whole exom sequencing done. And when
+they do that, if they're looking for a
+denovo mutation, they take um they take
+your genomic DNA, your spouse's genomic
+DNA and your child's genomic DNA and
+they sequence it and that's called a
+trio. And then they use the information
+there to to see what what's different
+between your child and you uh for denovo
+mutations. So in this case we've derived
+IPS cells from a mother, a father and an
+infant with a neurological disorder.
+So the IPS cells derived from each of
+these people
+represent
+essentially them in a dish. So the IPS
+cells with the from the child with a
+neurological disorder will differentiate
+into neurons that harbor the genetic
+defects and physiological defects
+pertinent to that mutation.
+Another
+way to um model use these IPS cells is
+uh isogenic model. And this just means
+the same gene. Isogenic means the same
+genome. And so the way to do this is you
+take the uh you generate IPS cells from
+an infant with a with a neurological
+disorder or any disorder for that matter
+and then you can use genomic engineering
+such as crisper cast 9 to correct that
+mutation.
+And
+now you have a corrected isogenic
+control line that you can compare to the
+to the mutant line. And the only
+theoretically the only difference
+between these two is the mutation that's
+found in the in the proband.
+Similarly, we can also take an
+unaffected iPS cell line, say say an iPS
+cell line generated from me or you and
+use gen again use genomic engineering,
+but this time to knock different
+mutations into that cell line so that we
+can study the effect of different
+mutations of the same gene
+on the same genetic background.
+This is this is an incredibly powerful
+technology because so much of what
+makes us us are
+driven by genetic modifiers that modify
+disease phenotype which is why we have
+heterogeneity in our patient populations
+genetic modifiers.
+So these IPS cells, as I alluded to, can
+be differentiated into neurons using
+small molecules and proteins that mimic
+developmental um morphagen gradients in
+different regions of the brain. Um, it
+goes through a a a timed series of
+events that go through neural rosettes
+which mimic development of the
+embryionic neural tube into neural stem
+cells that give rise into progenitors
+that differentiate into immature neurons
+and then you get more mature neuronal
+networks that in the dish can talk to
+each other and we can measure their
+activity.
+Another way to do this is to forcibly
+overexpress a a a gene called a
+transcription factor that is involved in
+cell fate decisions. In this case, it's
+NGN2.
+And when you express NGN2 in an IPS
+cell, you skip all of this development
+and you go basically right to the
+neurons. So in a dish, this saves you
+time and money.
+And then the third way that is probably
+the most commonly used now the NGN2 and
+these organoids or spheroids. Um the
+organoids or spheroids are are are
+similar to um a naturally occurring
+developmental model in in three
+dimensions. Sometimes you'll hear this
+referred to as mini brains and that's
+definitely not the case. These these
+don't have consciousness or anything
+like that. Um, but it's a
+three-dimensional representation of of
+brain development in a dish and it it's
+incredibly powerful. We can even derive
+organoids from different regions of the
+brain. For instance, this CO is a
+cortical organoid. So the dorsal
+forbrain versus the mgo which is the
+medial gangleionic eminence which is a
+region in in the um in the center of the
+brain where certain neurons called
+gabberurgic interneurons or inhibitory
+neurons come from. And that's a huge
+interplay in the brain in brain
+development.
+So when thinking about which type of
+model you want to develop for a given
+disorder, you need to think about the
+biology of the disorder of the gene that
+you're studying and then you go for an
+appropriately
+um an appropriate model based on what
+you want to get out of that. Um
+organoids are are tricky. they they
+generally take about four months to get
+good neuronal activity. Um you can you
+can get similar activity from NGN2
+cultures in in less time. Um it's it's
+just the each one has pros and cons and
+the scientist will will decide which
+which is best for their model. But let's
+talk about cortical organoids.
+You can make hundreds if not thousands
+of these in a couple of hours.
+And they're tiny. They look like tiny
+little balls of cells the next day. And
+then they just grow over time into about
+a little bit smaller than the size of a
+pee um after four or five months. And
+when the brain is developing
+during very early embryionic
+development, it's built in an inside out
+fashion where these re very early radial
+ga cells divide into these intermediate
+progenitors that then divide into a
+different type of cell called an outer
+radial ga that extends this this really
+long armor process all the way up to the
+top of the developing brain. And the
+immature neurons that that divide out
+from these outer radia cells crawl up
+these processes to their specific
+genetically determined, temporally and
+spatially determined place in the brain
+and newborn neurons stop, other ones
+crawl past them, stop and then it's so
+on and built like that. And we can use
+different uh markers of cell types to
+track which of these track these cell
+types. For instance, the deep layer
+neurons you see have a gene called TBR1
+expressed or CTIP 2. Whereas the
+superficial or top layer neurons have
+BRN2 or SAT BP2. And during organoid
+development, we can actually track to
+see that this is faithfully
+recapitulated. And it is. We start with
+these early neuronal progenitors that
+then start to give rise to deep layer
+neurons
+that then give rise to uh gabaurgic
+progenitors, excitatory neuron
+progenitors. And finally after 3 or 4
+months we get highly synaptically
+organized neuronal networks within the
+organoid that hopefully the organoid
+contains the cell types that we want.
+But not all organoids are created equal.
+In the developing brain there in the
+developing cortex, there are two
+neuronal subtypes that are incredibly
+important and their interplay is very
+important. These are excitatory neurons
+that mediate most of the and these
+respond to glutamate the
+neurotransmitter glutamate. These were
+these um
+these are the main excitatory output
+sensory output from from the uh
+developing cortex and then you have the
+inhibitory neurons which are there to
+kind of put the brake on the excitatory
+neurons and make sure they're not too
+excitable. Um there's a lot of things
+that can go wrong in these interactions
+which result in hyperexitability which
+is uh attributed to epilepsy. Um
+this this interaction between these cell
+types is extremely complicated. There
+was a paper that just came out that in
+the in the developing mouse cortex,
+there are there are thousands of
+different types of inhibitory neurons
+that all have different functions on
+regulating the activity of excitatory
+neurons. And so there are a number of
+different ways to make these organoids
+using different protocols from different
+labs. And what I want you to appreciate
+here is that the developing neoortex has
+about 25% inhibitory neurons.
+If you look at some of these protocols
+here, the inhibitory neurons are
+replicate are are indicated by or the
+the percentage of inhibitory neurons is
+is indicated by the the green pi in the
+in the pie chart. And you can see that
+some of these protocols pretty
+faithfully recapitulate what you see in
+the developing neoortex whereas some
+like the biradal have hardly any
+gabberurgic inter neurons. Well, I'm
+interested in sdxbp1 which regulates how
+excitatory and inhibitory neurons
+communicate. So, I want to use a
+protocol that makes an organoid that
+contains the cell types that I need to
+study the intricacies of the neuronal
+network and how the neurons can actually
+communicate.
+Again, not all organoids are are
+equal even using the same protocols.
+This is data from from uh my lab at
+Colombia where we took IPS cells and
+their controls made organoids from from
+different cell lines and we looked at
+their morphology or how they look and
+their activity and you can see that on
+the left those are beautiful organoids.
+Yes, I'm a nerd. That's a beautiful
+organoid.
+The ones in the middle, not so good.
+This is at 18 days. At 18 days, very
+early in their development, they start
+to form these blebs that are almost
+reminiscent of embryionic yolk like
+structures, and then they just implode
+and die. And on the far right, we again,
+we have nice, beautiful organoids, but
+when we go to measure their electrical
+activity, they're largely inert. So,
+there's this trade-off. You want
+something that has really nice
+morphology and structure, but also you
+want something that has a a good
+activity profile, electrical activity
+profile that you can measure.
+So let's get into the application in the
+last few minutes of the talk and and see
+how you can try to put all of these
+different in vitro tools together to
+model a disorder and develop a gene
+targeted therapy.
+So obviously when Lucas was born I made
+IPS cells from him. That's what I do. Um
+and from me and my wife. My wife's IPS
+cells were terrible at making organoids,
+which I like to point out often. Um,
+mine mine were really mine were really
+good, actually.
+Um, so the first thing we did was we we
+differentiated these IPS cells into just
+2D neurons in a dish because I wanted to
+see if the the neurons themselves
+recapitulated what we thought was going
+on with Lucas's mutation, which is a
+frame shift or a protein truncating
+variant. So he should have hlo
+insufficiency and about a 50% reduction
+of STX BPP1 protein. And so we did that.
+We differentiated these in a dish and
+after about 65 days or two two months in
+in a dish. We harvested the protein from
+the from the neurons and we checked the
+expression levels of STX BPP1 and as
+expected Lucas's
+neurons contain about 50% less STX BP1
+than than my neurons.
+So then we decided let's let's go after
+an organoid model and I won't go into
+all of the deta details and and data
+that we acrewed over time developing
+this organoid model but I'll show you
+some of the activity measurements and
+and how they um how they relate to gene
+therapy development.
+So,
+this is uh a a a blowup of a single
+organoid,
+again, probably about half the size of a
+pee at about four months old. And this
+is one of Lucas's organoids. And I'm
+going to play this movie and I want you
+to appreciate the activity within the
+organoid. So, you're going to see a big
+bright flash, which is a synchronized
+activity. Um, synchronous oscillations
+are um, common in these closed loop
+systems like an organoid. And you'll see
+a big bright flash and then you'll see
+some little blips in these highlighted
+circles. You'll see big bright flashes
+periodically. And that's these these
+synchronous oscillations.
+So big bright flash, a little blip, and
+then you'll see another blip right here.
+and then more of these synchronous
+oscillations.
+So, we can actually measure this and
+start to quantify this and we could see
+activity pattern differences between
+Lucas' organoids and the control
+organoids. For instance, you can already
+tell that these
+these bursts in Lucas's organoids are
+wider and they have more more um spikes
+within the organ within the within the
+burst compared to the control. And as
+well as these these bursts
+are timed differently. There's more
+space in between them. They're they're
+longer. The bursts are longer. there's
+more sp time in between them. So these
+are all characteristics that we can use
+to try to modulate with gene therapies.
+So I'm very interested in therapies that
+modulate how genes are expressed whether
+they be uh anti-sense
+oligoucleucleotides
+or using an adaptation of genetic
+engineering crisper cast 9 system called
+crisper A. So this is a cast 9 protein
+that should be able to cut DNA for the
+editing uh purposes that I talked about
+earlier, but the the act the um active
+site of the protein has been mutated. So
+it can't cut DNA. But you can still hone
+this protein to anywhere in the genome
+because it binds these little pieces of
+RNA that are complmentary to different
+places in the genome. So if you can find
+these little RNAs for instance in the
+STX BP1 gene regulatory elements like
+the gene promoter, you can hone this
+cast 9 protein to that region. Cast 9
+itself isn't going to do anything. So
+you need to add uh what's called a
+transcriptional activation domain. This
+brings in the machinery that helps
+upregulate gene transcription from that
+promoter. So using this crisper
+activation technology,
+we can upregulate or should be able to
+upregulate STX BP1 mRNA that's then
+translated into protein correcting HLO
+insufficiency.
+And
+we first screened a number of these
+different guide RNAs in the shitty cell
+lines that I told you about earlier, HEC
+293T and the neuroblastoma cell line
+because they're easy, they're quick. Uh
+you you can get a lot of information
+quickly and we we found that to our
+surprise almost all of our guide RNAs
+were very effective at upregulating STX
+BP1 expression.
+So we took uh our crisper cast 9
+uh crisper a
+AAV virus and we transduced
+organoids at about about 3mon-old
+organoids with this virus that should be
+able to correct HLO insufficiency.
+And after about 2 weeks, 2 to 3 weeks,
+we harvested RNA and DNA and tested
+whether or not the STX BP1 protein and
+RNA levels were corrected. And indeed,
+they were. So in Lucas' organoids, we've
+essentially reestablished the the normal
+level of STX BP-1 expression.
+What does that do to the physiological
+defects that we identified in the in the
+organoid, you know, the flashing movies?
+Well, some of these those little blips
+that you that I called your attention
+to, those low amplitude events we think
+are microcircuit defects potentially in
+um related to uh epilepsy phenotypes.
+And we showed that the crisper A virus
+could actually reduce the incidence of
+those low amplitude events thereby
+potentially correcting that defect in
+the organoids.
+Moreover, if you look at a a number of
+different cells on the Y ais, in this
+case, hundreds of cells, and then over
+time, what you can get is a picture of
+activity
+um in the organoid. And so those bursts
+that I showed you earlier in the in the
+colorful diagrams can be depicted by
+these by these lines that go um up and
+down on this what's called a raster
+plot. So you can see in the control you
+have very thin bursts in the whole
+organoid. These are the synchronized
+oscillations and and in the in Lucas's
+organoids again the bursts are wider the
+the dark lines are thicker and there's a
+different spacing. They're in general
+further apart. If we apply the crisper a
+virus we can start to correct that. the
+bursts shorten, the interbururst or the
+time in between bursts begins to
+shorten, indicating that we're starting
+to have positive effects on the
+neurohysiology of these organoids with a
+geneargeted therapy. And so this is one
+very powerful uh application of in vitro
+models for developing and testing gene
+targeted therapies in a disease relevant
+clinically relevant model
+and
+fast leaves no stone unturned. They've
+funded work that is involved in using
+the crispercast 9 gene editing function
+to essentially just chew up the UBA
+anti-sense transcript.
+There's another group that used a very
+clever method to actually
+um
+turn off the anti-sense transcript by
+methylating the region by by using
+epigenetic modifiers that will methylate
+a certain region that turns off the
+anti-sense transcript thereby
+upregulating the paternal UB3A. a
+transcript. And then I think just last
+year um FAST has also um doubled down on
+a on a crisper activation technology
+similar to what I what I described to um
+hopefully
+meet uh a therapeutic potential for for
+the deletion genotype.
+With that,
+I'll stop. Thank some colleagues from
+Colombia and the end team at Penn and
+Chop. And I'm only slightly past time.
+>> Thank you so much.
+>> Okay.
+>> Thank you so much.
+So, as you can see, that's really
+complicated and it's hard to make that
+simple because it's not. But what I want
+you to realize is that when everyone's
+like, "Why is this taking so long, you
+need to do all of that, which can take
+years before you can ever even put it
+into an animal to test if it has the
+potential and the possibility of even
+working. So our next talk is to talk to
+us about putting it into an animal to
+show us the possibility of how it might
+work, which gets a little bit more
+simple as we go closer and closer to
+humans." So I know that was a lot. I
+know that was complicated, but you can
+see the elegance and the beauty of the
+science and that's why things take a
+long time and cost a lot of money. One
+thing I just want to highlight is that I
+was told the QR code for translations in
+the brochure is not working. So, they're
+putting a new QR code on every table.
+So, if you need translations, just use
+the new QR code to get your
+translations. We want to make sure
+everybody can hear and understand.

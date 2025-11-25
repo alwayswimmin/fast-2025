@@ -1,0 +1,1668 @@
+1
+00:00:00,000 --> 00:00:03,120
+Our next speakers um we actually have
+
+2
+00:00:01,760 --> 00:00:04,880
+two even though only one is in the
+
+3
+00:00:03,120 --> 00:00:06,000
+agenda. It's um Ann Wheeler who's going
+
+4
+00:00:04,880 --> 00:00:07,520
+to be with us virtually because
+
+5
+00:00:06,000 --> 00:00:09,280
+unfortunately at the last minute she
+
+6
+00:00:07,520 --> 00:00:10,639
+couldn't join us but we have Angelie
+
+7
+00:00:09,280 --> 00:00:12,080
+Sadwani who's going to come and they're
+
+8
+00:00:10,639 --> 00:00:13,599
+going to split the presentation and
+
+9
+00:00:12,080 --> 00:00:16,240
+they're going to talk to us about best
+
+10
+00:00:13,599 --> 00:00:19,439
+practices to support your child during
+
+11
+00:00:16,240 --> 00:00:21,359
+the Bailey and the vin assessments and
+
+12
+00:00:19,439 --> 00:00:22,960
+that is very important in clinical
+
+13
+00:00:21,359 --> 00:00:24,080
+trials particularly because some of
+
+14
+00:00:22,960 --> 00:00:26,400
+these measures are going to be the
+
+15
+00:00:24,080 --> 00:00:28,400
+primary endpoint. So really getting the
+
+16
+00:00:26,400 --> 00:00:30,560
+best possible data is absolutely
+
+17
+00:00:28,400 --> 00:00:31,439
+critical. So with that, Anelie, come on
+
+18
+00:00:30,560 --> 00:00:34,160
+up. And if we can bring up
+
+19
+00:00:31,439 --> 00:00:37,399
+>> Ann. Great.
+
+20
+00:00:34,160 --> 00:00:37,399
+>> Thank you.
+
+21
+00:00:37,440 --> 00:00:40,960
+>> Thanks so much, Alison. While Anelie is
+
+22
+00:00:39,520 --> 00:00:43,360
+coming up, I'm not sure if you can hear
+
+23
+00:00:40,960 --> 00:00:44,719
+me, but I wanted to um say I'm very
+
+24
+00:00:43,360 --> 00:00:46,640
+sorry that I'm not there with you all
+
+25
+00:00:44,719 --> 00:00:49,039
+today. Um but I will be there tomorrow.
+
+26
+00:00:46,640 --> 00:00:52,000
+So I hope to um see many of you at the
+
+27
+00:00:49,039 --> 00:00:54,320
+gala.
+
+28
+00:00:52,000 --> 00:00:56,320
+So, um, Angelina and I wanted to spend
+
+29
+00:00:54,320 --> 00:00:59,840
+some time and talk to you all about what
+
+30
+00:00:56,320 --> 00:01:01,520
+the best practices are for you if your
+
+31
+00:00:59,840 --> 00:01:04,159
+child is participating in a clinical
+
+32
+00:01:01,520 --> 00:01:05,840
+trial and you are in the room watching a
+
+33
+00:01:04,159 --> 00:01:08,640
+Bailey or you're being asked to do a
+
+34
+00:01:05,840 --> 00:01:11,520
+violin.
+
+35
+00:01:08,640 --> 00:01:14,960
+So, as Allison mentioned and as you've
+
+36
+00:01:11,520 --> 00:01:17,119
+heard throughout the day programming, um
+
+37
+00:01:14,960 --> 00:01:20,080
+we have multiple clinical trials that
+
+38
+00:01:17,119 --> 00:01:22,640
+are either ongoing or in process of
+
+39
+00:01:20,080 --> 00:01:25,200
+being started. And all of these trials
+
+40
+00:01:22,640 --> 00:01:26,720
+are going to use rigorous methods um to
+
+41
+00:01:25,200 --> 00:01:31,360
+ensure that treatment safety and
+
+42
+00:01:26,720 --> 00:01:33,040
+effectiveness are are the primary um of
+
+43
+00:01:31,360 --> 00:01:36,079
+primary importance. And so it's going to
+
+44
+00:01:33,040 --> 00:01:37,520
+be um critical that those of us who are
+
+45
+00:01:36,079 --> 00:01:40,079
+doing some of the assessments and
+
+46
+00:01:37,520 --> 00:01:41,759
+helping support the trials um really
+
+47
+00:01:40,079 --> 00:01:43,840
+adhere strictly to the rules and
+
+48
+00:01:41,759 --> 00:01:45,040
+administrative pro protocols. And this
+
+49
+00:01:43,840 --> 00:01:47,280
+can be frustrating sometimes for
+
+50
+00:01:45,040 --> 00:01:48,880
+families because you may hear us say
+
+51
+00:01:47,280 --> 00:01:50,000
+things that sound kind of awkward or
+
+52
+00:01:48,880 --> 00:01:51,680
+you're like, "Oh, I wish you would say
+
+53
+00:01:50,000 --> 00:01:53,280
+it a different way." Um just
+
+54
+00:01:51,680 --> 00:01:55,439
+unfortunately the way we have to do it
+
+55
+00:01:53,280 --> 00:01:58,719
+is very standardized and it can it can
+
+56
+00:01:55,439 --> 00:02:00,000
+um uh not always make the most sense to
+
+57
+00:01:58,719 --> 00:02:01,920
+a parent. So we wanted to make sure to
+
+58
+00:02:00,000 --> 00:02:03,680
+note that. Um, as you've heard,
+
+59
+00:02:01,920 --> 00:02:06,240
+improving cognition, communication, and
+
+60
+00:02:03,680 --> 00:02:07,840
+motor skills are major goals um for all
+
+61
+00:02:06,240 --> 00:02:10,319
+of our current and emerging treatments
+
+62
+00:02:07,840 --> 00:02:12,480
+for Angelmen syndrome. And the clinical
+
+63
+00:02:10,319 --> 00:02:14,720
+outcome assessments that we administer
+
+64
+00:02:12,480 --> 00:02:16,319
+are really key. These are essential for
+
+65
+00:02:14,720 --> 00:02:18,080
+us knowing if the drug is making a
+
+66
+00:02:16,319 --> 00:02:20,239
+difference for the individual and for
+
+67
+00:02:18,080 --> 00:02:21,680
+you as a family member. And if we have
+
+68
+00:02:20,239 --> 00:02:23,680
+the wrong assessment or if the
+
+69
+00:02:21,680 --> 00:02:25,280
+administration is done wrong or if the
+
+70
+00:02:23,680 --> 00:02:27,280
+information that's provided isn't
+
+71
+00:02:25,280 --> 00:02:29,440
+accurate, it can actually increase the
+
+72
+00:02:27,280 --> 00:02:31,680
+chance of the trial failing. And this is
+
+73
+00:02:29,440 --> 00:02:33,440
+true even if the treatment actually
+
+74
+00:02:31,680 --> 00:02:35,360
+really does work. And so we want to be
+
+75
+00:02:33,440 --> 00:02:38,000
+very very careful that the way we do
+
+76
+00:02:35,360 --> 00:02:40,080
+these assessments is um accurate and uh
+
+77
+00:02:38,000 --> 00:02:41,280
+comprehensive. So the two measures that
+
+78
+00:02:40,080 --> 00:02:42,959
+we're going to talk about today are the
+
+79
+00:02:41,280 --> 00:02:44,480
+Bailey scales of infant de and toddler
+
+80
+00:02:42,959 --> 00:02:46,000
+development and the vinand adaptive
+
+81
+00:02:44,480 --> 00:02:49,120
+behavior skills. Both of which you've
+
+82
+00:02:46,000 --> 00:02:51,280
+probably heard much about. So the Bailey
+
+83
+00:02:49,120 --> 00:02:53,200
+is a direct performance-based assessment
+
+84
+00:02:51,280 --> 00:02:56,239
+of core developmental skills. So these
+
+85
+00:02:53,200 --> 00:02:58,080
+are things like um early cognition,
+
+86
+00:02:56,239 --> 00:03:00,480
+language, both receptive and expressive,
+
+87
+00:02:58,080 --> 00:03:02,000
+and motor. So both fine and gross motor.
+
+88
+00:03:00,480 --> 00:03:03,440
+These are all similar to the same skills
+
+89
+00:03:02,000 --> 00:03:04,959
+you just heard Sarah talk about, but
+
+90
+00:03:03,440 --> 00:03:08,080
+these are things that we're directly
+
+91
+00:03:04,959 --> 00:03:09,599
+assessing in the room. Um and so the
+
+92
+00:03:08,080 --> 00:03:11,200
+things that we're do with the child on
+
+93
+00:03:09,599 --> 00:03:13,120
+the Bailey are really trying to help us
+
+94
+00:03:11,200 --> 00:03:15,280
+understand how the individual problem
+
+95
+00:03:13,120 --> 00:03:17,040
+solves and uses things like spatial
+
+96
+00:03:15,280 --> 00:03:18,879
+visual spatial skills, symbolic
+
+97
+00:03:17,040 --> 00:03:20,959
+representation, and object permanence in
+
+98
+00:03:18,879 --> 00:03:22,319
+order to approach novel tasks. And it
+
+99
+00:03:20,959 --> 00:03:24,159
+actually takes quite a bit of training
+
+100
+00:03:22,319 --> 00:03:26,000
+in order to learn how to administer this
+
+101
+00:03:24,159 --> 00:03:30,159
+test um and how to make sure that you're
+
+102
+00:03:26,000 --> 00:03:32,799
+getting the best response from it.
+
+103
+00:03:30,159 --> 00:03:35,280
+Um the reason we use the Bailey is multi
+
+104
+00:03:32,799 --> 00:03:37,440
+there's multiple reasons. Um the main
+
+105
+00:03:35,280 --> 00:03:39,440
+reason is that it does not rely heavily
+
+106
+00:03:37,440 --> 00:03:41,040
+on things like verbal skills or motor
+
+107
+00:03:39,440 --> 00:03:42,720
+planning both of which are challenges
+
+108
+00:03:41,040 --> 00:03:44,640
+for individuals with Angelmen syndrome.
+
+109
+00:03:42,720 --> 00:03:46,799
+So we know that every individual with
+
+110
+00:03:44,640 --> 00:03:48,319
+Angelmen can do some items on the Bailey
+
+111
+00:03:46,799 --> 00:03:50,879
+which allows us to have a starting point
+
+112
+00:03:48,319 --> 00:03:52,640
+by which we can see some growth. Um the
+
+113
+00:03:50,879 --> 00:03:55,440
+Bailey has been shown to be sensitive to
+
+114
+00:03:52,640 --> 00:03:57,840
+change um in response to development as
+
+115
+00:03:55,440 --> 00:03:59,680
+well as response to treatments. And the
+
+116
+00:03:57,840 --> 00:04:01,439
+most important thing for us right now is
+
+117
+00:03:59,680 --> 00:04:03,200
+that we have lots and lots of data to
+
+118
+00:04:01,439 --> 00:04:05,120
+help us understand the natural
+
+119
+00:04:03,200 --> 00:04:07,599
+trajectory of individuals with Angelmen
+
+120
+00:04:05,120 --> 00:04:09,200
+on this measure. Um and so because it's
+
+121
+00:04:07,599 --> 00:04:11,599
+being used in the clinical trials, we
+
+122
+00:04:09,200 --> 00:04:13,840
+have a nice comparison group um to be
+
+123
+00:04:11,599 --> 00:04:16,160
+able to look at relative to the
+
+124
+00:04:13,840 --> 00:04:17,680
+treatment.
+
+125
+00:04:16,160 --> 00:04:19,040
+So one of the things that I think is
+
+126
+00:04:17,680 --> 00:04:20,560
+important to understand is that when
+
+127
+00:04:19,040 --> 00:04:22,720
+we're assessing with the Bailey, we're
+
+128
+00:04:20,560 --> 00:04:24,400
+actually assessing foundational skills
+
+129
+00:04:22,720 --> 00:04:26,320
+that are really critical for the
+
+130
+00:04:24,400 --> 00:04:28,400
+development of higher order skills that
+
+131
+00:04:26,320 --> 00:04:30,400
+we use in our daily life for say
+
+132
+00:04:28,400 --> 00:04:32,800
+activities of daily living or academic
+
+133
+00:04:30,400 --> 00:04:35,199
+learning or regul regulating our
+
+134
+00:04:32,800 --> 00:04:37,840
+behaviors. And it really starts with the
+
+135
+00:04:35,199 --> 00:04:40,000
+exploration we have with our senses um
+
+136
+00:04:37,840 --> 00:04:42,479
+and our movement in the world. And we
+
+137
+00:04:40,000 --> 00:04:44,160
+interact with the world and and start to
+
+138
+00:04:42,479 --> 00:04:45,919
+develop these additional skills. We
+
+139
+00:04:44,160 --> 00:04:48,479
+develop we develop attention to certain
+
+140
+00:04:45,919 --> 00:04:50,560
+things. We learn about cause and effect.
+
+141
+00:04:48,479 --> 00:04:52,160
+Um we and then because we have cause and
+
+142
+00:04:50,560 --> 00:04:53,600
+effect and object permanence and visual
+
+143
+00:04:52,160 --> 00:04:55,440
+attention, we start to be able to do
+
+144
+00:04:53,600 --> 00:04:58,479
+things like problem solve and imitate
+
+145
+00:04:55,440 --> 00:04:59,919
+and develop uh play skills. Um and then
+
+146
+00:04:58,479 --> 00:05:02,160
+ultimately develop this concept
+
+147
+00:04:59,919 --> 00:05:04,160
+acquisition that leads to more academic
+
+148
+00:05:02,160 --> 00:05:06,160
+learning. And while this is sort of
+
+149
+00:05:04,160 --> 00:05:07,680
+developed in generally developed in a
+
+150
+00:05:06,160 --> 00:05:09,120
+linear fashion, we do know that
+
+151
+00:05:07,680 --> 00:05:11,039
+individuals with Angelmen are not
+
+152
+00:05:09,120 --> 00:05:13,120
+necessarily gaining these skills in a
+
+153
+00:05:11,039 --> 00:05:15,120
+linear fashion. We see um kids who have
+
+154
+00:05:13,120 --> 00:05:17,199
+great memory skills but really can't
+
+155
+00:05:15,120 --> 00:05:18,639
+imitate. And so um we're trying to look
+
+156
+00:05:17,199 --> 00:05:20,400
+at all of these types of skills on the
+
+157
+00:05:18,639 --> 00:05:24,240
+Bailey in order to help us understand
+
+158
+00:05:20,400 --> 00:05:25,919
+where there may be rooms for growth.
+
+159
+00:05:24,240 --> 00:05:27,680
+So, just to give a little example of
+
+160
+00:05:25,919 --> 00:05:29,680
+those sort of foundational cognitive
+
+161
+00:05:27,680 --> 00:05:31,759
+skills and how they play out in daily
+
+162
+00:05:29,680 --> 00:05:33,440
+life, um, let's say you have a child
+
+163
+00:05:31,759 --> 00:05:36,240
+that wants to get his favorite snack
+
+164
+00:05:33,440 --> 00:05:37,600
+from the top of a closed cabinet. What
+
+165
+00:05:36,240 --> 00:05:39,199
+kind of skills would the child need to
+
+166
+00:05:37,600 --> 00:05:40,720
+be able to do that? Well, they would
+
+167
+00:05:39,199 --> 00:05:42,720
+need object permanence. They would need
+
+168
+00:05:40,720 --> 00:05:44,960
+to know that that object, that snack,
+
+169
+00:05:42,720 --> 00:05:46,400
+exists even when they can't see it. They
+
+170
+00:05:44,960 --> 00:05:49,120
+would need to have memory. They would
+
+171
+00:05:46,400 --> 00:05:51,680
+need to know remember that that snack is
+
+172
+00:05:49,120 --> 00:05:53,360
+on top of a cabinet. they would need to
+
+173
+00:05:51,680 --> 00:05:55,199
+come up with some sort of way to solve
+
+174
+00:05:53,360 --> 00:05:56,960
+the problem. And in this case, they may
+
+175
+00:05:55,199 --> 00:05:59,199
+use imitation because they've seen their
+
+176
+00:05:56,960 --> 00:06:01,120
+mom or another person bring a chair
+
+177
+00:05:59,199 --> 00:06:03,120
+over, climb up on the chair in order to
+
+178
+00:06:01,120 --> 00:06:04,960
+obtain something high. And so, they want
+
+179
+00:06:03,120 --> 00:06:09,080
+to go ahead and imitate that to uh
+
+180
+00:06:04,960 --> 00:06:09,080
+problem solve this this situation.
+
+181
+00:06:09,759 --> 00:06:13,680
+So, um we're going to go through some
+
+182
+00:06:11,280 --> 00:06:15,360
+things we want you um as caregivers to
+
+183
+00:06:13,680 --> 00:06:16,880
+remember about the Bailey administration
+
+184
+00:06:15,360 --> 00:06:19,199
+and then we're going to do some dos and
+
+185
+00:06:16,880 --> 00:06:20,479
+don'ts. So, as far as in BA
+
+186
+00:06:19,199 --> 00:06:21,759
+administration goes, it's really
+
+187
+00:06:20,479 --> 00:06:23,840
+important to remember that we're going
+
+188
+00:06:21,759 --> 00:06:26,080
+to be using materials and toys that were
+
+189
+00:06:23,840 --> 00:06:29,120
+designed for younger individuals for
+
+190
+00:06:26,080 --> 00:06:31,840
+infants and toddlers.
+
+191
+00:06:29,120 --> 00:06:33,520
+Um, and as I noted before, um, the
+
+192
+00:06:31,840 --> 00:06:35,120
+examiners will have to maintain
+
+193
+00:06:33,520 --> 00:06:36,880
+standardization and so there will be
+
+194
+00:06:35,120 --> 00:06:40,880
+very specific ways in which we have to
+
+195
+00:06:36,880 --> 00:06:42,720
+present the material and ask questions.
+
+196
+00:06:40,880 --> 00:06:44,960
+The materials that we're using are
+
+197
+00:06:42,720 --> 00:06:46,960
+intended to evoke interest and assess
+
+198
+00:06:44,960 --> 00:06:48,720
+how your your loved one with Angelmen
+
+199
+00:06:46,960 --> 00:06:50,319
+engages with the materials and objects.
+
+200
+00:06:48,720 --> 00:06:52,080
+We know we're not probably going to be
+
+201
+00:06:50,319 --> 00:06:55,720
+getting peak performance and so that's
+
+202
+00:06:52,080 --> 00:06:55,720
+not really our intention.
+
+203
+00:06:56,000 --> 00:06:59,280
+Um so what we're really trying to
+
+204
+00:06:57,600 --> 00:07:01,520
+understand is what the child can do
+
+205
+00:06:59,280 --> 00:07:04,080
+independently which means we really want
+
+206
+00:07:01,520 --> 00:07:07,080
+to be limiting um any sort of prompts or
+
+207
+00:07:04,080 --> 00:07:07,080
+coaching.
+
+208
+00:07:07,199 --> 00:07:10,160
+And we want to be very clear in
+
+209
+00:07:08,720 --> 00:07:11,599
+acknowledging that for every single
+
+210
+00:07:10,160 --> 00:07:13,199
+child that takes this test, there are
+
+211
+00:07:11,599 --> 00:07:14,319
+going to be some tasks that are easy and
+
+212
+00:07:13,199 --> 00:07:16,080
+there are going to be some tasks that
+
+213
+00:07:14,319 --> 00:07:17,680
+are difficult. And there will be some
+
+214
+00:07:16,080 --> 00:07:21,800
+tasks that are motivating and there will
+
+215
+00:07:17,680 --> 00:07:21,800
+be some tasks that are not motivating.
+
+216
+00:07:22,400 --> 00:07:26,240
+We don't expect all individuals to do
+
+217
+00:07:24,560 --> 00:07:27,759
+every single thing we we put in front of
+
+218
+00:07:26,240 --> 00:07:31,479
+them. That is not an expectation of
+
+219
+00:07:27,759 --> 00:07:31,479
+anybody on this test.
+
+220
+00:07:31,919 --> 00:07:36,080
+And we want to make very clear that you
+
+221
+00:07:33,759 --> 00:07:37,599
+as a caregiver who is accompanying your
+
+222
+00:07:36,080 --> 00:07:39,599
+child to this assessment are really
+
+223
+00:07:37,599 --> 00:07:41,599
+critical to an access successful
+
+224
+00:07:39,599 --> 00:07:43,520
+administration. And this is m for
+
+225
+00:07:41,599 --> 00:07:45,520
+multiple reasons. One of which being
+
+226
+00:07:43,520 --> 00:07:48,000
+that you provide necessary information
+
+227
+00:07:45,520 --> 00:07:50,080
+and behavior support for your child and
+
+228
+00:07:48,000 --> 00:07:51,840
+also for the examiner to be able to use
+
+229
+00:07:50,080 --> 00:07:54,160
+strategies that will help your child
+
+230
+00:07:51,840 --> 00:07:56,560
+provide their best performance. And in
+
+231
+00:07:54,160 --> 00:07:58,080
+addition to that, you are a trusted,
+
+232
+00:07:56,560 --> 00:07:59,520
+calming, and safe presence for your
+
+233
+00:07:58,080 --> 00:08:01,759
+child, which is absolutely critical,
+
+234
+00:07:59,520 --> 00:08:06,199
+especially when there is an anxiety
+
+235
+00:08:01,759 --> 00:08:06,199
+producing situation like being assessed.
+
+236
+00:08:06,240 --> 00:08:10,319
+So, we have some dues, things we want
+
+237
+00:08:08,400 --> 00:08:12,479
+you, we really want you as a caregiver
+
+238
+00:08:10,319 --> 00:08:14,479
+to do when you come for the a we do want
+
+239
+00:08:12,479 --> 00:08:17,280
+you to ensure your child is well rested
+
+240
+00:08:14,479 --> 00:08:19,039
+and fed before they come for testing. We
+
+241
+00:08:17,280 --> 00:08:20,800
+want to make sure that you um have
+
+242
+00:08:19,039 --> 00:08:22,240
+informed the examiner if there's
+
+243
+00:08:20,800 --> 00:08:24,160
+anything that's off about your child
+
+244
+00:08:22,240 --> 00:08:25,599
+that day. It doesn't mean we have to
+
+245
+00:08:24,160 --> 00:08:27,360
+stop the test, but it helps us
+
+246
+00:08:25,599 --> 00:08:28,639
+understand um whether or not we really
+
+247
+00:08:27,360 --> 00:08:30,720
+are getting the best performance from
+
+248
+00:08:28,639 --> 00:08:32,640
+your child.
+
+249
+00:08:30,720 --> 00:08:34,399
+We really want you to show as much
+
+250
+00:08:32,640 --> 00:08:36,800
+enthusiasm as you can about the
+
+251
+00:08:34,399 --> 00:08:38,320
+activities um in front of your child. We
+
+252
+00:08:36,800 --> 00:08:39,680
+don't want them to feel like you don't
+
+253
+00:08:38,320 --> 00:08:43,200
+think that this is a good thing for them
+
+254
+00:08:39,680 --> 00:08:44,880
+for you them to be doing.
+
+255
+00:08:43,200 --> 00:08:46,240
+We want you to encourage your child to
+
+256
+00:08:44,880 --> 00:08:48,800
+participate and engage with the
+
+257
+00:08:46,240 --> 00:08:51,040
+examiner.
+
+258
+00:08:48,800 --> 00:08:53,120
+We want you to bring motivating items or
+
+259
+00:08:51,040 --> 00:08:55,760
+snacks that we can use to help reinforce
+
+260
+00:08:53,120 --> 00:08:57,519
+them.
+
+261
+00:08:55,760 --> 00:08:59,440
+We want you to help. We want you to
+
+262
+00:08:57,519 --> 00:09:01,600
+share any sort of helpful behavior
+
+263
+00:08:59,440 --> 00:09:03,519
+strategies that you know work with your
+
+264
+00:09:01,600 --> 00:09:06,560
+child. Please share those with us so we
+
+265
+00:09:03,519 --> 00:09:08,720
+can try them out.
+
+266
+00:09:06,560 --> 00:09:10,480
+We want you to let us know if your child
+
+267
+00:09:08,720 --> 00:09:11,920
+needs a break. Sometimes we know very
+
+268
+00:09:10,480 --> 00:09:13,360
+clearly they need a break and sometimes
+
+269
+00:09:11,920 --> 00:09:17,360
+we're just we don't know your child as
+
+270
+00:09:13,360 --> 00:09:19,440
+well as you do. We need you to tell us.
+
+271
+00:09:17,360 --> 00:09:21,279
+And please answer any of the examiner's
+
+272
+00:09:19,440 --> 00:09:24,000
+questions as honestly and accurately as
+
+273
+00:09:21,279 --> 00:09:26,399
+possible.
+
+274
+00:09:24,000 --> 00:09:27,839
+And after the session, we will ask you
+
+275
+00:09:26,399 --> 00:09:30,240
+to tell us about your child's
+
+276
+00:09:27,839 --> 00:09:32,480
+performance and how much the child's
+
+277
+00:09:30,240 --> 00:09:33,920
+performance uh reflects what you see in
+
+278
+00:09:32,480 --> 00:09:37,519
+day-to-day life or if they were really
+
+279
+00:09:33,920 --> 00:09:38,959
+just very off. We want to know that.
+
+280
+00:09:37,519 --> 00:09:41,519
+So, there are some things we definitely
+
+281
+00:09:38,959 --> 00:09:43,279
+don't want you to do.
+
+282
+00:09:41,519 --> 00:09:46,080
+We don't want you to provide hints or
+
+283
+00:09:43,279 --> 00:09:49,360
+clues on any items unless we ask you
+
+284
+00:09:46,080 --> 00:09:51,120
+explicitly to do so.
+
+285
+00:09:49,360 --> 00:09:52,720
+We don't want you to distract your child
+
+286
+00:09:51,120 --> 00:09:54,959
+unless we're asking you to redirect
+
+287
+00:09:52,720 --> 00:09:56,399
+them.
+
+288
+00:09:54,959 --> 00:09:58,720
+We don't want you to help your child
+
+289
+00:09:56,399 --> 00:10:00,640
+complete any task unless exam again we
+
+290
+00:09:58,720 --> 00:10:02,160
+are explicitly asking you to do that.
+
+291
+00:10:00,640 --> 00:10:04,880
+Please don't use any punishments or
+
+292
+00:10:02,160 --> 00:10:06,640
+threats.
+
+293
+00:10:04,880 --> 00:10:08,959
+Please don't show anxiety or
+
+294
+00:10:06,640 --> 00:10:10,480
+disappointment. Um, as much as you can,
+
+295
+00:10:08,959 --> 00:10:14,240
+even if you feel disappointment, try to
+
+296
+00:10:10,480 --> 00:10:16,399
+hide that in the in the moment.
+
+297
+00:10:14,240 --> 00:10:17,920
+And please don't defer to us. If you
+
+298
+00:10:16,399 --> 00:10:19,680
+think your child needs a break or is
+
+299
+00:10:17,920 --> 00:10:21,360
+becoming increasingly agitated and you
+
+300
+00:10:19,680 --> 00:10:23,279
+don't see the examiner taking action,
+
+301
+00:10:21,360 --> 00:10:26,959
+please let us know. We want to hear from
+
+302
+00:10:23,279 --> 00:10:28,560
+you about what your child needs.
+
+303
+00:10:26,959 --> 00:10:30,000
+>> And now, um, Angelie is going to take
+
+304
+00:10:28,560 --> 00:10:31,519
+over and talk a little bit more about
+
+305
+00:10:30,000 --> 00:10:32,959
+what we would like you to do when it
+
+306
+00:10:31,519 --> 00:10:34,959
+comes to the alignment.
+
+307
+00:10:32,959 --> 00:10:37,279
+>> Thank you so much, An. Can you all hear
+
+308
+00:10:34,959 --> 00:10:39,360
+me? Okay, great. So, I'm going to be
+
+309
+00:10:37,279 --> 00:10:41,519
+talking about about the wine. Sarah
+
+310
+00:10:39,360 --> 00:10:43,279
+already provided a great overview of it.
+
+311
+00:10:41,519 --> 00:10:45,200
+It assesses functioning in day-to-day
+
+312
+00:10:43,279 --> 00:10:46,560
+life. It's specifically interested in
+
+313
+00:10:45,200 --> 00:10:48,640
+what a child individual can do
+
+314
+00:10:46,560 --> 00:10:50,640
+independently on their own to take care
+
+315
+00:10:48,640 --> 00:10:52,959
+of themselves and interact with others.
+
+316
+00:10:50,640 --> 00:10:54,800
+It's used in several studies in
+
+317
+00:10:52,959 --> 00:10:56,560
+syndrome. There are several domains that
+
+318
+00:10:54,800 --> 00:10:58,480
+are assessed. communication which is
+
+319
+00:10:56,560 --> 00:11:00,800
+receptive and expressive communication,
+
+320
+00:10:58,480 --> 00:11:02,399
+written skills, their activities of
+
+321
+00:11:00,800 --> 00:11:03,920
+daily living, how they take care of
+
+322
+00:11:02,399 --> 00:11:06,000
+themselves, what kind of things do they
+
+323
+00:11:03,920 --> 00:11:07,839
+do in their home, their socialization
+
+324
+00:11:06,000 --> 00:11:10,079
+skills, how they get along with others,
+
+325
+00:11:07,839 --> 00:11:12,480
+and their fine and gross motor skills.
+
+326
+00:11:10,079 --> 00:11:14,480
+The vin administration is conducted as
+
+327
+00:11:12,480 --> 00:11:17,600
+an interview between the examiner and a
+
+328
+00:11:14,480 --> 00:11:18,880
+caregiver who knows the individual well.
+
+329
+00:11:17,600 --> 00:11:20,560
+What are some of the things you want to
+
+330
+00:11:18,880 --> 00:11:21,920
+keep in mind when you do the vin
+
+331
+00:11:20,560 --> 00:11:23,600
+interview?
+
+332
+00:11:21,920 --> 00:11:26,560
+We're going to be asking you questions
+
+333
+00:11:23,600 --> 00:11:29,200
+about skills both above and below your
+
+334
+00:11:26,560 --> 00:11:30,959
+child's level. So, be prepared for that.
+
+335
+00:11:29,200 --> 00:11:33,760
+We want to get a sense of how your child
+
+336
+00:11:30,959 --> 00:11:36,240
+is doing independently on their own
+
+337
+00:11:33,760 --> 00:11:37,839
+without helper support. When you're
+
+338
+00:11:36,240 --> 00:11:39,279
+thinking about your responses, think
+
+339
+00:11:37,839 --> 00:11:41,360
+about all the ways your child
+
+340
+00:11:39,279 --> 00:11:44,399
+communicates, their sounds, their
+
+341
+00:11:41,360 --> 00:11:46,480
+gestures, their ASC device.
+
+342
+00:11:44,399 --> 00:11:48,480
+The Wand is essentially a dialogue
+
+343
+00:11:46,480 --> 00:11:50,640
+between you and the clinician. We're
+
+344
+00:11:48,480 --> 00:11:54,079
+trying to get a comprehensive picture of
+
+345
+00:11:50,640 --> 00:11:55,279
+your child's functioning across domains.
+
+346
+00:11:54,079 --> 00:11:57,440
+So, what are some of the things that you
+
+347
+00:11:55,279 --> 00:11:59,519
+do want to keep in mind while doing it?
+
+348
+00:11:57,440 --> 00:12:01,120
+In terms of scheduling the interview,
+
+349
+00:11:59,519 --> 00:12:02,480
+you want to schedule the interview at a
+
+350
+00:12:01,120 --> 00:12:04,399
+time where you can be focused and
+
+351
+00:12:02,480 --> 00:12:07,440
+engaged. The interview typically lasts
+
+352
+00:12:04,399 --> 00:12:09,120
+an hour. Choose a quiet environment to
+
+353
+00:12:07,440 --> 00:12:10,399
+minimize distractions during the
+
+354
+00:12:09,120 --> 00:12:12,079
+interview.
+
+355
+00:12:10,399 --> 00:12:13,600
+If your child is present, have
+
+356
+00:12:12,079 --> 00:12:15,040
+activities to keep them entertained or
+
+357
+00:12:13,600 --> 00:12:16,560
+someone else to keep them entertained so
+
+358
+00:12:15,040 --> 00:12:19,120
+you're not juggling the child and
+
+359
+00:12:16,560 --> 00:12:22,240
+managing the interview at the same time.
+
+360
+00:12:19,120 --> 00:12:24,959
+When responding, answer each question as
+
+361
+00:12:22,240 --> 00:12:27,040
+honestly and accurately as possible.
+
+362
+00:12:24,959 --> 00:12:29,680
+Focus on the child's current skills,
+
+363
+00:12:27,040 --> 00:12:31,120
+what the child does do right now.
+
+364
+00:12:29,680 --> 00:12:32,880
+Reflect on what your child does do
+
+365
+00:12:31,120 --> 00:12:34,399
+without prompting or support and what
+
+366
+00:12:32,880 --> 00:12:36,720
+they do need help with support and
+
+367
+00:12:34,399 --> 00:12:38,320
+prompting.
+
+368
+00:12:36,720 --> 00:12:39,519
+Consider your child's behavior in
+
+369
+00:12:38,320 --> 00:12:41,360
+different settings. They may be
+
+370
+00:12:39,519 --> 00:12:43,120
+different at home and school in social
+
+371
+00:12:41,360 --> 00:12:45,040
+environments.
+
+372
+00:12:43,120 --> 00:12:46,959
+Given a sense of how frequently the
+
+373
+00:12:45,040 --> 00:12:48,480
+behavior occurs, whether it occurs
+
+374
+00:12:46,959 --> 00:12:51,600
+sometimes, whether it occurs all the
+
+375
+00:12:48,480 --> 00:12:54,079
+time, provide specific examples to
+
+376
+00:12:51,600 --> 00:12:56,079
+illustrate your point. Ask for
+
+377
+00:12:54,079 --> 00:12:58,079
+clarifications if questions if a
+
+378
+00:12:56,079 --> 00:13:01,360
+question is unclear.
+
+379
+00:12:58,079 --> 00:13:02,560
+Tell the examiner if you need a break.
+
+380
+00:13:01,360 --> 00:13:05,120
+What are the things that we don't want
+
+381
+00:13:02,560 --> 00:13:06,639
+you during a vinand interview? We don't
+
+382
+00:13:05,120 --> 00:13:08,800
+want you to rush your answers. We just
+
+383
+00:13:06,639 --> 00:13:10,480
+don't want you to speed it up. We don't
+
+384
+00:13:08,800 --> 00:13:11,920
+want you to guess on any item. If you're
+
+385
+00:13:10,480 --> 00:13:14,320
+not sure, just discuss this with the
+
+386
+00:13:11,920 --> 00:13:16,480
+examiner. We don't want you to give g
+
+387
+00:13:14,320 --> 00:13:18,959
+vague or generalized responses. We
+
+388
+00:13:16,480 --> 00:13:21,040
+really want concrete examples.
+
+389
+00:13:18,959 --> 00:13:23,839
+Don't exaggerate or minimize your
+
+390
+00:13:21,040 --> 00:13:25,760
+child's skills. Don't base your answers
+
+391
+00:13:23,839 --> 00:13:27,440
+what you hope the child can do or what
+
+392
+00:13:25,760 --> 00:13:29,040
+they do did in the past. You we really
+
+393
+00:13:27,440 --> 00:13:31,519
+want to focus over the current skills
+
+394
+00:13:29,040 --> 00:13:33,120
+that your child does do.
+
+395
+00:13:31,519 --> 00:13:34,880
+We hope these guidelines are helpful to
+
+396
+00:13:33,120 --> 00:13:36,320
+you as you do the Bailey and the vin in
+
+397
+00:13:34,880 --> 00:13:38,160
+the clinical trials. And we want to
+
+398
+00:13:36,320 --> 00:13:39,440
+thank our team Sarah Potter and Bach
+
+399
+00:13:38,160 --> 00:13:44,360
+with all the help with the Bailey and
+
+400
+00:13:39,440 --> 00:13:44,360
+violent administration. Thank you.
+
+401
+00:13:51,760 --> 00:13:55,519
+That was great for both of you. You
+
+402
+00:13:53,600 --> 00:13:58,000
+know, we take so many of these and we
+
+403
+00:13:55,519 --> 00:13:59,839
+forget the importance of consistency and
+
+404
+00:13:58,000 --> 00:14:01,760
+and you really laid out beautifully how
+
+405
+00:13:59,839 --> 00:14:04,480
+we can best support our kids. And I have
+
+406
+00:14:01,760 --> 00:14:06,959
+to say I'm in I feel very guilty because
+
+407
+00:14:04,480 --> 00:14:09,839
+I you know I go into the Bailey and I
+
+408
+00:14:06,959 --> 00:14:12,399
+see the baby and I the first thing I say
+
+409
+00:14:09,839 --> 00:14:15,120
+is like oh my god not the creepy baby
+
+410
+00:14:12,399 --> 00:14:16,880
+and then Quincy throws the baby but like
+
+411
+00:14:15,120 --> 00:14:20,079
+maybe I made her throw the baby because
+
+412
+00:14:16,880 --> 00:14:22,639
+I hate the baby and I actually maybe
+
+413
+00:14:20,079 --> 00:14:25,040
+influence the test and that's wrong. I
+
+414
+00:14:22,639 --> 00:14:27,120
+should love the baby so that she loves
+
+415
+00:14:25,040 --> 00:14:28,800
+the baby. So going forward, nobody
+
+416
+00:14:27,120 --> 00:14:32,079
+called the baby the creepy baby because
+
+417
+00:14:28,800 --> 00:14:32,079
+it is a little bit of a creepy
+

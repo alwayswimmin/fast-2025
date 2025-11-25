@@ -1,0 +1,3124 @@
+1
+00:00:00,160 --> 00:00:05,359
+So now the next talk is going to be
+
+2
+00:00:03,120 --> 00:00:08,080
+great because now that you understand
+
+3
+00:00:05,359 --> 00:00:10,320
+what UB3A does, you can understand why
+
+4
+00:00:08,080 --> 00:00:14,880
+we want to replace it. And we're gonna
+
+5
+00:00:10,320 --> 00:00:17,119
+have a talk by um by our next speaker
+
+6
+00:00:14,880 --> 00:00:19,520
+here. Hold on. I had a Oh, by Dr. Emma
+
+7
+00:00:17,119 --> 00:00:21,359
+James. She's from Encoded Therapeutics.
+
+8
+00:00:19,520 --> 00:00:23,119
+And she's not here representing Encoded.
+
+9
+00:00:21,359 --> 00:00:25,760
+She's actually here because I heard her
+
+10
+00:00:23,119 --> 00:00:27,359
+speak about gene therapy appearance at
+
+11
+00:00:25,760 --> 00:00:29,760
+another conference that I was speaking
+
+12
+00:00:27,359 --> 00:00:32,160
+at and she just broke it down in such a
+
+13
+00:00:29,760 --> 00:00:34,000
+way that was so incredibly digestible
+
+14
+00:00:32,160 --> 00:00:36,079
+that I felt it was really important that
+
+15
+00:00:34,000 --> 00:00:37,920
+you all heard that because as you all
+
+16
+00:00:36,079 --> 00:00:39,440
+know gene therapy is a reality for
+
+17
+00:00:37,920 --> 00:00:41,840
+Angelmen syndrome today and we'll talk
+
+18
+00:00:39,440 --> 00:00:44,000
+more about that later today as well as a
+
+19
+00:00:41,840 --> 00:00:46,399
+ton about that tomorrow. Um but I want
+
+20
+00:00:44,000 --> 00:00:48,960
+Emma to be able to explain to you what
+
+21
+00:00:46,399 --> 00:00:51,039
+it means and how it works. So, Emma, if
+
+22
+00:00:48,960 --> 00:00:54,760
+you wouldn't mind, please take it away.
+
+23
+00:00:51,039 --> 00:00:54,760
+Make this very digestible.
+
+24
+00:00:55,820 --> 00:00:59,719
+[Applause]
+
+25
+00:01:05,439 --> 00:01:10,479
+>> Good morning, everyone. If any of you
+
+26
+00:01:08,400 --> 00:01:12,640
+see me talking more than once, you'll
+
+27
+00:01:10,479 --> 00:01:14,720
+see I always carry my uh bottle of water
+
+28
+00:01:12,640 --> 00:01:17,439
+around because I get crazy dry mouth
+
+29
+00:01:14,720 --> 00:01:19,840
+standing in front of you all. Um but
+
+30
+00:01:17,439 --> 00:01:22,159
+anyway, I would uh firstly like to thank
+
+31
+00:01:19,840 --> 00:01:24,720
+Allison and the meeting organizers um
+
+32
+00:01:22,159 --> 00:01:26,320
+for inviting me here to present today.
+
+33
+00:01:24,720 --> 00:01:28,880
+Uh my name is Emma James. I work for
+
+34
+00:01:26,320 --> 00:01:32,079
+Encoded. Um Encoded is a gene therapy
+
+35
+00:01:28,880 --> 00:01:35,520
+company developing um gene therapies for
+
+36
+00:01:32,079 --> 00:01:37,520
+uh neurological disorders.
+
+37
+00:01:35,520 --> 00:01:41,600
+Um
+
+38
+00:01:37,520 --> 00:01:44,400
+my disclosures I would coded. So as
+
+39
+00:01:41,600 --> 00:01:46,159
+you've already heard today, we've come a
+
+40
+00:01:44,400 --> 00:01:48,240
+long way in medicine. You know, we've
+
+41
+00:01:46,159 --> 00:01:50,880
+come from being able to develop
+
+42
+00:01:48,240 --> 00:01:52,799
+antibiotics to developing vaccines that
+
+43
+00:01:50,880 --> 00:01:56,720
+can save lives. And now we're really
+
+44
+00:01:52,799 --> 00:02:00,000
+entering a new phase uh of medicine with
+
+45
+00:01:56,720 --> 00:02:02,079
+treatment modalities that can go beyond
+
+46
+00:02:00,000 --> 00:02:05,680
+managing the symptoms to addressing the
+
+47
+00:02:02,079 --> 00:02:08,319
+whole range of um signs and symptoms uh
+
+48
+00:02:05,680 --> 00:02:11,120
+of certain genetic diseases. And it's at
+
+49
+00:02:08,319 --> 00:02:12,720
+its simplest the idea of gene therapy is
+
+50
+00:02:11,120 --> 00:02:15,200
+that you take a cell with a
+
+51
+00:02:12,720 --> 00:02:17,280
+non-functioning gene you add genetic
+
+52
+00:02:15,200 --> 00:02:20,480
+material and that leads to the cell
+
+53
+00:02:17,280 --> 00:02:22,959
+functioning normally.
+
+54
+00:02:20,480 --> 00:02:25,840
+So I'm going to use an analogy here. So
+
+55
+00:02:22,959 --> 00:02:28,959
+just like factories rely on detailed
+
+56
+00:02:25,840 --> 00:02:31,599
+manuals to produce products, cells rely
+
+57
+00:02:28,959 --> 00:02:33,519
+on DNA. And the DNA contains the
+
+58
+00:02:31,599 --> 00:02:36,640
+instructions. Think of it like
+
+59
+00:02:33,519 --> 00:02:39,680
+blueprints for building the tools our
+
+60
+00:02:36,640 --> 00:02:42,800
+bodies need to function. So here we have
+
+61
+00:02:39,680 --> 00:02:45,920
+the factory and the factory has manuals
+
+62
+00:02:42,800 --> 00:02:48,480
+and the manual contains uh individual
+
+63
+00:02:45,920 --> 00:02:51,040
+blueprints for individual products. A
+
+64
+00:02:48,480 --> 00:02:52,879
+light bulb, a telephone, security
+
+65
+00:02:51,040 --> 00:02:55,760
+camera.
+
+66
+00:02:52,879 --> 00:02:58,480
+Our cells are the factories. Our genome
+
+67
+00:02:55,760 --> 00:03:01,680
+which is made of DNA is the is the
+
+68
+00:02:58,480 --> 00:03:04,640
+factory manual and the individual genes
+
+69
+00:03:01,680 --> 00:03:07,760
+that comprise our our genome are the
+
+70
+00:03:04,640 --> 00:03:09,680
+individual instructions for individual
+
+71
+00:03:07,760 --> 00:03:12,680
+products which in the case of people are
+
+72
+00:03:09,680 --> 00:03:12,680
+proteins.
+
+73
+00:03:13,120 --> 00:03:18,400
+So the instructions inside this
+
+74
+00:03:14,959 --> 00:03:21,440
+blueprint are really complex and so the
+
+75
+00:03:18,400 --> 00:03:23,840
+factory has a process to simplify them.
+
+76
+00:03:21,440 --> 00:03:28,400
+So the factory here it's a light bulb
+
+77
+00:03:23,840 --> 00:03:30,720
+factory and it copies or transcribes
+
+78
+00:03:28,400 --> 00:03:33,680
+the relevant sections
+
+79
+00:03:30,720 --> 00:03:35,680
+into a clear stepby-step set of
+
+80
+00:03:33,680 --> 00:03:38,959
+instructions. Think of it like an
+
+81
+00:03:35,680 --> 00:03:41,840
+assembly guide and then the workers can
+
+82
+00:03:38,959 --> 00:03:44,159
+take that assembly guide and turn that
+
+83
+00:03:41,840 --> 00:03:46,720
+into the product. So in the factory it's
+
+84
+00:03:44,159 --> 00:03:49,120
+a light bulb in the for people it's the
+
+85
+00:03:46,720 --> 00:03:52,080
+protein.
+
+86
+00:03:49,120 --> 00:03:55,040
+So our cells work in the same way. So
+
+87
+00:03:52,080 --> 00:03:58,080
+first they transcribe the information in
+
+88
+00:03:55,040 --> 00:04:01,360
+the DNA of our genes and then they turn
+
+89
+00:03:58,080 --> 00:04:05,360
+that into a simpler form the assembly
+
+90
+00:04:01,360 --> 00:04:08,319
+guide that's called messenger RNA.
+
+91
+00:04:05,360 --> 00:04:10,560
+That messenger RNA is then this clear
+
+92
+00:04:08,319 --> 00:04:15,480
+set of instructions that is then
+
+93
+00:04:10,560 --> 00:04:15,480
+translated into a protein.
+
+94
+00:04:15,920 --> 00:04:22,160
+So
+
+95
+00:04:17,840 --> 00:04:25,120
+each cell contains lots and lots of sets
+
+96
+00:04:22,160 --> 00:04:27,840
+of instructions,
+
+97
+00:04:25,120 --> 00:04:30,800
+but it only chooses the sets of
+
+98
+00:04:27,840 --> 00:04:32,400
+instructions from uh that that it needs
+
+99
+00:04:30,800 --> 00:04:35,520
+based off the information it's getting
+
+100
+00:04:32,400 --> 00:04:37,360
+from the environment. So each factory is
+
+101
+00:04:35,520 --> 00:04:39,919
+responsible for specific products. So
+
+102
+00:04:37,360 --> 00:04:42,639
+here our factory makes only light bulbs.
+
+103
+00:04:39,919 --> 00:04:45,360
+It has all the blueprints for all the
+
+104
+00:04:42,639 --> 00:04:47,919
+different products, but it switches off
+
+105
+00:04:45,360 --> 00:04:49,840
+the blueprints for the telephone and the
+
+106
+00:04:47,919 --> 00:04:53,360
+security camera, and it focuses on the
+
+107
+00:04:49,840 --> 00:04:56,240
+blueprints for the light bulb.
+
+108
+00:04:53,360 --> 00:05:00,479
+And our cells work in in much the same
+
+109
+00:04:56,240 --> 00:05:02,800
+way. despite having this the range of um
+
+110
+00:05:00,479 --> 00:05:05,280
+of all the different genes in nearly all
+
+111
+00:05:02,800 --> 00:05:07,199
+the cells of the body,
+
+112
+00:05:05,280 --> 00:05:10,000
+they choose based off the signals that
+
+113
+00:05:07,199 --> 00:05:12,639
+they're getting which genes they're
+
+114
+00:05:10,000 --> 00:05:16,960
+going to switch on. So in this way a
+
+115
+00:05:12,639 --> 00:05:19,680
+brain cell will switch on the genes to
+
+116
+00:05:16,960 --> 00:05:22,240
+enable it to produce say an iron channel
+
+117
+00:05:19,680 --> 00:05:25,759
+or a neurotransmitter and it will switch
+
+118
+00:05:22,240 --> 00:05:27,600
+off the uh the the controls to that
+
+119
+00:05:25,759 --> 00:05:30,160
+would enable it to become a muscle cell
+
+120
+00:05:27,600 --> 00:05:34,479
+say measin.
+
+121
+00:05:30,160 --> 00:05:38,160
+Similarly, a muscle cell will switch on
+
+122
+00:05:34,479 --> 00:05:41,039
+the genes to enable it to be a a myasy
+
+123
+00:05:38,160 --> 00:05:43,360
+and it will switch off the genes that
+
+124
+00:05:41,039 --> 00:05:45,360
+enable it to be to produce iron channels
+
+125
+00:05:43,360 --> 00:05:48,479
+and neurotransmitters.
+
+126
+00:05:45,360 --> 00:05:50,639
+And so this is the way that um the cells
+
+127
+00:05:48,479 --> 00:05:53,360
+essentially are able to produce
+
+128
+00:05:50,639 --> 00:05:56,400
+differential gene expression based off
+
+129
+00:05:53,360 --> 00:06:00,240
+what that gene what that cell needs to
+
+130
+00:05:56,400 --> 00:06:03,440
+be and what it needs to produce.
+
+131
+00:06:00,240 --> 00:06:06,000
+So, how does a cell know um and control
+
+132
+00:06:03,440 --> 00:06:07,680
+which which genes it needs to be
+
+133
+00:06:06,000 --> 00:06:11,120
+producing?
+
+134
+00:06:07,680 --> 00:06:13,759
+Well, each gene has special tags that
+
+135
+00:06:11,120 --> 00:06:16,960
+mark qu clearly where the instructions
+
+136
+00:06:13,759 --> 00:06:19,039
+begin. And these regulatory elements are
+
+137
+00:06:16,960 --> 00:06:22,479
+essentially binding sites throughout the
+
+138
+00:06:19,039 --> 00:06:26,000
+DNA that help regulate both where and
+
+139
+00:06:22,479 --> 00:06:28,000
+when the the genes are expressed.
+
+140
+00:06:26,000 --> 00:06:31,039
+So firstly you have something called a
+
+141
+00:06:28,000 --> 00:06:33,840
+promoter which is a site in the DNA that
+
+142
+00:06:31,039 --> 00:06:37,039
+regulates where the cell initiates
+
+143
+00:06:33,840 --> 00:06:39,840
+transcription of a gene.
+
+144
+00:06:37,039 --> 00:06:42,400
+And then near the promoters we have
+
+145
+00:06:39,840 --> 00:06:46,000
+sites for things called transcription
+
+146
+00:06:42,400 --> 00:06:48,720
+factors. And these uh transcription
+
+147
+00:06:46,000 --> 00:06:53,280
+factors are DNA binding proteins that
+
+148
+00:06:48,720 --> 00:06:56,080
+help the cell uh regulate when or how
+
+149
+00:06:53,280 --> 00:06:58,479
+much of the gene is expressed. These
+
+150
+00:06:56,080 --> 00:06:59,919
+transcription factors can be positive or
+
+151
+00:06:58,479 --> 00:07:02,960
+they can or negative. So they can
+
+152
+00:06:59,919 --> 00:07:06,000
+upregulate or downregulate. And they are
+
+153
+00:07:02,960 --> 00:07:09,120
+cell specific again enabling a cell to
+
+154
+00:07:06,000 --> 00:07:12,520
+deter to to control what kind of cell it
+
+155
+00:07:09,120 --> 00:07:12,520
+wants to be.
+
+156
+00:07:12,880 --> 00:07:19,360
+So the promoter and the transcription
+
+157
+00:07:15,280 --> 00:07:23,120
+factors work um work together as a
+
+158
+00:07:19,360 --> 00:07:25,919
+complex on off but button to regulate
+
+159
+00:07:23,120 --> 00:07:27,919
+gene transcription um in in a very tight
+
+160
+00:07:25,919 --> 00:07:31,639
+manner and they can be very very highly
+
+161
+00:07:27,919 --> 00:07:31,639
+specific to a cell.
+
+162
+00:07:32,000 --> 00:07:39,039
+So the regulation of the gene or the
+
+163
+00:07:35,199 --> 00:07:42,960
+gene activity can happen both at the DNA
+
+164
+00:07:39,039 --> 00:07:44,960
+level. So DNA being transcribed into
+
+165
+00:07:42,960 --> 00:07:48,560
+messenger RNA which is that assembly
+
+166
+00:07:44,960 --> 00:07:51,039
+guide or the regulation can happen at
+
+167
+00:07:48,560 --> 00:07:54,240
+the translational level which is where
+
+168
+00:07:51,039 --> 00:07:57,240
+where the messenger RNA is copied into a
+
+169
+00:07:54,240 --> 00:07:57,240
+protein.
+
+170
+00:07:57,520 --> 00:08:02,400
+So now we're going to talk a little bit
+
+171
+00:07:58,960 --> 00:08:05,440
+about gene therapy.
+
+172
+00:08:02,400 --> 00:08:08,960
+So, think of gene therapy as a delivery
+
+173
+00:08:05,440 --> 00:08:12,560
+vehicle that goes into the factory with
+
+174
+00:08:08,960 --> 00:08:14,560
+a new set of instructions to replace or
+
+175
+00:08:12,560 --> 00:08:16,879
+change the blueprints that the factories
+
+176
+00:08:14,560 --> 00:08:18,879
+using. So, gene therapy can be used to
+
+177
+00:08:16,879 --> 00:08:21,520
+manipulate the gene expression and
+
+178
+00:08:18,879 --> 00:08:24,160
+control the activity of the protein. It
+
+179
+00:08:21,520 --> 00:08:26,960
+can work at the transcriptional level.
+
+180
+00:08:24,160 --> 00:08:30,080
+So it can affect the DNA or it can work
+
+181
+00:08:26,960 --> 00:08:32,399
+at the translational level u by
+
+182
+00:08:30,080 --> 00:08:35,360
+affecting the messenger RNA. But the
+
+183
+00:08:32,399 --> 00:08:39,959
+outcome is that you influence the
+
+184
+00:08:35,360 --> 00:08:39,959
+protein that is ultimately produced.
+
+185
+00:08:40,800 --> 00:08:46,320
+Gene therapy is an umbrella term for
+
+186
+00:08:43,440 --> 00:08:47,680
+multiple ways to manipulate how cells
+
+187
+00:08:46,320 --> 00:08:49,760
+work.
+
+188
+00:08:47,680 --> 00:08:52,800
+Typically, when people think about gene
+
+189
+00:08:49,760 --> 00:08:55,760
+therapy, they're thinking about when DNA
+
+190
+00:08:52,800 --> 00:08:58,800
+is delivered to the cell via via a
+
+191
+00:08:55,760 --> 00:09:02,000
+single administration therapy. Um, and
+
+192
+00:08:58,800 --> 00:09:03,760
+and we this could be gene addition, it
+
+193
+00:09:02,000 --> 00:09:06,000
+could be gene silencing, it could be
+
+194
+00:09:03,760 --> 00:09:08,640
+gene editing. And I'll come back to that
+
+195
+00:09:06,000 --> 00:09:10,720
+in in a few slides time.
+
+196
+00:09:08,640 --> 00:09:14,320
+According to the American Society for
+
+197
+00:09:10,720 --> 00:09:17,680
+Cell and Gene Therapy, which describes
+
+198
+00:09:14,320 --> 00:09:19,760
+gene therapy as the use of genetic
+
+199
+00:09:17,680 --> 00:09:23,839
+material or the delivery of genetic
+
+200
+00:09:19,760 --> 00:09:27,600
+material to um to prevent or treat
+
+201
+00:09:23,839 --> 00:09:29,839
+disease. RNA therapy would also uh fall
+
+202
+00:09:27,600 --> 00:09:32,399
+under this category.
+
+203
+00:09:29,839 --> 00:09:35,519
+RNA therapy uses shorter sequences of
+
+204
+00:09:32,399 --> 00:09:38,240
+RNA to adjust how proteins are made. um
+
+205
+00:09:35,519 --> 00:09:39,839
+but typically it's requires repeated
+
+206
+00:09:38,240 --> 00:09:42,959
+dosing.
+
+207
+00:09:39,839 --> 00:09:45,920
+Examples are anti-sensor loanucleotides,
+
+208
+00:09:42,959 --> 00:09:47,680
+microRNAs, small interfering RNAs and
+
+209
+00:09:45,920 --> 00:09:49,600
+vaccines.
+
+210
+00:09:47,680 --> 00:09:51,519
+What's a little bit more complex in
+
+211
+00:09:49,600 --> 00:09:56,080
+terms of how we need to think about it
+
+212
+00:09:51,519 --> 00:09:57,839
+here is while um while you know these
+
+213
+00:09:56,080 --> 00:10:00,560
+microRNAs
+
+214
+00:09:57,839 --> 00:10:02,959
+here fall into RNA therapy there is
+
+215
+00:10:00,560 --> 00:10:06,720
+there are now methods in development
+
+216
+00:10:02,959 --> 00:10:10,240
+where uh gene therapy is used to deliver
+
+217
+00:10:06,720 --> 00:10:12,720
+the DNA that that uh provides
+
+218
+00:10:10,240 --> 00:10:15,360
+instructions for the body to make
+
+219
+00:10:12,720 --> 00:10:17,519
+microRNAs and small and small
+
+220
+00:10:15,360 --> 00:10:20,160
+interfering RNAs etc. So it's it it can
+
+221
+00:10:17,519 --> 00:10:22,399
+be a little uh little difficult to to
+
+222
+00:10:20,160 --> 00:10:25,120
+really understand.
+
+223
+00:10:22,399 --> 00:10:28,880
+Um in terms of the difference uh if you
+
+224
+00:10:25,120 --> 00:10:31,200
+think about uh spinal muscular atrophy
+
+225
+00:10:28,880 --> 00:10:32,640
+there are there are drugs uh that have
+
+226
+00:10:31,200 --> 00:10:35,760
+been approved. There's one called
+
+227
+00:10:32,640 --> 00:10:38,320
+Zorgensma which is an AAV9based
+
+228
+00:10:35,760 --> 00:10:40,000
+gene replacement therapy and that's
+
+229
+00:10:38,320 --> 00:10:42,480
+that's really what people are thinking
+
+230
+00:10:40,000 --> 00:10:44,959
+about uh when they think about gene
+
+231
+00:10:42,480 --> 00:10:46,160
+therapy and that is administered once
+
+232
+00:10:44,959 --> 00:10:48,160
+and then there is something called
+
+233
+00:10:46,160 --> 00:10:51,040
+spinraza which is a chronically
+
+234
+00:10:48,160 --> 00:10:52,640
+administered anti-ensor lianucleide and
+
+235
+00:10:51,040 --> 00:10:54,000
+typically speaking that's not what
+
+236
+00:10:52,640 --> 00:10:56,480
+people think about when they're talking
+
+237
+00:10:54,000 --> 00:10:59,680
+about gene therapy.
+
+238
+00:10:56,480 --> 00:11:02,079
+We also have a a third class here of
+
+239
+00:10:59,680 --> 00:11:04,160
+gene modified cell therapies. And this
+
+240
+00:11:02,079 --> 00:11:05,920
+is a little bit different in that cells
+
+241
+00:11:04,160 --> 00:11:07,760
+are harvested, they're taken out of the
+
+242
+00:11:05,920 --> 00:11:09,760
+body, they are modified outside of the
+
+243
+00:11:07,760 --> 00:11:11,920
+body and then they're returned into the
+
+244
+00:11:09,760 --> 00:11:14,320
+body. And examples of this are things
+
+245
+00:11:11,920 --> 00:11:17,279
+like the karti amunotherapies that we
+
+246
+00:11:14,320 --> 00:11:19,360
+hear about uh for cancers uh as well as
+
+247
+00:11:17,279 --> 00:11:22,000
+things like lentivirus mediated gene
+
+248
+00:11:19,360 --> 00:11:24,079
+therapies such as leneli for
+
+249
+00:11:22,000 --> 00:11:27,839
+metacromatic lucadistrophe which is
+
+250
+00:11:24,079 --> 00:11:27,839
+another approved product in the US.
+
+251
+00:11:28,959 --> 00:11:34,959
+So the delivery truck that we use to put
+
+252
+00:11:32,640 --> 00:11:38,000
+the gene therapy into humans is called a
+
+253
+00:11:34,959 --> 00:11:39,760
+vector and vectors can be viral and they
+
+254
+00:11:38,000 --> 00:11:42,800
+can be nonviral.
+
+255
+00:11:39,760 --> 00:11:45,200
+Um nonviral vectors typically require
+
+256
+00:11:42,800 --> 00:11:47,680
+repeated administrations and they there
+
+257
+00:11:45,200 --> 00:11:50,560
+are things like um lipid nanop particles
+
+258
+00:11:47,680 --> 00:11:52,800
+and different polymers. viral vectors
+
+259
+00:11:50,560 --> 00:11:54,480
+are typically delivered as a one-time
+
+260
+00:11:52,800 --> 00:11:57,279
+administration.
+
+261
+00:11:54,480 --> 00:11:59,839
+Um, and they've evolved to be to be um
+
+262
+00:11:57,279 --> 00:12:03,920
+probably the for the forefront of gene
+
+263
+00:11:59,839 --> 00:12:07,839
+therapy because scientists have
+
+264
+00:12:03,920 --> 00:12:09,760
+determined how to remove the the virus's
+
+265
+00:12:07,839 --> 00:12:12,480
+own pathogenic
+
+266
+00:12:09,760 --> 00:12:16,079
+uh DNA and replace it with the
+
+267
+00:12:12,480 --> 00:12:17,839
+therapeutic DNA. We know that genes are
+
+268
+00:12:16,079 --> 00:12:19,920
+naturally evolved to be good at getting
+
+269
+00:12:17,839 --> 00:12:22,720
+into cells. So this has proven to be a
+
+270
+00:12:19,920 --> 00:12:26,000
+very good way of delivering delivering
+
+271
+00:12:22,720 --> 00:12:28,880
+gene therapy to the cells of interest
+
+272
+00:12:26,000 --> 00:12:32,279
+using the virus's natural capability to
+
+273
+00:12:28,880 --> 00:12:32,279
+infect cells.
+
+274
+00:12:33,519 --> 00:12:39,920
+So gene therapy can be delivered
+
+275
+00:12:36,240 --> 00:12:42,800
+directly to a person uh in vivo or
+
+276
+00:12:39,920 --> 00:12:44,880
+xvivo. So xvivo is what I just described
+
+277
+00:12:42,800 --> 00:12:47,040
+where the cells are taken out of the
+
+278
+00:12:44,880 --> 00:12:49,440
+body. they are modified in a petri dish
+
+279
+00:12:47,040 --> 00:12:52,320
+or a test tube and then those modified
+
+280
+00:12:49,440 --> 00:12:55,839
+cells are put back into the into the um
+
+281
+00:12:52,320 --> 00:12:58,240
+into the person. Invivo gene therapy is
+
+282
+00:12:55,839 --> 00:13:00,079
+where the um the gene therapy is
+
+283
+00:12:58,240 --> 00:13:03,600
+developed and then in and then put
+
+284
+00:13:00,079 --> 00:13:06,399
+straight into the person. Um and the the
+
+285
+00:13:03,600 --> 00:13:08,720
+the route that you you that you put in
+
+286
+00:13:06,399 --> 00:13:12,320
+the invivo gene therapy kind of depend
+
+287
+00:13:08,720 --> 00:13:14,880
+depends on the um on the the disease
+
+288
+00:13:12,320 --> 00:13:17,760
+you're trying to treat. For CNS
+
+289
+00:13:14,880 --> 00:13:20,240
+disorders, often you will want to use a
+
+290
+00:13:17,760 --> 00:13:24,639
+local route of administration. So maybe
+
+291
+00:13:20,240 --> 00:13:27,120
+directly into uh into the spine uh or or
+
+292
+00:13:24,639 --> 00:13:28,959
+maybe via an intra cerebral ventricular
+
+293
+00:13:27,120 --> 00:13:31,600
+injection strict into the the brain
+
+294
+00:13:28,959 --> 00:13:34,480
+ventricles in the brain.
+
+295
+00:13:31,600 --> 00:13:36,000
+Um but there are other novel capsids um
+
+296
+00:13:34,480 --> 00:13:39,519
+sorry I'll come to capsids in a moment.
+
+297
+00:13:36,000 --> 00:13:42,399
+There are novel um methods that enable
+
+298
+00:13:39,519 --> 00:13:46,639
+potentially enable uh introvenous
+
+299
+00:13:42,399 --> 00:13:50,600
+administration in development too.
+
+300
+00:13:46,639 --> 00:13:50,600
+There's the dry mouth coming.
+
+301
+00:13:51,839 --> 00:13:56,560
+So this cell here not this cell this
+
+302
+00:13:54,240 --> 00:13:59,440
+slide here is a little bit old. Uh this
+
+303
+00:13:56,560 --> 00:14:01,680
+data is from 2022.
+
+304
+00:13:59,440 --> 00:14:05,279
+um but I think broadly speaking it's
+
+305
+00:14:01,680 --> 00:14:09,199
+still um approximately correct still
+
+306
+00:14:05,279 --> 00:14:11,839
+today. So the most common viral vector
+
+307
+00:14:09,199 --> 00:14:17,920
+used is called an adeno associated
+
+308
+00:14:11,839 --> 00:14:21,519
+virus. Um and in 2022 about 20 65% of uh
+
+309
+00:14:17,920 --> 00:14:24,240
+clinical trials were using an AAV virus
+
+310
+00:14:21,519 --> 00:14:26,399
+followed by AAV was a lentivirus and a
+
+311
+00:14:24,240 --> 00:14:30,399
+lentivirus is typically administered
+
+312
+00:14:26,399 --> 00:14:33,440
+through Xvivo approaches. After that is
+
+313
+00:14:30,399 --> 00:14:36,480
+a denovo a deno virus and what I want to
+
+314
+00:14:33,440 --> 00:14:38,720
+highlight here is a deno virus and adeno
+
+315
+00:14:36,480 --> 00:14:40,639
+associated virus are completely
+
+316
+00:14:38,720 --> 00:14:44,240
+different viruses. They are unrelated
+
+317
+00:14:40,639 --> 00:14:45,920
+despite the name. Um adenoirus is a much
+
+318
+00:14:44,240 --> 00:14:48,560
+bigger virus and so you can actually
+
+319
+00:14:45,920 --> 00:14:51,120
+deliver much bigger genes but it's also
+
+320
+00:14:48,560 --> 00:14:53,199
+typically uh more immunogenic which
+
+321
+00:14:51,120 --> 00:14:56,240
+means it causes more of immune response
+
+322
+00:14:53,199 --> 00:15:00,240
+which is why AEV has has evolved to be
+
+323
+00:14:56,240 --> 00:15:02,480
+uh more popular and then uh the nonviral
+
+324
+00:15:00,240 --> 00:15:05,040
+delivery methods so such as plasmids and
+
+325
+00:15:02,480 --> 00:15:07,120
+nanoparticles are gaining in in
+
+326
+00:15:05,040 --> 00:15:12,680
+popularity too. I would expect a higher
+
+327
+00:15:07,120 --> 00:15:12,680
+proportion um of these to be used. Now,
+
+328
+00:15:12,800 --> 00:15:17,040
+a number of gene therapies have been
+
+329
+00:15:14,320 --> 00:15:18,800
+approved for use by the FDA. I'm not
+
+330
+00:15:17,040 --> 00:15:22,560
+going to go through this. Seven of them
+
+331
+00:15:18,800 --> 00:15:25,120
+are AAV based, but but there are also um
+
+332
+00:15:22,560 --> 00:15:28,920
+lentiviral based and adenoviral based
+
+333
+00:15:25,120 --> 00:15:28,920
+gene therapies too.
+
+334
+00:15:29,120 --> 00:15:35,040
+So, what makes AAV appropriate for use
+
+335
+00:15:32,240 --> 00:15:38,639
+as a vector in gene therapy? Well,
+
+336
+00:15:35,040 --> 00:15:41,920
+importantly, even the wild type, which
+
+337
+00:15:38,639 --> 00:15:45,120
+means the natural uh AAV, is not known
+
+338
+00:15:41,920 --> 00:15:47,440
+to cause disease in humans. Um, and they
+
+339
+00:15:45,120 --> 00:15:49,920
+don't really trigger much of an immune
+
+340
+00:15:47,440 --> 00:15:53,639
+response, which means it's less likely
+
+341
+00:15:49,920 --> 00:15:53,639
+to cause side effects.
+
+342
+00:15:53,759 --> 00:15:58,079
+So
+
+343
+00:15:55,519 --> 00:16:00,959
+what we do as I mentioned is we take the
+
+344
+00:15:58,079 --> 00:16:04,399
+virus, we remove the original virus
+
+345
+00:16:00,959 --> 00:16:06,800
+genes and then we replace them with new
+
+346
+00:16:04,399 --> 00:16:09,360
+genetic material which is called the
+
+347
+00:16:06,800 --> 00:16:13,279
+trans gene.
+
+348
+00:16:09,360 --> 00:16:15,920
+The viral shell is called a capsid and
+
+349
+00:16:13,279 --> 00:16:18,160
+there are different kinds of capsids uh
+
+350
+00:16:15,920 --> 00:16:21,120
+that have a different tendency to go to
+
+351
+00:16:18,160 --> 00:16:23,920
+different parts of the body. This capsid
+
+352
+00:16:21,120 --> 00:16:26,399
+is called the serereotype.
+
+353
+00:16:23,920 --> 00:16:28,639
+The serereotype Aav9
+
+354
+00:16:26,399 --> 00:16:32,079
+has been has has been shown to cross the
+
+355
+00:16:28,639 --> 00:16:35,120
+bloodb brain barrier. Um and so it has
+
+356
+00:16:32,079 --> 00:16:37,839
+become one of the more popular um gene
+
+357
+00:16:35,120 --> 00:16:39,680
+therapies used for CNS disorders, but
+
+358
+00:16:37,839 --> 00:16:42,000
+there are others and there are also
+
+359
+00:16:39,680 --> 00:16:45,440
+novel capsids that are in development
+
+360
+00:16:42,000 --> 00:16:47,120
+too. One of the downsides of AAV is that
+
+361
+00:16:45,440 --> 00:16:50,320
+they can only carry very small genes.
+
+362
+00:16:47,120 --> 00:16:52,639
+It's a tiny virus. That means that some
+
+363
+00:16:50,320 --> 00:16:55,120
+diseases caused by larger genes might
+
+364
+00:16:52,639 --> 00:16:57,040
+not be treatable with conventional gene
+
+365
+00:16:55,120 --> 00:17:00,880
+replacement therapy which is where you
+
+366
+00:16:57,040 --> 00:17:04,000
+just give a replacement gene. Um
+
+367
+00:17:00,880 --> 00:17:07,039
+which means that novel um no novel ways
+
+368
+00:17:04,000 --> 00:17:09,439
+to modulate the disease may need to be
+
+369
+00:17:07,039 --> 00:17:12,880
+um developed. So this is the case for
+
+370
+00:17:09,439 --> 00:17:16,160
+Angelman syndrome with the EB UB3A gene
+
+371
+00:17:12,880 --> 00:17:18,799
+which can't fit inside the uh the AEV
+
+372
+00:17:16,160 --> 00:17:22,720
+capsid which means we have to have uh
+
+373
+00:17:18,799 --> 00:17:28,240
+new new ways of addressing it.
+
+374
+00:17:22,720 --> 00:17:31,039
+So the AEV is a tiny virus and it uh
+
+375
+00:17:28,240 --> 00:17:33,840
+it's taken into the cell by a small
+
+376
+00:17:31,039 --> 00:17:36,240
+bubble-like structure called an endoome.
+
+377
+00:17:33,840 --> 00:17:38,080
+It travels through the cytoplasm to the
+
+378
+00:17:36,240 --> 00:17:40,400
+nucleus of the cell which is the control
+
+379
+00:17:38,080 --> 00:17:44,240
+center of the cell which is where all of
+
+380
+00:17:40,400 --> 00:17:46,320
+all of our DNA normally lives.
+
+381
+00:17:44,240 --> 00:17:50,000
+Now two different different gene
+
+382
+00:17:46,320 --> 00:17:52,880
+therapies approach this differently. You
+
+383
+00:17:50,000 --> 00:17:56,640
+can have some gene therapies that will
+
+384
+00:17:52,880 --> 00:17:58,960
+for some viruses will insert
+
+385
+00:17:56,640 --> 00:18:01,120
+uh insert the genetic material into the
+
+386
+00:17:58,960 --> 00:18:03,360
+person's genome.
+
+387
+00:18:01,120 --> 00:18:05,840
+The AAV
+
+388
+00:18:03,360 --> 00:18:08,640
+forms delivers the genetic material and
+
+389
+00:18:05,840 --> 00:18:12,720
+that genetic material forms this small
+
+390
+00:18:08,640 --> 00:18:16,400
+circular st shape called an epiome and
+
+391
+00:18:12,720 --> 00:18:18,880
+it lives outside of your own DNA. So it
+
+392
+00:18:16,400 --> 00:18:21,120
+doesn't integrate into the the the
+
+393
+00:18:18,880 --> 00:18:24,919
+person's DNA. There are pros and cons
+
+394
+00:18:21,120 --> 00:18:24,919
+associated with both.
+
+395
+00:18:25,520 --> 00:18:30,559
+In terms of the trans gene, the elements
+
+396
+00:18:28,160 --> 00:18:34,160
+that we use resemble our our own
+
+397
+00:18:30,559 --> 00:18:38,000
+endogenous DNA. So we have the promoter
+
+398
+00:18:34,160 --> 00:18:41,200
+and that can be um natural or synthetic.
+
+399
+00:18:38,000 --> 00:18:43,840
+It can be cell specific or it can be ubi
+
+400
+00:18:41,200 --> 00:18:46,400
+ubiquitous so expressed everywhere. Then
+
+401
+00:18:43,840 --> 00:18:49,120
+you have the therapeutic trans gene. And
+
+402
+00:18:46,400 --> 00:18:51,840
+then you have regulatory elements that
+
+403
+00:18:49,120 --> 00:18:56,280
+enable you to modulate up and down where
+
+404
+00:18:51,840 --> 00:18:56,280
+and when the gene is expressed.
+
+405
+00:18:56,480 --> 00:19:03,039
+So historically, most gene therapies
+
+406
+00:18:59,520 --> 00:19:05,760
+have been used to deliver the the
+
+407
+00:19:03,039 --> 00:19:06,880
+missing protein um that causes the
+
+408
+00:19:05,760 --> 00:19:10,160
+disease. So that's called gene
+
+409
+00:19:06,880 --> 00:19:12,160
+replacement therapy.
+
+410
+00:19:10,160 --> 00:19:15,480
+But we can do much more than just
+
+411
+00:19:12,160 --> 00:19:15,480
+replace proteins.
+
+412
+00:19:15,600 --> 00:19:19,600
+So
+
+413
+00:19:17,440 --> 00:19:21,840
+these are all again fairly broad
+
+414
+00:19:19,600 --> 00:19:24,400
+categories. But we have we are have the
+
+415
+00:19:21,840 --> 00:19:26,480
+ability now to add functional copies,
+
+416
+00:19:24,400 --> 00:19:28,160
+regulate or silence gene to prevent
+
+417
+00:19:26,480 --> 00:19:31,440
+disease.
+
+418
+00:19:28,160 --> 00:19:35,360
+Um and really what what's the the the
+
+419
+00:19:31,440 --> 00:19:37,360
+approach we use depends on the outcomes
+
+420
+00:19:35,360 --> 00:19:39,120
+that you need and the fundamental basis
+
+421
+00:19:37,360 --> 00:19:41,039
+of the disease which is why it's really
+
+422
+00:19:39,120 --> 00:19:43,360
+important that we understand the
+
+423
+00:19:41,039 --> 00:19:46,400
+underlying herpathology and the
+
+424
+00:19:43,360 --> 00:19:48,480
+neurobiological processes of a disease.
+
+425
+00:19:46,400 --> 00:19:52,080
+So gene replacement is where we give a
+
+426
+00:19:48,480 --> 00:19:54,559
+gene and it um and it essentially
+
+427
+00:19:52,080 --> 00:19:57,600
+produces a new protein.
+
+428
+00:19:54,559 --> 00:20:00,559
+Gene regulation is where we deliver
+
+429
+00:19:57,600 --> 00:20:03,360
+transcription factors that adjust gene
+
+430
+00:20:00,559 --> 00:20:05,919
+activity by using these regulatory
+
+431
+00:20:03,360 --> 00:20:09,120
+elements. So this is the approach taken
+
+432
+00:20:05,919 --> 00:20:11,280
+uh by encoded for our program ETX 101
+
+433
+00:20:09,120 --> 00:20:13,919
+for dy syndrome which is a haplo
+
+434
+00:20:11,280 --> 00:20:16,480
+insufficiency meaning only one copy of
+
+435
+00:20:13,919 --> 00:20:18,799
+the gene works. So we deliver
+
+436
+00:20:16,480 --> 00:20:22,400
+transcription factors that bind to the
+
+437
+00:20:18,799 --> 00:20:25,520
+functional copy and turn up that missing
+
+438
+00:20:22,400 --> 00:20:28,000
+copy that that extra copy to produce
+
+439
+00:20:25,520 --> 00:20:32,240
+more protein.
+
+440
+00:20:28,000 --> 00:20:36,000
+Gene silencing essentially allows us to
+
+441
+00:20:32,240 --> 00:20:39,280
+um to stop the stop the um translation
+
+442
+00:20:36,000 --> 00:20:43,360
+of toxic proteins that cause harm.
+
+443
+00:20:39,280 --> 00:20:45,919
+So with um with things like microRNAs,
+
+444
+00:20:43,360 --> 00:20:50,640
+small interfering RNAs, short hairpin
+
+445
+00:20:45,919 --> 00:20:52,480
+RNAs, essentially we um we deliver we
+
+446
+00:20:50,640 --> 00:20:56,880
+deliver these
+
+447
+00:20:52,480 --> 00:20:59,679
+RNAs that then bind to the messenger RNA
+
+448
+00:20:56,880 --> 00:21:02,640
+and stop that messenger RNA being read
+
+449
+00:20:59,679 --> 00:21:05,919
+and turned into protein. So, think of it
+
+450
+00:21:02,640 --> 00:21:07,919
+back to the assembly guide uh which the
+
+451
+00:21:05,919 --> 00:21:12,000
+workers need to be able to read and
+
+452
+00:21:07,919 --> 00:21:14,880
+produce the the product and these gi
+
+453
+00:21:12,000 --> 00:21:16,400
+these gene silencing technologies take a
+
+454
+00:21:14,880 --> 00:21:18,880
+black pen and scribble all over the
+
+455
+00:21:16,400 --> 00:21:20,799
+assembly guide so nobody can read it. Um
+
+456
+00:21:18,880 --> 00:21:23,200
+so that so that there is no product
+
+457
+00:21:20,799 --> 00:21:25,280
+produced.
+
+458
+00:21:23,200 --> 00:21:29,440
+And then gene editing is a little bit
+
+459
+00:21:25,280 --> 00:21:32,080
+different in that we use uh what we call
+
+460
+00:21:29,440 --> 00:21:35,280
+molecular scissors to go and edit the
+
+461
+00:21:32,080 --> 00:21:37,360
+person's DNA directly. So Michael talked
+
+462
+00:21:35,280 --> 00:21:40,480
+this morning about crisper and that
+
+463
+00:21:37,360 --> 00:21:42,320
+would be a gene editing technology.
+
+464
+00:21:40,480 --> 00:21:44,240
+So essentially we have a range of
+
+465
+00:21:42,320 --> 00:21:47,440
+different mechanisms that we can use
+
+466
+00:21:44,240 --> 00:21:49,120
+based off the disease that let us target
+
+467
+00:21:47,440 --> 00:21:52,120
+different conditions with customized
+
+468
+00:21:49,120 --> 00:21:52,120
+designs.
+
+469
+00:21:56,480 --> 00:22:01,360
+One of the important things about gene
+
+470
+00:21:58,080 --> 00:22:04,159
+therapies is that
+
+471
+00:22:01,360 --> 00:22:07,600
+once you give it, we hope that it lasts
+
+472
+00:22:04,159 --> 00:22:09,360
+forever and you can't take it away. That
+
+473
+00:22:07,600 --> 00:22:11,840
+means development of gene therapies is
+
+474
+00:22:09,360 --> 00:22:14,960
+complex and it involves a lot of
+
+475
+00:22:11,840 --> 00:22:18,080
+interdependent factors.
+
+476
+00:22:14,960 --> 00:22:20,559
+So it's absolutely critical that we
+
+477
+00:22:18,080 --> 00:22:23,919
+understand the disease biology so we can
+
+478
+00:22:20,559 --> 00:22:26,480
+design tools that address the underlying
+
+479
+00:22:23,919 --> 00:22:28,480
+cause of the disease.
+
+480
+00:22:26,480 --> 00:22:31,919
+As we've already heard, animal models
+
+481
+00:22:28,480 --> 00:22:35,120
+are really really important not only to
+
+482
+00:22:31,919 --> 00:22:36,960
+test safety but also so that we can
+
+483
+00:22:35,120 --> 00:22:40,640
+actually determine potentially
+
+484
+00:22:36,960 --> 00:22:43,760
+therapeutic doses for human trials.
+
+485
+00:22:40,640 --> 00:22:46,159
+again because because you we don't think
+
+486
+00:22:43,760 --> 00:22:49,360
+we can give gene therapy again yet. It's
+
+487
+00:22:46,159 --> 00:22:52,159
+I'll come to that in a moment. And um
+
+488
+00:22:49,360 --> 00:22:54,640
+you can't take it away. You want all of
+
+489
+00:22:52,159 --> 00:22:56,880
+the doses that you give in human trials
+
+490
+00:22:54,640 --> 00:22:59,679
+to be potentially efficacious based off
+
+491
+00:22:56,880 --> 00:23:01,760
+the work that you do in animal models.
+
+492
+00:22:59,679 --> 00:23:03,520
+So that animal research is absolutely
+
+493
+00:23:01,760 --> 00:23:06,960
+critical and has to be done very very
+
+494
+00:23:03,520 --> 00:23:08,720
+thoughtfully before you start humans.
+
+495
+00:23:06,960 --> 00:23:11,120
+We need a robust understanding of the
+
+496
+00:23:08,720 --> 00:23:13,120
+natural history of the disease. Uh we
+
+497
+00:23:11,120 --> 00:23:15,120
+need to again understand what are the
+
+498
+00:23:13,120 --> 00:23:17,679
+signs and the symptoms that we are
+
+499
+00:23:15,120 --> 00:23:20,080
+trying to address. Uh we need to be able
+
+500
+00:23:17,679 --> 00:23:22,480
+to then you understand what is
+
+501
+00:23:20,080 --> 00:23:25,039
+meaningful to the families and what do
+
+502
+00:23:22,480 --> 00:23:27,039
+we think that we can um change over the
+
+503
+00:23:25,039 --> 00:23:31,440
+time course of or time course of a
+
+504
+00:23:27,039 --> 00:23:33,280
+clinical trial so that we can um
+
+505
+00:23:31,440 --> 00:23:35,679
+so that we can select the right end
+
+506
+00:23:33,280 --> 00:23:37,840
+points for the clinical trial.
+
+507
+00:23:35,679 --> 00:23:40,480
+So the work that the angel community's
+
+508
+00:23:37,840 --> 00:23:42,320
+already been doing in this regard to to
+
+509
+00:23:40,480 --> 00:23:44,880
+to you know track and understand the
+
+510
+00:23:42,320 --> 00:23:48,799
+natural history is incredibly helpful
+
+511
+00:23:44,880 --> 00:23:51,840
+for people coming in to develop drugs.
+
+512
+00:23:48,799 --> 00:23:56,000
+Clinical trials for gene therapies are
+
+513
+00:23:51,840 --> 00:23:58,720
+complex. Um they
+
+514
+00:23:56,000 --> 00:24:00,799
+they are long and they because we are
+
+515
+00:23:58,720 --> 00:24:03,039
+trying to again address the range and
+
+516
+00:24:00,799 --> 00:24:05,120
+signs and symptoms. It means that we're
+
+517
+00:24:03,039 --> 00:24:08,159
+assessing a lot and families
+
+518
+00:24:05,120 --> 00:24:10,320
+participating you are really taking
+
+519
+00:24:08,159 --> 00:24:12,640
+taking a big step in participating it
+
+520
+00:24:10,320 --> 00:24:15,279
+it's a huge ask
+
+521
+00:24:12,640 --> 00:24:17,919
+typically speaking you know the the
+
+522
+00:24:15,279 --> 00:24:19,840
+primary end point so the first time
+
+523
+00:24:17,919 --> 00:24:22,080
+point at which you you assess is the
+
+524
+00:24:19,840 --> 00:24:24,960
+drug working is usually over the course
+
+525
+00:24:22,080 --> 00:24:28,159
+of about a year and then the FDA usually
+
+526
+00:24:24,960 --> 00:24:30,080
+requires that we follow patients for
+
+527
+00:24:28,159 --> 00:24:32,880
+five years and then maybe up to 15
+
+528
+00:24:30,080 --> 00:24:35,440
+years. So again, participating is a huge
+
+529
+00:24:32,880 --> 00:24:37,919
+commitment for families.
+
+530
+00:24:35,440 --> 00:24:40,640
+Regulatory processes are a little bit
+
+531
+00:24:37,919 --> 00:24:44,000
+different um to to traditional small
+
+532
+00:24:40,640 --> 00:24:46,240
+molecules. Um I won't go into that here.
+
+533
+00:24:44,000 --> 00:24:47,919
+Um and if you think about, you know, the
+
+534
+00:24:46,240 --> 00:24:50,000
+difference between gene therapy trials
+
+535
+00:24:47,919 --> 00:24:52,400
+versus say those four anti-seizure
+
+536
+00:24:50,000 --> 00:24:54,960
+medications that are just looking at
+
+537
+00:24:52,400 --> 00:24:59,200
+seizure reduction um and they're just
+
+538
+00:24:54,960 --> 00:25:02,240
+over, you know, three or four months. Um
+
+539
+00:24:59,200 --> 00:25:05,039
+it's really important to have patient
+
+540
+00:25:02,240 --> 00:25:08,080
+involvement in selecting the meaningful
+
+541
+00:25:05,039 --> 00:25:10,240
+end point and what an appropriate risk
+
+542
+00:25:08,080 --> 00:25:13,279
+benefit the the patient community is
+
+543
+00:25:10,240 --> 00:25:16,080
+willing to willing to tolerate. So it's
+
+544
+00:25:13,279 --> 00:25:19,120
+really important to get your feedback
+
+545
+00:25:16,080 --> 00:25:22,640
+when we're designing these trials.
+
+546
+00:25:19,120 --> 00:25:24,640
+And then given the single um the single
+
+547
+00:25:22,640 --> 00:25:27,840
+administration
+
+548
+00:25:24,640 --> 00:25:29,679
+uh aspect of gene therapy,
+
+549
+00:25:27,840 --> 00:25:32,880
+our reimbursement systems really aren't
+
+550
+00:25:29,679 --> 00:25:35,520
+set up to allow that. Um insurance
+
+551
+00:25:32,880 --> 00:25:36,960
+doesn't really know how to do that. So
+
+552
+00:25:35,520 --> 00:25:38,720
+we really do need to be working with
+
+553
+00:25:36,960 --> 00:25:40,799
+payers to evolve the commercial
+
+554
+00:25:38,720 --> 00:25:42,880
+paradigms so that we can make sure that
+
+555
+00:25:40,799 --> 00:25:44,559
+that patients are able to access these
+
+556
+00:25:42,880 --> 00:25:46,720
+therapies once they have regulatory
+
+557
+00:25:44,559 --> 00:25:51,120
+approval. That's a whole whole different
+
+558
+00:25:46,720 --> 00:25:54,480
+topic and I I won't go into that here.
+
+559
+00:25:51,120 --> 00:25:57,039
+Another thing just to be aware of and is
+
+560
+00:25:54,480 --> 00:26:00,159
+that we still don't really know the
+
+561
+00:25:57,039 --> 00:26:02,960
+optimal time for treatment in CNS
+
+562
+00:26:00,159 --> 00:26:05,360
+disorders. There is some evidence that
+
+563
+00:26:02,960 --> 00:26:08,159
+earlier treatment may lead to better
+
+564
+00:26:05,360 --> 00:26:10,880
+outcomes. It's going to be different on
+
+565
+00:26:08,159 --> 00:26:13,600
+for different disorders and a lot more
+
+566
+00:26:10,880 --> 00:26:16,880
+research is needed. But if you look at
+
+567
+00:26:13,600 --> 00:26:22,279
+the figure here, um, do I have No, I
+
+568
+00:26:16,880 --> 00:26:22,279
+can't do that. Uh, how do I go back?
+
+569
+00:26:22,480 --> 00:26:28,559
+Okay. If you look at the figure here on
+
+570
+00:26:25,360 --> 00:26:31,279
+there's a dotted line on the left just
+
+571
+00:26:28,559 --> 00:26:34,799
+coming up just under the word cognitive
+
+572
+00:26:31,279 --> 00:26:36,320
+that shows essentially neurotypical
+
+573
+00:26:34,799 --> 00:26:38,559
+development.
+
+574
+00:26:36,320 --> 00:26:41,039
+So unaffected children in a disorder
+
+575
+00:26:38,559 --> 00:26:44,400
+called Sanfalippo syndrome.
+
+576
+00:26:41,039 --> 00:26:47,919
+There is a red line there uh which shows
+
+577
+00:26:44,400 --> 00:26:50,480
+the natural history of children who did
+
+578
+00:26:47,919 --> 00:26:55,360
+not receive a treatment. And what this
+
+579
+00:26:50,480 --> 00:26:57,520
+figure really shows is that um there is
+
+580
+00:26:55,360 --> 00:26:59,520
+a child who was treated at about one
+
+581
+00:26:57,520 --> 00:27:01,440
+year of age and after two and a half
+
+582
+00:26:59,520 --> 00:27:04,240
+years of treatment that child is still
+
+583
+00:27:01,440 --> 00:27:06,640
+on the neurotypical trajectory.
+
+584
+00:27:04,240 --> 00:27:09,120
+Children treated around two years of age
+
+585
+00:27:06,640 --> 00:27:12,080
+are tracking also in that neurotypical
+
+586
+00:27:09,120 --> 00:27:14,400
+range. And then children who are treated
+
+587
+00:27:12,080 --> 00:27:16,559
+older than that don't have the same
+
+588
+00:27:14,400 --> 00:27:18,960
+outcomes.
+
+589
+00:27:16,559 --> 00:27:21,120
+Now, we don't expect this to be binary.
+
+590
+00:27:18,960 --> 00:27:23,200
+We still expect that older patients will
+
+591
+00:27:21,120 --> 00:27:25,679
+still be able to derive benefit. We just
+
+592
+00:27:23,200 --> 00:27:28,080
+don't know how long it's going to take
+
+593
+00:27:25,679 --> 00:27:30,960
+uh and and
+
+594
+00:27:28,080 --> 00:27:34,240
+we don't know how much. So when you're
+
+595
+00:27:30,960 --> 00:27:37,279
+testing a new therapy, you need to be
+
+596
+00:27:34,240 --> 00:27:39,600
+sure that the effect you are seeing or
+
+597
+00:27:37,279 --> 00:27:41,120
+not seeing is as a result of the
+
+598
+00:27:39,600 --> 00:27:42,880
+therapy.
+
+599
+00:27:41,120 --> 00:27:45,440
+That means that often in these
+
+600
+00:27:42,880 --> 00:27:48,080
+neurodedevelopmental disorders, we have
+
+601
+00:27:45,440 --> 00:27:50,400
+to start young because the youngest
+
+602
+00:27:48,080 --> 00:27:52,480
+patients are the ones that we anticipate
+
+603
+00:27:50,400 --> 00:27:54,640
+should be able to have the fastest
+
+604
+00:27:52,480 --> 00:27:58,080
+responses over the time course of a
+
+605
+00:27:54,640 --> 00:28:00,399
+clinical trial. Um
+
+606
+00:27:58,080 --> 00:28:03,039
+and then once we've demonstrated that
+
+607
+00:28:00,399 --> 00:28:04,960
+the drug works in those patients, then
+
+608
+00:28:03,039 --> 00:28:07,520
+we can go into older patients to study
+
+609
+00:28:04,960 --> 00:28:09,679
+that. It turns the sort of the
+
+610
+00:28:07,520 --> 00:28:12,240
+traditional drug development paradigm on
+
+611
+00:28:09,679 --> 00:28:14,320
+its head because normally you start in
+
+612
+00:28:12,240 --> 00:28:16,000
+adults and you work younger for new but
+
+613
+00:28:14,320 --> 00:28:18,320
+for neurodedevelopmental disorders where
+
+614
+00:28:16,000 --> 00:28:20,320
+you're again trying to trying to address
+
+615
+00:28:18,320 --> 00:28:22,240
+the whole range of signs and symptoms of
+
+616
+00:28:20,320 --> 00:28:24,720
+the disease. You need to start younger
+
+617
+00:28:22,240 --> 00:28:26,640
+and then move older. But a lot more work
+
+618
+00:28:24,720 --> 00:28:29,279
+is needed to be done on this to really
+
+619
+00:28:26,640 --> 00:28:33,640
+understand um what you know what what
+
+620
+00:28:29,279 --> 00:28:33,640
+this means for each individual disorder.
+
+621
+00:28:38,960 --> 00:28:46,080
+So when delivering anything to the
+
+622
+00:28:42,320 --> 00:28:48,960
+immune system, the immune system reacts.
+
+623
+00:28:46,080 --> 00:28:52,240
+Um and this is the same for gene
+
+624
+00:28:48,960 --> 00:28:55,039
+therapy. We want to be sure that
+
+625
+00:28:52,240 --> 00:28:57,520
+um that we're controlling any immune
+
+626
+00:28:55,039 --> 00:28:59,039
+response to to that that foreign
+
+627
+00:28:57,520 --> 00:29:01,279
+material that's being introduced into
+
+628
+00:28:59,039 --> 00:29:03,679
+the body. So there sort of three
+
+629
+00:29:01,279 --> 00:29:06,480
+different buckets that we think about
+
+630
+00:29:03,679 --> 00:29:08,960
+because these viruses naturally occur.
+
+631
+00:29:06,480 --> 00:29:12,480
+Some people may have been exposed to the
+
+632
+00:29:08,960 --> 00:29:14,799
+wild type virus in in the years before
+
+633
+00:29:12,480 --> 00:29:17,520
+gene therapy. So those patients might
+
+634
+00:29:14,799 --> 00:29:19,440
+have pre-existing immunity which if you
+
+635
+00:29:17,520 --> 00:29:22,880
+then administer the gene therapy the
+
+636
+00:29:19,440 --> 00:29:24,960
+immune system may essentially im mount a
+
+637
+00:29:22,880 --> 00:29:27,600
+response and to stop it from delivering
+
+638
+00:29:24,960 --> 00:29:30,159
+the the therapy.
+
+639
+00:29:27,600 --> 00:29:32,880
+Uh there's also innate immunity. So
+
+640
+00:29:30,159 --> 00:29:35,520
+immediately uh in the hours after gene
+
+641
+00:29:32,880 --> 00:29:38,000
+therapy the immune system again may see
+
+642
+00:29:35,520 --> 00:29:40,000
+this virus and mount an immune response
+
+643
+00:29:38,000 --> 00:29:41,679
+against it. And then you have adaptive
+
+644
+00:29:40,000 --> 00:29:43,760
+immunity which can happen in the days or
+
+645
+00:29:41,679 --> 00:29:45,440
+weeks after gene therapy.
+
+646
+00:29:43,760 --> 00:29:47,520
+where the immune system can develop
+
+647
+00:29:45,440 --> 00:29:49,200
+stronger responses like antibodies or
+
+648
+00:29:47,520 --> 00:29:52,240
+te- cells that can attack either the
+
+649
+00:29:49,200 --> 00:29:54,799
+gene therapy or even the treated cells.
+
+650
+00:29:52,240 --> 00:29:57,200
+To prevent this, we test for antibodies
+
+651
+00:29:54,799 --> 00:29:59,200
+before we uh give treatment. And
+
+652
+00:29:57,200 --> 00:30:01,279
+sometimes patients who already have an
+
+653
+00:29:59,200 --> 00:30:03,360
+immune response may be excluded
+
+654
+00:30:01,279 --> 00:30:05,840
+especially for the early stage trials
+
+655
+00:30:03,360 --> 00:30:07,600
+again where we're trying to figure out
+
+656
+00:30:05,840 --> 00:30:10,240
+does the thing does the gene therapy
+
+657
+00:30:07,600 --> 00:30:11,919
+work or not. We also use medicines
+
+658
+00:30:10,240 --> 00:30:15,120
+called immunosuppressions to calm the
+
+659
+00:30:11,919 --> 00:30:17,520
+immune response before and after. And
+
+660
+00:30:15,120 --> 00:30:19,360
+then we monitor patients very carefully
+
+661
+00:30:17,520 --> 00:30:22,559
+uh over time to manage any potential
+
+662
+00:30:19,360 --> 00:30:25,279
+immune responses.
+
+663
+00:30:22,559 --> 00:30:27,120
+So there are important considerations
+
+664
+00:30:25,279 --> 00:30:29,200
+many of which I've already touched upon
+
+665
+00:30:27,120 --> 00:30:31,360
+here. Understanding the disease symptoms
+
+666
+00:30:29,200 --> 00:30:33,279
+and progression is critical. Um and
+
+667
+00:30:31,360 --> 00:30:35,840
+again all the work you've done is is
+
+668
+00:30:33,279 --> 00:30:39,279
+really helping helping develop therapies
+
+669
+00:30:35,840 --> 00:30:41,279
+because we understand Angelman syndrome.
+
+670
+00:30:39,279 --> 00:30:43,440
+Uh there are delivery channels
+
+671
+00:30:41,279 --> 00:30:45,039
+challenges in hard-to-reach tissues. So
+
+672
+00:30:43,440 --> 00:30:47,360
+again you know if you want to go into
+
+673
+00:30:45,039 --> 00:30:50,240
+the CNS you may need invasive routes of
+
+674
+00:30:47,360 --> 00:30:52,480
+administration.
+
+675
+00:30:50,240 --> 00:30:53,919
+uh as uh as one of the speakers already
+
+676
+00:30:52,480 --> 00:30:58,480
+mentioned this morning, pre-clinical
+
+677
+00:30:53,919 --> 00:31:00,960
+studies are vitally important, but
+
+678
+00:30:58,480 --> 00:31:02,640
+animals are not humans and they don't
+
+679
+00:31:00,960 --> 00:31:04,399
+always predict what happens in humans.
+
+680
+00:31:02,640 --> 00:31:07,840
+So, we have to be very thoughtful and
+
+681
+00:31:04,399 --> 00:31:10,559
+very and very careful before and as we
+
+682
+00:31:07,840 --> 00:31:13,120
+start uh human studies.
+
+683
+00:31:10,559 --> 00:31:16,799
+We are delivering billions of viral
+
+684
+00:31:13,120 --> 00:31:18,559
+particles to patients. Uh and so very
+
+685
+00:31:16,799 --> 00:31:20,480
+high doses of this may cause side
+
+686
+00:31:18,559 --> 00:31:23,360
+effects in the liver. So again we need
+
+687
+00:31:20,480 --> 00:31:26,399
+to be very careful um and and these
+
+688
+00:31:23,360 --> 00:31:28,159
+immune responses may limit future dosing
+
+689
+00:31:26,399 --> 00:31:30,240
+um or repeat administrations which means
+
+690
+00:31:28,159 --> 00:31:32,240
+you need to be um we need to approach
+
+691
+00:31:30,240 --> 00:31:34,159
+clinical trials a little differently
+
+692
+00:31:32,240 --> 00:31:36,720
+because we can't do traditional dose
+
+693
+00:31:34,159 --> 00:31:38,480
+finding studies
+
+694
+00:31:36,720 --> 00:31:40,240
+and everything given everything I just
+
+695
+00:31:38,480 --> 00:31:43,120
+said you know long-term follow-up is
+
+696
+00:31:40,240 --> 00:31:45,440
+needed this is still a nent field we are
+
+697
+00:31:43,120 --> 00:31:48,000
+you know I' I've been doing this for uh
+
+698
+00:31:45,440 --> 00:31:49,919
+over a decade now um and we have a lot
+
+699
+00:31:48,000 --> 00:31:52,240
+more experience
+
+700
+00:31:49,919 --> 00:31:54,320
+in that than when I started, but it's
+
+701
+00:31:52,240 --> 00:31:56,080
+still you we're still learning a lot and
+
+702
+00:31:54,320 --> 00:31:58,159
+so following people over time is going
+
+703
+00:31:56,080 --> 00:32:01,039
+to be really important. But I don't want
+
+704
+00:31:58,159 --> 00:32:02,559
+to sound overly negative. Uh the data
+
+705
+00:32:01,039 --> 00:32:05,919
+that is coming out is incredibly
+
+706
+00:32:02,559 --> 00:32:07,760
+exciting. Um a lot of the approved gene
+
+707
+00:32:05,919 --> 00:32:10,080
+therapies show a very favorable risk
+
+708
+00:32:07,760 --> 00:32:12,080
+benefit and there is a lot of potential
+
+709
+00:32:10,080 --> 00:32:14,240
+now for for conditions that were once
+
+710
+00:32:12,080 --> 00:32:16,480
+thought untreatable.
+
+711
+00:32:14,240 --> 00:32:19,840
+On my last slide, I just, you know,
+
+712
+00:32:16,480 --> 00:32:21,440
+given everything I've just said, um, you
+
+713
+00:32:19,840 --> 00:32:24,000
+development of gene therapies really
+
+714
+00:32:21,440 --> 00:32:27,120
+does take a village. Uh, you know, in
+
+715
+00:32:24,000 --> 00:32:28,799
+sponsors and families and clinicians and
+
+716
+00:32:27,120 --> 00:32:30,640
+regulators and pairs all really need to
+
+717
+00:32:28,799 --> 00:32:33,360
+be working very closely together to help
+
+718
+00:32:30,640 --> 00:32:34,559
+advance these these therapies forward.
+
+719
+00:32:33,360 --> 00:32:38,600
+Thank you for your time and attention
+
+720
+00:32:34,559 --> 00:32:38,600
+and happy to take any questions.
+
+721
+00:32:42,480 --> 00:32:45,840
+Thank you. Welcome. Great.
+
+722
+00:32:44,559 --> 00:32:47,519
+>> Okay, I don't think we have time for
+
+723
+00:32:45,840 --> 00:32:50,799
+questions.
+
+724
+00:32:47,519 --> 00:32:52,640
+>> Thank you very much. Um, so ultimately I
+
+725
+00:32:50,799 --> 00:32:55,600
+think you know what we learned today is
+
+726
+00:32:52,640 --> 00:32:58,399
+that we start with things in a dish. We
+
+727
+00:32:55,600 --> 00:33:00,880
+move to things in animal testing. We
+
+728
+00:32:58,399 --> 00:33:03,120
+understand what we're putting into these
+
+729
+00:33:00,880 --> 00:33:05,039
+drugs in order to try to replace UB3A
+
+730
+00:33:03,120 --> 00:33:06,799
+and how we may want to get it there.
+
+731
+00:33:05,039 --> 00:33:09,039
+Whether that's through a virus, whether
+
+732
+00:33:06,799 --> 00:33:10,720
+that's through a lipid particle, whether
+
+733
+00:33:09,039 --> 00:33:12,880
+that's through some type of editing
+
+734
+00:33:10,720 --> 00:33:14,000
+carrier. um all different ways that
+
+735
+00:33:12,880 --> 00:33:16,000
+we're going to talk about over the next
+
+736
+00:33:14,000 --> 00:33:19,120
+couple days. But I think what's also
+
+737
+00:33:16,000 --> 00:33:20,799
+important to realize is that I I know a
+
+738
+00:33:19,120 --> 00:33:24,399
+lot of people just heard that talk and
+
+739
+00:33:20,799 --> 00:33:26,720
+are super excited, but also heard that
+
+740
+00:33:24,399 --> 00:33:28,240
+um in certain examples of certain gene
+
+741
+00:33:26,720 --> 00:33:31,440
+therapies that are having a profound
+
+742
+00:33:28,240 --> 00:33:33,760
+impact on patients. Almost all of the
+
+743
+00:33:31,440 --> 00:33:36,399
+gene therapies where there's data which
+
+744
+00:33:33,760 --> 00:33:39,840
+Emma showed is in neurodeenerative
+
+745
+00:33:36,399 --> 00:33:41,760
+disorders showing that if you address a
+
+746
+00:33:39,840 --> 00:33:44,480
+neurodeenerative disorder before there
+
+747
+00:33:41,760 --> 00:33:47,279
+are symptoms you can you can tra on a
+
+748
+00:33:44,480 --> 00:33:49,600
+normal neurodedevelopmental trajectory
+
+749
+00:33:47,279 --> 00:33:53,279
+in a neurodedevelopmental disorder like
+
+750
+00:33:49,600 --> 00:33:55,760
+Angelmen that is not degenerative
+
+751
+00:33:53,279 --> 00:33:58,320
+where we are on that trajectory and
+
+752
+00:33:55,760 --> 00:33:59,760
+where we intervene and where we're going
+
+753
+00:33:58,320 --> 00:34:01,840
+to see the greatest benefit is
+
+754
+00:33:59,760 --> 00:34:04,960
+completely unknown.
+
+755
+00:34:01,840 --> 00:34:07,519
+What the animal models actually show if
+
+756
+00:34:04,960 --> 00:34:09,520
+we want to believe anything is that it
+
+757
+00:34:07,519 --> 00:34:11,280
+doesn't matter what age you actually
+
+758
+00:34:09,520 --> 00:34:13,599
+intervene and you'll see that over the
+
+759
+00:34:11,280 --> 00:34:16,320
+course of the next two days. You can see
+
+760
+00:34:13,599 --> 00:34:18,879
+profound benefit at different ages.
+
+761
+00:34:16,320 --> 00:34:22,800
+Similar whether it's adolescent, adult
+
+762
+00:34:18,879 --> 00:34:24,560
+or newborn in some therapeutics where
+
+763
+00:34:22,800 --> 00:34:26,800
+you can really distribute well to the
+
+764
+00:34:24,560 --> 00:34:29,040
+brain. And so it's really important that
+
+765
+00:34:26,800 --> 00:34:30,320
+we don't get deflated. If we're not two
+
+766
+00:34:29,040 --> 00:34:32,159
+years old, we're not going to see
+
+767
+00:34:30,320 --> 00:34:33,839
+benefit. That's not what she was saying.
+
+768
+00:34:32,159 --> 00:34:36,639
+She was just showing an example in a
+
+769
+00:34:33,839 --> 00:34:38,800
+degenerative disorder in which you can
+
+770
+00:34:36,639 --> 00:34:40,399
+not even see a symptom if you treat
+
+771
+00:34:38,800 --> 00:34:42,240
+early enough before there's degeneration
+
+772
+00:34:40,399 --> 00:34:44,320
+of the brain. But I want to acknowledge
+
+773
+00:34:42,240 --> 00:34:46,240
+that in Angelmen, for the example we
+
+774
+00:34:44,320 --> 00:34:48,159
+have over the next couple days, we we
+
+775
+00:34:46,240 --> 00:34:50,000
+don't have degener degeneration of the
+
+776
+00:34:48,159 --> 00:34:52,159
+brain, but we want to address the
+
+777
+00:34:50,000 --> 00:34:54,800
+symptoms as early as possible so our
+
+778
+00:34:52,159 --> 00:34:56,560
+kids don't have to live a long period of
+
+779
+00:34:54,800 --> 00:34:58,160
+time with the symptoms of Angelmen
+
+780
+00:34:56,560 --> 00:35:01,200
+syndrome. And that's our ultimate goal.
+
+781
+00:34:58,160 --> 00:35:01,200
+So, I just want to make that super
+

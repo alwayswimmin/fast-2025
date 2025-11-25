@@ -1,0 +1,464 @@
+1
+00:00:00,080 --> 00:00:04,400
+And then our last talk before we get to
+
+2
+00:00:01,600 --> 00:00:06,640
+vote is Dr. Joel Matthews who's
+
+3
+00:00:04,400 --> 00:00:09,519
+presenting something quite similar an
+
+4
+00:00:06,640 --> 00:00:12,760
+update on Angelman syndrome uh CSF UV3
+
+5
+00:00:09,519 --> 00:00:12,760
+as a biioarker.
+
+6
+00:00:23,439 --> 00:00:28,640
+So I'm the last one to keep you away
+
+7
+00:00:25,119 --> 00:00:29,840
+from um post recession and cocktails and
+
+8
+00:00:28,640 --> 00:00:32,399
+all those sort of things. So I'll try to
+
+9
+00:00:29,840 --> 00:00:35,440
+go fast. So um as Allison said, yes,
+
+10
+00:00:32,399 --> 00:00:37,840
+I'll be speaking very similar. So we um
+
+11
+00:00:35,440 --> 00:00:40,160
+with Biogen had developed a different
+
+12
+00:00:37,840 --> 00:00:42,960
+assay that also measured UB3A within
+
+13
+00:00:40,160 --> 00:00:44,800
+CSF. Um I should say I'm an employee of
+
+14
+00:00:42,960 --> 00:00:47,200
+Ionis.
+
+15
+00:00:44,800 --> 00:00:49,039
+Um and so but before I jump into that, I
+
+16
+00:00:47,200 --> 00:00:51,120
+want to just really we today we've been
+
+17
+00:00:49,039 --> 00:00:52,879
+talking a lot about biomarkers. Um
+
+18
+00:00:51,120 --> 00:00:54,960
+there's been in several different talks
+
+19
+00:00:52,879 --> 00:00:57,920
+people have mentioned them. But why as
+
+20
+00:00:54,960 --> 00:00:59,600
+as drug developers and and people do we
+
+21
+00:00:57,920 --> 00:01:03,520
+care about biomarkers? What what do they
+
+22
+00:00:59,600 --> 00:01:05,040
+do? What do they provide? Um so I can't
+
+23
+00:01:03,520 --> 00:01:08,159
+even see what's up on there. Um so
+
+24
+00:01:05,040 --> 00:01:10,159
+biomarkers um we like to classify them
+
+25
+00:01:08,159 --> 00:01:12,640
+into four different categories. Um the
+
+26
+00:01:10,159 --> 00:01:14,159
+first one is diagnostic and you can
+
+27
+00:01:12,640 --> 00:01:16,720
+think about these as how these will help
+
+28
+00:01:14,159 --> 00:01:18,479
+you to know what's going on inside your
+
+29
+00:01:16,720 --> 00:01:21,360
+body if you have a certain disease or
+
+30
+00:01:18,479 --> 00:01:24,320
+something. um pharmmodynamic or disease.
+
+31
+00:01:21,360 --> 00:01:26,000
+Um these are where we work a lot um as a
+
+32
+00:01:24,320 --> 00:01:28,799
+biomeic scientist and trying to discover
+
+33
+00:01:26,000 --> 00:01:31,040
+these type of um assays and and markers
+
+34
+00:01:28,799 --> 00:01:33,280
+that we can measure. So we can know if
+
+35
+00:01:31,040 --> 00:01:34,880
+if our medicine that we're giving um
+
+36
+00:01:33,280 --> 00:01:36,720
+that we're testing is actually working
+
+37
+00:01:34,880 --> 00:01:38,640
+and if it's hitting the cells that going
+
+38
+00:01:36,720 --> 00:01:40,560
+to the cells that we want it to go to
+
+39
+00:01:38,640 --> 00:01:42,799
+and is it changing the organs in the way
+
+40
+00:01:40,560 --> 00:01:44,720
+that we think is productive. And there's
+
+41
+00:01:42,799 --> 00:01:46,880
+also prognostic biomarkers. These are
+
+42
+00:01:44,720 --> 00:01:49,280
+ones that predict how your condition may
+
+43
+00:01:46,880 --> 00:01:50,640
+change over time. for instance, if your
+
+44
+00:01:49,280 --> 00:01:52,240
+disease is going to be fast or slow
+
+45
+00:01:50,640 --> 00:01:54,640
+progressing
+
+46
+00:01:52,240 --> 00:01:56,479
+um or safety biomarkers basically learn
+
+47
+00:01:54,640 --> 00:02:00,479
+how to track what's happening with your
+
+48
+00:01:56,479 --> 00:02:02,079
+your therapy inside your body. So um in
+
+49
+00:02:00,479 --> 00:02:04,960
+this context as we said we have
+
+50
+00:02:02,079 --> 00:02:07,040
+developed an assay for measuring UB3A um
+
+51
+00:02:04,960 --> 00:02:09,599
+is as a tool to help in our clinical
+
+52
+00:02:07,040 --> 00:02:11,520
+developments. Um, and with your guys'
+
+53
+00:02:09,599 --> 00:02:13,040
+help, we've been able to use samples
+
+54
+00:02:11,520 --> 00:02:14,800
+that we've gotten from some natural
+
+55
+00:02:13,040 --> 00:02:16,959
+history trials to try to start
+
+56
+00:02:14,800 --> 00:02:18,080
+characterizing our assay and
+
+57
+00:02:16,959 --> 00:02:20,080
+understanding some of the
+
+58
+00:02:18,080 --> 00:02:21,599
+characteristics about it um to
+
+59
+00:02:20,080 --> 00:02:24,160
+understand its usefulness within the
+
+60
+00:02:21,599 --> 00:02:26,800
+clinical trial. And so the first one we
+
+61
+00:02:24,160 --> 00:02:29,920
+have here on the um my left, I don't
+
+62
+00:02:26,800 --> 00:02:32,080
+Yeah, your guys left too. um is where we
+
+63
+00:02:29,920 --> 00:02:34,239
+took samples and we ran them in the
+
+64
+00:02:32,080 --> 00:02:37,360
+assay multiple times to see what the
+
+65
+00:02:34,239 --> 00:02:41,120
+variability is within that assay. Um to
+
+66
+00:02:37,360 --> 00:02:42,879
+be able to quantify a sample um a
+
+67
+00:02:41,120 --> 00:02:45,280
+biomarker, you need to have good
+
+68
+00:02:42,879 --> 00:02:48,560
+reproducibility between um different
+
+69
+00:02:45,280 --> 00:02:50,400
+batches. And now with UB3A, because it's
+
+70
+00:02:48,560 --> 00:02:52,080
+expressed in every cell in the body,
+
+71
+00:02:50,400 --> 00:02:54,239
+you'll see there's a couple ones on here
+
+72
+00:02:52,080 --> 00:02:57,040
+that have that are highlighted in in
+
+73
+00:02:54,239 --> 00:02:59,680
+red. Um these are ones that there was
+
+74
+00:02:57,040 --> 00:03:02,319
+the CSF samples were actually had red
+
+75
+00:02:59,680 --> 00:03:04,800
+blood cells in them as sometimes happens
+
+76
+00:03:02,319 --> 00:03:06,400
+in collection. Um but because red blood
+
+77
+00:03:04,800 --> 00:03:10,080
+cells and other cells types that come
+
+78
+00:03:06,400 --> 00:03:12,159
+from blood contain UB3A within them um
+
+79
+00:03:10,080 --> 00:03:13,840
+these ones had higher levels and so they
+
+80
+00:03:12,159 --> 00:03:16,239
+weren't used for calculating
+
+81
+00:03:13,840 --> 00:03:18,400
+reproducibility. The other thing we did
+
+82
+00:03:16,239 --> 00:03:20,319
+um here on the right is you can see
+
+83
+00:03:18,400 --> 00:03:22,480
+where we also as part of one of our
+
+84
+00:03:20,319 --> 00:03:24,879
+natural history trials we did we were
+
+85
+00:03:22,480 --> 00:03:27,599
+able to get CSF samples from two time
+
+86
+00:03:24,879 --> 00:03:30,720
+points where um and then we could
+
+87
+00:03:27,599 --> 00:03:32,879
+compare how UB38 is varying over time
+
+88
+00:03:30,720 --> 00:03:34,560
+within an individual
+
+89
+00:03:32,879 --> 00:03:36,720
+um and you can look at the bottom to see
+
+90
+00:03:34,560 --> 00:03:38,959
+the statistics for that. The other thing
+
+91
+00:03:36,720 --> 00:03:41,200
+we've done is we've also um tried to
+
+92
+00:03:38,959 --> 00:03:45,360
+understand what is the source of that
+
+93
+00:03:41,200 --> 00:03:48,640
+CSF um UB3A as um was talked about
+
+94
+00:03:45,360 --> 00:03:51,040
+before um there um UB3A is expressed in
+
+95
+00:03:48,640 --> 00:03:52,879
+every cell type in the body and so um
+
+96
+00:03:51,040 --> 00:03:54,720
+can we understand where this is actually
+
+97
+00:03:52,879 --> 00:03:57,280
+coming from and so we did an experiment
+
+98
+00:03:54,720 --> 00:03:59,760
+in rats where we um decreased the levels
+
+99
+00:03:57,280 --> 00:04:01,680
+of U3A using a different ASO than it's
+
+100
+00:03:59,760 --> 00:04:03,680
+being used in the clinic and we were
+
+101
+00:04:01,680 --> 00:04:05,760
+able to see changes within the tissue
+
+102
+00:04:03,680 --> 00:04:09,599
+and the brain tissue but that wasn't
+
+103
+00:04:05,760 --> 00:04:11,280
+reflected in the the CSF. And so we're
+
+104
+00:04:09,599 --> 00:04:13,200
+continuing to follow up on this as well
+
+105
+00:04:11,280 --> 00:04:14,640
+as trying to look at other biomarkers
+
+106
+00:04:13,200 --> 00:04:17,199
+with these samples that we have access
+
+107
+00:04:14,640 --> 00:04:18,799
+to to try to understand um and find
+
+108
+00:04:17,199 --> 00:04:20,799
+biomarkers that can be useful in
+
+109
+00:04:18,799 --> 00:04:24,320
+understanding how our therapy is working
+
+110
+00:04:20,799 --> 00:04:26,240
+and how um patients are are progressing.
+
+111
+00:04:24,320 --> 00:04:28,560
+And so with this, I'd like to just to
+
+112
+00:04:26,240 --> 00:04:30,560
+thank everyone who was involved in um
+
+113
+00:04:28,560 --> 00:04:32,639
+getting the us these CSF samples to be
+
+114
+00:04:30,560 --> 00:04:34,240
+able to do this work um as well as fast
+
+115
+00:04:32,639 --> 00:04:37,520
+and also our all of our academic
+
+116
+00:04:34,240 --> 00:04:37,520
+collaborators. Thank you.
+

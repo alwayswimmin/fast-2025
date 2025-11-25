@@ -1,0 +1,816 @@
+1
+00:00:00,080 --> 00:00:02,960
+So, our next speaker is Dr. Bridget
+
+2
+00:00:01,600 --> 00:00:05,279
+Keller, and she's going to be talking to
+
+3
+00:00:02,960 --> 00:00:08,240
+us about Project Wellcast, p
+
+4
+00:00:05,279 --> 00:00:09,519
+personalizing mental um well wellness
+
+5
+00:00:08,240 --> 00:00:12,000
+support for Angelman Syndrome
+
+6
+00:00:09,519 --> 00:00:13,759
+caregivers, which we all desperately
+
+7
+00:00:12,000 --> 00:00:15,759
+need. So, if somebody can help
+
+8
+00:00:13,759 --> 00:00:19,080
+personalize my mental wellness, that
+
+9
+00:00:15,759 --> 00:00:19,080
+would be great.
+
+10
+00:00:20,200 --> 00:00:23,360
+[Applause]
+
+11
+00:00:23,439 --> 00:00:28,480
+All right, where are the caregivers in
+
+12
+00:00:25,119 --> 00:00:29,840
+the room? Yay. Yay. Okay, give
+
+13
+00:00:28,480 --> 00:00:31,920
+yourselves a round of applause for
+
+14
+00:00:29,840 --> 00:00:33,520
+staying this long in the day. Okay, so
+
+15
+00:00:31,920 --> 00:00:37,440
+this one is for you. I won't talk about
+
+16
+00:00:33,520 --> 00:00:39,280
+any animal models, I promise. Um, so I
+
+17
+00:00:37,440 --> 00:00:41,600
+am going to share with you today results
+
+18
+00:00:39,280 --> 00:00:44,480
+of a recent very large clinical trial
+
+19
+00:00:41,600 --> 00:00:46,719
+that we conducted to understand more
+
+20
+00:00:44,480 --> 00:00:48,800
+about how to support caregivers. The
+
+21
+00:00:46,719 --> 00:00:51,680
+original pilot data for this project was
+
+22
+00:00:48,800 --> 00:00:53,840
+actually funded by ASF in 2019. So all
+
+23
+00:00:51,680 --> 00:00:56,160
+of this started with Angelman syndrome
+
+24
+00:00:53,840 --> 00:00:57,840
+and I want to underscore that. So the
+
+25
+00:00:56,160 --> 00:00:59,840
+goal of our trial was to try to
+
+26
+00:00:57,840 --> 00:01:02,160
+understand how we could match caregivers
+
+27
+00:00:59,840 --> 00:01:05,760
+of people with rare genetic conditions
+
+28
+00:01:02,160 --> 00:01:07,439
+to personalize 100% remote support that
+
+29
+00:01:05,760 --> 00:01:09,840
+would actually meet their unique family
+
+30
+00:01:07,439 --> 00:01:11,280
+needs. So a lot of times when you roll
+
+31
+00:01:09,840 --> 00:01:13,040
+into your local clinic or you see
+
+32
+00:01:11,280 --> 00:01:14,880
+somebody online, they're thinking about
+
+33
+00:01:13,040 --> 00:01:16,799
+two things in terms of what to support
+
+34
+00:01:14,880 --> 00:01:18,400
+you with. One is what are your mental
+
+35
+00:01:16,799 --> 00:01:20,240
+health needs? Do you kind of exceed the
+
+36
+00:01:18,400 --> 00:01:21,840
+threshold on this on the checklist,
+
+37
+00:01:20,240 --> 00:01:23,840
+right? And the other is what's
+
+38
+00:01:21,840 --> 00:01:25,680
+available. But we know that especially
+
+39
+00:01:23,840 --> 00:01:27,600
+for rare families and especially for
+
+40
+00:01:25,680 --> 00:01:30,159
+Angelmen families, a lot else is going
+
+41
+00:01:27,600 --> 00:01:32,159
+on. You might have, you know, compared
+
+42
+00:01:30,159 --> 00:01:34,079
+to other families who are showing up at
+
+43
+00:01:32,159 --> 00:01:36,240
+that clinic, different feelings about
+
+44
+00:01:34,079 --> 00:01:38,799
+Angelmen syndrome. You might have a
+
+45
+00:01:36,240 --> 00:01:40,880
+child who has different needs. You have
+
+46
+00:01:38,799 --> 00:01:42,400
+different levels of existing care. And
+
+47
+00:01:40,880 --> 00:01:44,159
+you might have different forms of other
+
+48
+00:01:42,400 --> 00:01:46,240
+treatments available to you, different
+
+49
+00:01:44,159 --> 00:01:48,240
+cultural factors and values, different
+
+50
+00:01:46,240 --> 00:01:49,360
+social support, caregiving stage, you
+
+51
+00:01:48,240 --> 00:01:51,439
+know, have you been doing this for
+
+52
+00:01:49,360 --> 00:01:53,759
+decades or is it a new diagnosis,
+
+53
+00:01:51,439 --> 00:01:57,119
+personality differences, lifestyle,
+
+54
+00:01:53,759 --> 00:01:58,880
+time, literacy, respit care, lots and
+
+55
+00:01:57,119 --> 00:02:00,560
+lots and lots of things. Um, and we
+
+56
+00:01:58,880 --> 00:02:02,240
+actually are measuring all of this now.
+
+57
+00:02:00,560 --> 00:02:04,399
+And we're trying to understand how do we
+
+58
+00:02:02,240 --> 00:02:06,240
+take not just your score, but the
+
+59
+00:02:04,399 --> 00:02:07,840
+topography of your life to figure out
+
+60
+00:02:06,240 --> 00:02:10,000
+what you need.
+
+61
+00:02:07,840 --> 00:02:12,480
+So, how did we do this? Um, so we
+
+62
+00:02:10,000 --> 00:02:15,280
+received about $3 million from NIH who
+
+63
+00:02:12,480 --> 00:02:17,520
+really cares about this issue to try to
+
+64
+00:02:15,280 --> 00:02:19,280
+develop a precision health tool or an
+
+65
+00:02:17,520 --> 00:02:21,680
+algorithm. And when I say algorithm, I
+
+66
+00:02:19,280 --> 00:02:24,160
+don't mean AI. I mean a, you know, a
+
+67
+00:02:21,680 --> 00:02:26,400
+decision tree that clinicians, policy
+
+68
+00:02:24,160 --> 00:02:28,800
+leaders, PAGS can use to help figure out
+
+69
+00:02:26,400 --> 00:02:30,400
+what to offer their families. So, the
+
+70
+00:02:28,800 --> 00:02:32,160
+first step of this was to design an
+
+71
+00:02:30,400 --> 00:02:34,400
+algorithm. And to do this, we use two
+
+72
+00:02:32,160 --> 00:02:36,000
+primary forms of data. So when families
+
+73
+00:02:34,400 --> 00:02:38,000
+come into the study, they provide two
+
+74
+00:02:36,000 --> 00:02:40,319
+weeks of data collection. One is your
+
+75
+00:02:38,000 --> 00:02:42,560
+standard self report questionnaires that
+
+76
+00:02:40,319 --> 00:02:44,800
+you've done millions of, right? Um the
+
+77
+00:02:42,560 --> 00:02:46,800
+other is innovative. It's ecological
+
+78
+00:02:44,800 --> 00:02:48,480
+momentary assessment where we pinged
+
+79
+00:02:46,800 --> 00:02:50,239
+caregivers smartphones as they went
+
+80
+00:02:48,480 --> 00:02:51,760
+about their days and asked about all of
+
+81
+00:02:50,239 --> 00:02:54,239
+those things I just showed you on the
+
+82
+00:02:51,760 --> 00:02:56,080
+other screen. Together, we formed a
+
+83
+00:02:54,239 --> 00:02:58,800
+clinical decision tree that matched what
+
+84
+00:02:56,080 --> 00:03:00,720
+we know just from science alone on what
+
+85
+00:02:58,800 --> 00:03:02,400
+treatments and support programs that are
+
+86
+00:03:00,720 --> 00:03:03,920
+typically available in communities,
+
+87
+00:03:02,400 --> 00:03:06,159
+things like acceptance and commitment
+
+88
+00:03:03,920 --> 00:03:07,680
+therapy or peer-to-peer coaching, which
+
+89
+00:03:06,159 --> 00:03:10,879
+of these things might best fit
+
+90
+00:03:07,680 --> 00:03:12,480
+caregivers with various unique profiles.
+
+91
+00:03:10,879 --> 00:03:14,080
+We knew we would not get this right, and
+
+92
+00:03:12,480 --> 00:03:15,360
+we told NIH that we were going to be
+
+93
+00:03:14,080 --> 00:03:17,200
+wrong. And I'm very glad they still
+
+94
+00:03:15,360 --> 00:03:19,040
+funded us. And the reason they did that
+
+95
+00:03:17,200 --> 00:03:20,959
+is we told them as we went through this
+
+96
+00:03:19,040 --> 00:03:23,360
+trial, we would test and refine the
+
+97
+00:03:20,959 --> 00:03:25,040
+algorithm. To to do this, we had a
+
+98
+00:03:23,360 --> 00:03:27,200
+community academic partnership that was
+
+99
+00:03:25,040 --> 00:03:29,519
+really incredible. We hired eight rare
+
+100
+00:03:27,200 --> 00:03:30,879
+disorder caregiver coaches who worked on
+
+101
+00:03:29,519 --> 00:03:32,480
+our team, deployed some of the
+
+102
+00:03:30,879 --> 00:03:34,959
+treatments, helped us figure out how to
+
+103
+00:03:32,480 --> 00:03:37,440
+fix our algorithm, and they also worked
+
+104
+00:03:34,959 --> 00:03:39,200
+with over 50 trainees across the United
+
+105
+00:03:37,440 --> 00:03:40,879
+States and New Zealand who offered the
+
+106
+00:03:39,200 --> 00:03:42,480
+treatments to caregivers. So, it also
+
+107
+00:03:40,879 --> 00:03:45,200
+functioned as this great training
+
+108
+00:03:42,480 --> 00:03:47,040
+program for next generation clinicians.
+
+109
+00:03:45,200 --> 00:03:49,120
+So all of these folks would then deploy
+
+110
+00:03:47,040 --> 00:03:50,560
+the algorithm to the f the people in the
+
+111
+00:03:49,120 --> 00:03:52,480
+trial. Half were assigned to the
+
+112
+00:03:50,560 --> 00:03:55,040
+algorithm. Half were assigned to a more
+
+113
+00:03:52,480 --> 00:03:56,959
+random treatment. Um and then we looked
+
+114
+00:03:55,040 --> 00:03:59,920
+at what worked.
+
+115
+00:03:56,959 --> 00:04:02,000
+To do that, we developed a a a protocol
+
+116
+00:03:59,920 --> 00:04:03,920
+that we now called cascade paneling. So
+
+117
+00:04:02,000 --> 00:04:06,159
+this is a new model and I'm sharing the
+
+118
+00:04:03,920 --> 00:04:08,480
+the publication here in case anybody
+
+119
+00:04:06,159 --> 00:04:10,640
+wants to learn more about it. Um to make
+
+120
+00:04:08,480 --> 00:04:12,400
+clinically informed decisions alongside
+
+121
+00:04:10,640 --> 00:04:13,920
+community partners in research settings.
+
+122
+00:04:12,400 --> 00:04:16,479
+So we essentially looked at the data
+
+123
+00:04:13,920 --> 00:04:18,320
+together and we had preset criteria for
+
+124
+00:04:16,479 --> 00:04:20,320
+how we would fix the algorithm based on
+
+125
+00:04:18,320 --> 00:04:22,880
+what the data looked like. And we did
+
+126
+00:04:20,320 --> 00:04:24,639
+that three times. So across the last
+
+127
+00:04:22,880 --> 00:04:26,479
+four semesters, this happened very
+
+128
+00:04:24,639 --> 00:04:28,160
+quickly. We tried three different
+
+129
+00:04:26,479 --> 00:04:29,840
+versions of this algorithm that we
+
+130
+00:04:28,160 --> 00:04:31,919
+refined based on the data in the trial
+
+131
+00:04:29,840 --> 00:04:33,600
+and caregiver input. So I'll just show
+
+132
+00:04:31,919 --> 00:04:35,040
+you a few results and then I would love
+
+133
+00:04:33,600 --> 00:04:36,400
+for you to see us at posters. I think we
+
+134
+00:04:35,040 --> 00:04:38,880
+have like five posters out there, so
+
+135
+00:04:36,400 --> 00:04:41,199
+come visit us. Uh we enrolled over 400
+
+136
+00:04:38,880 --> 00:04:42,800
+families. 64 of those were Angelmen
+
+137
+00:04:41,199 --> 00:04:45,360
+caregivers which we were so excited to
+
+138
+00:04:42,800 --> 00:04:47,120
+see. They were across the US and across
+
+139
+00:04:45,360 --> 00:04:50,000
+this protocol the families received a
+
+140
+00:04:47,120 --> 00:04:51,680
+lot of support over 1,400 coaching
+
+141
+00:04:50,000 --> 00:04:53,280
+sessions. So part of this I won't talk
+
+142
+00:04:51,680 --> 00:04:55,040
+about today is we also looked at peer
+
+143
+00:04:53,280 --> 00:04:57,040
+coaching as a method for boosting
+
+144
+00:04:55,040 --> 00:04:58,320
+engagement in clinical trials. This is
+
+145
+00:04:57,040 --> 00:05:00,400
+something I would love to talk with
+
+146
+00:04:58,320 --> 00:05:02,639
+industry partners about in particular.
+
+147
+00:05:00,400 --> 00:05:05,759
+Um, and so people got coaching, but they
+
+148
+00:05:02,639 --> 00:05:07,600
+also got over 2400 hours of free therapy
+
+149
+00:05:05,759 --> 00:05:10,000
+and support programs deployed by these
+
+150
+00:05:07,600 --> 00:05:12,560
+excellent graduate student trainees. We
+
+151
+00:05:10,000 --> 00:05:14,639
+collected a lot of data, over 80,000 of
+
+152
+00:05:12,560 --> 00:05:16,000
+those smartphone surveys across four
+
+153
+00:05:14,639 --> 00:05:17,680
+semesters. And then we also had
+
+154
+00:05:16,000 --> 00:05:20,560
+self-report forms and some additional
+
+155
+00:05:17,680 --> 00:05:23,280
+behavioral data I won't share here.
+
+156
+00:05:20,560 --> 00:05:25,520
+What did we find? The study was feasible
+
+157
+00:05:23,280 --> 00:05:27,280
+over we hit our 80% metric over and
+
+158
+00:05:25,520 --> 00:05:29,199
+over. So this model of doing everything
+
+159
+00:05:27,280 --> 00:05:31,120
+remotely from assessment to treatment
+
+160
+00:05:29,199 --> 00:05:33,039
+and partnering with these clinical
+
+161
+00:05:31,120 --> 00:05:34,720
+graduate students and these amazing peer
+
+162
+00:05:33,039 --> 00:05:36,880
+coaches worked. The families showed up
+
+163
+00:05:34,720 --> 00:05:38,479
+and the next step is they found it
+
+164
+00:05:36,880 --> 00:05:40,560
+acceptable. Um we actually had to
+
+165
+00:05:38,479 --> 00:05:42,320
+develop a new acceptability tool for
+
+166
+00:05:40,560 --> 00:05:44,400
+this trial because nothing quite existed
+
+167
+00:05:42,320 --> 00:05:46,000
+that looked at both the program and the
+
+168
+00:05:44,400 --> 00:05:47,360
+context and whether it mattered to
+
+169
+00:05:46,000 --> 00:05:49,440
+caregivers. So if you want to learn more
+
+170
+00:05:47,360 --> 00:05:51,360
+about that, we've published it. Um, but
+
+171
+00:05:49,440 --> 00:05:53,840
+according to the threshold of this tool,
+
+172
+00:05:51,360 --> 00:05:55,280
+91% of participants, regardless of
+
+173
+00:05:53,840 --> 00:05:57,280
+whether they got their first choice
+
+174
+00:05:55,280 --> 00:05:59,520
+treatment, found the program to be
+
+175
+00:05:57,280 --> 00:06:01,919
+acceptable. And then finally, it was
+
+176
+00:05:59,520 --> 00:06:03,600
+feasible. We hit our 80% threshold for
+
+177
+00:06:01,919 --> 00:06:07,199
+feasibility across all of the different
+
+178
+00:06:03,600 --> 00:06:09,199
+outcomes. Oh, wait, I'm going backwards.
+
+179
+00:06:07,199 --> 00:06:11,199
+Um, we also found that it was
+
+180
+00:06:09,199 --> 00:06:12,400
+efficacious. So, depression is moving
+
+181
+00:06:11,199 --> 00:06:13,759
+across the treatment. We'll be
+
+182
+00:06:12,400 --> 00:06:15,840
+publishing more about this in the
+
+183
+00:06:13,759 --> 00:06:17,680
+future. Um, and we are also able to look
+
+184
+00:06:15,840 --> 00:06:20,240
+at those more innovative kind of uh,
+
+185
+00:06:17,680 --> 00:06:21,440
+ecological surveys to see outcomes and
+
+186
+00:06:20,240 --> 00:06:22,960
+those are showing us different sources
+
+187
+00:06:21,440 --> 00:06:25,280
+of information. So that'll be a preview
+
+188
+00:06:22,960 --> 00:06:26,880
+to next year. Um, but huge thanks to the
+
+189
+00:06:25,280 --> 00:06:29,600
+big team that made this happen including
+
+190
+00:06:26,880 --> 00:06:32,000
+the investigators, the staff, uh, the
+
+191
+00:06:29,600 --> 00:06:34,000
+peer coaches and all of the trainees.
+
+192
+00:06:32,000 --> 00:06:35,520
+Um, and check out our posters. And I
+
+193
+00:06:34,000 --> 00:06:37,280
+also wanted to mention we offer a free
+
+194
+00:06:35,520 --> 00:06:38,800
+webinar series where we just take one
+
+195
+00:06:37,280 --> 00:06:40,319
+little piece of data from this and share
+
+196
+00:06:38,800 --> 00:06:41,680
+it back with families every month. It's
+
+197
+00:06:40,319 --> 00:06:43,919
+super fun and we would love to have you
+
+198
+00:06:41,680 --> 00:06:47,090
+there. Um, so come see us at posters to
+
+199
+00:06:43,919 --> 00:06:51,680
+learn more. Thanks.
+
+200
+00:06:47,090 --> 00:06:53,120
+[Applause]
+
+201
+00:06:51,680 --> 00:06:54,800
+>> Thanks, Bridget. You know, five slides
+
+202
+00:06:53,120 --> 00:06:56,240
+or 10 slides, it's all good. I'm just
+
+203
+00:06:54,800 --> 00:06:59,440
+kidding. I was like, five slides, 10
+
+204
+00:06:56,240 --> 00:06:59,440
+slides. Like, it's close.
+

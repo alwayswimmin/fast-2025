@@ -1,0 +1,2188 @@
+1
+00:00:00,000 --> 00:00:07,200
+Um, but this next talk is really meant
+
+2
+00:00:02,000 --> 00:00:09,840
+to explain what is UB3A. We all say it.
+
+3
+00:00:07,200 --> 00:00:12,000
+We've all learned to say it. Um, but do
+
+4
+00:00:09,840 --> 00:00:14,799
+we all understand actually what it does
+
+5
+00:00:12,000 --> 00:00:17,840
+and and why it's so important and why
+
+6
+00:00:14,799 --> 00:00:20,160
+ensuring we have UB3A
+
+7
+00:00:17,840 --> 00:00:22,720
+can help to improve the lives of those
+
+8
+00:00:20,160 --> 00:00:25,519
+living with Angelman Syndrome. So, um,
+
+9
+00:00:22,720 --> 00:00:28,400
+I'm excited for you to to hear Dr. Seth
+
+10
+00:00:25,519 --> 00:00:30,480
+Margolus from John Hopkins University. I
+
+11
+00:00:28,400 --> 00:00:32,719
+was lucky enough to hear him speak in at
+
+12
+00:00:30,480 --> 00:00:35,360
+fast Italy last year and when I heard
+
+13
+00:00:32,719 --> 00:00:38,320
+his presentation I was incredibly
+
+14
+00:00:35,360 --> 00:00:41,200
+touched by the intricacies of his
+
+15
+00:00:38,320 --> 00:00:46,239
+knowledge of UB3A and I've been working
+
+16
+00:00:41,200 --> 00:00:48,000
+now on UB3A for almost a decade and I
+
+17
+00:00:46,239 --> 00:00:50,480
+haven't heard someone so elegantly
+
+18
+00:00:48,000 --> 00:00:52,399
+explain what it does. So I thought it
+
+19
+00:00:50,480 --> 00:00:54,640
+was really important that I didn't only
+
+20
+00:00:52,399 --> 00:00:56,960
+hear that but you all heard that. So,
+
+21
+00:00:54,640 --> 00:00:59,760
+I've tasked him with explaining it in a
+
+22
+00:00:56,960 --> 00:01:01,600
+way that we all can understand because
+
+23
+00:00:59,760 --> 00:01:03,760
+it's complicated. It's super
+
+24
+00:01:01,600 --> 00:01:05,199
+complicated. Um, but I think he's going
+
+25
+00:01:03,760 --> 00:01:06,960
+to do that. I previewed his slides and
+
+26
+00:01:05,199 --> 00:01:08,159
+they're excellent. So, I have no doubt
+
+27
+00:01:06,960 --> 00:01:09,200
+that you're going to accomplish this.
+
+28
+00:01:08,159 --> 00:01:10,400
+And you could also explain that your
+
+29
+00:01:09,200 --> 00:01:12,320
+wife is a school teacher. So, you
+
+30
+00:01:10,400 --> 00:01:13,840
+promised me she was going to give a
+
+31
+00:01:12,320 --> 00:01:15,760
+thumbs up to your slides before you
+
+32
+00:01:13,840 --> 00:01:18,720
+actually gave them to our community. So,
+
+33
+00:01:15,760 --> 00:01:21,220
+Seth, thank you.
+
+34
+00:01:18,720 --> 00:01:22,080
+>> All right. Thank you, Seth. Thank you.
+
+35
+00:01:21,220 --> 00:01:24,880
+[applause]
+
+36
+00:01:22,080 --> 00:01:27,920
+All right.
+
+37
+00:01:24,880 --> 00:01:30,479
+Okay. All right. Um, thank you to the
+
+38
+00:01:27,920 --> 00:01:32,400
+Allison and to the organizers for the
+
+39
+00:01:30,479 --> 00:01:35,600
+invitation and thank you Allison for
+
+40
+00:01:32,400 --> 00:01:37,040
+that nice introduction. Um, as Allison
+
+41
+00:01:35,600 --> 00:01:39,920
+said, today I'm going to talk to you
+
+42
+00:01:37,040 --> 00:01:42,159
+about UB3A.
+
+43
+00:01:39,920 --> 00:01:45,600
+Um, and I think before I get into that,
+
+44
+00:01:42,159 --> 00:01:49,680
+I wanted to give some context.
+
+45
+00:01:45,600 --> 00:01:51,840
+So, our nervous systems, central and
+
+46
+00:01:49,680 --> 00:01:53,759
+peripheral nervous systems are made up
+
+47
+00:01:51,840 --> 00:01:56,399
+of neurons. we're all very familiar with
+
+48
+00:01:53,759 --> 00:01:58,799
+and they're really critical for our
+
+49
+00:01:56,399 --> 00:02:01,759
+behaviors, controlling our behaviors and
+
+50
+00:01:58,799 --> 00:02:03,680
+sensing our world. And within our
+
+51
+00:02:01,759 --> 00:02:05,439
+neurons, in all of our neurons and many
+
+52
+00:02:03,680 --> 00:02:07,439
+of you have already now seen from
+
+53
+00:02:05,439 --> 00:02:10,560
+several of the slides in previous talks,
+
+54
+00:02:07,439 --> 00:02:12,720
+these beautifully colored images,
+
+55
+00:02:10,560 --> 00:02:14,560
+these are proteins within all of our
+
+56
+00:02:12,720 --> 00:02:18,400
+neurons. These are proteins and
+
+57
+00:02:14,560 --> 00:02:21,120
+scientists have the capacity to color
+
+58
+00:02:18,400 --> 00:02:22,879
+these proteins. So, and I just name a
+
+59
+00:02:21,120 --> 00:02:24,560
+few up there and the specifics aren't
+
+60
+00:02:22,879 --> 00:02:26,800
+really important. What's really
+
+61
+00:02:24,560 --> 00:02:30,239
+important here is just to realize that
+
+62
+00:02:26,800 --> 00:02:32,480
+within our neurons are these proteins
+
+63
+00:02:30,239 --> 00:02:36,080
+and these proteins are what's doing the
+
+64
+00:02:32,480 --> 00:02:38,879
+functions of our neurons. So, the first
+
+65
+00:02:36,080 --> 00:02:42,640
+sort of take-home is neurons contain
+
+66
+00:02:38,879 --> 00:02:45,200
+proteins that do the work.
+
+67
+00:02:42,640 --> 00:02:47,760
+So, proteins aren't just there. They
+
+68
+00:02:45,200 --> 00:02:50,560
+don't just pop up from nowhere. Proteins
+
+69
+00:02:47,760 --> 00:02:53,120
+are made. proteins are made in all of
+
+70
+00:02:50,560 --> 00:02:56,400
+our cells. Okay? And I'm not going to go
+
+71
+00:02:53,120 --> 00:02:59,680
+through the details of these complex
+
+72
+00:02:56,400 --> 00:03:01,680
+molecular events that make our proteins.
+
+73
+00:02:59,680 --> 00:03:04,560
+But on the top part here where I write
+
+74
+00:03:01,680 --> 00:03:07,200
+nason protein, that's the birth of a
+
+75
+00:03:04,560 --> 00:03:09,200
+protein. And then there's the process
+
+76
+00:03:07,200 --> 00:03:11,680
+where it's folded. And eventually in the
+
+77
+00:03:09,200 --> 00:03:13,760
+folded protein, that's the protein that
+
+78
+00:03:11,680 --> 00:03:16,159
+goes on and does all the important
+
+79
+00:03:13,760 --> 00:03:19,360
+functions of all of our cells, including
+
+80
+00:03:16,159 --> 00:03:22,879
+neurons. And throughout this process,
+
+81
+00:03:19,360 --> 00:03:25,200
+our cells have this amazing capacity to
+
+82
+00:03:22,879 --> 00:03:29,040
+determine whether the protein's being
+
+83
+00:03:25,200 --> 00:03:31,760
+made properly or at a specific time
+
+84
+00:03:29,040 --> 00:03:33,599
+whether we no longer need that protein.
+
+85
+00:03:31,760 --> 00:03:36,480
+And that's this process where you see
+
+86
+00:03:33,599 --> 00:03:39,360
+the red being broken up into tiny little
+
+87
+00:03:36,480 --> 00:03:42,560
+lines. That's protein degradation. And
+
+88
+00:03:39,360 --> 00:03:46,000
+this process in whole is referred to as
+
+89
+00:03:42,560 --> 00:03:49,360
+protein homeostasis. All of our cells,
+
+90
+00:03:46,000 --> 00:03:52,239
+neurons included, want to make sure that
+
+91
+00:03:49,360 --> 00:03:53,760
+our protein levels, both the proteins
+
+92
+00:03:52,239 --> 00:03:56,959
+that are made and the proteins that are
+
+93
+00:03:53,760 --> 00:03:59,120
+degraded are kept at a even level. It's
+
+94
+00:03:56,959 --> 00:04:01,760
+very well regulated.
+
+95
+00:03:59,120 --> 00:04:05,760
+So the next take-home is proteins are
+
+96
+00:04:01,760 --> 00:04:08,560
+made and removed in our neurons. And
+
+97
+00:04:05,760 --> 00:04:12,159
+this removal process is controlled by
+
+98
+00:04:08,560 --> 00:04:15,200
+this incredible structure within all of
+
+99
+00:04:12,159 --> 00:04:17,040
+our cells, including neurons. This is
+
+100
+00:04:15,200 --> 00:04:19,120
+referred to as the proteosome. It's
+
+101
+00:04:17,040 --> 00:04:21,759
+something my lab studies in great
+
+102
+00:04:19,120 --> 00:04:23,360
+detail. And it might look complicated,
+
+103
+00:04:21,759 --> 00:04:25,360
+and I'm not going to get into all of the
+
+104
+00:04:23,360 --> 00:04:27,840
+details of what you're looking at here,
+
+105
+00:04:25,360 --> 00:04:30,160
+but I think you can appreciate that this
+
+106
+00:04:27,840 --> 00:04:33,040
+picture of this 20s proteosome on the
+
+107
+00:04:30,160 --> 00:04:36,000
+left looks kind of like a rectangular
+
+108
+00:04:33,040 --> 00:04:38,160
+barrel. And if we flip it and look down
+
+109
+00:04:36,000 --> 00:04:39,919
+the top, there's a hole there. And that
+
+110
+00:04:38,160 --> 00:04:41,840
+hole is where our proteins go to get
+
+111
+00:04:39,919 --> 00:04:44,800
+degraded.
+
+112
+00:04:41,840 --> 00:04:48,240
+So it's in some regard referred to as
+
+113
+00:04:44,800 --> 00:04:53,280
+the trash can of the cell.
+
+114
+00:04:48,240 --> 00:04:55,759
+So I'm going to go back. Okay. So the
+
+115
+00:04:53,280 --> 00:04:58,240
+protein complex here that's degrading
+
+116
+00:04:55,759 --> 00:05:00,240
+our proteins is really important for
+
+117
+00:04:58,240 --> 00:05:02,720
+cell function, including neuron
+
+118
+00:05:00,240 --> 00:05:05,199
+function. And all it does is degrade
+
+119
+00:05:02,720 --> 00:05:07,360
+proteins. So it needs help in
+
+120
+00:05:05,199 --> 00:05:10,240
+determining which protein should we
+
+121
+00:05:07,360 --> 00:05:12,479
+degrade. Otherwise it would just degrade
+
+122
+00:05:10,240 --> 00:05:14,560
+every protein that it came near. So
+
+123
+00:05:12,479 --> 00:05:16,720
+these larger structures, these gray
+
+124
+00:05:14,560 --> 00:05:19,600
+structures on the top, these are
+
+125
+00:05:16,720 --> 00:05:21,600
+referred to as caps. It looks like a
+
+126
+00:05:19,600 --> 00:05:24,880
+cap. It sits on the top and the bottom.
+
+127
+00:05:21,600 --> 00:05:26,960
+And these structures are very important
+
+128
+00:05:24,880 --> 00:05:29,440
+for unfolding our proteins. Remember you
+
+129
+00:05:26,960 --> 00:05:31,840
+saw that red folded protein. proteins
+
+130
+00:05:29,440 --> 00:05:34,800
+are in that folded shape. These
+
+131
+00:05:31,840 --> 00:05:38,960
+structures unfold the protein and put it
+
+132
+00:05:34,800 --> 00:05:42,000
+into that pore so it can get degraded.
+
+133
+00:05:38,960 --> 00:05:44,080
+So proteosomes remove our proteins.
+
+134
+00:05:42,000 --> 00:05:46,000
+Those are the key players. These are the
+
+135
+00:05:44,080 --> 00:05:48,880
+key critical players in this protein
+
+136
+00:05:46,000 --> 00:05:51,520
+homeostasis process and they're really
+
+137
+00:05:48,880 --> 00:05:54,240
+important for nervous system function.
+
+138
+00:05:51,520 --> 00:05:57,120
+So here's a neuron. It's flashing. It's
+
+139
+00:05:54,240 --> 00:06:00,000
+active. It's functioning. Okay. If I
+
+140
+00:05:57,120 --> 00:06:02,400
+inhibit the proteosome using a small
+
+141
+00:06:00,000 --> 00:06:05,759
+chemical inhibitor, you get a very small
+
+142
+00:06:02,400 --> 00:06:09,360
+change in in activity very rapidly. And
+
+143
+00:06:05,759 --> 00:06:11,280
+this is to illustrate here quantified
+
+144
+00:06:09,360 --> 00:06:14,080
+that a proteome
+
+145
+00:06:11,280 --> 00:06:17,280
+functions to control the neuron and if
+
+146
+00:06:14,080 --> 00:06:20,160
+we inhibit it, it very rapidly can
+
+147
+00:06:17,280 --> 00:06:24,720
+change the neuron's function.
+
+148
+00:06:20,160 --> 00:06:27,280
+Okay. So simply no proteomes you get no
+
+149
+00:06:24,720 --> 00:06:29,600
+protein removal and the neurons don't
+
+150
+00:06:27,280 --> 00:06:32,720
+function well. So the control the
+
+151
+00:06:29,600 --> 00:06:35,840
+proteosome's ability to control protein
+
+152
+00:06:32,720 --> 00:06:37,759
+degradation is critical. And I as as I
+
+153
+00:06:35,840 --> 00:06:40,479
+just mentioned
+
+154
+00:06:37,759 --> 00:06:44,479
+it doesn't just function all by itself.
+
+155
+00:06:40,479 --> 00:06:47,440
+It needs to be told what to degrade. We
+
+156
+00:06:44,479 --> 00:06:48,960
+don't just degrade every protein.
+
+157
+00:06:47,440 --> 00:06:50,560
+Just as you wouldn't just throw
+
+158
+00:06:48,960 --> 00:06:52,560
+everything in your house into the trash
+
+159
+00:06:50,560 --> 00:06:55,039
+can, it needs to be told what to
+
+160
+00:06:52,560 --> 00:06:58,400
+degrade. And that's largely controlled
+
+161
+00:06:55,039 --> 00:07:01,120
+by this process. This is the ubiquitin
+
+162
+00:06:58,400 --> 00:07:03,520
+proteome system. And many of you may
+
+163
+00:07:01,120 --> 00:07:05,840
+already be familiar with this. And
+
+164
+00:07:03,520 --> 00:07:08,080
+there's a series of steps that I just
+
+165
+00:07:05,840 --> 00:07:11,199
+want to quickly take you through. So
+
+166
+00:07:08,080 --> 00:07:14,160
+there is a substrate. A substrate is the
+
+167
+00:07:11,199 --> 00:07:17,199
+protein we want to degrade. And then
+
+168
+00:07:14,160 --> 00:07:18,960
+there are these other molecules E1, E2
+
+169
+00:07:17,199 --> 00:07:21,199
+and E3.
+
+170
+00:07:18,960 --> 00:07:24,160
+They work together
+
+171
+00:07:21,199 --> 00:07:26,080
+to associate with that substrate and put
+
+172
+00:07:24,160 --> 00:07:29,440
+that protein into the proteosome to
+
+173
+00:07:26,080 --> 00:07:34,319
+degrade it. And the E3,
+
+174
+00:07:29,440 --> 00:07:39,520
+that's what UB3A is. UB3A is the E3
+
+175
+00:07:34,319 --> 00:07:41,199
+ligase. It's one of 600 E3 liases in our
+
+176
+00:07:39,520 --> 00:07:45,919
+genome
+
+177
+00:07:41,199 --> 00:07:50,000
+that helps to target specific proteins
+
+178
+00:07:45,919 --> 00:07:52,160
+to go to the proteosome to get degraded.
+
+179
+00:07:50,000 --> 00:07:54,000
+And so
+
+180
+00:07:52,160 --> 00:07:58,800
+what I want you to appreciate is that
+
+181
+00:07:54,000 --> 00:08:02,160
+UB3A in our cells in our neurons tags
+
+182
+00:07:58,800 --> 00:08:05,360
+some proteins, not all proteins, but
+
+183
+00:08:02,160 --> 00:08:07,039
+specific proteins to be removed by the
+
+184
+00:08:05,360 --> 00:08:10,800
+proteosome and that's good for the
+
+185
+00:08:07,039 --> 00:08:13,599
+neuron. That's the key appreciation for
+
+186
+00:08:10,800 --> 00:08:16,160
+understanding UB3A. And there's a lot of
+
+187
+00:08:13,599 --> 00:08:18,160
+mechanistic detail about how it does
+
+188
+00:08:16,160 --> 00:08:20,240
+that. We're not going to get into that
+
+189
+00:08:18,160 --> 00:08:23,199
+here, but I'm going to tell you more at
+
+190
+00:08:20,240 --> 00:08:26,160
+a high level about what are the types of
+
+191
+00:08:23,199 --> 00:08:28,319
+proteins that UB3A might target. How do
+
+192
+00:08:26,160 --> 00:08:32,080
+we go about finding that? And how may
+
+193
+00:08:28,319 --> 00:08:37,120
+that give us insight on how when UB3A is
+
+194
+00:08:32,080 --> 00:08:40,479
+gone, you get such a broad change in
+
+195
+00:08:37,120 --> 00:08:42,399
+developmental function.
+
+196
+00:08:40,479 --> 00:08:44,159
+So, a couple other details that I want
+
+197
+00:08:42,399 --> 00:08:48,080
+to point out.
+
+198
+00:08:44,159 --> 00:08:50,640
+Neuron is a complex cell type. You've
+
+199
+00:08:48,080 --> 00:08:53,920
+seen pictures of these before. You have
+
+200
+00:08:50,640 --> 00:08:55,760
+a soma, a nucleus, this sort of
+
+201
+00:08:53,920 --> 00:08:58,480
+triangular shape at the bottom, but then
+
+202
+00:08:55,760 --> 00:09:01,839
+you have these long processes and there
+
+203
+00:08:58,480 --> 00:09:04,320
+are proteins across the entire neuron
+
+204
+00:09:01,839 --> 00:09:07,120
+including inside the nucleus. And
+
+205
+00:09:04,320 --> 00:09:10,399
+proteosomes are located everywhere and
+
+206
+00:09:07,120 --> 00:09:13,120
+so is UV3A. And you can have ubiquitin
+
+207
+00:09:10,399 --> 00:09:14,640
+mediated proteosome dependent
+
+208
+00:09:13,120 --> 00:09:17,760
+degradation
+
+209
+00:09:14,640 --> 00:09:19,760
+at all of these locations.
+
+210
+00:09:17,760 --> 00:09:22,480
+And what's not always so obvious when
+
+211
+00:09:19,760 --> 00:09:25,279
+you look at these images is that the
+
+212
+00:09:22,480 --> 00:09:27,680
+substrates while the I should back up
+
+213
+00:09:25,279 --> 00:09:30,000
+while the proteosomes and the E3 liases
+
+214
+00:09:27,680 --> 00:09:31,519
+are everywhere the substrates in these
+
+215
+00:09:30,000 --> 00:09:34,320
+different location remember those are
+
+216
+00:09:31,519 --> 00:09:37,120
+the things that want to be degraded are
+
+217
+00:09:34,320 --> 00:09:39,519
+different throughout the cell.
+
+218
+00:09:37,120 --> 00:09:44,480
+I also wanted to make this point which
+
+219
+00:09:39,519 --> 00:09:47,120
+is UB3A is an E3 ligase is disrupted in
+
+220
+00:09:44,480 --> 00:09:49,760
+Angelman syndrome and there are other E3
+
+221
+00:09:47,120 --> 00:09:51,200
+liases that have also been found when
+
+222
+00:09:49,760 --> 00:09:53,600
+mutated lead to other
+
+223
+00:09:51,200 --> 00:09:56,080
+neurodedevelopmental disorders.
+
+224
+00:09:53,600 --> 00:09:57,600
+And so a big question in the field and
+
+225
+00:09:56,080 --> 00:10:01,279
+something my lab is particularly
+
+226
+00:09:57,600 --> 00:10:04,560
+interested in is to understand
+
+227
+00:10:01,279 --> 00:10:06,800
+what protein substrates of E3 liases are
+
+228
+00:10:04,560 --> 00:10:09,680
+relevant to human health. and in
+
+229
+00:10:06,800 --> 00:10:14,000
+particular Angelman syndrome. What are
+
+230
+00:10:09,680 --> 00:10:15,600
+the substrates of UB3A that give rise to
+
+231
+00:10:14,000 --> 00:10:17,760
+phenotypes that lead to
+
+232
+00:10:15,600 --> 00:10:19,760
+neurodedevelopmental dysfunction? And
+
+233
+00:10:17,760 --> 00:10:21,760
+I'm going to tell you towards the end of
+
+234
+00:10:19,760 --> 00:10:24,320
+why I think that has some value in
+
+235
+00:10:21,760 --> 00:10:27,040
+thinking of leading to potential
+
+236
+00:10:24,320 --> 00:10:29,760
+treatments. So I'm going to sort of skip
+
+237
+00:10:27,040 --> 00:10:31,600
+over a lot of years of data and I'm
+
+238
+00:10:29,760 --> 00:10:34,000
+going to share with you at least one
+
+239
+00:10:31,600 --> 00:10:36,160
+substrate first and then I'm going to
+
+240
+00:10:34,000 --> 00:10:39,040
+tell you how we went to find every
+
+241
+00:10:36,160 --> 00:10:41,760
+substrate we could possibly find.
+
+242
+00:10:39,040 --> 00:10:44,560
+So as a postoc when I was working with
+
+243
+00:10:41,760 --> 00:10:47,440
+Michael Greenberg at Harvard we had
+
+244
+00:10:44,560 --> 00:10:50,560
+discovered this protein referred to as a
+
+245
+00:10:47,440 --> 00:10:53,200
+fexin 5 and this protein played a very
+
+246
+00:10:50,560 --> 00:10:55,519
+unique function in the nervous system.
+
+247
+00:10:53,200 --> 00:10:57,440
+So this these neurons are what we're
+
+248
+00:10:55,519 --> 00:11:00,240
+looking at here are fluorescent neurons.
+
+249
+00:10:57,440 --> 00:11:03,920
+These are expressing this GFP protein.
+
+250
+00:11:00,240 --> 00:11:06,240
+And we could quantify the number of
+
+251
+00:11:03,920 --> 00:11:08,320
+contacts these neurons were making with
+
+252
+00:11:06,240 --> 00:11:10,320
+other neurons. And what I hope you can
+
+253
+00:11:08,320 --> 00:11:12,959
+appreciate just from this bar graph is
+
+254
+00:11:10,320 --> 00:11:15,040
+that if you remove effects in five, you
+
+255
+00:11:12,959 --> 00:11:17,519
+get way more contacts. It seems like
+
+256
+00:11:15,040 --> 00:11:20,160
+it's a good thing, but it's actually not
+
+257
+00:11:17,519 --> 00:11:22,079
+the ideal situation.
+
+258
+00:11:20,160 --> 00:11:25,760
+So when we looked at this protein
+
+259
+00:11:22,079 --> 00:11:28,480
+effects and five labeled E5 on the top,
+
+260
+00:11:25,760 --> 00:11:30,480
+I hope you can appreciate and this is a
+
+261
+00:11:28,480 --> 00:11:32,959
+developmental
+
+262
+00:11:30,480 --> 00:11:35,279
+representation of looking at effects and
+
+263
+00:11:32,959 --> 00:11:37,360
+five at different stages in development
+
+264
+00:11:35,279 --> 00:11:40,079
+from neurons and you can see that
+
+265
+00:11:37,360 --> 00:11:43,040
+protein band at the very top going away.
+
+266
+00:11:40,079 --> 00:11:45,440
+That's this protein getting degraded.
+
+267
+00:11:43,040 --> 00:11:46,959
+So naturally this protein gets degraded
+
+268
+00:11:45,440 --> 00:11:50,079
+and that's something we learned as we
+
+269
+00:11:46,959 --> 00:11:53,120
+were doing research on this protein.
+
+270
+00:11:50,079 --> 00:11:56,079
+So, FEXin 5 blocks the neuron and it we
+
+271
+00:11:53,120 --> 00:11:59,120
+found was degraded by the proteosome and
+
+272
+00:11:56,079 --> 00:12:01,040
+it turns out with further research that
+
+273
+00:11:59,120 --> 00:12:05,440
+UB3A
+
+274
+00:12:01,040 --> 00:12:08,160
+was the E3 liase targeting this protein.
+
+275
+00:12:05,440 --> 00:12:11,920
+And what I'm showing you here is that
+
+276
+00:12:08,160 --> 00:12:15,279
+when I mix UB3A with effectin 5, you get
+
+277
+00:12:11,920 --> 00:12:16,959
+this smear, this band that sort of rides
+
+278
+00:12:15,279 --> 00:12:19,519
+up on the gel. And that's an indication
+
+279
+00:12:16,959 --> 00:12:23,200
+that this thing is being ubiquitated.
+
+280
+00:12:19,519 --> 00:12:25,360
+This is being targeted by effectin 5.
+
+281
+00:12:23,200 --> 00:12:27,040
+And in animal models where we remove
+
+282
+00:12:25,360 --> 00:12:28,720
+UB3A,
+
+283
+00:12:27,040 --> 00:12:31,519
+if you look in the middle lane of the
+
+284
+00:12:28,720 --> 00:12:34,320
+three lanes there, you can see there's
+
+285
+00:12:31,519 --> 00:12:36,800
+more effects in five. Okay, so this
+
+286
+00:12:34,320 --> 00:12:37,920
+predicted that UB3A targets effects in
+
+287
+00:12:36,800 --> 00:12:40,399
+five. That's what the data we're
+
+288
+00:12:37,920 --> 00:12:43,920
+demonstrating to the proteosome, which
+
+289
+00:12:40,399 --> 00:12:47,200
+we all learned about now. And so no U3A
+
+290
+00:12:43,920 --> 00:12:49,120
+is too much effect five. Okay, which
+
+291
+00:12:47,200 --> 00:12:51,920
+turns out to not be great for the
+
+292
+00:12:49,120 --> 00:12:53,360
+neuron. And the reason it's not great is
+
+293
+00:12:51,920 --> 00:12:55,519
+because when you have too much effects
+
+294
+00:12:53,360 --> 00:12:58,959
+in five, you actually have reduced
+
+295
+00:12:55,519 --> 00:13:02,240
+synaptic contact. And so we predicted
+
+296
+00:12:58,959 --> 00:13:05,680
+from a substrate sort of hypothesis that
+
+297
+00:13:02,240 --> 00:13:09,600
+if we reduced the effects in five in the
+
+298
+00:13:05,680 --> 00:13:11,680
+UB3A animal models, we would potentially
+
+299
+00:13:09,600 --> 00:13:15,120
+rescue behavior. And that's sort of what
+
+300
+00:13:11,680 --> 00:13:16,959
+we saw. So these behavioral tests sort
+
+301
+00:13:15,120 --> 00:13:19,760
+of evaluates
+
+302
+00:13:16,959 --> 00:13:22,399
+the sort of cognitive functioning of the
+
+303
+00:13:19,760 --> 00:13:25,600
+animal. And we learned on the left side
+
+304
+00:13:22,399 --> 00:13:27,279
+here that the animals have reduced
+
+305
+00:13:25,600 --> 00:13:30,240
+behavior compared to controls. That's
+
+306
+00:13:27,279 --> 00:13:31,920
+these lower error bars.
+
+307
+00:13:30,240 --> 00:13:34,720
+But that if we remove effects in five,
+
+308
+00:13:31,920 --> 00:13:36,560
+we could rescue that. And so reducing
+
+309
+00:13:34,720 --> 00:13:39,200
+effects in five restores function when
+
+310
+00:13:36,560 --> 00:13:42,399
+UB3 is gone. And in a more general
+
+311
+00:13:39,200 --> 00:13:45,360
+sense, it indicated the possibility that
+
+312
+00:13:42,399 --> 00:13:47,920
+substrates might be we know are
+
+313
+00:13:45,360 --> 00:13:50,000
+downstream of UB3A. That when UB3 is
+
+314
+00:13:47,920 --> 00:13:52,560
+gone, those substrates are now
+
+315
+00:13:50,000 --> 00:13:54,320
+deregulated. They're not being degraded
+
+316
+00:13:52,560 --> 00:13:56,639
+or they're not being regulated properly
+
+317
+00:13:54,320 --> 00:13:59,440
+and might be the foundation for some
+
+318
+00:13:56,639 --> 00:14:02,320
+aspects of phenotypes observed in
+
+319
+00:13:59,440 --> 00:14:04,560
+Angelman syndrome. So my lab became very
+
+320
+00:14:02,320 --> 00:14:07,440
+interested in like what are all the
+
+321
+00:14:04,560 --> 00:14:09,440
+substrates of UB3A? lot of technology
+
+322
+00:14:07,440 --> 00:14:11,519
+today allows us affords us the
+
+323
+00:14:09,440 --> 00:14:14,560
+opportunity to sort of go after
+
+324
+00:14:11,519 --> 00:14:17,120
+everything at once. So what this is sort
+
+325
+00:14:14,560 --> 00:14:21,360
+of de this image here is sort of showing
+
+326
+00:14:17,120 --> 00:14:23,199
+you is a sort of experimental outline of
+
+327
+00:14:21,360 --> 00:14:27,040
+what we did and I can take you through
+
+328
+00:14:23,199 --> 00:14:30,399
+it briefly. So we have basically glass
+
+329
+00:14:27,040 --> 00:14:32,880
+slides with 20,000 human proteins
+
+330
+00:14:30,399 --> 00:14:35,920
+printed on the slides. We can then
+
+331
+00:14:32,880 --> 00:14:39,680
+incubate remember the E1, E2 and in this
+
+332
+00:14:35,920 --> 00:14:41,519
+case UB3A and ubiquitin on these slides
+
+333
+00:14:39,680 --> 00:14:44,560
+and we could look at every protein that
+
+334
+00:14:41,519 --> 00:14:46,880
+could potentially be ubiquitated by
+
+335
+00:14:44,560 --> 00:14:49,440
+UB3A.
+
+336
+00:14:46,880 --> 00:14:52,399
+And on the right is a heat map. This
+
+337
+00:14:49,440 --> 00:14:55,199
+sort of demonstrates things proteins
+
+338
+00:14:52,399 --> 00:14:57,199
+that are more ubiquitated with UB3A
+
+339
+00:14:55,199 --> 00:14:59,920
+versus controls.
+
+340
+00:14:57,199 --> 00:15:03,279
+So what do we learn? UB3A has many
+
+341
+00:14:59,920 --> 00:15:05,199
+possible protein targets
+
+342
+00:15:03,279 --> 00:15:08,399
+and it's hard actually to look at the
+
+343
+00:15:05,199 --> 00:15:10,399
+data and you know easily separate out
+
+344
+00:15:08,399 --> 00:15:11,839
+which are the most important targets,
+
+345
+00:15:10,399 --> 00:15:13,680
+which are the ones that might have the
+
+346
+00:15:11,839 --> 00:15:16,399
+highest relevance. And so you have to
+
+347
+00:15:13,680 --> 00:15:20,240
+take your time to systematically
+
+348
+00:15:16,399 --> 00:15:22,079
+think about this and use
+
+349
+00:15:20,240 --> 00:15:23,760
+artificial intelligence or other types
+
+350
+00:15:22,079 --> 00:15:26,160
+of approaches to really begin to
+
+351
+00:15:23,760 --> 00:15:27,519
+understand what does all of this mean?
+
+352
+00:15:26,160 --> 00:15:30,160
+And I also want to keep something in
+
+353
+00:15:27,519 --> 00:15:34,160
+mind. Even though we see all of these
+
+354
+00:15:30,160 --> 00:15:37,279
+proteins that can be ubiquitated
+
+355
+00:15:34,160 --> 00:15:41,120
+by UB3A, it doesn't mean that they all
+
+356
+00:15:37,279 --> 00:15:44,800
+are being ubiquitated in our neurons
+
+357
+00:15:41,120 --> 00:15:48,000
+equally well or at least in a capacity
+
+358
+00:15:44,800 --> 00:15:50,639
+that mediates effects on our biology.
+
+359
+00:15:48,000 --> 00:15:52,320
+But it gives us a foundation.
+
+360
+00:15:50,639 --> 00:15:54,959
+So when we look at all these different
+
+361
+00:15:52,320 --> 00:15:56,880
+proteins and we try to understand what
+
+362
+00:15:54,959 --> 00:15:59,040
+are the different classes of proteins
+
+363
+00:15:56,880 --> 00:16:01,040
+we're seeing a couple things come out
+
+364
+00:15:59,040 --> 00:16:03,360
+that are interesting. Many of them are
+
+365
+00:16:01,040 --> 00:16:05,600
+expressed in the brain. Some of those
+
+366
+00:16:03,360 --> 00:16:08,240
+substrates are associated with other
+
+367
+00:16:05,600 --> 00:16:10,079
+neurodedevelopmental dysfunction. And
+
+368
+00:16:08,240 --> 00:16:12,959
+there are various pathways that might
+
+369
+00:16:10,079 --> 00:16:14,639
+indicate a relationship between the loss
+
+370
+00:16:12,959 --> 00:16:17,040
+of UB3A
+
+371
+00:16:14,639 --> 00:16:20,160
+and changes in some of the behaviors
+
+372
+00:16:17,040 --> 00:16:22,720
+that we've seen including motor deficits
+
+373
+00:16:20,160 --> 00:16:24,399
+and others that I think this group will
+
+374
+00:16:22,720 --> 00:16:27,920
+hear more about in the talks to coming
+
+375
+00:16:24,399 --> 00:16:30,639
+and are very familiar with.
+
+376
+00:16:27,920 --> 00:16:35,519
+So the sort of take-home here is some
+
+377
+00:16:30,639 --> 00:16:38,480
+UB3 targets are known a typo there to
+
+378
+00:16:35,519 --> 00:16:42,160
+impact various brain disease and be a
+
+379
+00:16:38,480 --> 00:16:44,160
+part of many brain processes. Okay. So
+
+380
+00:16:42,160 --> 00:16:47,360
+what do we do with this information?
+
+381
+00:16:44,160 --> 00:16:49,759
+Clearly adding back UB3A makes the most
+
+382
+00:16:47,360 --> 00:16:52,560
+sense. I think it's really the best way
+
+383
+00:16:49,759 --> 00:16:55,360
+to go because it's going to take care of
+
+384
+00:16:52,560 --> 00:16:57,920
+the loss of capacity of targeting these
+
+385
+00:16:55,360 --> 00:17:00,880
+different substrates. But if we were to
+
+386
+00:16:57,920 --> 00:17:03,600
+actually want to go after specific
+
+387
+00:17:00,880 --> 00:17:05,360
+substrates such as say effects in five,
+
+388
+00:17:03,600 --> 00:17:07,600
+how would we do that? Is that even
+
+389
+00:17:05,360 --> 00:17:10,400
+possible? That seems really hard. Well,
+
+390
+00:17:07,600 --> 00:17:13,280
+I'll tell you that technology today is
+
+391
+00:17:10,400 --> 00:17:16,160
+given us the opportunity to do that. And
+
+392
+00:17:13,280 --> 00:17:18,240
+some of that stems from the recognition
+
+393
+00:17:16,160 --> 00:17:20,640
+and the realization and alpha fold was
+
+394
+00:17:18,240 --> 00:17:23,439
+already introduced that we know the
+
+395
+00:17:20,640 --> 00:17:26,079
+structures or can generate the
+
+396
+00:17:23,439 --> 00:17:30,799
+structures of every one of these
+
+397
+00:17:26,079 --> 00:17:34,320
+substrates in association with UB3A.
+
+398
+00:17:30,799 --> 00:17:37,919
+So this is just an illustration where in
+
+399
+00:17:34,320 --> 00:17:39,919
+blue is the UB3A structure and in orange
+
+400
+00:17:37,919 --> 00:17:42,880
+is different substrates that we
+
+401
+00:17:39,919 --> 00:17:44,960
+identified. Now, why is this important?
+
+402
+00:17:42,880 --> 00:17:48,000
+Well, it's important because it tells us
+
+403
+00:17:44,960 --> 00:17:51,440
+that UB3A binds its substrates
+
+404
+00:17:48,000 --> 00:17:54,640
+as do all liases. Okay? And that means
+
+405
+00:17:51,440 --> 00:17:58,559
+we can control that. We can control it
+
+406
+00:17:54,640 --> 00:18:01,200
+by using or identifying small molecules
+
+407
+00:17:58,559 --> 00:18:02,720
+that can bring together any two proteins
+
+408
+00:18:01,200 --> 00:18:06,240
+together. And these molecules are
+
+409
+00:18:02,720 --> 00:18:09,840
+referred to as molecular glues. So if
+
+410
+00:18:06,240 --> 00:18:12,880
+our goal was to take U was to say we
+
+411
+00:18:09,840 --> 00:18:15,919
+wanted to in the absence of UV3A target
+
+412
+00:18:12,880 --> 00:18:18,960
+one of the substrates, I could build a
+
+413
+00:18:15,919 --> 00:18:21,200
+molecular glue that could bring a liase
+
+414
+00:18:18,960 --> 00:18:24,320
+that is available that is still
+
+415
+00:18:21,200 --> 00:18:27,360
+expressed and target it to a substrate
+
+416
+00:18:24,320 --> 00:18:29,520
+that UB3A would normally target but now
+
+417
+00:18:27,360 --> 00:18:31,360
+can no longer because it's not there.
+
+418
+00:18:29,520 --> 00:18:33,520
+And I just wanted to introduce that
+
+419
+00:18:31,360 --> 00:18:35,440
+technology because I think it's relevant
+
+420
+00:18:33,520 --> 00:18:37,840
+for this audience.
+
+421
+00:18:35,440 --> 00:18:41,200
+So this comes from a collaboration with
+
+422
+00:18:37,840 --> 00:18:43,919
+a team of Hopkins scientists that I'm
+
+423
+00:18:41,200 --> 00:18:47,360
+introducing here where we've spent the
+
+424
+00:18:43,919 --> 00:18:50,240
+last four or five years maybe longer
+
+425
+00:18:47,360 --> 00:18:53,280
+trying to build some technology at
+
+426
+00:18:50,240 --> 00:18:57,039
+John's Hopkins to find these molecular
+
+427
+00:18:53,280 --> 00:19:00,880
+glue type molecules that would allow us
+
+428
+00:18:57,039 --> 00:19:03,200
+to bring together any E3 ligase with any
+
+429
+00:19:00,880 --> 00:19:05,679
+substrate of interest. And we do this in
+
+430
+00:19:03,200 --> 00:19:07,760
+such a way where we can look at as many
+
+431
+00:19:05,679 --> 00:19:09,440
+as possible.
+
+432
+00:19:07,760 --> 00:19:12,720
+Okay.
+
+433
+00:19:09,440 --> 00:19:16,160
+So drugging the human proteome.
+
+434
+00:19:12,720 --> 00:19:18,720
+So you're I've already introduced this
+
+435
+00:19:16,160 --> 00:19:21,039
+process to you to some extent where you
+
+436
+00:19:18,720 --> 00:19:24,000
+have a substrate, okay, and you have an
+
+437
+00:19:21,039 --> 00:19:25,840
+E2 and then you're bringing that
+
+438
+00:19:24,000 --> 00:19:27,760
+substrate all the way down to the point
+
+439
+00:19:25,840 --> 00:19:29,360
+where you're getting to the proteosome
+
+440
+00:19:27,760 --> 00:19:33,039
+where you can then get rid of that
+
+441
+00:19:29,360 --> 00:19:36,080
+substrate. And this little um I guess
+
+442
+00:19:33,039 --> 00:19:39,440
+it's a yellow drug, that's our molecular
+
+443
+00:19:36,080 --> 00:19:41,760
+glue. And our goal has been to identify
+
+444
+00:19:39,440 --> 00:19:44,240
+these molecular glues that bring
+
+445
+00:19:41,760 --> 00:19:47,919
+together an E3 ligase to a substrate of
+
+446
+00:19:44,240 --> 00:19:50,320
+interest to drive it to the proteosome.
+
+447
+00:19:47,919 --> 00:19:52,960
+So simply the way we do this is we can
+
+448
+00:19:50,320 --> 00:19:55,520
+express a large number of different
+
+449
+00:19:52,960 --> 00:19:58,880
+proteins. We can make any one of the
+
+450
+00:19:55,520 --> 00:20:00,000
+20,000 proteins in the human proteome.
+
+451
+00:19:58,880 --> 00:20:02,240
+There's actually more than that because
+
+452
+00:20:00,000 --> 00:20:04,880
+of isoforms, but we can make almost any
+
+453
+00:20:02,240 --> 00:20:07,919
+of them in any E3 liases. So in the
+
+454
+00:20:04,880 --> 00:20:10,160
+context of Angelman syndrome, we've been
+
+455
+00:20:07,919 --> 00:20:12,640
+making liases that we know are available
+
+456
+00:20:10,160 --> 00:20:14,320
+and still expressed and we've been
+
+457
+00:20:12,640 --> 00:20:17,360
+making substrates that we believe to be
+
+458
+00:20:14,320 --> 00:20:19,200
+relevant to the biology. We can then do
+
+459
+00:20:17,360 --> 00:20:20,960
+largecale screening and we can
+
+460
+00:20:19,200 --> 00:20:24,240
+ultimately identify these small
+
+461
+00:20:20,960 --> 00:20:26,240
+compounds that are effectively molecular
+
+462
+00:20:24,240 --> 00:20:28,720
+glues that allow for degradation. And
+
+463
+00:20:26,240 --> 00:20:31,039
+this is early days and this is a complex
+
+464
+00:20:28,720 --> 00:20:33,280
+process but we've had some success and
+
+465
+00:20:31,039 --> 00:20:35,760
+it gives us some opportunity to think
+
+466
+00:20:33,280 --> 00:20:38,960
+more deeply about the fact that there
+
+467
+00:20:35,760 --> 00:20:41,360
+are drug druggable capacities that allow
+
+468
+00:20:38,960 --> 00:20:44,000
+us to control normal cellular
+
+469
+00:20:41,360 --> 00:20:46,000
+degradation to remove target proteins
+
+470
+00:20:44,000 --> 00:20:47,679
+with a purpose and that would be an
+
+471
+00:20:46,000 --> 00:20:50,400
+ultimate goal and being able to test
+
+472
+00:20:47,679 --> 00:20:52,480
+that purpose is of great value moving
+
+473
+00:20:50,400 --> 00:20:54,559
+forward.
+
+474
+00:20:52,480 --> 00:20:57,840
+So I want to summarize getting us back
+
+475
+00:20:54,559 --> 00:21:00,720
+on time here. I want to summarize. So
+
+476
+00:20:57,840 --> 00:21:03,280
+neurons contain proteins that work. I
+
+477
+00:21:00,720 --> 00:21:05,600
+think that's very important to recognize
+
+478
+00:21:03,280 --> 00:21:08,559
+that they the proteins do the work in
+
+479
+00:21:05,600 --> 00:21:11,360
+our neur in our neurons. And proteins
+
+480
+00:21:08,559 --> 00:21:12,799
+are both made and they're removed. And
+
+481
+00:21:11,360 --> 00:21:15,520
+that's also really important to think
+
+482
+00:21:12,799 --> 00:21:19,039
+about. And proteosomes do this process
+
+483
+00:21:15,520 --> 00:21:22,880
+of removal. But you don't just remove
+
+484
+00:21:19,039 --> 00:21:26,080
+any protein, right? you have to
+
+485
+00:21:22,880 --> 00:21:28,240
+selectively choose that protein.
+
+486
+00:21:26,080 --> 00:21:30,000
+Okay. And another point I I sort of
+
+487
+00:21:28,240 --> 00:21:32,000
+skipped here, which is if you don't have
+
+488
+00:21:30,000 --> 00:21:34,400
+the ability to remove the protein, it's
+
+489
+00:21:32,000 --> 00:21:36,880
+not really ideal for the neuron. And the
+
+490
+00:21:34,400 --> 00:21:40,000
+way to specifically remove a protein in
+
+491
+00:21:36,880 --> 00:21:42,640
+the context of UB3A is to tag that
+
+492
+00:21:40,000 --> 00:21:44,240
+protein with ubiquitin, which then sends
+
+493
+00:21:42,640 --> 00:21:47,200
+it to the proteosome, and that's what
+
+494
+00:21:44,240 --> 00:21:49,840
+the neuron wants to have happen.
+
+495
+00:21:47,200 --> 00:21:51,760
+Now we've learned now that UB3A has many
+
+496
+00:21:49,840 --> 00:21:55,440
+many targets.
+
+497
+00:21:51,760 --> 00:21:58,320
+Okay. And those targets to some extent
+
+498
+00:21:55,440 --> 00:22:01,840
+give us insight into how the loss of
+
+499
+00:21:58,320 --> 00:22:03,919
+UB3A might give rise to a variety of
+
+500
+00:22:01,840 --> 00:22:06,480
+different pathways.
+
+501
+00:22:03,919 --> 00:22:08,080
+And reducing a UB3A substrate at least
+
+502
+00:22:06,480 --> 00:22:10,960
+in the one example I shared and there
+
+503
+00:22:08,080 --> 00:22:13,760
+are others in the field restores neuron
+
+504
+00:22:10,960 --> 00:22:16,640
+function when UV3A is gone. and that
+
+505
+00:22:13,760 --> 00:22:19,919
+there's now new technology that even
+
+506
+00:22:16,640 --> 00:22:21,600
+though UB3A may not be there, that would
+
+507
+00:22:19,919 --> 00:22:26,159
+allow us to still target those
+
+508
+00:22:21,600 --> 00:22:28,640
+substrates by co-opting another liase
+
+509
+00:22:26,159 --> 00:22:32,640
+and using a molecular glue to send that
+
+510
+00:22:28,640 --> 00:22:36,320
+substrate of interest to the proteosome.
+
+511
+00:22:32,640 --> 00:22:38,400
+And with that I will end a little early
+
+512
+00:22:36,320 --> 00:22:41,120
+but this none of this work is done
+
+513
+00:22:38,400 --> 00:22:43,280
+without the tremendous help from the
+
+514
+00:22:41,120 --> 00:22:45,600
+researchers that come through the lab as
+
+515
+00:22:43,280 --> 00:22:47,655
+well as the funding sources. So thank
+
+516
+00:22:45,600 --> 00:22:49,675
+you.
+
+517
+00:22:47,655 --> 00:22:49,675
+[applause]
+
+518
+00:22:57,280 --> 00:23:01,039
+That was an excellent talk and I got
+
+519
+00:22:59,200 --> 00:23:03,280
+text messages throughout it just for the
+
+520
+00:23:01,039 --> 00:23:05,600
+record that said that that was the best
+
+521
+00:23:03,280 --> 00:23:07,919
+overview of UB3A function that they've
+
+522
+00:23:05,600 --> 00:23:09,760
+ever heard from scientists. So just so
+
+523
+00:23:07,919 --> 00:23:12,159
+you're aware that was amazing and
+
+524
+00:23:09,760 --> 00:23:15,520
+hopefully families could keep up with
+
+525
+00:23:12,159 --> 00:23:18,400
+understanding in summary that UB3A is
+
+526
+00:23:15,520 --> 00:23:21,440
+complicated and it has thousands of
+
+527
+00:23:18,400 --> 00:23:23,360
+targets of what proteins it's
+
+528
+00:23:21,440 --> 00:23:25,840
+controlling. Either it's tagging it to
+
+529
+00:23:23,360 --> 00:23:27,200
+be broken down or it's tagging it to be
+
+530
+00:23:25,840 --> 00:23:29,600
+maintained.
+
+531
+00:23:27,200 --> 00:23:32,640
+and trying to understand every
+
+532
+00:23:29,600 --> 00:23:36,000
+downstream target is really hard. Um,
+
+533
+00:23:32,640 --> 00:23:39,440
+and what I learned was that there are
+
+534
+00:23:36,000 --> 00:23:42,080
+600 E3 liases and UB3 is one of them.
+
+535
+00:23:39,440 --> 00:23:45,120
+And this is the result of that one out
+
+536
+00:23:42,080 --> 00:23:48,720
+of 600 liases. That's only E3, not E1
+
+537
+00:23:45,120 --> 00:23:51,280
+and E2, which shows the power of one
+
+538
+00:23:48,720 --> 00:23:53,840
+gene, which is pretty incredible.
+
+539
+00:23:51,280 --> 00:23:56,320
+Therefore, we need to replace that one
+
+540
+00:23:53,840 --> 00:23:58,320
+gene and then we can ultimately affect
+
+541
+00:23:56,320 --> 00:24:00,799
+all the targets. But you need to
+
+542
+00:23:58,320 --> 00:24:03,120
+understand the complication of this.
+
+543
+00:24:00,799 --> 00:24:05,440
+Which is why when we think about how we
+
+544
+00:24:03,120 --> 00:24:07,360
+approach and fund research, we have to
+
+545
+00:24:05,440 --> 00:24:09,360
+think about what is the impact that that
+
+546
+00:24:07,360 --> 00:24:12,000
+research could have on individuals
+
+547
+00:24:09,360 --> 00:24:12,000
+living with Angelmen.
+

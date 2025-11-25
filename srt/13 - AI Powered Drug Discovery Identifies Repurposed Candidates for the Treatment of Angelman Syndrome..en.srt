@@ -1,0 +1,1088 @@
+1
+00:00:00,080 --> 00:00:04,400
+So our next speaker is Dr. Wayne
+
+2
+00:00:02,320 --> 00:00:06,240
+Chadwick. He's coming to us from Helix
+
+3
+00:00:04,400 --> 00:00:08,880
+and he's going to talk to us about the
+
+4
+00:00:06,240 --> 00:00:10,960
+power of AI in drug discovery and how
+
+5
+00:00:08,880 --> 00:00:12,639
+they found some repurposed candidates in
+
+6
+00:00:10,960 --> 00:00:17,639
+order to think about how we can treat
+
+7
+00:00:12,639 --> 00:00:17,639
+Angelman syndrome. So here we go.
+
+8
+00:00:20,560 --> 00:00:24,279
+Perfect. Thank you.
+
+9
+00:00:25,439 --> 00:00:30,880
+Right. Hi everyone. My disclaimer is I
+
+10
+00:00:28,160 --> 00:00:32,719
+work for Helix and at Helix we do drug
+
+11
+00:00:30,880 --> 00:00:34,800
+discovery a little bit differently. We
+
+12
+00:00:32,719 --> 00:00:36,960
+use artificial intelligence and machine
+
+13
+00:00:34,800 --> 00:00:39,120
+learning technology to predict which
+
+14
+00:00:36,960 --> 00:00:42,000
+drugs could potentially treat a rare
+
+15
+00:00:39,120 --> 00:00:44,079
+disease. And these are drugs which are
+
+16
+00:00:42,000 --> 00:00:47,200
+already on the market. They're approved
+
+17
+00:00:44,079 --> 00:00:50,160
+for different indications and we use our
+
+18
+00:00:47,200 --> 00:00:53,039
+algorithms to determine which of these
+
+19
+00:00:50,160 --> 00:00:54,879
+drugs we could reposition into a
+
+20
+00:00:53,039 --> 00:00:56,320
+particular rare disease such as Angelin
+
+21
+00:00:54,879 --> 00:01:00,160
+syndrome.
+
+22
+00:00:56,320 --> 00:01:02,160
+We've got about a 50% hit rate with the
+
+23
+00:01:00,160 --> 00:01:04,479
+drugs we predict for each of our
+
+24
+00:01:02,160 --> 00:01:07,920
+particular rare diseases we work on and
+
+25
+00:01:04,479 --> 00:01:10,960
+we've uncover typically between one to
+
+26
+00:01:07,920 --> 00:01:14,640
+five uh novel mechanisms for each of the
+
+27
+00:01:10,960 --> 00:01:17,680
+diseases including and syndrome.
+
+28
+00:01:14,640 --> 00:01:20,640
+We we are a clinical stage biotech
+
+29
+00:01:17,680 --> 00:01:23,280
+company. Um we focus on rare and
+
+30
+00:01:20,640 --> 00:01:26,960
+pediatric oncology as well as uh rare
+
+31
+00:01:23,280 --> 00:01:30,159
+neurology. And last time I spoke to you
+
+32
+00:01:26,960 --> 00:01:32,079
+uh I gave you an update on uh our lead
+
+33
+00:01:30,159 --> 00:01:33,840
+candidate for Angelman syndrome which is
+
+34
+00:01:32,079 --> 00:01:36,079
+0553.
+
+35
+00:01:33,840 --> 00:01:37,759
+This is an existing drug again which was
+
+36
+00:01:36,079 --> 00:01:40,000
+approved for a separate indication which
+
+37
+00:01:37,759 --> 00:01:43,280
+we were hoping to reposition into
+
+38
+00:01:40,000 --> 00:01:45,600
+syndrome. It was really potent. It was
+
+39
+00:01:43,280 --> 00:01:48,320
+really impressive. It it it improved
+
+40
+00:01:45,600 --> 00:01:51,119
+multiple uh symptoms or phenotypes in
+
+41
+00:01:48,320 --> 00:01:53,759
+the mouse model.
+
+42
+00:01:51,119 --> 00:01:55,759
+The only problem was it was really
+
+43
+00:01:53,759 --> 00:01:58,079
+designed for short-term use and it
+
+44
+00:01:55,759 --> 00:02:00,960
+wasn't really designed for long-term
+
+45
+00:01:58,079 --> 00:02:03,119
+chronic use. But we were confident that
+
+46
+00:02:00,960 --> 00:02:05,600
+we could overcome that problem by
+
+47
+00:02:03,119 --> 00:02:08,239
+reformulating the drug. And that means
+
+48
+00:02:05,600 --> 00:02:10,000
+changing how the drug is absorbed by the
+
+49
+00:02:08,239 --> 00:02:12,800
+body and distributed throughout the
+
+50
+00:02:10,000 --> 00:02:15,280
+body. And we did this with our partners
+
+51
+00:02:12,800 --> 00:02:17,680
+TRX Bioscience who had a lot of
+
+52
+00:02:15,280 --> 00:02:19,760
+experience in reformulation.
+
+53
+00:02:17,680 --> 00:02:22,959
+However, it became quite evident early
+
+54
+00:02:19,760 --> 00:02:26,400
+on that the physical chemical properties
+
+55
+00:02:22,959 --> 00:02:28,480
+basically the structure of 0553 was
+
+56
+00:02:26,400 --> 00:02:31,120
+somewhat unique and it didn't allow to
+
+57
+00:02:28,480 --> 00:02:33,920
+be reformulated correctly. Basically, it
+
+58
+00:02:31,120 --> 00:02:35,519
+wasn't stable when we doed in the animal
+
+59
+00:02:33,920 --> 00:02:38,319
+and because of this we sort of had to
+
+60
+00:02:35,519 --> 00:02:40,720
+abandon it which was unfortunate but we
+
+61
+00:02:38,319 --> 00:02:44,319
+were really confident in the mechanism
+
+62
+00:02:40,720 --> 00:02:47,120
+which was driving or promoting or
+
+63
+00:02:44,319 --> 00:02:49,120
+improving the symptoms in an mouse. So
+
+64
+00:02:47,120 --> 00:02:50,400
+we thought we'll go back and look at
+
+65
+00:02:49,120 --> 00:02:52,800
+other drugs which have the same
+
+66
+00:02:50,400 --> 00:02:57,599
+mechanism to see if we could identify a
+
+67
+00:02:52,800 --> 00:03:00,959
+drug which was as effective as 0553
+
+68
+00:02:57,599 --> 00:03:04,319
+but maybe was able to be dosed over a
+
+69
+00:03:00,959 --> 00:03:06,239
+long period of time or would allow us to
+
+70
+00:03:04,319 --> 00:03:09,200
+reformulate it so that we could dose it
+
+71
+00:03:06,239 --> 00:03:11,680
+for a long period of time. But we needed
+
+72
+00:03:09,200 --> 00:03:14,800
+a way to compare these drugs with one
+
+73
+00:03:11,680 --> 00:03:17,519
+another and for that we needed to set up
+
+74
+00:03:14,800 --> 00:03:19,840
+an in vitro screen which we've heard
+
+75
+00:03:17,519 --> 00:03:22,239
+about today. So for this we used
+
+76
+00:03:19,840 --> 00:03:26,239
+angelman mouse neurons who have which
+
+77
+00:03:22,239 --> 00:03:28,879
+have a unique morphology. They have very
+
+78
+00:03:26,239 --> 00:03:30,400
+different uh type or or different
+
+79
+00:03:28,879 --> 00:03:33,360
+structure particularly with their
+
+80
+00:03:30,400 --> 00:03:35,200
+dendritic spines. Dendritic spines are
+
+81
+00:03:33,360 --> 00:03:37,760
+basically just the tiny little bumps on
+
+82
+00:03:35,200 --> 00:03:39,599
+the branches of neurons and they're very
+
+83
+00:03:37,760 --> 00:03:41,920
+important for neurons to communicate
+
+84
+00:03:39,599 --> 00:03:44,480
+with one another.
+
+85
+00:03:41,920 --> 00:03:46,480
+Now these angan mouse neurons like the
+
+86
+00:03:44,480 --> 00:03:48,879
+human neurons have fewer dendritic
+
+87
+00:03:46,480 --> 00:03:50,799
+spines and the dendritic spines that
+
+88
+00:03:48,879 --> 00:03:53,920
+they do have are mostly immature and
+
+89
+00:03:50,799 --> 00:03:57,120
+there's very few mature dendritic spines
+
+90
+00:03:53,920 --> 00:03:59,599
+and these factors means that the neurons
+
+91
+00:03:57,120 --> 00:04:02,000
+are just unable to communicate as
+
+92
+00:03:59,599 --> 00:04:05,519
+effectively as a healthy neuron would
+
+93
+00:04:02,000 --> 00:04:07,519
+be. And we knew that 0553 pro from the
+
+94
+00:04:05,519 --> 00:04:09,680
+previous work we had done was able to
+
+95
+00:04:07,519 --> 00:04:12,560
+not only increase the dendritic spine
+
+96
+00:04:09,680 --> 00:04:14,640
+numbers but also promote the matur
+
+97
+00:04:12,560 --> 00:04:17,280
+maturation of these dendritic spines so
+
+98
+00:04:14,640 --> 00:04:19,680
+that these neurons after treatment were
+
+99
+00:04:17,280 --> 00:04:23,400
+indistinguishable from healthy neurons
+
+100
+00:04:19,680 --> 00:04:23,400
+in terms of their morphology.
+
+101
+00:04:23,680 --> 00:04:29,759
+So we identified 18 drugs which had uh
+
+102
+00:04:27,040 --> 00:04:32,240
+the same or similar mechanism to 0553
+
+103
+00:04:29,759 --> 00:04:35,360
+and we tested them in this uh in this
+
+104
+00:04:32,240 --> 00:04:38,880
+assay and we identified 10 drugs which
+
+105
+00:04:35,360 --> 00:04:41,040
+were highly potent or as potent as 0553
+
+106
+00:04:38,880 --> 00:04:42,880
+and then we further sort of triaged
+
+107
+00:04:41,040 --> 00:04:45,280
+these drugs. We looked at their chronic
+
+108
+00:04:42,880 --> 00:04:47,360
+use potential, their distribution
+
+109
+00:04:45,280 --> 00:04:49,600
+profile, you know, if they got into the
+
+110
+00:04:47,360 --> 00:04:51,360
+brain at high enough concentrations and
+
+111
+00:04:49,600 --> 00:04:54,000
+their reformulation and commercial
+
+112
+00:04:51,360 --> 00:04:55,919
+potential. And we identified from this
+
+113
+00:04:54,000 --> 00:04:58,080
+we've got we landed on three drugs which
+
+114
+00:04:55,919 --> 00:05:00,160
+we wanted to investigate further. One
+
+115
+00:04:58,080 --> 00:05:02,240
+was an active metabolite of a drug which
+
+116
+00:05:00,160 --> 00:05:04,240
+is currently on the market. The other
+
+117
+00:05:02,240 --> 00:05:06,080
+one was a shelved asset and that means
+
+118
+00:05:04,240 --> 00:05:09,120
+that this particular drug had actually
+
+119
+00:05:06,080 --> 00:05:12,000
+reached a phase three clinical trial for
+
+120
+00:05:09,120 --> 00:05:15,039
+a separate indication but the company
+
+121
+00:05:12,000 --> 00:05:18,000
+which was progressing it decided to
+
+122
+00:05:15,039 --> 00:05:20,880
+abandon it for commercial reasons. But
+
+123
+00:05:18,000 --> 00:05:23,440
+it was safe and it was actually useful
+
+124
+00:05:20,880 --> 00:05:24,800
+and and can be used chronically so it
+
+125
+00:05:23,440 --> 00:05:26,160
+doesn't need to be reformulated. So
+
+126
+00:05:24,800 --> 00:05:29,520
+that's quite exciting for us because
+
+127
+00:05:26,160 --> 00:05:32,560
+that means this drug can transition into
+
+128
+00:05:29,520 --> 00:05:34,720
+and syndrome quite quickly.
+
+129
+00:05:32,560 --> 00:05:36,479
+The other is another drug which is on
+
+130
+00:05:34,720 --> 00:05:39,600
+the market already but it's only
+
+131
+00:05:36,479 --> 00:05:41,280
+available through prescription.
+
+132
+00:05:39,600 --> 00:05:42,960
+So this is a data of the dendritic
+
+133
+00:05:41,280 --> 00:05:46,000
+spines. So I won't go into it but
+
+134
+00:05:42,960 --> 00:05:48,479
+suffice to say that all three drugs
+
+135
+00:05:46,000 --> 00:05:51,280
+improved the number of dendritic spines
+
+136
+00:05:48,479 --> 00:05:54,160
+in the angel neurons and also promoted m
+
+137
+00:05:51,280 --> 00:05:56,479
+maturation of these dendritic spines. Uh
+
+138
+00:05:54,160 --> 00:05:58,000
+so that these neurons were basically
+
+139
+00:05:56,479 --> 00:06:01,120
+indistinguishable
+
+140
+00:05:58,000 --> 00:06:02,800
+in terms of their morphology from uh
+
+141
+00:06:01,120 --> 00:06:04,639
+healthy neurons and that means that
+
+142
+00:06:02,800 --> 00:06:07,199
+these neurons could effectively
+
+143
+00:06:04,639 --> 00:06:09,600
+communicate better. But next we wanted
+
+144
+00:06:07,199 --> 00:06:12,160
+to see how these drugs actually fared in
+
+145
+00:06:09,600 --> 00:06:15,759
+when we do it in an angelin mouse. So we
+
+146
+00:06:12,160 --> 00:06:18,400
+did this. We uh dosed the the drugs for
+
+147
+00:06:15,759 --> 00:06:20,960
+around two weeks prior to putting them
+
+148
+00:06:18,400 --> 00:06:23,280
+through a battery or behavior tests. We
+
+149
+00:06:20,960 --> 00:06:25,120
+looked at motor deficits. So we put them
+
+150
+00:06:23,280 --> 00:06:27,759
+in an open field and assessed their
+
+151
+00:06:25,120 --> 00:06:30,080
+mobility. We assessed how many marbles
+
+152
+00:06:27,759 --> 00:06:32,960
+they could bury. We also looked at their
+
+153
+00:06:30,080 --> 00:06:36,000
+grip strength, fallen grip strength. We
+
+154
+00:06:32,960 --> 00:06:37,759
+assessed motor control. And we looked at
+
+155
+00:06:36,000 --> 00:06:40,080
+their balance and coordination on a
+
+156
+00:06:37,759 --> 00:06:44,000
+rotor rod. So seeing how long an animal
+
+157
+00:06:40,080 --> 00:06:46,400
+can stay on an accelerating rod and this
+
+158
+00:06:44,000 --> 00:06:48,400
+apparatus also allows us to measure
+
+159
+00:06:46,400 --> 00:06:50,639
+motor learning. And then we also
+
+160
+00:06:48,400 --> 00:06:53,520
+measured their cognition
+
+161
+00:06:50,639 --> 00:06:55,280
+using the object recognition test. So
+
+162
+00:06:53,520 --> 00:06:58,800
+seeing how the animals are able to
+
+163
+00:06:55,280 --> 00:07:00,560
+differentiate between two objects.
+
+164
+00:06:58,800 --> 00:07:02,560
+So this is the data. So let me just
+
+165
+00:07:00,560 --> 00:07:05,360
+orientate you to these graphs. The white
+
+166
+00:07:02,560 --> 00:07:07,120
+bar are the healthy mice and that's what
+
+167
+00:07:05,360 --> 00:07:10,400
+we're trying to achieve with the drug
+
+168
+00:07:07,120 --> 00:07:12,720
+treatment. The gray bar is the angelman
+
+169
+00:07:10,400 --> 00:07:15,039
+untreated animals and kind of want to
+
+170
+00:07:12,720 --> 00:07:17,280
+move away from that that level as as
+
+171
+00:07:15,039 --> 00:07:18,960
+much as possible with treatment. So if
+
+172
+00:07:17,280 --> 00:07:21,599
+we just look at the distance moved in
+
+173
+00:07:18,960 --> 00:07:24,639
+the open field, we see that helix B and
+
+174
+00:07:21,599 --> 00:07:27,280
+Helix C treatment drugs increase the
+
+175
+00:07:24,639 --> 00:07:29,199
+mobility of the animals in almost
+
+176
+00:07:27,280 --> 00:07:31,840
+comparable to what we see in the healthy
+
+177
+00:07:29,199 --> 00:07:34,880
+animals. Surprisingly, Helix A was not
+
+178
+00:07:31,840 --> 00:07:37,360
+as effective, but all three drugs were
+
+179
+00:07:34,880 --> 00:07:40,240
+able to increase the ability of the
+
+180
+00:07:37,360 --> 00:07:42,720
+animals to bury marbles significantly
+
+181
+00:07:40,240 --> 00:07:44,800
+better than the the Angelin untreated
+
+182
+00:07:42,720 --> 00:07:49,280
+group. And again, Helix B and C
+
+183
+00:07:44,800 --> 00:07:51,199
+performed uh much better than Helix A.
+
+184
+00:07:49,280 --> 00:07:53,120
+Surprisingly, none of the drugs improved
+
+185
+00:07:51,199 --> 00:07:55,120
+the grip strength, but all three drugs
+
+186
+00:07:53,120 --> 00:07:57,120
+were able to improve the motor control
+
+187
+00:07:55,120 --> 00:07:59,919
+in the animals by looking at the
+
+188
+00:07:57,120 --> 00:08:02,240
+clasping. And again, Helix B and C were
+
+189
+00:07:59,919 --> 00:08:05,039
+much more superior improving the motor
+
+190
+00:08:02,240 --> 00:08:07,680
+control comparable levels that we see uh
+
+191
+00:08:05,039 --> 00:08:09,199
+with the healthy animals.
+
+192
+00:08:07,680 --> 00:08:12,240
+Now, this is really impressive to me.
+
+193
+00:08:09,199 --> 00:08:14,879
+This is the the rotor rod assay and in
+
+194
+00:08:12,240 --> 00:08:17,120
+this graph the dotted line represents
+
+195
+00:08:14,879 --> 00:08:19,840
+the angelman untreated group and then
+
+196
+00:08:17,120 --> 00:08:22,960
+the the gray bar on top or the gray line
+
+197
+00:08:19,840 --> 00:08:26,000
+on top indicates the healthy animals.
+
+198
+00:08:22,960 --> 00:08:27,680
+And if we just focus on day one, uh we
+
+199
+00:08:26,000 --> 00:08:29,919
+can see that all three drugs
+
+200
+00:08:27,680 --> 00:08:31,919
+significantly improved the balance and
+
+201
+00:08:29,919 --> 00:08:34,320
+coordination of the animals. So the
+
+202
+00:08:31,919 --> 00:08:35,839
+animals were able to stay on the this
+
+203
+00:08:34,320 --> 00:08:39,039
+accelerating rotor rod for a
+
+204
+00:08:35,839 --> 00:08:41,200
+significantly longer period of time. But
+
+205
+00:08:39,039 --> 00:08:43,279
+what's really impressive is again helix
+
+206
+00:08:41,200 --> 00:08:45,279
+BNC groups, their balance and
+
+207
+00:08:43,279 --> 00:08:47,760
+coordination is indistinguishable from
+
+208
+00:08:45,279 --> 00:08:49,680
+from the healthy animals. And then if we
+
+209
+00:08:47,760 --> 00:08:52,080
+look at each day of testing, so if we
+
+210
+00:08:49,680 --> 00:08:54,560
+test the these animals on the rotor rod
+
+211
+00:08:52,080 --> 00:08:56,080
+for days two to five, we see that the
+
+212
+00:08:54,560 --> 00:08:58,240
+balance and coordination of these
+
+213
+00:08:56,080 --> 00:09:00,720
+animals improves with each day of
+
+214
+00:08:58,240 --> 00:09:03,279
+testing for helix B and C. And this is
+
+215
+00:09:00,720 --> 00:09:06,560
+indicative of improved motor learning,
+
+216
+00:09:03,279 --> 00:09:09,200
+which again is really really impressive.
+
+217
+00:09:06,560 --> 00:09:11,440
+Uh helix A again was was less effective
+
+218
+00:09:09,200 --> 00:09:13,680
+at this.
+
+219
+00:09:11,440 --> 00:09:15,839
+And all three drugs were able to improve
+
+220
+00:09:13,680 --> 00:09:18,080
+cognition. So all three uh drug
+
+221
+00:09:15,839 --> 00:09:21,360
+treatments groups were able to to
+
+222
+00:09:18,080 --> 00:09:22,800
+distinguish between uh two objects. Um
+
+223
+00:09:21,360 --> 00:09:26,160
+so we've got an improvement in
+
+224
+00:09:22,800 --> 00:09:29,760
+recognition memory here.
+
+225
+00:09:26,160 --> 00:09:32,640
+So just to conclude um helix B and helix
+
+226
+00:09:29,760 --> 00:09:34,880
+C helix B being the shelved asex helix C
+
+227
+00:09:32,640 --> 00:09:37,440
+being the prescribed drug we're able to
+
+228
+00:09:34,880 --> 00:09:40,399
+restore motor control coordination and
+
+229
+00:09:37,440 --> 00:09:42,720
+memory in the mass back to levels that
+
+230
+00:09:40,399 --> 00:09:44,320
+we see with the healthy animals. And
+
+231
+00:09:42,720 --> 00:09:46,480
+this is really impressive. We've got two
+
+232
+00:09:44,320 --> 00:09:49,279
+drugs which could potentially move into
+
+233
+00:09:46,480 --> 00:09:52,080
+the clinic quite quickly here. Helix A
+
+234
+00:09:49,279 --> 00:09:54,480
+was less effective and he improved a
+
+235
+00:09:52,080 --> 00:09:57,839
+certain amount of phenotypes.
+
+236
+00:09:54,480 --> 00:09:59,440
+Um, and just to reiterate, Helix B is
+
+237
+00:09:57,839 --> 00:10:01,120
+suitable for chronic use. We don't have
+
+238
+00:09:59,440 --> 00:10:02,480
+to mess around with reformulation for
+
+239
+00:10:01,120 --> 00:10:05,279
+this. So again, they can move quite
+
+240
+00:10:02,480 --> 00:10:07,920
+quickly into the clinic. Helix A and C
+
+241
+00:10:05,279 --> 00:10:09,519
+does however require reformulation. But
+
+242
+00:10:07,920 --> 00:10:11,200
+the good news is we've already started
+
+243
+00:10:09,519 --> 00:10:13,760
+some of that reformulation work and the
+
+244
+00:10:11,200 --> 00:10:16,720
+reformulation is stable and we've
+
+245
+00:10:13,760 --> 00:10:18,720
+already seen improved amount of uh drug
+
+246
+00:10:16,720 --> 00:10:20,959
+in the brains of mice with the
+
+247
+00:10:18,720 --> 00:10:24,240
+reformulation and we're hoping that that
+
+248
+00:10:20,959 --> 00:10:27,200
+equates to improved e efficacy uh
+
+249
+00:10:24,240 --> 00:10:30,079
+particularly for helix A.
+
+250
+00:10:27,200 --> 00:10:32,240
+So just to say again that helix B and C
+
+251
+00:10:30,079 --> 00:10:34,480
+look look promising and we're hoping to
+
+252
+00:10:32,240 --> 00:10:37,120
+be some somewhere close to being in the
+
+253
+00:10:34,480 --> 00:10:39,839
+clinic by sometime next year. Um but it
+
+254
+00:10:37,120 --> 00:10:43,120
+all depends on uh licensing discussions
+
+255
+00:10:39,839 --> 00:10:47,720
+with the the holders of the um the shelf
+
+256
+00:10:43,120 --> 00:10:47,720
+asset. So thank you.
+
+257
+00:10:58,640 --> 00:11:02,880
+See, so I think if you didn't understand
+
+258
+00:11:00,560 --> 00:11:04,720
+in vitro and in vivo, you would not have
+
+259
+00:11:02,880 --> 00:11:06,320
+no clue what he just said. But because
+
+260
+00:11:04,720 --> 00:11:08,399
+you listened so carefully this morning
+
+261
+00:11:06,320 --> 00:11:11,120
+that was very clear that we have
+
+262
+00:11:08,399 --> 00:11:12,399
+potentially some downstream targets that
+
+263
+00:11:11,120 --> 00:11:15,120
+could affect because this is not
+
+264
+00:11:12,399 --> 00:11:16,320
+replacing UV3A but that could have an
+
+265
+00:11:15,120 --> 00:11:18,399
+impact on some of the symptoms of
+
+266
+00:11:16,320 --> 00:11:20,000
+Angelman syndrome. So that's exciting
+
+267
+00:11:18,399 --> 00:11:22,000
+very promising and when it's a
+
+268
+00:11:20,000 --> 00:11:23,279
+repurposed drug it may have already been
+
+269
+00:11:22,000 --> 00:11:25,040
+through some of the safety assessments
+
+270
+00:11:23,279 --> 00:11:26,959
+that allow you to get from mouse to
+
+271
+00:11:25,040 --> 00:11:29,200
+human a bit faster. That's also very
+
+272
+00:11:26,959 --> 00:11:29,200
+exciting.
+

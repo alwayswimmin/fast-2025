@@ -1,0 +1,201 @@
+With that, our next speaker is Dr.
+Nadavatu, who's gonna perfectly
+complement what was just talked about,
+which is how do we think about the genes
+outside of UB3A. And so, he's going to
+talk to us about a new technology. I
+think you heard from him last year and
+the year before, but we've made some
+really nice progress in the last year
+about upregulating the genes that are
+important outside of EB3A. So, please
+come and present.
+Thanks.
+>> Thank you so much and for the
+introduction. And so let me see if it
+starts.
+>> Oh, cool. All right. So, we'll start
+with disclosure and move to gene
+regulatory elements. So, um my lab works
+on gene regulatory elements and what
+we've been using them for here is in
+terms of therapy. So, just a quick 101
+on gene regulatory elements. So
+everybody's on board. If you have a
+gene, you probably have a promoter which
+serve an onoff switch right next to the
+gene that turns on if we envision it as
+like a light bulb. But in addition, you
+have what's called dimmer switches that
+could be very far away that are called
+enhancers that sort of turn on the other
+switch at different time points in
+different locations. And they can
+control the levels of the gene that's
+being expressed, which is very important
+here.
+So um going back to
+why I've told you about this. Well, we
+started a work in the lab over 12 years
+ago on trying to take advantage of these
+switches for diseases where you have low
+dosage. So if you have a gene that's
+expressed at a lower dose, can we sort
+of pump up the volume of a switch to fix
+those diseases? And we started on these
+types of diseases called Haplo
+insufficient. HLO is half insufficient
+is not enough. And so we have basically
+two copies of a gene, one from mom, one
+from dad. That leads to normal gene
+levels. And if we have one copy that's a
+loss of function, that leads to 50% and
+that could lead to disease. And there's
+actually 660 genes that lead to human
+disease due to having just one copy and
+a lot of severe epilepsies, cancer, and
+many others. And the numbers could be
+much higher. If you look at a lot of
+genome sequencing that has been done in
+humans, you see 3,000 genes where you
+never see this. Basically, one gene
+non-functional and one that's
+functional. So, I'm assuming everybody's
+heard about crisper that can come and
+cut the DNA and change it. But here,
+we've been using a different form of
+crisper where there's two mutations in
+crisper. And so, it can't work as a
+scissors. It can't cut the DNA. But what
+you can use it is a delivery truck to
+bring things to a specific zip code in
+the genome to a specific location. And
+for example, you can bring it to these
+promoters that I just told you, these
+switches, and you can tag along with it
+for the ride an activator, something
+that will sort of pump up the volume of
+that switch and just force it to make
+more RNA, more protein. And that's been
+called crisper A for crisper activation.
+So going back to this model, you still
+have one copy that's perfectly fine.
+It's just not it's just giving you 50%.
+So what if we target it with crisper A
+and force it to make more RNA? Can we
+fix those diseases with just one
+functional copy? And so that worked very
+nicely. We did it initially on obesity.
+And you can see here on the left a mouse
+that has one copy of a gene called sim 1
+that leads it to be very very obese. And
+in the middle you see a mouse that has
+exactly the same genotype. So it should
+be very obese but you can see that it
+looks like a wild type mice suggesting
+that this could work and not only on
+this but on many other diseases. So over
+the years we've been working on a few
+other diseases. One of them recently was
+published in nature three weeks ago
+where we went after SCN2A which is the
+top neuro one of the top
+neurodedevelopmental genes in humans. We
+did a very similar approach and we
+managed to rescue action potential. We
+also managed to rescue a neuronal age
+and maturity even in more adult mice
+suggesting that here also similar to
+Angelmen there could be a chance of
+rescuing at a later stage. And we've
+also rescued seizures. So you can see
+here on the top in black is a wild type
+mice. In blue you can see a mouse that's
+has one copy and has seizures and then
+all the way below you can see the
+crisper for that where we rescue those
+seizures using this approach.
+So, and in addition, we also did this in
+human cells in a dish where we
+differentiate them to neurons just like
+young wei showed before and we put them
+in a dish for two months, grow them as
+neurons and you could see on the left
+the wild type in the middle of the heads
+and on the right we managed to rescue
+their action potential in the dish. So,
+what does that all have to do with
+Angelmen? Well, going back here with the
+beautiful work that's being done here
+for UB3A and hopefully that'll be fixed.
+There'll still be a problem for many of
+the patients that are missing and have
+this micro deletion and missing 16 genes
+which amongst them we think some of them
+could be haplo insufficient and these in
+red are the five that we think might be
+problematic. Similar to the one gene
+that I've showed you where you have just
+one copy, that's not enough. Here we
+have five. That's not enough. And so
+what we could do, similar to before, is
+upregulate not just one gene, but try to
+upregulate basically all five at once.
+And if we could do that, that could be
+very beneficial for these individuals.
+And so we went through all five genes
+and basically designed guides where
+we're transfecting and trying to
+optimize these conditions for them. And
+then we turn to a deno associated virus
+which is used as a a delivery tool in
+clinical studies and then made a a
+vector that has all five genes. As you
+can see this actually worked very
+nicely. You can see all five genes and
+all five of them we managed to
+upregulate very nicely in these cells.
+And so now what we're doing is we're
+working with Young Way's lab to give him
+these AAVs. And we're in the process now
+of actually sending them to test in the
+cell lines that he just showed you
+before to see can we upregulate all five
+genes and can that lead to a therapeutic
+benefit.
+In addition, we're also doing this in
+mice and we're almost there. We have one
+last gene, GABA G3, that's been very
+problematic. It's hardly expressed in
+any cell type that we've tried, but
+we're trying now in mice to see can we
+optimize it there. And once we do that,
+we'll go to yet I think another mouse
+model that wasn't mentioned where there
+is the deletion but UB3A is rescued in
+that and see can we rescue all of that
+in these mice again with young ways lab.
+So that's where we are at the moment and
+I hope that next year we'll finally have
+phenotypic results for this. Finally, I
+want to thank my amazing lab who's doing
+this, her amazing collaboration with
+Young Ways Lab and also Allison in
+particular who really jumpst started
+this project and put us all together and
+without her none of this would have been
+done and I should mention that if this
+works there are 200 syndromes in humans
+that are caused by micro deletions and
+so this will not only be amazing for
+Angelmen but amazing for another 200
+diseases. So thank you Alison.
+That was great and and very well
+understood. And so, as you can see,
+we're we're moving there, but it's a
+process and it takes time. Um, but we're
+getting there. And hopefully next year
+we can share with you our approach and
+how we think about translating that into
+humans and how we can actually
+upregulate some of these genes.

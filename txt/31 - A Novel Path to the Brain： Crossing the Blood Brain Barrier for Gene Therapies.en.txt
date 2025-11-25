@@ -1,0 +1,408 @@
+Our next speaker um is Dr. Andrew uh
+Seinapper who's coming to us to speak
+about novel a novel path to the brain
+crossing the bloodb brain barrier for
+gene therapy. As Dr. Wilson alluded to,
+you know, we don't stop. So it's
+important as we advance genetic
+medicines for Angelmen syndrome. We
+don't just stop and say, well, this is
+it. If this doesn't work, nothing else
+will. We have to ensure that we have
+options coming behind. For every version
+one, there's a version two. and for
+every version two there's a version
+three. And as we think about that and we
+think about the the transformation of
+science, we have to keep up with the
+science. And this is something that
+still is in somewhat early stages. We
+don't have evidence or data really in
+humans as it relates to these new type
+of capsids, but it is what's upcoming
+and we are going to see over the coming
+years a lot of new activity in this
+space. And so I invited Andrew to come
+and speak to us about the incredible
+work that him and his team have been
+doing at Apertura, who have been a a
+really great team engaging and embracing
+rare disease parents and families and
+organizations to ensure that all
+advocacy groups have access. They have
+access to new technology and money and
+time and availability does not become
+their barrier. And so Andrew has really
+been quite impressive as it relates to
+his communication and engagement with
+communities, particularly this one. So
+Andrew, please.
+>> Thank you so much, Allison, and it's um
+truly an honor to get to be here and
+especially following a very tough set of
+acts. Um as Allison noted, my name is
+Andrew Steinapper. Um I help lead
+Apertura gene therapy. Um, I have a day
+job. I work at a company called
+Deerfield Management. We do healthcare
+investing. Um, our motto is advancing
+health care. And I've always tried to
+add the kod on to that of sometimes one
+patient at a time. What we did is help
+start a company called Apertura Gene
+Therapy. And we said, we know the
+problems because the leaders in the
+field have been calling them out for
+years. We need to understand how to
+build tools, in this case AEV, that will
+work, that can move forward and make
+life easier for what we're doing. And
+what we wanted to do is start with that
+end in mind. Not the first patient that
+gets a drug, but rather the thousandth
+patient in commercial that gets that
+drug because it's already been approved.
+So what we did was we said we want to
+use the science that we understand, what
+we've learned in antibodies, what we've
+learned in other drugs and start with
+the receptors, the things that we
+target, the things that help us get to
+where we're going and leverage those. We
+are standing on the shoulders of giants
+including our scientific founder Ben
+Deman who has started all this work and
+is the reason why we've moved this
+forward not just on the science but also
+in the purpose of making sure that
+everyone has access to what we have
+because we alone cannot do everything.
+It is only when we are together that we
+are the smartest and the most capable.
+So with that and I think we we had some
+explanations of what AEV is and I was
+told very specifically by Allison that
+the people in this audience know more
+about science than I ever will but
+nonetheless I will make sure to have
+this. I've always thought about AAV as
+helping give a software update. As it
+was noted earlier we we have viral genes
+that we can take out. That's the stuff
+on the left. And instead what we put in
+is on the right. It's that new set of
+instructions and AAV is really good at
+going into cells and dropping off those
+instructions so that they can be read.
+Those instructions could be things like
+how to make UB3A. They could be
+instructions like how to do gene editing
+or other things. And because we're able
+to drop it off and it can hang out and
+be in the cell, we don't have to keep
+redossing this. Now, with that, we have
+all of these opportunities that we can
+address. The question is, why aren't we
+already doing it? Part of the reason why
+we're not doing is the things noted by
+Jim and by Liz in the complexity of
+moving these forward because certain
+AAVs are better at different things. And
+frankly, AAV that exists in nature,
+which has been around for billions of
+years and has never caused disease,
+isn't really meant for gene therapy.
+It's meant to be what it is.
+Nonetheless, we've been able to find
+through so much work and energy and time
+which ones of these naturally occurring
+AAVs can be used to get to certain
+tissues, be those the central nervous
+system or the liver or the eye or the
+muscle. But really what we have been
+doing is working with research tools and
+trying to find the right ones that maybe
+meet our needs. And with that, we need
+that progress. It's important that we
+continue that work and move it forward.
+That's why there are drugs that are
+approved. That's why there are more than
+4,500 babies that have received Zulenma
+for SMA1.
+These things have changed the world and
+they will continue to do so. What we're
+hoping to do is help expand that
+opportunity by building new capsids with
+new capabilities that can help across
+more diseases and make it easier to
+administer those products and be able to
+do it at lower doses for all of the
+reasons that folks were talking about
+earlier. And in a lot of ways, I think
+that we've gotten there, at least in our
+early research. The work that I'm
+showing to you right now is a mouse
+brain on the left in blue. And then on
+the right is another mouse brain, but
+one that received our first generation
+capsid that uses the human transferin
+receptor to cross the bloodb brain
+barrier. I'll be telling you more about
+that later, but the thing I want you to
+see here is all those little green dots,
+all those little green dots are software
+updates. Those are cells that received
+that virus. And if I had the other
+slides that I had in here, but I have a
+limit on the amount of time I have, I
+would turn off the blue and you would
+see just a green brain on that side. And
+the reason that we're able to do that is
+because we're using biology the way that
+it was meant for. We're leveraging a
+receptor called the transferin receptor.
+The transferin receptor is named that
+way because scientists are not creative.
+The transferin receptor binds to
+transferin, hence its name. What the
+transferin receptor does normally is
+help the body by grabbing on to
+transferin which holds onto iron and
+move it across the bloodb brain barrier.
+Iron on its own hanging out would be
+actually toxic. So our bodies put it
+into this protein to help protect us.
+Now that protein unfortunately is too
+big to get in the brain and that's where
+we actually need a lot of iron to make
+energy. The same way that people say
+that if you do a cross word puzzle you
+don't have to run a mile because you're
+burning a lot of calories. Although
+jokes aside, I know doctors I still
+should be running a mile. We need to get
+it in there. So, we're leveraging the
+same receptor that's normal job is to
+help be a ferry to bring things across
+to bring our virus across. And in fact,
+this receptor has been used across
+hundreds of patients, both pediatric
+patients as well as geriatric patients
+to help move other biomolecules across.
+You heard Dr. Wilson talk about Hunter
+syndrome a minute ago. There is a drug
+that is approved that uses the human
+transferin receptor to bring across the
+medicine for Hunter syndrome for folks.
+And that drug is approved in Japan. And
+there are other things that are moving
+forward from both JCR, Denali, and RO in
+the US to do the same thing. Now, all of
+those are doing biologics, those like an
+enzyme. What we're doing instead is
+saying we're going to use our virus to
+do that because it also uses the same
+receptor.
+Now, with that, we think that that means
+that we have an opportunity to help
+across a number of disorders. And of
+course, Angelman is on there, but it's
+more than just that. It's all of these
+diseases that we haven't heard of yet.
+The ones that have five letters and two
+numbers that maybe three people in
+academia are researching. We think that
+we have an opportunity to make sure that
+those folks have access to this too and
+that they can build upon this platform
+like Jim was noting and being able to
+consistently be able to move forward
+because we're using the same tools to do
+the same job over and over again.
+For our work, we are progressing
+actively with multiple rare disease
+groups. We have one program that should
+be in human trials at the end of 2026.
+We have another that should be in human
+clinical trials at the beginning of
+2027. That's exciting. And honestly,
+talking to all the folks in that
+community and others, I know it's never
+going to be fast enough. But the reason
+it's taken this amount of time is
+because we're making sure that we're
+running the right experiments at the
+right time in the right order that we
+are not cutting corners but moving
+forward correctly with that. And even
+though we have oodles of safety data in
+engaging with the human transparent
+receptor for other drugs, it's never
+been done with a virus, which is why
+it's been important that we've executed
+critical studies in non-human primates
+and in mice to help understand how this
+medicine can work. We're excited for
+this to move forward. And it's really a
+great pleasure for for me and a
+privilege to say that our first
+partnership was not with a a
+therapeutics company, but rather with
+the Rhett Syndrome Research Trust, an
+organization like FAST that's devoted to
+working for their patient advocacy
+community to progress things. We've also
+been able to work with a number of other
+groups. And our goal is to actually make
+sure that this is available across the
+board for folks in academia developing
+products as well as people in companies
+and rare advocacy groups. And with that,
+it wouldn't be a science talk if I
+didn't show you data. You saw brains
+earlier and this is the part that I'm
+most excited about outside of answering
+your questions after this because we
+have a poster. But we are able to use
+dose levels here that are 5050 times
+lower than what are used in the
+currently approved therapies for
+introvenous administration. And even
+when at that super duper low dose level
+we're reaching almost all of the cells
+in the brain. What you see here is AV9
+which doesn't work really IV very
+efficiently in adult mice. Then you see
+a capsid that only works in mice which
+it's not going to do anything for
+people. And then you see our caps at
+TFR1 capex that uses that human
+transparent receptor to cross that
+bloodb brain barrier. And to that point
+of looking at other tissues and how that
+virus goes to different places, the
+thing that's so exciting for us and that
+you can see here in that pink magenta is
+that at these doses we're getting about
+the same amount of virus into the brain
+into the CNS as we are getting into the
+liver bringing it into par rather than
+what we've seen with other standard
+capsids in this first generation of
+technologies where that ratio is 100 to
+one or a thousand to one. What that
+means as we think about this is that not
+only are we able to address this with a
+much lower dose, but the places that
+we're going are closer to where we want
+them to be for both neurological
+disorders and neuromabolic disorders.
+What we've done here is not just to say
+we're going to build a tool and then not
+use it. We've also been progressing
+internal programs. We've been
+collaborating with others and we
+recognize that it is not just up to us
+to move these things forward. The first
+thing that we want to do in every case
+is to sit down with the patient advocacy
+communities and understand what the
+needs are because the stakeholders in
+the room are the people that are going
+to actually use those drugs. And that's
+why it's important that it's everyone in
+here that feels comfortable with the
+data that is generated because it's not
+just what the FDA says okay to. It's not
+just what the doctors say okay to. It's
+also understanding these things. And
+it's wonderful to see such great
+presentations explaining everything like
+you saw earlier so that everyone
+understands what's moving forward.
+Nonetheless, with that in our programs
+that we've been moving forward for TSC,
+another uh genetic disorder as well as
+for pryion disease with sonia valib, we
+have already got an alignment on those
+programs with the FDA for what our path
+forward is. And that's a path forward
+where we can use these mice that have
+the human transferin receptor knocked
+into them and use them as the direct
+model for human dosing because it has
+the exact same receptor and that drug
+interacts exactly in the same way and
+helps it has predictable dose levels
+across the board. With that, we've also
+been able to help make sure that the
+data that already exists, the research
+that's already been done doesn't need to
+be done over again and instead we can
+continue to leverage those data as folks
+transition over to this capsit. So all
+of that time, effort, and labor isn't
+wasted, but rather something that can be
+built upon to move forward to second
+generation products for [snorts]
+patients and communities. And we've made
+sure to put out our uh blueprints and
+road maps in public forums like this one
+so that these slides are all available
+without confidentiality and without
+needing to have an agreement. So that
+not just patient advocacy groups and
+parents trying to progress programs, but
+also academics out there that want to be
+helping and want to be moving forward,
+but don't have the years and decades of
+experience, someone like Jim on how to
+progress a program can get that
+explainer guide and so that we can be
+there to help them think through that.
+as I thank you. Um, with that like I
+think it's important to note as we
+progress through programs that there are
+going to be challenges and setbacks and
+it's important to us as we do this that
+we are continuously transparent and we
+share those data and help make sure that
+everyone has access because it is only
+through all of us learning together that
+we're able to progress this many
+programs. I have to have a huge thank
+you to Allison, the team for this
+opportunity and also Allison realizing
+these are my old slides where I had like
+27 slides and you said you wouldn't I
+wouldn't be able to get through them in
+time. So, um I don't want to go through
+all those and and blow up your time
+frame, but I I do want to just end on
+our thank you slide rather than talking
+through Pryion, which is really exciting
+and come talk to me afterwards. But
+truly, the thing that we're here for is
+to try to make sure there's not just a
+next generation of gene therapy, but of
+collaboration across the board in the
+rare disease space. One of my mentors
+said to me, "It's not which disease I
+want to work on, it's the question of
+why not that one too." And I look
+forward to the day where more people are
+sharing that. And we are going to do
+everything we can in our power to make
+sure that this technology is available
+to foundations like FAST and many
+others. Thank you so much.
+[applause]
+>> Thank you, Andrew. Thank you, Andrew.
+That was great. And I think everyone can
+see as we move things forward, the
+technology is changing. And you know,
+we're very excited. We're going to hang
+on tight to see that first patient
+that's dosed hopefully in 2026 and how
+that can impact rare disease in general,
+particularly neurologic disorders.

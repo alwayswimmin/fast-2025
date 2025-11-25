@@ -1,0 +1,2884 @@
+1
+00:00:00,080 --> 00:00:03,280
+Our next speaker is Dr. Kim Goodspeed,
+
+2
+00:00:01,920 --> 00:00:04,480
+who I introduced yesterday, so I don't
+
+3
+00:00:03,280 --> 00:00:06,240
+think she needs another introduction.
+
+4
+00:00:04,480 --> 00:00:08,639
+She's going to be talking to us about
+
+5
+00:00:06,240 --> 00:00:11,639
+GTX 102, what we've learned together.
+
+6
+00:00:08,639 --> 00:00:11,639
+Kim,
+
+7
+00:00:16,960 --> 00:00:21,920
+uh, hello everybody. Um, thanks so much,
+
+8
+00:00:19,600 --> 00:00:25,840
+uh, for the opportunity to be here today
+
+9
+00:00:21,920 --> 00:00:27,279
+again. Um, so for those of you I didn't
+
+10
+00:00:25,840 --> 00:00:29,119
+get to meet yesterday, I'm Kim
+
+11
+00:00:27,279 --> 00:00:31,039
+Goodspeed. I'm a child neurologist uh by
+
+12
+00:00:29,119 --> 00:00:33,120
+training been with ultragenics for a bit
+
+13
+00:00:31,039 --> 00:00:34,719
+now and I get to have the distinct honor
+
+14
+00:00:33,120 --> 00:00:37,360
+and pleasure of being the clinical
+
+15
+00:00:34,719 --> 00:00:40,160
+development lead for our GTX 102 program
+
+16
+00:00:37,360 --> 00:00:43,840
+and of course GTX 102 is our anti-sense
+
+17
+00:00:40,160 --> 00:00:46,079
+nucleotide ASO for Angelmen syndrome. Um
+
+18
+00:00:43,840 --> 00:00:48,239
+before we dive too deeply though I did
+
+19
+00:00:46,079 --> 00:00:50,879
+want to say thank you again. Um so thank
+
+20
+00:00:48,239 --> 00:00:53,760
+you to FAST for letting us come be part
+
+21
+00:00:50,879 --> 00:00:55,440
+of the programming here this uh this
+
+22
+00:00:53,760 --> 00:00:58,079
+summit. It's been an amazing summit.
+
+23
+00:00:55,440 --> 00:00:59,600
+lots of exciting science happening. Um,
+
+24
+00:00:58,079 --> 00:01:01,760
+thank you to those of you out there
+
+25
+00:00:59,600 --> 00:01:03,280
+listening and interested to learn more
+
+26
+00:01:01,760 --> 00:01:05,360
+and dive into stuff that's really
+
+27
+00:01:03,280 --> 00:01:07,760
+complicated. Um, we really appreciate
+
+28
+00:01:05,360 --> 00:01:09,920
+all of your questions and your feedback.
+
+29
+00:01:07,760 --> 00:01:11,520
+Thanks to our participants and families
+
+30
+00:01:09,920 --> 00:01:13,280
+who have trusted us to go on the journey
+
+31
+00:01:11,520 --> 00:01:16,320
+with us and been part of our trials to
+
+32
+00:01:13,280 --> 00:01:18,159
+date and um to those study teams out
+
+33
+00:01:16,320 --> 00:01:20,240
+there who are making all of the magic
+
+34
+00:01:18,159 --> 00:01:22,000
+happen at the study sites so that we can
+
+35
+00:01:20,240 --> 00:01:23,680
+actually do the studies, answer the
+
+36
+00:01:22,000 --> 00:01:26,080
+questions and move things forward. So,
+
+37
+00:01:23,680 --> 00:01:28,880
+thank you everybody. So, uh,
+
+38
+00:01:26,080 --> 00:01:30,720
+disclaimers, of course, GTX 102 is an
+
+39
+00:01:28,880 --> 00:01:32,880
+investigational drug and I'm presenting
+
+40
+00:01:30,720 --> 00:01:34,400
+open label interim data. So, we're going
+
+41
+00:01:32,880 --> 00:01:36,159
+to share some data from our phase one
+
+42
+00:01:34,400 --> 00:01:37,840
+two study. You've seen this before, but
+
+43
+00:01:36,159 --> 00:01:39,119
+we're thinking about it in a slightly
+
+44
+00:01:37,840 --> 00:01:40,640
+different way and getting to dig deeper
+
+45
+00:01:39,119 --> 00:01:42,079
+into the methodology. For those of you
+
+46
+00:01:40,640 --> 00:01:44,320
+who were here yesterday, some of the
+
+47
+00:01:42,079 --> 00:01:45,840
+slides are repeated. Um, but my
+
+48
+00:01:44,320 --> 00:01:47,840
+grandmother was an elementary school
+
+49
+00:01:45,840 --> 00:01:49,600
+teacher and I think I learned from her
+
+50
+00:01:47,840 --> 00:01:51,280
+that it's really important to hammer
+
+51
+00:01:49,600 --> 00:01:52,640
+home messages and repeat things that are
+
+52
+00:01:51,280 --> 00:01:54,720
+important. So, we're going to go through
+
+53
+00:01:52,640 --> 00:01:57,040
+those slides again. Um and of course I'm
+
+54
+00:01:54,720 --> 00:01:59,520
+an employee of ultragenics.
+
+55
+00:01:57,040 --> 00:02:01,280
+So who is ultragenics? Um all we do is
+
+56
+00:01:59,520 --> 00:02:04,960
+rare. We do rare and ultra rare
+
+57
+00:02:01,280 --> 00:02:08,640
+diseases. And um we were founded in 2010
+
+58
+00:02:04,960 --> 00:02:11,680
+by Amal Kakis and he saw a problem. He
+
+59
+00:02:08,640 --> 00:02:14,239
+was working on MPS1 mopacyosis type one
+
+60
+00:02:11,680 --> 00:02:16,080
+at the time and saw that it was really
+
+61
+00:02:14,239 --> 00:02:17,680
+hard to do drug development for rare
+
+62
+00:02:16,080 --> 00:02:19,680
+diseases and he thought he could make a
+
+63
+00:02:17,680 --> 00:02:22,800
+difference. So he's now built out a team
+
+64
+00:02:19,680 --> 00:02:25,280
+of 1300 employees. Uh we're based out of
+
+65
+00:02:22,800 --> 00:02:27,440
+Nevada in Northern California, but I
+
+66
+00:02:25,280 --> 00:02:29,920
+live in Texas. We've got people all over
+
+67
+00:02:27,440 --> 00:02:32,480
+the globe that are working to help bring
+
+68
+00:02:29,920 --> 00:02:35,200
+new drugs to uh disorders that don't
+
+69
+00:02:32,480 --> 00:02:37,519
+have treatments right now.
+
+70
+00:02:35,200 --> 00:02:39,840
+And this is GTX 102. So we'll just spend
+
+71
+00:02:37,519 --> 00:02:41,840
+a tiny bit of time here. Um I think this
+
+72
+00:02:39,840 --> 00:02:44,879
+audience knows what ASOs are by this
+
+73
+00:02:41,840 --> 00:02:47,200
+point, but um GTX 102's job is to bind
+
+74
+00:02:44,879 --> 00:02:49,840
+to the anti-sense transcript and allow
+
+75
+00:02:47,200 --> 00:02:51,920
+for expression of the paternal al. So it
+
+76
+00:02:49,840 --> 00:02:54,720
+does that by binding to that transcript
+
+77
+00:02:51,920 --> 00:02:57,599
+causing it to be degraded. That opens up
+
+78
+00:02:54,720 --> 00:03:00,080
+the paternal alil for expression so that
+
+79
+00:02:57,599 --> 00:03:03,200
+you get to use that backup copy from dad
+
+80
+00:03:00,080 --> 00:03:06,080
+to make UB3A protein.
+
+81
+00:03:03,200 --> 00:03:08,400
+We um have looked at a lot of different
+
+82
+00:03:06,080 --> 00:03:10,080
+outcome measures and see that we're
+
+83
+00:03:08,400 --> 00:03:12,159
+seeing some improvements across some of
+
+84
+00:03:10,080 --> 00:03:13,760
+the core symptoms of Angelman syndrome
+
+85
+00:03:12,159 --> 00:03:16,319
+and we've had a generally pretty good
+
+86
+00:03:13,760 --> 00:03:17,760
+safety profile. So, here's some of the
+
+87
+00:03:16,319 --> 00:03:20,080
+most common safety events that we've
+
+88
+00:03:17,760 --> 00:03:21,680
+seen in our phrase one two trial. We do
+
+89
+00:03:20,080 --> 00:03:23,840
+have a safety event that we monitor
+
+90
+00:03:21,680 --> 00:03:25,920
+closely. Um, it's an adverse event of
+
+91
+00:03:23,840 --> 00:03:28,080
+special interest or AESI or you may have
+
+92
+00:03:25,920 --> 00:03:29,920
+heard the term ridiculopathy in some of
+
+93
+00:03:28,080 --> 00:03:31,360
+our other presentations. What that
+
+94
+00:03:29,920 --> 00:03:34,000
+essentially means is that we've had a
+
+95
+00:03:31,360 --> 00:03:35,760
+few kids who have had some sensory
+
+96
+00:03:34,000 --> 00:03:37,519
+changes or some motor changes that have
+
+97
+00:03:35,760 --> 00:03:39,440
+impacted how they were able to walk for
+
+98
+00:03:37,519 --> 00:03:41,519
+a short period of time. They all
+
+99
+00:03:39,440 --> 00:03:44,480
+recovered completely. nobody had any
+
+100
+00:03:41,519 --> 00:03:46,720
+long-lasting impact and we're able to go
+
+101
+00:03:44,480 --> 00:03:48,239
+back on drug and have improvements uh
+
+102
+00:03:46,720 --> 00:03:50,239
+without having any recurrence of this
+
+103
+00:03:48,239 --> 00:03:51,840
+event. So, it's an important event. It's
+
+104
+00:03:50,239 --> 00:03:53,360
+an event that we monitor for, but we
+
+105
+00:03:51,840 --> 00:03:55,360
+know how to monitor for it. We know how
+
+106
+00:03:53,360 --> 00:03:56,720
+to identify it. We know how to treat it.
+
+107
+00:03:55,360 --> 00:03:58,400
+And most importantly, we know how to get
+
+108
+00:03:56,720 --> 00:04:00,159
+kids back on drugs so that they can
+
+109
+00:03:58,400 --> 00:04:03,680
+continue to receive potential benefits
+
+110
+00:04:00,159 --> 00:04:06,159
+from GTX 102. So the way we've
+
+111
+00:04:03,680 --> 00:04:08,560
+structured this talk today is we're in a
+
+112
+00:04:06,159 --> 00:04:10,080
+nice interesting time in our program
+
+113
+00:04:08,560 --> 00:04:11,680
+where our phase three study is running
+
+114
+00:04:10,080 --> 00:04:13,920
+right now and so we've got a little bit
+
+115
+00:04:11,680 --> 00:04:16,880
+of time to reflect a tiny bit of time I
+
+116
+00:04:13,920 --> 00:04:18,639
+think. But we were thinking about all of
+
+117
+00:04:16,880 --> 00:04:20,160
+the lessons we've learned from you as a
+
+118
+00:04:18,639 --> 00:04:22,560
+community and how much you've made our
+
+119
+00:04:20,160 --> 00:04:26,320
+program better. So lesson number one was
+
+120
+00:04:22,560 --> 00:04:28,240
+measure what matters. And so y'all are
+
+121
+00:04:26,320 --> 00:04:30,320
+the experts on Angelmen. you know what
+
+122
+00:04:28,240 --> 00:04:31,680
+it's like to live in your household with
+
+123
+00:04:30,320 --> 00:04:33,440
+your loved ones that have Angelman
+
+124
+00:04:31,680 --> 00:04:36,240
+syndrome and the daily challenges that
+
+125
+00:04:33,440 --> 00:04:38,000
+you face and it's our job and my team's
+
+126
+00:04:36,240 --> 00:04:40,320
+job to figure out how do we turn those
+
+127
+00:04:38,000 --> 00:04:43,360
+daily challenges into things we can
+
+128
+00:04:40,320 --> 00:04:45,919
+measure as clinical outcome measures. So
+
+129
+00:04:43,360 --> 00:04:47,280
+one of the ways we've done that is by
+
+130
+00:04:45,919 --> 00:04:48,639
+learning from your natural history
+
+131
+00:04:47,280 --> 00:04:50,720
+studies, learning from your disease
+
+132
+00:04:48,639 --> 00:04:52,720
+concept studies, and then also learning
+
+133
+00:04:50,720 --> 00:04:55,120
+from our own data. So, we can look at
+
+134
+00:04:52,720 --> 00:04:58,160
+our baseline data and we've got a poster
+
+135
+00:04:55,120 --> 00:04:59,919
+up that um summarizes all of this. But
+
+136
+00:04:58,160 --> 00:05:02,800
+what I thought was really exciting and
+
+137
+00:04:59,919 --> 00:05:05,680
+our team was excited about was that this
+
+138
+00:05:02,800 --> 00:05:08,240
+data really reflects that we're able to
+
+139
+00:05:05,680 --> 00:05:10,560
+measure and quantify the symptoms that
+
+140
+00:05:08,240 --> 00:05:12,960
+you've told us matter. And what that
+
+141
+00:05:10,560 --> 00:05:14,800
+means is that we're able to put a number
+
+142
+00:05:12,960 --> 00:05:16,479
+to it and that's a number that we can
+
+143
+00:05:14,800 --> 00:05:18,988
+follow over the course of a clinical
+
+144
+00:05:16,479 --> 00:05:19,120
+trial and see if it changes.
+
+145
+00:05:18,988 --> 00:05:21,919
+>> [snorts]
+
+146
+00:05:19,120 --> 00:05:25,360
+>> And so these data highlight the
+
+147
+00:05:21,919 --> 00:05:27,680
+importance of capturing those symptoms.
+
+148
+00:05:25,360 --> 00:05:29,440
+We capture them in a quantifiable way
+
+149
+00:05:27,680 --> 00:05:31,600
+through those surveys, the Bailey data,
+
+150
+00:05:29,440 --> 00:05:33,520
+Vineland data, all of these things, but
+
+151
+00:05:31,600 --> 00:05:34,800
+we also get to have qualitative data
+
+152
+00:05:33,520 --> 00:05:37,199
+from our caregivers that are
+
+153
+00:05:34,800 --> 00:05:39,840
+participating in the trial. So we do
+
+154
+00:05:37,199 --> 00:05:41,919
+qualitative interviews at study entry
+
+155
+00:05:39,840 --> 00:05:44,320
+and periodically throughout our studies
+
+156
+00:05:41,919 --> 00:05:46,560
+with a subset of um participants, subset
+
+157
+00:05:44,320 --> 00:05:48,639
+of caregivers, and they tell us what all
+
+158
+00:05:46,560 --> 00:05:50,720
+of this stuff means. What is it like to
+
+159
+00:05:48,639 --> 00:05:52,560
+be in the trial? What is it like to live
+
+160
+00:05:50,720 --> 00:05:54,800
+um with your loved one that has Angelmen
+
+161
+00:05:52,560 --> 00:05:56,479
+syndrome? What is it like uh when you
+
+162
+00:05:54,800 --> 00:05:58,479
+say behavior problem? What does that
+
+163
+00:05:56,479 --> 00:06:00,720
+mean? And then we can link that data
+
+164
+00:05:58,479 --> 00:06:03,120
+with our quantitative data and give it
+
+165
+00:06:00,720 --> 00:06:04,960
+some more color and meaning.
+
+166
+00:06:03,120 --> 00:06:06,479
+But one of the ways we also like to look
+
+167
+00:06:04,960 --> 00:06:08,240
+at our data is with the multi-dommain
+
+168
+00:06:06,479 --> 00:06:09,759
+responder index. So again, we've got a
+
+169
+00:06:08,240 --> 00:06:12,560
+cool poster that I'll flag and you can
+
+170
+00:06:09,759 --> 00:06:14,664
+go talk to us about it. Um, and we
+
+171
+00:06:12,560 --> 00:06:15,280
+learned from the PFGD, excuse me,
+
+172
+00:06:14,664 --> 00:06:17,360
+[clears throat]
+
+173
+00:06:15,280 --> 00:06:19,039
+we learned from the PFTD that sleep and
+
+174
+00:06:17,360 --> 00:06:20,639
+behavior are also super important in
+
+175
+00:06:19,039 --> 00:06:22,080
+addition to cognition and communication
+
+176
+00:06:20,639 --> 00:06:24,720
+and seizures and all of the other things
+
+177
+00:06:22,080 --> 00:06:27,360
+you face. And so we got to collaborate
+
+178
+00:06:24,720 --> 00:06:28,720
+with FAST and and were asked to look at
+
+179
+00:06:27,360 --> 00:06:31,120
+our behavior data and it was a really
+
+180
+00:06:28,720 --> 00:06:33,039
+cool opportunity to say look our
+
+181
+00:06:31,120 --> 00:06:34,800
+behavior data is capturing the symptoms
+
+182
+00:06:33,039 --> 00:06:37,440
+of hyperactivity, non-compliance,
+
+183
+00:06:34,800 --> 00:06:39,759
+impulsivity that are really challenging
+
+184
+00:06:37,440 --> 00:06:43,120
+in the home and we see it changing in
+
+185
+00:06:39,759 --> 00:06:45,759
+response to GTX 102. So now we know that
+
+186
+00:06:43,120 --> 00:06:47,840
+we've got some pieces that we get to go
+
+187
+00:06:45,759 --> 00:06:50,240
+after look at even more depth in our
+
+188
+00:06:47,840 --> 00:06:52,960
+phase three study. But that's just one
+
+189
+00:06:50,240 --> 00:06:55,039
+piece of the puzzle, right? And so the
+
+190
+00:06:52,960 --> 00:06:57,520
+way that we like to look at our data is
+
+191
+00:06:55,039 --> 00:06:59,919
+in all of the symptoms at one time and
+
+192
+00:06:57,520 --> 00:07:01,919
+see how things change. And that's
+
+193
+00:06:59,919 --> 00:07:04,720
+because a single primary efficacy
+
+194
+00:07:01,919 --> 00:07:07,280
+endpoint may not be good enough to
+
+195
+00:07:04,720 --> 00:07:09,759
+measure all of the ways these drugs can
+
+196
+00:07:07,280 --> 00:07:12,160
+impact patients.
+
+197
+00:07:09,759 --> 00:07:14,240
+The way that drugs are typically
+
+198
+00:07:12,160 --> 00:07:17,039
+designed in clinical trials to be tested
+
+199
+00:07:14,240 --> 00:07:19,599
+is you pick one symptom that's linked
+
+200
+00:07:17,039 --> 00:07:21,919
+with one s uh one uh clinical outcome
+
+201
+00:07:19,599 --> 00:07:24,400
+assessment and you need to see change in
+
+202
+00:07:21,919 --> 00:07:26,160
+that one particular measure. That means
+
+203
+00:07:24,400 --> 00:07:28,319
+that everybody that enters the trial
+
+204
+00:07:26,160 --> 00:07:29,919
+probably needs to have that symptom. For
+
+205
+00:07:28,319 --> 00:07:31,520
+some disorders, that may be okay. For
+
+206
+00:07:29,919 --> 00:07:33,199
+some symptoms, that may be okay. But
+
+207
+00:07:31,520 --> 00:07:34,800
+what if you're missing other potential
+
+208
+00:07:33,199 --> 00:07:36,400
+benefits?
+
+209
+00:07:34,800 --> 00:07:38,160
+or what if you're having to exclude
+
+210
+00:07:36,400 --> 00:07:40,000
+participants who could benefit in other
+
+211
+00:07:38,160 --> 00:07:41,360
+ways and they're not getting to be in
+
+212
+00:07:40,000 --> 00:07:43,280
+that trial and we don't get to learn
+
+213
+00:07:41,360 --> 00:07:44,880
+about their experience too in other
+
+214
+00:07:43,280 --> 00:07:47,120
+symptoms.
+
+215
+00:07:44,880 --> 00:07:49,280
+We also know that many drugs impact
+
+216
+00:07:47,120 --> 00:07:50,720
+patients differently. One drug may treat
+
+217
+00:07:49,280 --> 00:07:52,400
+two different symptoms and isn't it
+
+218
+00:07:50,720 --> 00:07:54,639
+important to know about that and be able
+
+219
+00:07:52,400 --> 00:07:58,000
+to, you know, put significant weight
+
+220
+00:07:54,639 --> 00:07:59,599
+behind that? And for that matter, we've
+
+221
+00:07:58,000 --> 00:08:01,680
+heard all the exciting stuff about the
+
+222
+00:07:59,599 --> 00:08:03,440
+ASOS, the crispers, the gene therapies
+
+223
+00:08:01,680 --> 00:08:05,759
+this morning. These are all targeting
+
+224
+00:08:03,440 --> 00:08:08,240
+the underlying symptom or the underlying
+
+225
+00:08:05,759 --> 00:08:10,960
+cause of Angelmen syndrome and we know
+
+226
+00:08:08,240 --> 00:08:12,400
+that your kids are not all the same.
+
+227
+00:08:10,960 --> 00:08:14,479
+Yes, there's a group of symptoms that
+
+228
+00:08:12,400 --> 00:08:16,160
+we're expecting to see, but we don't see
+
+229
+00:08:14,479 --> 00:08:19,440
+every single symptom in every single
+
+230
+00:08:16,160 --> 00:08:21,199
+person in the exact same way. So, the
+
+231
+00:08:19,440 --> 00:08:24,400
+multi-dommain responder index or the
+
+232
+00:08:21,199 --> 00:08:26,720
+MDRI is one of our solutions to be able
+
+233
+00:08:24,400 --> 00:08:29,120
+to capture and assess this change across
+
+234
+00:08:26,720 --> 00:08:32,959
+multiple symptoms using one analytical
+
+235
+00:08:29,120 --> 00:08:35,680
+tool. So, what is it? It's a statistical
+
+236
+00:08:32,959 --> 00:08:40,240
+analytical tool. It's a methodology that
+
+237
+00:08:35,680 --> 00:08:41,919
+we apply to our data. So, we assign
+
+238
+00:08:40,240 --> 00:08:43,599
+clinical domains that are meaningful
+
+239
+00:08:41,919 --> 00:08:47,040
+based on the patient population we're
+
+240
+00:08:43,599 --> 00:08:48,880
+studying and then we assign um clinical
+
+241
+00:08:47,040 --> 00:08:50,640
+thresholds to those and see what our
+
+242
+00:08:48,880 --> 00:08:52,160
+responder analysis looks like. We'll go
+
+243
+00:08:50,640 --> 00:08:53,519
+into that in a little more detail in a
+
+244
+00:08:52,160 --> 00:08:55,680
+second.
+
+245
+00:08:53,519 --> 00:08:57,920
+If you've heard of composite endpoints,
+
+246
+00:08:55,680 --> 00:09:00,080
+that is another way to pull in multiple
+
+247
+00:08:57,920 --> 00:09:02,399
+clinical endpoints into one analytical
+
+248
+00:09:00,080 --> 00:09:05,600
+tool, but it's a little bit different.
+
+249
+00:09:02,399 --> 00:09:07,360
+In the MDRI, each of the domains is
+
+250
+00:09:05,600 --> 00:09:09,839
+independent. We're measuring it
+
+251
+00:09:07,360 --> 00:09:12,480
+individually. And in this case, they're
+
+252
+00:09:09,839 --> 00:09:14,000
+all symptoms of Angelman syndrome, but
+
+253
+00:09:12,480 --> 00:09:16,000
+for a composite endpoint, you typically
+
+254
+00:09:14,000 --> 00:09:17,920
+need it to be a single symptom that
+
+255
+00:09:16,000 --> 00:09:19,760
+you're measuring in different ways. And
+
+256
+00:09:17,920 --> 00:09:22,800
+all of those outcome measures are
+
+257
+00:09:19,760 --> 00:09:24,959
+pointing to that one symptom. So
+
+258
+00:09:22,800 --> 00:09:26,720
+different ways to measure one versus
+
+259
+00:09:24,959 --> 00:09:29,040
+different symptoms being measured at the
+
+260
+00:09:26,720 --> 00:09:32,320
+same time.
+
+261
+00:09:29,040 --> 00:09:34,160
+So we do it by identifying four to six
+
+262
+00:09:32,320 --> 00:09:35,680
+different clinically important domains.
+
+263
+00:09:34,160 --> 00:09:38,240
+They need to be important and
+
+264
+00:09:35,680 --> 00:09:40,000
+independent. Then we assign a clinical
+
+265
+00:09:38,240 --> 00:09:41,519
+endpoint to each of those domains or
+
+266
+00:09:40,000 --> 00:09:45,040
+each of those symptoms a way to measure
+
+267
+00:09:41,519 --> 00:09:46,560
+for change. Then we define the minimal
+
+268
+00:09:45,040 --> 00:09:48,640
+excuse me the meaningful score
+
+269
+00:09:46,560 --> 00:09:50,080
+difference. Uh it used to be called a
+
+270
+00:09:48,640 --> 00:09:51,600
+minimal important difference. There's
+
+271
+00:09:50,080 --> 00:09:53,279
+been a lot of different terms for this.
+
+272
+00:09:51,600 --> 00:09:55,279
+What it's essentially saying is a
+
+273
+00:09:53,279 --> 00:09:58,080
+clinical threshold.
+
+274
+00:09:55,279 --> 00:09:59,839
+Beyond this score is good. Below or
+
+275
+00:09:58,080 --> 00:10:04,160
+beyond this score in that direction is
+
+276
+00:09:59,839 --> 00:10:06,000
+bad. Um so if you meet or surpass the
+
+277
+00:10:04,160 --> 00:10:07,519
+clinically meaningful threshold in the
+
+278
+00:10:06,000 --> 00:10:08,880
+direction of improvement for the scale
+
+279
+00:10:07,519 --> 00:10:10,480
+because remember some scales go up and
+
+280
+00:10:08,880 --> 00:10:13,040
+some scales go down for positive or
+
+281
+00:10:10,480 --> 00:10:14,640
+negative. If you meet or surpass in the
+
+282
+00:10:13,040 --> 00:10:16,560
+direction of improvement that means that
+
+283
+00:10:14,640 --> 00:10:19,760
+we give you a green box and you're a
+
+284
+00:10:16,560 --> 00:10:21,279
+plus one and we say you had improvement.
+
+285
+00:10:19,760 --> 00:10:23,680
+meet or surpass in the direction of
+
+286
+00:10:21,279 --> 00:10:26,240
+worsening. We give it a pink box, you
+
+287
+00:10:23,680 --> 00:10:28,720
+get a minus one point and we say that
+
+288
+00:10:26,240 --> 00:10:30,399
+was a case that worsened.
+
+289
+00:10:28,720 --> 00:10:32,160
+If it falls somewhere in the middle in
+
+290
+00:10:30,399 --> 00:10:34,240
+the gray zone, we say that's an unclear
+
+291
+00:10:32,160 --> 00:10:36,880
+treatment effect. We leave the box white
+
+292
+00:10:34,240 --> 00:10:38,720
+and we give it a score of zero. You
+
+293
+00:10:36,880 --> 00:10:41,680
+tally up the scores for each
+
+294
+00:10:38,720 --> 00:10:43,920
+participant. So in this hypothetical uh
+
+295
+00:10:41,680 --> 00:10:45,920
+dummy data here, you've got two domains
+
+296
+00:10:43,920 --> 00:10:48,000
+that improve, one domain that worsened,
+
+297
+00:10:45,920 --> 00:10:50,720
+two domains that were unclear, you get a
+
+298
+00:10:48,000 --> 00:10:52,399
+net response of plus one. Then we apply
+
+299
+00:10:50,720 --> 00:10:54,399
+statistical methodologies to that,
+
+300
+00:10:52,399 --> 00:10:56,399
+statistical testing to the group and
+
+301
+00:10:54,399 --> 00:11:01,440
+understand um if we have statistically
+
+302
+00:10:56,399 --> 00:11:04,560
+significant changes or not. So how did
+
+303
+00:11:01,440 --> 00:11:06,959
+we build an MDRI for Angelman syndrome?
+
+304
+00:11:04,560 --> 00:11:09,680
+We started with our domains. Again, we
+
+305
+00:11:06,959 --> 00:11:11,279
+learned these from you. The uh disease
+
+306
+00:11:09,680 --> 00:11:12,800
+concept studies, the natural history
+
+307
+00:11:11,279 --> 00:11:15,360
+studies tell us that these are the
+
+308
+00:11:12,800 --> 00:11:18,000
+symptoms that don't have good clinical
+
+309
+00:11:15,360 --> 00:11:21,360
+um uh medical medical treatment options
+
+310
+00:11:18,000 --> 00:11:24,560
+right now. We assigned a clinical
+
+311
+00:11:21,360 --> 00:11:26,560
+endpoint to each of these domains. So
+
+312
+00:11:24,560 --> 00:11:29,200
+based on our one phase one two data,
+
+313
+00:11:26,560 --> 00:11:30,480
+we're able to learn, okay, we can
+
+314
+00:11:29,200 --> 00:11:32,800
+measure sleep in a bunch of different
+
+315
+00:11:30,480 --> 00:11:34,399
+ways, but which one is the best? which
+
+316
+00:11:32,800 --> 00:11:36,640
+one do we think is capturing what the
+
+317
+00:11:34,399 --> 00:11:39,200
+patient community tells us is important
+
+318
+00:11:36,640 --> 00:11:42,000
+and which one is also responding to
+
+319
+00:11:39,200 --> 00:11:44,160
+treatment. So we see change scores over
+
+320
+00:11:42,000 --> 00:11:45,680
+time. And so that's how we picked each
+
+321
+00:11:44,160 --> 00:11:48,480
+of these endpoints was based on our
+
+322
+00:11:45,680 --> 00:11:52,640
+phase one two data. Then we get to
+
+323
+00:11:48,480 --> 00:11:54,880
+define the um MSDS. So the meaningful
+
+324
+00:11:52,640 --> 00:11:57,200
+score difference for each of these. And
+
+325
+00:11:54,880 --> 00:12:00,160
+again we use our phase one two data to
+
+326
+00:11:57,200 --> 00:12:02,480
+help us understand um what is the
+
+327
+00:12:00,160 --> 00:12:03,920
+threshold that we need to say if you're
+
+328
+00:12:02,480 --> 00:12:05,040
+beyond this score it's an improvement.
+
+329
+00:12:03,920 --> 00:12:07,279
+If you're beyond this score it's a
+
+330
+00:12:05,040 --> 00:12:09,040
+worsening. So let's walk through a
+
+331
+00:12:07,279 --> 00:12:12,240
+couple of examples and then I'll show
+
+332
+00:12:09,040 --> 00:12:14,720
+you the entire um table.
+
+333
+00:12:12,240 --> 00:12:17,040
+So first a relatively simple one. So we
+
+334
+00:12:14,720 --> 00:12:18,399
+have participant one here. They got
+
+335
+00:12:17,040 --> 00:12:20,399
+better in every single one of these
+
+336
+00:12:18,399 --> 00:12:22,000
+domains. So they met or surpassed in the
+
+337
+00:12:20,399 --> 00:12:24,399
+direction of clinical improvement on
+
+338
+00:12:22,000 --> 00:12:26,079
+each domain. That means we color the box
+
+339
+00:12:24,399 --> 00:12:27,920
+green and we give it a plus one. So they
+
+340
+00:12:26,079 --> 00:12:29,440
+have a total net response score of plus
+
+341
+00:12:27,920 --> 00:12:32,079
+five. That's the max score we could get
+
+342
+00:12:29,440 --> 00:12:34,639
+on this
+
+343
+00:12:32,079 --> 00:12:37,200
+subject two which is technic subject 11.
+
+344
+00:12:34,639 --> 00:12:38,800
+our second example. Um, so this one's a
+
+345
+00:12:37,200 --> 00:12:40,639
+little bit more complicated. We've got
+
+346
+00:12:38,800 --> 00:12:42,320
+three domains that improve, two that
+
+347
+00:12:40,639 --> 00:12:44,160
+stayed essentially the same, had an
+
+348
+00:12:42,320 --> 00:12:47,200
+unclear treatment effect, so they get a
+
+349
+00:12:44,160 --> 00:12:50,720
+net response of plus three.
+
+350
+00:12:47,200 --> 00:12:52,399
+The last one, so um, this one has two
+
+351
+00:12:50,720 --> 00:12:54,639
+domains that worsened this time. So we
+
+352
+00:12:52,399 --> 00:12:57,680
+color those boxes pink, so they're a
+
+353
+00:12:54,639 --> 00:12:59,120
+minus one point. Two boxes are green,
+
+354
+00:12:57,680 --> 00:13:00,800
+that means they surpassed the threshold
+
+355
+00:12:59,120 --> 00:13:02,480
+in the improvement direction. So they
+
+356
+00:13:00,800 --> 00:13:03,680
+get plus one for each of those. and they
+
+357
+00:13:02,480 --> 00:13:05,680
+had one that was an unclear treatment
+
+358
+00:13:03,680 --> 00:13:08,320
+effect. Add those all up and you get a
+
+359
+00:13:05,680 --> 00:13:11,200
+net score of zero. Okay, so that's how
+
+360
+00:13:08,320 --> 00:13:13,440
+we walk through each participant.
+
+361
+00:13:11,200 --> 00:13:15,440
+Now, the whole big data. So, this is all
+
+362
+00:13:13,440 --> 00:13:17,440
+of our participants from cohorts A and
+
+363
+00:13:15,440 --> 00:13:19,040
+B. So, just two of our groups that were
+
+364
+00:13:17,440 --> 00:13:21,040
+in our phase one two study. We're
+
+365
+00:13:19,040 --> 00:13:22,959
+assessing them at baseline and at day
+
+366
+00:13:21,040 --> 00:13:25,120
+338, which is approximately one year
+
+367
+00:13:22,959 --> 00:13:27,120
+into treatment. And we see how did their
+
+368
+00:13:25,120 --> 00:13:30,320
+score change over the course of that one
+
+369
+00:13:27,120 --> 00:13:32,480
+year. Did the score meet or surpass the
+
+370
+00:13:30,320 --> 00:13:34,079
+direction the score differential for the
+
+371
+00:13:32,480 --> 00:13:36,480
+direction in improvement or for
+
+372
+00:13:34,079 --> 00:13:39,200
+worsening? Um, and so if it's improved,
+
+373
+00:13:36,480 --> 00:13:42,079
+we get a green box, worsened, pink box,
+
+374
+00:13:39,200 --> 00:13:43,839
+no change, white box. Add them all up
+
+375
+00:13:42,079 --> 00:13:45,680
+for each participant and then you get
+
+376
+00:13:43,839 --> 00:13:48,160
+that final column there, which is the
+
+377
+00:13:45,680 --> 00:13:50,480
+total net response.
+
+378
+00:13:48,160 --> 00:13:53,839
+And you can see the total net responses
+
+379
+00:13:50,480 --> 00:13:56,800
+in green. tally up to 22 out of 28 of
+
+380
+00:13:53,839 --> 00:13:58,959
+these kids, which is 79% of kids with at
+
+381
+00:13:56,800 --> 00:14:01,519
+least one domain that has a net
+
+382
+00:13:58,959 --> 00:14:03,279
+responsive clinical improvement. You can
+
+383
+00:14:01,519 --> 00:14:05,519
+see that some kids improve in some
+
+384
+00:14:03,279 --> 00:14:08,160
+places, don't change in some places, and
+
+385
+00:14:05,519 --> 00:14:10,079
+even worsen in some places. Um, but it
+
+386
+00:14:08,160 --> 00:14:12,000
+gives you a sense that everybody's
+
+387
+00:14:10,079 --> 00:14:14,560
+responding in different ways, and we get
+
+388
+00:14:12,000 --> 00:14:17,279
+to look at that data in this kind of
+
+389
+00:14:14,560 --> 00:14:19,839
+bird's eye view of the totality all at
+
+390
+00:14:17,279 --> 00:14:22,079
+one time. Now, of course, we look at
+
+391
+00:14:19,839 --> 00:14:23,760
+each of these individually as well um in
+
+392
+00:14:22,079 --> 00:14:26,240
+the more traditional way of looking at
+
+393
+00:14:23,760 --> 00:14:28,000
+our line graphs and our um bar graphs
+
+394
+00:14:26,240 --> 00:14:29,279
+that we show you all the time, but we
+
+395
+00:14:28,000 --> 00:14:31,360
+think that this is a really nice
+
+396
+00:14:29,279 --> 00:14:33,839
+snapshot that gives you a sense that a
+
+397
+00:14:31,360 --> 00:14:37,040
+lot of kids are improving.
+
+398
+00:14:33,839 --> 00:14:41,040
+Okay, so lesson two, uh patient focused
+
+399
+00:14:37,040 --> 00:14:42,959
+study design. Um I think one of our core
+
+400
+00:14:41,040 --> 00:14:45,440
+tenants at Ultragenics is that we do
+
+401
+00:14:42,959 --> 00:14:48,240
+patient focused drug development. We get
+
+402
+00:14:45,440 --> 00:14:50,000
+your input all all along the way and in
+
+403
+00:14:48,240 --> 00:14:53,360
+fact you have given us a lot of feedback
+
+404
+00:14:50,000 --> 00:14:55,760
+and input over time. So we have more
+
+405
+00:14:53,360 --> 00:14:58,079
+formal less formal interactions with you
+
+406
+00:14:55,760 --> 00:15:01,040
+and we appreciate that feedback always.
+
+407
+00:14:58,079 --> 00:15:03,120
+We do our best to hear you to listen and
+
+408
+00:15:01,040 --> 00:15:05,040
+to make changes to the best of our
+
+409
+00:15:03,120 --> 00:15:07,199
+abilities. [snorts] Um so thank you for
+
+410
+00:15:05,040 --> 00:15:10,000
+the feedback and um know that we'll
+
+411
+00:15:07,199 --> 00:15:12,399
+continue to keep asking.
+
+412
+00:15:10,000 --> 00:15:15,040
+Um, one of the ways that I'd like to
+
+413
+00:15:12,399 --> 00:15:17,360
+highlight that we did um, receive
+
+414
+00:15:15,040 --> 00:15:18,800
+feedback and made some changes um, was
+
+415
+00:15:17,360 --> 00:15:20,639
+how we thought about our phase three
+
+416
+00:15:18,800 --> 00:15:22,720
+study. So to walk you through a little
+
+417
+00:15:20,639 --> 00:15:25,120
+bit, how do you design a controlled
+
+418
+00:15:22,720 --> 00:15:27,360
+clinical study? Traditional ways of
+
+419
+00:15:25,120 --> 00:15:29,519
+placeboc controlled um, study. So you
+
+420
+00:15:27,360 --> 00:15:32,160
+have a placebo group that receives a
+
+421
+00:15:29,519 --> 00:15:34,000
+medicine that is essentially like a fake
+
+422
+00:15:32,160 --> 00:15:36,160
+medicine. It's it's a medicine that
+
+423
+00:15:34,000 --> 00:15:38,560
+looks and is administered and given
+
+424
+00:15:36,160 --> 00:15:40,560
+exactly like the treatment drug with
+
+425
+00:15:38,560 --> 00:15:42,399
+active treatment. But the placebo
+
+426
+00:15:40,560 --> 00:15:45,120
+doesn't have any active ingredients in
+
+427
+00:15:42,399 --> 00:15:47,440
+it. Um
+
+428
+00:15:45,120 --> 00:15:49,199
+in rare disease it's tricky though. We
+
+429
+00:15:47,440 --> 00:15:52,480
+have to be creative, right? We have
+
+430
+00:15:49,199 --> 00:15:54,720
+small patient populations. Um your kids
+
+431
+00:15:52,480 --> 00:15:57,120
+are also vulnerable and we need to
+
+432
+00:15:54,720 --> 00:16:00,320
+protect them and think about what do we
+
+433
+00:15:57,120 --> 00:16:02,800
+absolutely need to do um to answer our
+
+434
+00:16:00,320 --> 00:16:05,519
+scientific questions.
+
+435
+00:16:02,800 --> 00:16:07,440
+We also had feedback from the EMA that
+
+436
+00:16:05,519 --> 00:16:09,839
+came from those of you in the audience
+
+437
+00:16:07,440 --> 00:16:12,000
+who are our European colleagues and
+
+438
+00:16:09,839 --> 00:16:13,600
+families. Um, you got to give some
+
+439
+00:16:12,000 --> 00:16:15,600
+feedback to the EMA and they summarize
+
+440
+00:16:13,600 --> 00:16:17,199
+that in a survey and we heard you loud
+
+441
+00:16:15,600 --> 00:16:20,639
+and clear that sham controlled was
+
+442
+00:16:17,199 --> 00:16:23,440
+preferred. So what's a sham study?
+
+443
+00:16:20,639 --> 00:16:26,160
+So a sham control means that you don't
+
+444
+00:16:23,440 --> 00:16:28,240
+actually give any medicine or fake
+
+445
+00:16:26,160 --> 00:16:29,920
+medicine. it means you do a procedure
+
+446
+00:16:28,240 --> 00:16:32,320
+and you make it look like you're giving
+
+447
+00:16:29,920 --> 00:16:34,720
+the medicine without that final step of
+
+448
+00:16:32,320 --> 00:16:36,639
+administering anything.
+
+449
+00:16:34,720 --> 00:16:39,120
+So that's the study design that we
+
+450
+00:16:36,639 --> 00:16:42,639
+carried into Aspire, our phase three
+
+451
+00:16:39,120 --> 00:16:46,320
+clinical study um which of course we got
+
+452
+00:16:42,639 --> 00:16:49,440
+feedback from you on. So our phase three
+
+453
+00:16:46,320 --> 00:16:52,639
+study Aspire is our global study. We got
+
+454
+00:16:49,440 --> 00:16:53,680
+to enroll 129 kids and kudos to you in
+
+455
+00:16:52,639 --> 00:16:55,120
+the audience and all of our
+
+456
+00:16:53,680 --> 00:16:57,680
+investigators that worked with us on
+
+457
+00:16:55,120 --> 00:17:00,880
+this. We enrolled this study very
+
+458
+00:16:57,680 --> 00:17:02,639
+quickly um and by July this summer we
+
+459
+00:17:00,880 --> 00:17:05,360
+were completed for enrollment and now
+
+460
+00:17:02,639 --> 00:17:06,720
+that data just gets to cook like a sule.
+
+461
+00:17:05,360 --> 00:17:10,959
+We're not touching it until it's ready
+
+462
+00:17:06,720 --> 00:17:12,880
+to be looked at. And so um it's studying
+
+463
+00:17:10,959 --> 00:17:16,079
+the same population that we studied in
+
+464
+00:17:12,880 --> 00:17:19,039
+our phase one two study uh patients four
+
+465
+00:17:16,079 --> 00:17:20,880
+to 17 deletion genotype and we're
+
+466
+00:17:19,039 --> 00:17:23,520
+looking at the same similar outcome
+
+467
+00:17:20,880 --> 00:17:25,919
+measures that we looked at there.
+
+468
+00:17:23,520 --> 00:17:28,240
+It's a sham control design again, but it
+
+469
+00:17:25,919 --> 00:17:29,840
+is double blind. So that means that
+
+470
+00:17:28,240 --> 00:17:31,919
+everybody goes through a screening and
+
+471
+00:17:29,840 --> 00:17:34,720
+randomization period and then you're
+
+472
+00:17:31,919 --> 00:17:36,799
+randomly assigned one to one, so a 50-50
+
+473
+00:17:34,720 --> 00:17:38,720
+chance to either get treatment in the
+
+474
+00:17:36,799 --> 00:17:41,200
+double blind period or to go into that
+
+475
+00:17:38,720 --> 00:17:44,000
+sham control uh where you are getting a
+
+476
+00:17:41,200 --> 00:17:45,520
+sham procedure completed at every visit.
+
+477
+00:17:44,000 --> 00:17:47,919
+And for some of those visits, we're
+
+478
+00:17:45,520 --> 00:17:49,440
+doing a full lumbar puncture to pull off
+
+479
+00:17:47,919 --> 00:17:51,360
+a little bit of spinal fluid so we can
+
+480
+00:17:49,440 --> 00:17:54,080
+do some analyses, understand some more
+
+481
+00:17:51,360 --> 00:17:55,679
+safety profiles, and also continue to
+
+482
+00:17:54,080 --> 00:17:57,840
+work on biomarkers because they're so
+
+483
+00:17:55,679 --> 00:17:59,679
+important.
+
+484
+00:17:57,840 --> 00:18:02,799
+So the first year of the study is double
+
+485
+00:17:59,679 --> 00:18:05,679
+blind. That means that most of the study
+
+486
+00:18:02,799 --> 00:18:08,000
+site uh a group at the study site are
+
+487
+00:18:05,679 --> 00:18:09,600
+blinded and don't know whether the
+
+488
+00:18:08,000 --> 00:18:12,080
+participant is getting drug or is
+
+489
+00:18:09,600 --> 00:18:14,480
+getting the sham. The caregivers don't
+
+490
+00:18:12,080 --> 00:18:17,840
+know, the participants don't know. There
+
+491
+00:18:14,480 --> 00:18:19,760
+are some study site staff that do have
+
+492
+00:18:17,840 --> 00:18:21,280
+to know because right it something
+
+493
+00:18:19,760 --> 00:18:23,440
+different happens in the procedure room
+
+494
+00:18:21,280 --> 00:18:25,039
+for each of these kids. And so they need
+
+495
+00:18:23,440 --> 00:18:27,120
+to know if they're giving drug or if
+
+496
+00:18:25,039 --> 00:18:28,880
+they're doing the sham.
+
+497
+00:18:27,120 --> 00:18:32,799
+But in the open label period in year
+
+498
+00:18:28,880 --> 00:18:34,559
+two, everybody receives drug. So the uh
+
+499
+00:18:32,799 --> 00:18:36,320
+treatment period, the treatment arm gets
+
+500
+00:18:34,559 --> 00:18:39,039
+to just continue receiving their drug in
+
+501
+00:18:36,320 --> 00:18:42,080
+the maintenance period. the sham control
+
+502
+00:18:39,039 --> 00:18:43,919
+arm will transition over to drug um in
+
+503
+00:18:42,080 --> 00:18:46,160
+that open label year and go through the
+
+504
+00:18:43,919 --> 00:18:49,120
+same dosing regimen as um all of the
+
+505
+00:18:46,160 --> 00:18:51,760
+other participants have.
+
+506
+00:18:49,120 --> 00:18:53,760
+Okay, lesson three, inclusion of all
+
+507
+00:18:51,760 --> 00:18:56,080
+genotypes is important. Uh we've heard
+
+508
+00:18:53,760 --> 00:18:58,400
+you multiple times. We also agree GTX
+
+509
+00:18:56,080 --> 00:18:59,919
+102 was designed to treat Angelman
+
+510
+00:18:58,400 --> 00:19:02,320
+syndrome. It was designed to restore
+
+511
+00:18:59,919 --> 00:19:04,559
+UB3A production regardless of the
+
+512
+00:19:02,320 --> 00:19:06,080
+underlying genotype, regardless of age.
+
+513
+00:19:04,559 --> 00:19:07,760
+And so we need to look at the safety and
+
+514
+00:19:06,080 --> 00:19:09,520
+efficacy in these other populations that
+
+515
+00:19:07,760 --> 00:19:11,039
+we haven't had the opportunity to study
+
+516
+00:19:09,520 --> 00:19:13,440
+yet.
+
+517
+00:19:11,039 --> 00:19:15,840
+So as a broad overview of clinical
+
+518
+00:19:13,440 --> 00:19:17,840
+trials and the phases and how they kind
+
+519
+00:19:15,840 --> 00:19:19,840
+of work, this isn't meant to be a linear
+
+520
+00:19:17,840 --> 00:19:21,360
+timeline, but you march through
+
+521
+00:19:19,840 --> 00:19:22,480
+typically phase one, phase two, and
+
+522
+00:19:21,360 --> 00:19:24,880
+phase three. And they each have
+
+523
+00:19:22,480 --> 00:19:26,559
+different goals. So your phase one and
+
+524
+00:19:24,880 --> 00:19:28,480
+phase two studies are your safety
+
+525
+00:19:26,559 --> 00:19:31,039
+studies. In rare disease, we always look
+
+526
+00:19:28,480 --> 00:19:33,840
+at efficacy, too, but they're your
+
+527
+00:19:31,039 --> 00:19:35,840
+safety studies. that study enrolled or
+
+528
+00:19:33,840 --> 00:19:37,760
+completed enrollment uh quite some time
+
+529
+00:19:35,840 --> 00:19:39,679
+ago at this point and so those kids are
+
+530
+00:19:37,760 --> 00:19:42,400
+continuing to receive drug in our uh
+
+531
+00:19:39,679 --> 00:19:44,000
+long-term extension study. Um and we get
+
+532
+00:19:42,400 --> 00:19:46,799
+to continue to learn about the long-term
+
+533
+00:19:44,000 --> 00:19:48,559
+effects of GTX 102.
+
+534
+00:19:46,799 --> 00:19:50,080
+Phase three studies are your pivotal,
+
+535
+00:19:48,559 --> 00:19:53,039
+your controlled studies that are really
+
+536
+00:19:50,080 --> 00:19:55,039
+meant to truly assess benefit risk. Is
+
+537
+00:19:53,039 --> 00:19:56,240
+it working and is it safe? And you
+
+538
+00:19:55,039 --> 00:19:57,840
+typically control them through that
+
+539
+00:19:56,240 --> 00:20:00,080
+blinding mechanism like we just talked
+
+540
+00:19:57,840 --> 00:20:01,600
+about. Enrollment completed for this
+
+541
+00:20:00,080 --> 00:20:04,320
+study over the summer. We're just
+
+542
+00:20:01,600 --> 00:20:06,320
+waiting for the data now, but we're here
+
+543
+00:20:04,320 --> 00:20:07,919
+now. So, phase two studies, again, we
+
+544
+00:20:06,320 --> 00:20:08,960
+get to do safety studies. Remember, we
+
+545
+00:20:07,919 --> 00:20:11,520
+needed to look at the safety and
+
+546
+00:20:08,960 --> 00:20:13,120
+efficacy in our other populations. And
+
+547
+00:20:11,520 --> 00:20:15,200
+so, this study actually opened for
+
+548
+00:20:13,120 --> 00:20:17,679
+enrollment in October. And we're really
+
+549
+00:20:15,200 --> 00:20:20,799
+excited. If you want more information,
+
+550
+00:20:17,679 --> 00:20:22,320
+thank you.
+
+551
+00:20:20,799 --> 00:20:24,160
+Um,
+
+552
+00:20:22,320 --> 00:20:25,919
+thank you. We're super excited. We're
+
+553
+00:20:24,160 --> 00:20:27,360
+very proud of the team. Appreciative
+
+554
+00:20:25,919 --> 00:20:29,360
+again to the investigators who go on
+
+555
+00:20:27,360 --> 00:20:32,400
+this journey with us and go really fast.
+
+556
+00:20:29,360 --> 00:20:33,760
+Um, we are so excited to have this study
+
+557
+00:20:32,400 --> 00:20:36,080
+going and can't wait to see what this
+
+558
+00:20:33,760 --> 00:20:38,480
+data looks like.
+
+559
+00:20:36,080 --> 00:20:40,080
+So, looking at them one more time, phase
+
+560
+00:20:38,480 --> 00:20:42,159
+one, two study was our safety study. It
+
+561
+00:20:40,080 --> 00:20:44,880
+was the initial study, kids ages 4 to
+
+562
+00:20:42,159 --> 00:20:46,559
+17, deletion genotype really helped us
+
+563
+00:20:44,880 --> 00:20:48,799
+design the rest of the studies going
+
+564
+00:20:46,559 --> 00:20:50,559
+forward. Our long-term extension is
+
+565
+00:20:48,799 --> 00:20:52,640
+where we get to see that long-term
+
+566
+00:20:50,559 --> 00:20:54,159
+benefit, the long-term safety profile
+
+567
+00:20:52,640 --> 00:20:56,320
+when kids are on maintenance uh,
+
+568
+00:20:54,159 --> 00:20:58,799
+therapy. And this is the study where
+
+569
+00:20:56,320 --> 00:21:00,640
+kids will always land um from their
+
+570
+00:20:58,799 --> 00:21:02,880
+parent study. So from the initial study
+
+571
+00:21:00,640 --> 00:21:04,640
+they enroll in. Phase three is the
+
+572
+00:21:02,880 --> 00:21:07,200
+Aspire study. It's our pivotal
+
+573
+00:21:04,640 --> 00:21:09,360
+well-controlled study um and it finished
+
+574
+00:21:07,200 --> 00:21:10,960
+enrollment this summer. And Aurora is
+
+575
+00:21:09,360 --> 00:21:12,880
+our phase two study look at safety and
+
+576
+00:21:10,960 --> 00:21:14,320
+efficacy in um the additional
+
+577
+00:21:12,880 --> 00:21:16,240
+populations we haven't gotten to study
+
+578
+00:21:14,320 --> 00:21:18,480
+yet. And all of this information can be
+
+579
+00:21:16,240 --> 00:21:20,080
+found in much greater detail at ct.gov.
+
+580
+00:21:18,480 --> 00:21:21,360
+Um, so I encourage everybody to get
+
+581
+00:21:20,080 --> 00:21:23,840
+familiar with that website if you
+
+582
+00:21:21,360 --> 00:21:26,320
+haven't already and just try to digest
+
+583
+00:21:23,840 --> 00:21:28,960
+the government website as best you can.
+
+584
+00:21:26,320 --> 00:21:30,799
+Um, so what is Aurora?
+
+585
+00:21:28,960 --> 00:21:33,760
+It is a global study. We're enrolling
+
+586
+00:21:30,799 --> 00:21:36,000
+approximately 60 children and adults and
+
+587
+00:21:33,760 --> 00:21:38,960
+it's going to be a phase 2 basket design
+
+588
+00:21:36,000 --> 00:21:41,520
+study. That means that we get to include
+
+589
+00:21:38,960 --> 00:21:44,240
+different subgroups and study them under
+
+590
+00:21:41,520 --> 00:21:46,480
+one clinical protocol. We're looking at
+
+591
+00:21:44,240 --> 00:21:48,000
+all the same kinds of symptoms, but it
+
+592
+00:21:46,480 --> 00:21:50,080
+may be slightly different to look at
+
+593
+00:21:48,000 --> 00:21:51,919
+behavior in adults versus behavior in
+
+594
+00:21:50,080 --> 00:21:53,600
+younger kids. And so we've thought
+
+595
+00:21:51,919 --> 00:21:55,520
+through all of those details and tried
+
+596
+00:21:53,600 --> 00:21:57,120
+to pick the right outcome measures to
+
+597
+00:21:55,520 --> 00:21:58,880
+measure these symptoms in each of these
+
+598
+00:21:57,120 --> 00:22:01,200
+populations.
+
+599
+00:21:58,880 --> 00:22:03,679
+So group A is going to be deletion
+
+600
+00:22:01,200 --> 00:22:05,200
+genotype and these kids will be ages one
+
+601
+00:22:03,679 --> 00:22:07,520
+to three.
+
+602
+00:22:05,200 --> 00:22:09,600
+Uh, group B is going to be our UPD and
+
+603
+00:22:07,520 --> 00:22:12,080
+ICD kits, and they're going to be the
+
+604
+00:22:09,600 --> 00:22:13,919
+same ages, 4 to 17, as our other study
+
+605
+00:22:12,080 --> 00:22:16,000
+populations.
+
+606
+00:22:13,919 --> 00:22:17,440
+Group C is our adult group. And we're
+
+607
+00:22:16,000 --> 00:22:19,360
+kind of being more flexible with this
+
+608
+00:22:17,440 --> 00:22:21,679
+group and accepting any genotype into
+
+609
+00:22:19,360 --> 00:22:25,039
+it. And then group D is our mutation
+
+610
+00:22:21,679 --> 00:22:28,799
+type um genotype group. And those again
+
+611
+00:22:25,039 --> 00:22:32,320
+are 4 to 17 years old.
+
+612
+00:22:28,799 --> 00:22:34,480
+And so our groups A, B, and C are going
+
+613
+00:22:32,320 --> 00:22:36,960
+to do a straight open label one-year
+
+614
+00:22:34,480 --> 00:22:38,320
+study design. So it is open label,
+
+615
+00:22:36,960 --> 00:22:40,480
+meaning everybody's on drug and
+
+616
+00:22:38,320 --> 00:22:41,440
+everybody knows everybody's on drug. You
+
+617
+00:22:40,480 --> 00:22:44,159
+go through your screening and
+
+618
+00:22:41,440 --> 00:22:48,000
+randomization and then they get treated.
+
+619
+00:22:44,159 --> 00:22:50,240
+We assess safety. We assess um efficacy
+
+620
+00:22:48,000 --> 00:22:51,440
+endpoints along the way and then
+
+621
+00:22:50,240 --> 00:22:53,919
+eventually they get to roll in the
+
+622
+00:22:51,440 --> 00:22:56,880
+long-term extension study. and then
+
+623
+00:22:53,919 --> 00:22:58,240
+group D because we have learned that
+
+624
+00:22:56,880 --> 00:23:01,600
+there can be a little bit more
+
+625
+00:22:58,240 --> 00:23:04,880
+variability in the um developmental
+
+626
+00:23:01,600 --> 00:23:06,880
+severity of this group. We understand
+
+627
+00:23:04,880 --> 00:23:09,120
+that neurodedevelopmental disabilities
+
+628
+00:23:06,880 --> 00:23:11,280
+is ubiquitous. Everybody with Angelman
+
+629
+00:23:09,120 --> 00:23:13,120
+syndrome has significant u
+
+630
+00:23:11,280 --> 00:23:14,960
+neurodedevelopmental disability. But
+
+631
+00:23:13,120 --> 00:23:17,760
+this group is the group that has just a
+
+632
+00:23:14,960 --> 00:23:20,559
+slightly bigger variation in that level
+
+633
+00:23:17,760 --> 00:23:22,240
+of severity between individuals. So for
+
+634
+00:23:20,559 --> 00:23:25,679
+that reason, we've included a no
+
+635
+00:23:22,240 --> 00:23:28,799
+treatment control period in this study.
+
+636
+00:23:25,679 --> 00:23:32,080
+So what will happen is kids will uh
+
+637
+00:23:28,799 --> 00:23:34,080
+either for excuse me, every two kids
+
+638
+00:23:32,080 --> 00:23:36,960
+that go into the treatment open label
+
+639
+00:23:34,080 --> 00:23:38,880
+one-year arm, one child will go into
+
+640
+00:23:36,960 --> 00:23:40,720
+that no treatment control period and
+
+641
+00:23:38,880 --> 00:23:44,320
+then start treatment after about six
+
+642
+00:23:40,720 --> 00:23:47,280
+months. So it's a 2:1 randomization.
+
+643
+00:23:44,320 --> 00:23:50,320
+It's still open label. It's still not
+
+644
+00:23:47,280 --> 00:23:53,039
+blinded. It's still not sham. It's not
+
+645
+00:23:50,320 --> 00:23:55,200
+placebo. Everybody will get treatment.
+
+646
+00:23:53,039 --> 00:23:57,120
+We're just asking for a six-month run-in
+
+647
+00:23:55,200 --> 00:23:58,960
+period for one-third of these kids so
+
+648
+00:23:57,120 --> 00:24:01,120
+that we have two different time points
+
+649
+00:23:58,960 --> 00:24:02,799
+before treatment. That helps us
+
+650
+00:24:01,120 --> 00:24:04,480
+understand a little bit better what they
+
+651
+00:24:02,799 --> 00:24:06,159
+looked like before treatment and then we
+
+652
+00:24:04,480 --> 00:24:08,000
+can see what they look like after
+
+653
+00:24:06,159 --> 00:24:09,440
+treatment and we can also still compare
+
+654
+00:24:08,000 --> 00:24:11,600
+them to those that go straight into
+
+655
+00:24:09,440 --> 00:24:13,440
+treatment. So, it just gives us even a
+
+656
+00:24:11,600 --> 00:24:15,600
+little bit more information. I
+
+657
+00:24:13,440 --> 00:24:17,679
+understand it's a bummer to be in a no
+
+658
+00:24:15,600 --> 00:24:20,559
+treatment control period for six months.
+
+659
+00:24:17,679 --> 00:24:22,480
+Um, but it really will help us answer
+
+660
+00:24:20,559 --> 00:24:25,600
+the question scientifically, I think, in
+
+661
+00:24:22,480 --> 00:24:26,880
+a more rigorous way. And as I mentioned,
+
+662
+00:24:25,600 --> 00:24:28,480
+everybody gets to roll into that
+
+663
+00:24:26,880 --> 00:24:30,000
+long-term extension study should they
+
+664
+00:24:28,480 --> 00:24:32,080
+choose to continue on the journey with
+
+665
+00:24:30,000 --> 00:24:34,480
+us. Um, so drug remains available to
+
+666
+00:24:32,080 --> 00:24:36,000
+patients um after their participation in
+
+667
+00:24:34,480 --> 00:24:38,240
+Aurora.
+
+668
+00:24:36,000 --> 00:24:40,559
+So, how can you get more information?
+
+669
+00:24:38,240 --> 00:24:42,320
+Um, we have a team out here, of course.
+
+670
+00:24:40,559 --> 00:24:44,480
+Um, and we also have a team that you can
+
+671
+00:24:42,320 --> 00:24:46,320
+email directly. um they're able to take
+
+672
+00:24:44,480 --> 00:24:47,760
+your information, help connect you to
+
+673
+00:24:46,320 --> 00:24:50,080
+clinical trial sites that are close to
+
+674
+00:24:47,760 --> 00:24:51,440
+you, help you answer some questions even
+
+675
+00:24:50,080 --> 00:24:52,640
+before you get to the site, help you
+
+676
+00:24:51,440 --> 00:24:55,039
+think through what questions might be
+
+677
+00:24:52,640 --> 00:24:57,200
+good to ask. But as Allison mentioned
+
+678
+00:24:55,039 --> 00:24:59,279
+earlier, please talk to your doctors,
+
+679
+00:24:57,200 --> 00:25:00,720
+talk to your families, talk to other
+
+680
+00:24:59,279 --> 00:25:02,080
+families and each other here to
+
+681
+00:25:00,720 --> 00:25:03,919
+understand what it's like to be in a
+
+682
+00:25:02,080 --> 00:25:05,279
+clinical trial and decide if these are
+
+683
+00:25:03,919 --> 00:25:09,760
+um the decisions you want to make for
+
+684
+00:25:05,279 --> 00:25:12,559
+you and your family. So um I will final
+
+685
+00:25:09,760 --> 00:25:14,960
+uh end here. Um, our phase one two trial
+
+686
+00:25:12,559 --> 00:25:16,799
+showed promising uh benefit risk
+
+687
+00:25:14,960 --> 00:25:20,080
+profile, meaning we get to continue to
+
+688
+00:25:16,799 --> 00:25:21,840
+study. Our global phase three Aspire
+
+689
+00:25:20,080 --> 00:25:23,360
+trial completed enrollment this summer
+
+690
+00:25:21,840 --> 00:25:27,360
+and we get to look at that data when
+
+691
+00:25:23,360 --> 00:25:28,799
+it's ready. Um, all of our participants
+
+692
+00:25:27,360 --> 00:25:30,640
+uh continue to receive drug through a
+
+693
+00:25:28,799 --> 00:25:32,799
+long-term extension study and we get to
+
+694
+00:25:30,640 --> 00:25:35,760
+understand those long-term impacts um
+
+695
+00:25:32,799 --> 00:25:37,679
+from safety and efficacy both.
+
+696
+00:25:35,760 --> 00:25:39,360
+And then Aurora has opened. We're super
+
+697
+00:25:37,679 --> 00:25:42,720
+excited. Um, and you can get more
+
+698
+00:25:39,360 --> 00:25:44,559
+information on that study at ct.gov.
+
+699
+00:25:42,720 --> 00:25:46,320
+And then finally, the MDRI we think is a
+
+700
+00:25:44,559 --> 00:25:48,159
+powerful tool. So, one last plug for it.
+
+701
+00:25:46,320 --> 00:25:49,760
+Uh, we think we can measure meaningful
+
+702
+00:25:48,159 --> 00:25:51,360
+improvement across multiple domains at
+
+703
+00:25:49,760 --> 00:25:53,440
+one time. And we think that's a really
+
+704
+00:25:51,360 --> 00:25:55,760
+nice way to look at efficacy data in a
+
+705
+00:25:53,440 --> 00:25:59,640
+complex disorder like Angelman syndrome.
+
+706
+00:25:55,760 --> 00:25:59,640
+So, thank you so much.
+
+707
+00:26:00,227 --> 00:26:02,247
+[snorts]
+
+708
+00:26:07,919 --> 00:26:11,840
+incredible and thank you for all of that
+
+709
+00:26:09,520 --> 00:26:13,600
+and you know that's a whirlwind of an
+
+710
+00:26:11,840 --> 00:26:15,760
+unbelievable amount of work over the
+
+711
+00:26:13,600 --> 00:26:17,919
+last five years and so it's amazing
+
+712
+00:26:15,760 --> 00:26:19,600
+where we are and how far we've come and
+
+713
+00:26:17,919 --> 00:26:22,159
+I just want to acknowledge to the
+
+714
+00:26:19,600 --> 00:26:23,919
+community that the day the press release
+
+715
+00:26:22,159 --> 00:26:27,039
+came out that the first patient was
+
+716
+00:26:23,919 --> 00:26:29,679
+dosed in Aurora I got an email from Amal
+
+717
+00:26:27,039 --> 00:26:32,880
+Khakis that said I told you we would
+
+718
+00:26:29,679 --> 00:26:35,279
+keep our promise and That's because we
+
+719
+00:26:32,880 --> 00:26:38,159
+made them promise, as we have to all
+
+720
+00:26:35,279 --> 00:26:43,320
+sponsors, that they would include all
+
+721
+00:26:38,159 --> 00:26:43,320
+ages and all genotypes. And they did.
+

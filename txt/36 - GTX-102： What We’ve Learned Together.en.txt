@@ -1,0 +1,721 @@
+Our next speaker is Dr. Kim Goodspeed,
+who I introduced yesterday, so I don't
+think she needs another introduction.
+She's going to be talking to us about
+GTX 102, what we've learned together.
+Kim,
+uh, hello everybody. Um, thanks so much,
+uh, for the opportunity to be here today
+again. Um, so for those of you I didn't
+get to meet yesterday, I'm Kim
+Goodspeed. I'm a child neurologist uh by
+training been with ultragenics for a bit
+now and I get to have the distinct honor
+and pleasure of being the clinical
+development lead for our GTX 102 program
+and of course GTX 102 is our anti-sense
+nucleotide ASO for Angelmen syndrome. Um
+before we dive too deeply though I did
+want to say thank you again. Um so thank
+you to FAST for letting us come be part
+of the programming here this uh this
+summit. It's been an amazing summit.
+lots of exciting science happening. Um,
+thank you to those of you out there
+listening and interested to learn more
+and dive into stuff that's really
+complicated. Um, we really appreciate
+all of your questions and your feedback.
+Thanks to our participants and families
+who have trusted us to go on the journey
+with us and been part of our trials to
+date and um to those study teams out
+there who are making all of the magic
+happen at the study sites so that we can
+actually do the studies, answer the
+questions and move things forward. So,
+thank you everybody. So, uh,
+disclaimers, of course, GTX 102 is an
+investigational drug and I'm presenting
+open label interim data. So, we're going
+to share some data from our phase one
+two study. You've seen this before, but
+we're thinking about it in a slightly
+different way and getting to dig deeper
+into the methodology. For those of you
+who were here yesterday, some of the
+slides are repeated. Um, but my
+grandmother was an elementary school
+teacher and I think I learned from her
+that it's really important to hammer
+home messages and repeat things that are
+important. So, we're going to go through
+those slides again. Um and of course I'm
+an employee of ultragenics.
+So who is ultragenics? Um all we do is
+rare. We do rare and ultra rare
+diseases. And um we were founded in 2010
+by Amal Kakis and he saw a problem. He
+was working on MPS1 mopacyosis type one
+at the time and saw that it was really
+hard to do drug development for rare
+diseases and he thought he could make a
+difference. So he's now built out a team
+of 1300 employees. Uh we're based out of
+Nevada in Northern California, but I
+live in Texas. We've got people all over
+the globe that are working to help bring
+new drugs to uh disorders that don't
+have treatments right now.
+And this is GTX 102. So we'll just spend
+a tiny bit of time here. Um I think this
+audience knows what ASOs are by this
+point, but um GTX 102's job is to bind
+to the anti-sense transcript and allow
+for expression of the paternal al. So it
+does that by binding to that transcript
+causing it to be degraded. That opens up
+the paternal alil for expression so that
+you get to use that backup copy from dad
+to make UB3A protein.
+We um have looked at a lot of different
+outcome measures and see that we're
+seeing some improvements across some of
+the core symptoms of Angelman syndrome
+and we've had a generally pretty good
+safety profile. So, here's some of the
+most common safety events that we've
+seen in our phrase one two trial. We do
+have a safety event that we monitor
+closely. Um, it's an adverse event of
+special interest or AESI or you may have
+heard the term ridiculopathy in some of
+our other presentations. What that
+essentially means is that we've had a
+few kids who have had some sensory
+changes or some motor changes that have
+impacted how they were able to walk for
+a short period of time. They all
+recovered completely. nobody had any
+long-lasting impact and we're able to go
+back on drug and have improvements uh
+without having any recurrence of this
+event. So, it's an important event. It's
+an event that we monitor for, but we
+know how to monitor for it. We know how
+to identify it. We know how to treat it.
+And most importantly, we know how to get
+kids back on drugs so that they can
+continue to receive potential benefits
+from GTX 102. So the way we've
+structured this talk today is we're in a
+nice interesting time in our program
+where our phase three study is running
+right now and so we've got a little bit
+of time to reflect a tiny bit of time I
+think. But we were thinking about all of
+the lessons we've learned from you as a
+community and how much you've made our
+program better. So lesson number one was
+measure what matters. And so y'all are
+the experts on Angelmen. you know what
+it's like to live in your household with
+your loved ones that have Angelman
+syndrome and the daily challenges that
+you face and it's our job and my team's
+job to figure out how do we turn those
+daily challenges into things we can
+measure as clinical outcome measures. So
+one of the ways we've done that is by
+learning from your natural history
+studies, learning from your disease
+concept studies, and then also learning
+from our own data. So, we can look at
+our baseline data and we've got a poster
+up that um summarizes all of this. But
+what I thought was really exciting and
+our team was excited about was that this
+data really reflects that we're able to
+measure and quantify the symptoms that
+you've told us matter. And what that
+means is that we're able to put a number
+to it and that's a number that we can
+follow over the course of a clinical
+trial and see if it changes.
+>> [snorts]
+>> And so these data highlight the
+importance of capturing those symptoms.
+We capture them in a quantifiable way
+through those surveys, the Bailey data,
+Vineland data, all of these things, but
+we also get to have qualitative data
+from our caregivers that are
+participating in the trial. So we do
+qualitative interviews at study entry
+and periodically throughout our studies
+with a subset of um participants, subset
+of caregivers, and they tell us what all
+of this stuff means. What is it like to
+be in the trial? What is it like to live
+um with your loved one that has Angelmen
+syndrome? What is it like uh when you
+say behavior problem? What does that
+mean? And then we can link that data
+with our quantitative data and give it
+some more color and meaning.
+But one of the ways we also like to look
+at our data is with the multi-dommain
+responder index. So again, we've got a
+cool poster that I'll flag and you can
+go talk to us about it. Um, and we
+learned from the PFGD, excuse me,
+[clears throat]
+we learned from the PFTD that sleep and
+behavior are also super important in
+addition to cognition and communication
+and seizures and all of the other things
+you face. And so we got to collaborate
+with FAST and and were asked to look at
+our behavior data and it was a really
+cool opportunity to say look our
+behavior data is capturing the symptoms
+of hyperactivity, non-compliance,
+impulsivity that are really challenging
+in the home and we see it changing in
+response to GTX 102. So now we know that
+we've got some pieces that we get to go
+after look at even more depth in our
+phase three study. But that's just one
+piece of the puzzle, right? And so the
+way that we like to look at our data is
+in all of the symptoms at one time and
+see how things change. And that's
+because a single primary efficacy
+endpoint may not be good enough to
+measure all of the ways these drugs can
+impact patients.
+The way that drugs are typically
+designed in clinical trials to be tested
+is you pick one symptom that's linked
+with one s uh one uh clinical outcome
+assessment and you need to see change in
+that one particular measure. That means
+that everybody that enters the trial
+probably needs to have that symptom. For
+some disorders, that may be okay. For
+some symptoms, that may be okay. But
+what if you're missing other potential
+benefits?
+or what if you're having to exclude
+participants who could benefit in other
+ways and they're not getting to be in
+that trial and we don't get to learn
+about their experience too in other
+symptoms.
+We also know that many drugs impact
+patients differently. One drug may treat
+two different symptoms and isn't it
+important to know about that and be able
+to, you know, put significant weight
+behind that? And for that matter, we've
+heard all the exciting stuff about the
+ASOS, the crispers, the gene therapies
+this morning. These are all targeting
+the underlying symptom or the underlying
+cause of Angelmen syndrome and we know
+that your kids are not all the same.
+Yes, there's a group of symptoms that
+we're expecting to see, but we don't see
+every single symptom in every single
+person in the exact same way. So, the
+multi-dommain responder index or the
+MDRI is one of our solutions to be able
+to capture and assess this change across
+multiple symptoms using one analytical
+tool. So, what is it? It's a statistical
+analytical tool. It's a methodology that
+we apply to our data. So, we assign
+clinical domains that are meaningful
+based on the patient population we're
+studying and then we assign um clinical
+thresholds to those and see what our
+responder analysis looks like. We'll go
+into that in a little more detail in a
+second.
+If you've heard of composite endpoints,
+that is another way to pull in multiple
+clinical endpoints into one analytical
+tool, but it's a little bit different.
+In the MDRI, each of the domains is
+independent. We're measuring it
+individually. And in this case, they're
+all symptoms of Angelman syndrome, but
+for a composite endpoint, you typically
+need it to be a single symptom that
+you're measuring in different ways. And
+all of those outcome measures are
+pointing to that one symptom. So
+different ways to measure one versus
+different symptoms being measured at the
+same time.
+So we do it by identifying four to six
+different clinically important domains.
+They need to be important and
+independent. Then we assign a clinical
+endpoint to each of those domains or
+each of those symptoms a way to measure
+for change. Then we define the minimal
+excuse me the meaningful score
+difference. Uh it used to be called a
+minimal important difference. There's
+been a lot of different terms for this.
+What it's essentially saying is a
+clinical threshold.
+Beyond this score is good. Below or
+beyond this score in that direction is
+bad. Um so if you meet or surpass the
+clinically meaningful threshold in the
+direction of improvement for the scale
+because remember some scales go up and
+some scales go down for positive or
+negative. If you meet or surpass in the
+direction of improvement that means that
+we give you a green box and you're a
+plus one and we say you had improvement.
+meet or surpass in the direction of
+worsening. We give it a pink box, you
+get a minus one point and we say that
+was a case that worsened.
+If it falls somewhere in the middle in
+the gray zone, we say that's an unclear
+treatment effect. We leave the box white
+and we give it a score of zero. You
+tally up the scores for each
+participant. So in this hypothetical uh
+dummy data here, you've got two domains
+that improve, one domain that worsened,
+two domains that were unclear, you get a
+net response of plus one. Then we apply
+statistical methodologies to that,
+statistical testing to the group and
+understand um if we have statistically
+significant changes or not. So how did
+we build an MDRI for Angelman syndrome?
+We started with our domains. Again, we
+learned these from you. The uh disease
+concept studies, the natural history
+studies tell us that these are the
+symptoms that don't have good clinical
+um uh medical medical treatment options
+right now. We assigned a clinical
+endpoint to each of these domains. So
+based on our one phase one two data,
+we're able to learn, okay, we can
+measure sleep in a bunch of different
+ways, but which one is the best? which
+one do we think is capturing what the
+patient community tells us is important
+and which one is also responding to
+treatment. So we see change scores over
+time. And so that's how we picked each
+of these endpoints was based on our
+phase one two data. Then we get to
+define the um MSDS. So the meaningful
+score difference for each of these. And
+again we use our phase one two data to
+help us understand um what is the
+threshold that we need to say if you're
+beyond this score it's an improvement.
+If you're beyond this score it's a
+worsening. So let's walk through a
+couple of examples and then I'll show
+you the entire um table.
+So first a relatively simple one. So we
+have participant one here. They got
+better in every single one of these
+domains. So they met or surpassed in the
+direction of clinical improvement on
+each domain. That means we color the box
+green and we give it a plus one. So they
+have a total net response score of plus
+five. That's the max score we could get
+on this
+subject two which is technic subject 11.
+our second example. Um, so this one's a
+little bit more complicated. We've got
+three domains that improve, two that
+stayed essentially the same, had an
+unclear treatment effect, so they get a
+net response of plus three.
+The last one, so um, this one has two
+domains that worsened this time. So we
+color those boxes pink, so they're a
+minus one point. Two boxes are green,
+that means they surpassed the threshold
+in the improvement direction. So they
+get plus one for each of those. and they
+had one that was an unclear treatment
+effect. Add those all up and you get a
+net score of zero. Okay, so that's how
+we walk through each participant.
+Now, the whole big data. So, this is all
+of our participants from cohorts A and
+B. So, just two of our groups that were
+in our phase one two study. We're
+assessing them at baseline and at day
+338, which is approximately one year
+into treatment. And we see how did their
+score change over the course of that one
+year. Did the score meet or surpass the
+direction the score differential for the
+direction in improvement or for
+worsening? Um, and so if it's improved,
+we get a green box, worsened, pink box,
+no change, white box. Add them all up
+for each participant and then you get
+that final column there, which is the
+total net response.
+And you can see the total net responses
+in green. tally up to 22 out of 28 of
+these kids, which is 79% of kids with at
+least one domain that has a net
+responsive clinical improvement. You can
+see that some kids improve in some
+places, don't change in some places, and
+even worsen in some places. Um, but it
+gives you a sense that everybody's
+responding in different ways, and we get
+to look at that data in this kind of
+bird's eye view of the totality all at
+one time. Now, of course, we look at
+each of these individually as well um in
+the more traditional way of looking at
+our line graphs and our um bar graphs
+that we show you all the time, but we
+think that this is a really nice
+snapshot that gives you a sense that a
+lot of kids are improving.
+Okay, so lesson two, uh patient focused
+study design. Um I think one of our core
+tenants at Ultragenics is that we do
+patient focused drug development. We get
+your input all all along the way and in
+fact you have given us a lot of feedback
+and input over time. So we have more
+formal less formal interactions with you
+and we appreciate that feedback always.
+We do our best to hear you to listen and
+to make changes to the best of our
+abilities. [snorts] Um so thank you for
+the feedback and um know that we'll
+continue to keep asking.
+Um, one of the ways that I'd like to
+highlight that we did um, receive
+feedback and made some changes um, was
+how we thought about our phase three
+study. So to walk you through a little
+bit, how do you design a controlled
+clinical study? Traditional ways of
+placeboc controlled um, study. So you
+have a placebo group that receives a
+medicine that is essentially like a fake
+medicine. It's it's a medicine that
+looks and is administered and given
+exactly like the treatment drug with
+active treatment. But the placebo
+doesn't have any active ingredients in
+it. Um
+in rare disease it's tricky though. We
+have to be creative, right? We have
+small patient populations. Um your kids
+are also vulnerable and we need to
+protect them and think about what do we
+absolutely need to do um to answer our
+scientific questions.
+We also had feedback from the EMA that
+came from those of you in the audience
+who are our European colleagues and
+families. Um, you got to give some
+feedback to the EMA and they summarize
+that in a survey and we heard you loud
+and clear that sham controlled was
+preferred. So what's a sham study?
+So a sham control means that you don't
+actually give any medicine or fake
+medicine. it means you do a procedure
+and you make it look like you're giving
+the medicine without that final step of
+administering anything.
+So that's the study design that we
+carried into Aspire, our phase three
+clinical study um which of course we got
+feedback from you on. So our phase three
+study Aspire is our global study. We got
+to enroll 129 kids and kudos to you in
+the audience and all of our
+investigators that worked with us on
+this. We enrolled this study very
+quickly um and by July this summer we
+were completed for enrollment and now
+that data just gets to cook like a sule.
+We're not touching it until it's ready
+to be looked at. And so um it's studying
+the same population that we studied in
+our phase one two study uh patients four
+to 17 deletion genotype and we're
+looking at the same similar outcome
+measures that we looked at there.
+It's a sham control design again, but it
+is double blind. So that means that
+everybody goes through a screening and
+randomization period and then you're
+randomly assigned one to one, so a 50-50
+chance to either get treatment in the
+double blind period or to go into that
+sham control uh where you are getting a
+sham procedure completed at every visit.
+And for some of those visits, we're
+doing a full lumbar puncture to pull off
+a little bit of spinal fluid so we can
+do some analyses, understand some more
+safety profiles, and also continue to
+work on biomarkers because they're so
+important.
+So the first year of the study is double
+blind. That means that most of the study
+site uh a group at the study site are
+blinded and don't know whether the
+participant is getting drug or is
+getting the sham. The caregivers don't
+know, the participants don't know. There
+are some study site staff that do have
+to know because right it something
+different happens in the procedure room
+for each of these kids. And so they need
+to know if they're giving drug or if
+they're doing the sham.
+But in the open label period in year
+two, everybody receives drug. So the uh
+treatment period, the treatment arm gets
+to just continue receiving their drug in
+the maintenance period. the sham control
+arm will transition over to drug um in
+that open label year and go through the
+same dosing regimen as um all of the
+other participants have.
+Okay, lesson three, inclusion of all
+genotypes is important. Uh we've heard
+you multiple times. We also agree GTX
+102 was designed to treat Angelman
+syndrome. It was designed to restore
+UB3A production regardless of the
+underlying genotype, regardless of age.
+And so we need to look at the safety and
+efficacy in these other populations that
+we haven't had the opportunity to study
+yet.
+So as a broad overview of clinical
+trials and the phases and how they kind
+of work, this isn't meant to be a linear
+timeline, but you march through
+typically phase one, phase two, and
+phase three. And they each have
+different goals. So your phase one and
+phase two studies are your safety
+studies. In rare disease, we always look
+at efficacy, too, but they're your
+safety studies. that study enrolled or
+completed enrollment uh quite some time
+ago at this point and so those kids are
+continuing to receive drug in our uh
+long-term extension study. Um and we get
+to continue to learn about the long-term
+effects of GTX 102.
+Phase three studies are your pivotal,
+your controlled studies that are really
+meant to truly assess benefit risk. Is
+it working and is it safe? And you
+typically control them through that
+blinding mechanism like we just talked
+about. Enrollment completed for this
+study over the summer. We're just
+waiting for the data now, but we're here
+now. So, phase two studies, again, we
+get to do safety studies. Remember, we
+needed to look at the safety and
+efficacy in our other populations. And
+so, this study actually opened for
+enrollment in October. And we're really
+excited. If you want more information,
+thank you.
+Um,
+thank you. We're super excited. We're
+very proud of the team. Appreciative
+again to the investigators who go on
+this journey with us and go really fast.
+Um, we are so excited to have this study
+going and can't wait to see what this
+data looks like.
+So, looking at them one more time, phase
+one, two study was our safety study. It
+was the initial study, kids ages 4 to
+17, deletion genotype really helped us
+design the rest of the studies going
+forward. Our long-term extension is
+where we get to see that long-term
+benefit, the long-term safety profile
+when kids are on maintenance uh,
+therapy. And this is the study where
+kids will always land um from their
+parent study. So from the initial study
+they enroll in. Phase three is the
+Aspire study. It's our pivotal
+well-controlled study um and it finished
+enrollment this summer. And Aurora is
+our phase two study look at safety and
+efficacy in um the additional
+populations we haven't gotten to study
+yet. And all of this information can be
+found in much greater detail at ct.gov.
+Um, so I encourage everybody to get
+familiar with that website if you
+haven't already and just try to digest
+the government website as best you can.
+Um, so what is Aurora?
+It is a global study. We're enrolling
+approximately 60 children and adults and
+it's going to be a phase 2 basket design
+study. That means that we get to include
+different subgroups and study them under
+one clinical protocol. We're looking at
+all the same kinds of symptoms, but it
+may be slightly different to look at
+behavior in adults versus behavior in
+younger kids. And so we've thought
+through all of those details and tried
+to pick the right outcome measures to
+measure these symptoms in each of these
+populations.
+So group A is going to be deletion
+genotype and these kids will be ages one
+to three.
+Uh, group B is going to be our UPD and
+ICD kits, and they're going to be the
+same ages, 4 to 17, as our other study
+populations.
+Group C is our adult group. And we're
+kind of being more flexible with this
+group and accepting any genotype into
+it. And then group D is our mutation
+type um genotype group. And those again
+are 4 to 17 years old.
+And so our groups A, B, and C are going
+to do a straight open label one-year
+study design. So it is open label,
+meaning everybody's on drug and
+everybody knows everybody's on drug. You
+go through your screening and
+randomization and then they get treated.
+We assess safety. We assess um efficacy
+endpoints along the way and then
+eventually they get to roll in the
+long-term extension study. and then
+group D because we have learned that
+there can be a little bit more
+variability in the um developmental
+severity of this group. We understand
+that neurodedevelopmental disabilities
+is ubiquitous. Everybody with Angelman
+syndrome has significant u
+neurodedevelopmental disability. But
+this group is the group that has just a
+slightly bigger variation in that level
+of severity between individuals. So for
+that reason, we've included a no
+treatment control period in this study.
+So what will happen is kids will uh
+either for excuse me, every two kids
+that go into the treatment open label
+one-year arm, one child will go into
+that no treatment control period and
+then start treatment after about six
+months. So it's a 2:1 randomization.
+It's still open label. It's still not
+blinded. It's still not sham. It's not
+placebo. Everybody will get treatment.
+We're just asking for a six-month run-in
+period for one-third of these kids so
+that we have two different time points
+before treatment. That helps us
+understand a little bit better what they
+looked like before treatment and then we
+can see what they look like after
+treatment and we can also still compare
+them to those that go straight into
+treatment. So, it just gives us even a
+little bit more information. I
+understand it's a bummer to be in a no
+treatment control period for six months.
+Um, but it really will help us answer
+the question scientifically, I think, in
+a more rigorous way. And as I mentioned,
+everybody gets to roll into that
+long-term extension study should they
+choose to continue on the journey with
+us. Um, so drug remains available to
+patients um after their participation in
+Aurora.
+So, how can you get more information?
+Um, we have a team out here, of course.
+Um, and we also have a team that you can
+email directly. um they're able to take
+your information, help connect you to
+clinical trial sites that are close to
+you, help you answer some questions even
+before you get to the site, help you
+think through what questions might be
+good to ask. But as Allison mentioned
+earlier, please talk to your doctors,
+talk to your families, talk to other
+families and each other here to
+understand what it's like to be in a
+clinical trial and decide if these are
+um the decisions you want to make for
+you and your family. So um I will final
+uh end here. Um, our phase one two trial
+showed promising uh benefit risk
+profile, meaning we get to continue to
+study. Our global phase three Aspire
+trial completed enrollment this summer
+and we get to look at that data when
+it's ready. Um, all of our participants
+uh continue to receive drug through a
+long-term extension study and we get to
+understand those long-term impacts um
+from safety and efficacy both.
+And then Aurora has opened. We're super
+excited. Um, and you can get more
+information on that study at ct.gov.
+And then finally, the MDRI we think is a
+powerful tool. So, one last plug for it.
+Uh, we think we can measure meaningful
+improvement across multiple domains at
+one time. And we think that's a really
+nice way to look at efficacy data in a
+complex disorder like Angelman syndrome.
+So, thank you so much.
+[snorts]
+incredible and thank you for all of that
+and you know that's a whirlwind of an
+unbelievable amount of work over the
+last five years and so it's amazing
+where we are and how far we've come and
+I just want to acknowledge to the
+community that the day the press release
+came out that the first patient was
+dosed in Aurora I got an email from Amal
+Khakis that said I told you we would
+keep our promise and That's because we
+made them promise, as we have to all
+sponsors, that they would include all
+ages and all genotypes. And they did.

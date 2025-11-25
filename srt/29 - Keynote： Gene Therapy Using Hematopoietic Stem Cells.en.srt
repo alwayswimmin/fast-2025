@@ -1,0 +1,5168 @@
+1
+00:00:00,160 --> 00:00:05,279
+I'm really thrilled to be able to
+
+2
+00:00:02,720 --> 00:00:08,240
+present our keynote speaker. Our keynote
+
+3
+00:00:05,279 --> 00:00:11,920
+speaker is Dr. Don Conn um from the
+
+4
+00:00:08,240 --> 00:00:13,920
+University of California um UCLA.
+
+5
+00:00:11,920 --> 00:00:16,560
+He's a distinguished professor professor
+
+6
+00:00:13,920 --> 00:00:19,520
+of pediatrics, immunology, and molecular
+
+7
+00:00:16,560 --> 00:00:22,240
+genetics. Um he's a pediatric bone
+
+8
+00:00:19,520 --> 00:00:24,480
+marrow transplant physician. and he
+
+9
+00:00:22,240 --> 00:00:26,320
+focuses on developing blood stem cell
+
+10
+00:00:24,480 --> 00:00:28,400
+therapies for genetic disorders,
+
+11
+00:00:26,320 --> 00:00:31,279
+including the development of the first
+
+12
+00:00:28,400 --> 00:00:34,559
+successful bone stem cell gene therapy
+
+13
+00:00:31,279 --> 00:00:37,840
+for a disorder called ADA Skid, as many
+
+14
+00:00:34,559 --> 00:00:39,600
+of you might know as bubble baby.
+
+15
+00:00:37,840 --> 00:00:41,680
+Babies are born without an immune system
+
+16
+00:00:39,600 --> 00:00:43,440
+and they generally die before the age of
+
+17
+00:00:41,680 --> 00:00:45,920
+two.
+
+18
+00:00:43,440 --> 00:00:47,280
+And Don, I don't want to say
+
+19
+00:00:45,920 --> 00:00:49,039
+single-handedly because he probably
+
+20
+00:00:47,280 --> 00:00:50,960
+won't let me say that, but almost
+
+21
+00:00:49,039 --> 00:00:54,399
+single-handedly
+
+22
+00:00:50,960 --> 00:01:00,360
+has cured, I use the word cure,
+
+23
+00:00:54,399 --> 00:01:00,360
+over 50 babies with ADA skin.
+
+24
+00:01:03,680 --> 00:01:08,400
+And that is a single gene disorder that
+
+25
+00:01:06,560 --> 00:01:10,560
+has been eradicated with this type of
+
+26
+00:01:08,400 --> 00:01:13,439
+gene therapy.
+
+27
+00:01:10,560 --> 00:01:15,680
+And so I'll tell you a little story
+
+28
+00:01:13,439 --> 00:01:17,280
+about how we met Don and why Don's here
+
+29
+00:01:15,680 --> 00:01:18,880
+because he works on bone marrow
+
+30
+00:01:17,280 --> 00:01:20,400
+transplant. You might wonder why in the
+
+31
+00:01:18,880 --> 00:01:23,759
+world we bring an immunologist
+
+32
+00:01:20,400 --> 00:01:27,280
+transplant physician to the FAST summit.
+
+33
+00:01:23,759 --> 00:01:30,240
+And it's because in 2016
+
+34
+00:01:27,280 --> 00:01:32,400
+we worked to create a type of gene
+
+35
+00:01:30,240 --> 00:01:35,040
+therapy called hematopoetic stem cell
+
+36
+00:01:32,400 --> 00:01:37,520
+gene therapy with an incredible team at
+
+37
+00:01:35,040 --> 00:01:40,960
+UC Davis.
+
+38
+00:01:37,520 --> 00:01:42,880
+And we are high-risisk, high reward and
+
+39
+00:01:40,960 --> 00:01:45,439
+everyone told us it would never work for
+
+40
+00:01:42,880 --> 00:01:47,920
+Angelman syndrome. But we saw the
+
+41
+00:01:45,439 --> 00:01:49,520
+literature about brain diseases that
+
+42
+00:01:47,920 --> 00:01:51,920
+were being treated with this type of
+
+43
+00:01:49,520 --> 00:01:53,759
+therapy because it can cross the bloodb
+
+44
+00:01:51,920 --> 00:01:56,560
+brain barrier and get to all of the
+
+45
+00:01:53,759 --> 00:01:57,759
+neurons of the brain. And there was no
+
+46
+00:01:56,560 --> 00:01:59,920
+reason to believe it wouldn't help
+
+47
+00:01:57,759 --> 00:02:02,079
+Angelmen syndrome outside of a lot of
+
+48
+00:01:59,920 --> 00:02:03,759
+scientists not understanding the
+
+49
+00:02:02,079 --> 00:02:07,759
+mechanism. Therefore, it couldn't be
+
+50
+00:02:03,759 --> 00:02:09,280
+possible. And in classic form, fast
+
+51
+00:02:07,759 --> 00:02:11,360
+said, "Don't tell me something's not
+
+52
+00:02:09,280 --> 00:02:14,160
+possible. We'll tell you if it's
+
+53
+00:02:11,360 --> 00:02:15,920
+possible." And so we decided to fund
+
+54
+00:02:14,160 --> 00:02:18,560
+this program thanks to the support of
+
+55
+00:02:15,920 --> 00:02:21,440
+Dr. Dave Seagull, who brought to us a
+
+56
+00:02:18,560 --> 00:02:25,840
+team that said, "Let's try it." And we
+
+57
+00:02:21,440 --> 00:02:27,760
+did. And it completely cured the adult
+
+58
+00:02:25,840 --> 00:02:30,800
+Angelman syndrome mouse model. For the
+
+59
+00:02:27,760 --> 00:02:35,400
+first time, any therapy had actually
+
+60
+00:02:30,800 --> 00:02:35,400
+treated every single gen phenotype.
+
+61
+00:02:35,599 --> 00:02:42,800
+And we were so excited that we were
+
+62
+00:02:39,120 --> 00:02:45,040
+going to be able to truly truly see a
+
+63
+00:02:42,800 --> 00:02:47,040
+transformation like this and we wanted
+
+64
+00:02:45,040 --> 00:02:50,640
+to push it as quickly as we could to the
+
+65
+00:02:47,040 --> 00:02:53,280
+clinic. But unfortunately, the year we
+
+66
+00:02:50,640 --> 00:02:56,400
+took the license and decided to push it,
+
+67
+00:02:53,280 --> 00:02:59,120
+news came out that a part of the gene
+
+68
+00:02:56,400 --> 00:03:01,840
+therapy that we were using, which Dr.
+
+69
+00:02:59,120 --> 00:03:05,120
+Con will talk about actually was
+
+70
+00:03:01,840 --> 00:03:08,959
+associated with some types of blood
+
+71
+00:03:05,120 --> 00:03:10,720
+cancer. And we needed to change that
+
+72
+00:03:08,959 --> 00:03:13,040
+part of the gene therapy because there
+
+73
+00:03:10,720 --> 00:03:15,280
+were other similar ones that were out
+
+74
+00:03:13,040 --> 00:03:17,519
+there that had this part, a promoter
+
+75
+00:03:15,280 --> 00:03:19,519
+that had a track record for decades of
+
+76
+00:03:17,519 --> 00:03:23,760
+safety. And this promoter did not have
+
+77
+00:03:19,519 --> 00:03:26,000
+that track record. And so Jennifer and I
+
+78
+00:03:23,760 --> 00:03:29,360
+said, "Well, who can help us change this
+
+79
+00:03:26,000 --> 00:03:32,159
+promoter? How do we figure this out? And
+
+80
+00:03:29,360 --> 00:03:34,080
+we looked up the person in a press
+
+81
+00:03:32,159 --> 00:03:37,360
+release talking about the promiscuous
+
+82
+00:03:34,080 --> 00:03:39,120
+promoter, the expert in the world that
+
+83
+00:03:37,360 --> 00:03:42,080
+had been doing this type of gene therapy
+
+84
+00:03:39,120 --> 00:03:45,680
+longer than anyone. His name was Dr. Don
+
+85
+00:03:42,080 --> 00:03:48,159
+Conn. So in standard fashion, we emailed
+
+86
+00:03:45,680 --> 00:03:50,560
+Dr. Don Conn and said, "Would you be
+
+87
+00:03:48,159 --> 00:03:54,000
+willing to work on Angelmen Syndrome?"
+
+88
+00:03:50,560 --> 00:03:56,799
+And his response was, "Sure, why not?"
+
+89
+00:03:54,000 --> 00:03:59,439
+And so here we are. It's been two years
+
+90
+00:03:56,799 --> 00:04:01,920
+and we finally have a human candidate to
+
+91
+00:03:59,439 --> 00:04:04,239
+be able to push hopefully in the very
+
+92
+00:04:01,920 --> 00:04:06,000
+near term toward a human clinical trial.
+
+93
+00:04:04,239 --> 00:04:07,519
+So with that, Donna is going to talk to
+
+94
+00:04:06,000 --> 00:04:11,159
+you about the journey of hematopoetic
+
+95
+00:04:07,519 --> 00:04:11,159
+stem cell gene therapy.
+
+96
+00:04:17,600 --> 00:04:23,360
+Well, thank you amazing Allison. Uh
+
+97
+00:04:20,799 --> 00:04:25,360
+well, hello everyone. So yes, I why am I
+
+98
+00:04:23,360 --> 00:04:26,960
+here? Um I'll hopefully by the time I'm
+
+99
+00:04:25,360 --> 00:04:28,800
+done talking you'll get the connection
+
+100
+00:04:26,960 --> 00:04:31,040
+between bone marrow transplant and
+
+101
+00:04:28,800 --> 00:04:33,120
+angelman syndrome and which is still
+
+102
+00:04:31,040 --> 00:04:35,280
+hypothetical but we hopefully we could
+
+103
+00:04:33,120 --> 00:04:39,440
+have a therapy that could be beneficial.
+
+104
+00:04:35,280 --> 00:04:42,479
+Um so um there there's I'm mult in
+
+105
+00:04:39,440 --> 00:04:44,720
+multiple departments at UCLA. Uh so this
+
+106
+00:04:42,479 --> 00:04:46,720
+is what I'll I'll talk about. Um I'll
+
+107
+00:04:44,720 --> 00:04:48,880
+I'll cover sort of a little background
+
+108
+00:04:46,720 --> 00:04:51,440
+on blood and blood forming hematopoetic
+
+109
+00:04:48,880 --> 00:04:54,400
+it's a word will be on the test. uh stem
+
+110
+00:04:51,440 --> 00:04:55,520
+cells and gene therapy. Um and then I'll
+
+111
+00:04:54,400 --> 00:04:57,440
+talk about the work that Allison
+
+112
+00:04:55,520 --> 00:04:59,120
+referred to, our work for many years on
+
+113
+00:04:57,440 --> 00:05:01,120
+severe combined immune deficiency,
+
+114
+00:04:59,120 --> 00:05:03,199
+that's bubble baby disease, and really
+
+115
+00:05:01,120 --> 00:05:05,360
+to show you what can be done with this
+
+116
+00:05:03,199 --> 00:05:08,240
+type of therapy. Um I've been at that
+
+117
+00:05:05,360 --> 00:05:10,240
+for a long time. Um and we, you know,
+
+118
+00:05:08,240 --> 00:05:12,160
+now we have it working well. And then
+
+119
+00:05:10,240 --> 00:05:14,160
+I'll the main part of the talk will be
+
+120
+00:05:12,160 --> 00:05:16,800
+about Angelman syndrome and how this can
+
+121
+00:05:14,160 --> 00:05:19,120
+be applied possibly to it. And as
+
+122
+00:05:16,800 --> 00:05:20,880
+Allison said, the um data in the mouse
+
+123
+00:05:19,120 --> 00:05:22,400
+that was developed at Davis, which you
+
+124
+00:05:20,880 --> 00:05:24,240
+heard yesterday from Colin from my lab,
+
+125
+00:05:22,400 --> 00:05:26,320
+we've completely been able to reproduce
+
+126
+00:05:24,240 --> 00:05:28,639
+the exact same amazing findings in the
+
+127
+00:05:26,320 --> 00:05:31,360
+mouse model, underlies the idea of
+
+128
+00:05:28,639 --> 00:05:33,199
+bringing this to patients.
+
+129
+00:05:31,360 --> 00:05:36,800
+Uh so first the part about blood and
+
+130
+00:05:33,199 --> 00:05:38,240
+hematopotic stem cells. So um we don't
+
+131
+00:05:36,800 --> 00:05:40,160
+all think about blood very much, but if
+
+132
+00:05:38,240 --> 00:05:42,160
+we take a drop of blood and put it on a
+
+133
+00:05:40,160 --> 00:05:43,759
+slide and stain it, these are the type
+
+134
+00:05:42,160 --> 00:05:45,199
+kind of cells that we see in blood. So
+
+135
+00:05:43,759 --> 00:05:46,720
+there's the red blood cells that are
+
+136
+00:05:45,199 --> 00:05:48,479
+basically packed with hemoglobin and
+
+137
+00:05:46,720 --> 00:05:50,320
+carry oxygen. There's a different type
+
+138
+00:05:48,479 --> 00:05:52,000
+of white cells that are mainly immune
+
+139
+00:05:50,320 --> 00:05:54,720
+cells and there's the little platelets
+
+140
+00:05:52,000 --> 00:05:57,440
+down in the corner that stop bleeding.
+
+141
+00:05:54,720 --> 00:06:00,000
+So all of those cells come from the
+
+142
+00:05:57,440 --> 00:06:01,759
+hematopoetic or blood forming stem cell
+
+143
+00:06:00,000 --> 00:06:04,479
+and those are mainly for us in the bone
+
+144
+00:06:01,759 --> 00:06:06,560
+marrow. And so on on your left there in
+
+145
+00:06:04,479 --> 00:06:08,400
+in the box are the hematopetic stem cell
+
+146
+00:06:06,560 --> 00:06:10,800
+sort of like the parent cells for the
+
+147
+00:06:08,400 --> 00:06:13,120
+blood cells. And so over our life that
+
+148
+00:06:10,800 --> 00:06:15,120
+population of cells divides and self
+
+149
+00:06:13,120 --> 00:06:16,960
+renews and maintains a compartment. But
+
+150
+00:06:15,120 --> 00:06:18,800
+then some of them go on to change and
+
+151
+00:06:16,960 --> 00:06:21,840
+differentiate to make all the mature
+
+152
+00:06:18,800 --> 00:06:24,080
+blood cells shown at the right. And so
+
+153
+00:06:21,840 --> 00:06:26,720
+clinically if we want bone marrow stem
+
+154
+00:06:24,080 --> 00:06:28,319
+cells to transplant the the classical
+
+155
+00:06:26,720 --> 00:06:29,919
+way is doing a bone marrow harvest. So
+
+156
+00:06:28,319 --> 00:06:32,240
+it's an operation where patients the
+
+157
+00:06:29,919 --> 00:06:34,000
+donor is asleep with needles into the
+
+158
+00:06:32,240 --> 00:06:36,160
+back of the pelvic bone. We extract bone
+
+159
+00:06:34,000 --> 00:06:38,240
+marrow. That's largely been replaced
+
+160
+00:06:36,160 --> 00:06:41,120
+now. although occasionally we we do take
+
+161
+00:06:38,240 --> 00:06:42,639
+bone marrow. Um, another source is the
+
+162
+00:06:41,120 --> 00:06:44,880
+umbilical cord blood. So it turns out at
+
+163
+00:06:42,639 --> 00:06:46,720
+the time a baby is born, they have these
+
+164
+00:06:44,880 --> 00:06:48,880
+same hematopotic stem cells in
+
+165
+00:06:46,720 --> 00:06:50,240
+circulation. So if you capture the blood
+
+166
+00:06:48,880 --> 00:06:51,919
+that's in the umbilical cord, which is
+
+167
+00:06:50,240 --> 00:06:53,680
+the babies, you can use that to
+
+168
+00:06:51,919 --> 00:06:55,520
+transplant. Usually there's enough cells
+
+169
+00:06:53,680 --> 00:06:57,680
+to transplant a child, not often enough
+
+170
+00:06:55,520 --> 00:06:59,440
+for an adult. And what's most used
+
+171
+00:06:57,680 --> 00:07:01,280
+commonly now are mobilizing the stem
+
+172
+00:06:59,440 --> 00:07:03,039
+cells from the bone marrow into the
+
+173
+00:07:01,280 --> 00:07:04,720
+peripheral blood and collecting them.
+
+174
+00:07:03,039 --> 00:07:07,599
+I'll show you a diagram of that. So
+
+175
+00:07:04,720 --> 00:07:08,800
+mobilize peripheral blood. And so the
+
+176
+00:07:07,599 --> 00:07:10,319
+way I think of these cells is that the
+
+177
+00:07:08,800 --> 00:07:11,440
+stem cells are the babies. They have
+
+178
+00:07:10,319 --> 00:07:13,520
+their whole life ahead of themselves.
+
+179
+00:07:11,440 --> 00:07:14,720
+They become any type of cell. Then in
+
+180
+00:07:13,520 --> 00:07:16,880
+the middle are the teenagers that
+
+181
+00:07:14,720 --> 00:07:18,880
+divide, make lots of noise. And um then
+
+182
+00:07:16,880 --> 00:07:22,560
+at the right are the the adult blood
+
+183
+00:07:18,880 --> 00:07:24,800
+cells that go to work, do their jobs.
+
+184
+00:07:22,560 --> 00:07:27,120
+And just one one other point at this
+
+185
+00:07:24,800 --> 00:07:29,120
+point, there's a protein, a marker on
+
+186
+00:07:27,120 --> 00:07:31,440
+these cells called CD34. And you'll see
+
+187
+00:07:29,120 --> 00:07:33,120
+me refer to it several times. It's not
+
+188
+00:07:31,440 --> 00:07:34,720
+exclusively on the stem cells, but it's
+
+189
+00:07:33,120 --> 00:07:36,400
+on the stem cells. sort of the other
+
+190
+00:07:34,720 --> 00:07:38,240
+early cells. So a lot of times when
+
+191
+00:07:36,400 --> 00:07:39,919
+we're processing cells from a patient,
+
+192
+00:07:38,240 --> 00:07:43,919
+we'll select those that have that marker
+
+193
+00:07:39,919 --> 00:07:46,479
+just to enrich our targets.
+
+194
+00:07:43,919 --> 00:07:48,560
+And and so hematopotic stem cells or
+
+195
+00:07:46,479 --> 00:07:51,120
+bone transplant has been around for more
+
+196
+00:07:48,560 --> 00:07:53,120
+than 50 years and mostly it's done for
+
+197
+00:07:51,120 --> 00:07:54,560
+people with cancer leukemia. So stem
+
+198
+00:07:53,120 --> 00:07:56,560
+cells from those sources I talked about
+
+199
+00:07:54,560 --> 00:07:58,720
+bone marrow mobilized peripheralic cord
+
+200
+00:07:56,560 --> 00:08:00,800
+blood mainly it's for people with
+
+201
+00:07:58,720 --> 00:08:03,120
+leukemia that didn't respond to the
+
+202
+00:08:00,800 --> 00:08:05,440
+initial therapy and so we need to give
+
+203
+00:08:03,120 --> 00:08:07,199
+them higher doses which will basically
+
+204
+00:08:05,440 --> 00:08:09,360
+wipe out their marrow so then they get
+
+205
+00:08:07,199 --> 00:08:10,560
+the transplant as a rescue from that. So
+
+206
+00:08:09,360 --> 00:08:12,400
+treating high-risisk cancers and
+
+207
+00:08:10,560 --> 00:08:14,240
+leukemia by allowing higher doses of
+
+208
+00:08:12,400 --> 00:08:16,240
+chemotherapy that would otherwise be
+
+209
+00:08:14,240 --> 00:08:17,919
+possible hopefully to cure the leukemia
+
+210
+00:08:16,240 --> 00:08:19,919
+and using the stem cells basically as a
+
+211
+00:08:17,919 --> 00:08:22,879
+rescue. So that's probably 90 plus
+
+212
+00:08:19,919 --> 00:08:24,080
+percent of transplants that are done. A
+
+213
+00:08:22,879 --> 00:08:26,000
+small number are done when there's
+
+214
+00:08:24,080 --> 00:08:28,000
+marrow failure. So there's a condition
+
+215
+00:08:26,000 --> 00:08:30,080
+called alastic anemia where the bone
+
+216
+00:08:28,000 --> 00:08:31,599
+marrow stops working. Can also happen
+
+217
+00:08:30,080 --> 00:08:33,440
+after exposure to some drugs or
+
+218
+00:08:31,599 --> 00:08:35,039
+radiation. But we're interested in
+
+219
+00:08:33,440 --> 00:08:37,039
+number three. And it can be used to
+
+220
+00:08:35,039 --> 00:08:38,719
+treat genetic diseases. basically if
+
+221
+00:08:37,039 --> 00:08:40,800
+they're of blood cells or blood related
+
+222
+00:08:38,719 --> 00:08:43,039
+cells by replacing the patient's
+
+223
+00:08:40,800 --> 00:08:45,120
+genetically deficient cells with normal
+
+224
+00:08:43,039 --> 00:08:46,800
+cells either from a donor or in our case
+
+225
+00:08:45,120 --> 00:08:48,320
+taking the patient's own cells and
+
+226
+00:08:46,800 --> 00:08:51,519
+making them normal by adding the gene
+
+227
+00:08:48,320 --> 00:08:54,000
+that they're missing.
+
+228
+00:08:51,519 --> 00:08:57,760
+And this approach has been shown to cure
+
+229
+00:08:54,000 --> 00:08:59,680
+a number of diseases. And so um on the
+
+230
+00:08:57,760 --> 00:09:01,440
+right there might be a little smaller
+
+231
+00:08:59,680 --> 00:09:03,120
+are just a whole list of various
+
+232
+00:09:01,440 --> 00:09:05,360
+diseases sort of next to the cell type
+
+233
+00:09:03,120 --> 00:09:06,880
+they're involved with um where
+
+234
+00:09:05,360 --> 00:09:08,880
+transplants have been done in patients
+
+235
+00:09:06,880 --> 00:09:10,959
+and shown to be curative. And so by
+
+236
+00:09:08,880 --> 00:09:12,480
+giving them a normal stem cell they can
+
+237
+00:09:10,959 --> 00:09:14,399
+make the red cells they need that for
+
+238
+00:09:12,480 --> 00:09:17,120
+example for cickle cell disease or the
+
+239
+00:09:14,399 --> 00:09:19,120
+immune cells for skid and you know on
+
+240
+00:09:17,120 --> 00:09:20,720
+that list in in yellow is angelmen with
+
+241
+00:09:19,120 --> 00:09:23,440
+a question mark so we don't know if
+
+242
+00:09:20,720 --> 00:09:26,000
+it'll work but other diseases in that
+
+243
+00:09:23,440 --> 00:09:28,480
+group X linked adrenal lucadistrophe
+
+244
+00:09:26,000 --> 00:09:30,720
+metacchromatic lucadistrophe the the
+
+245
+00:09:28,480 --> 00:09:33,440
+mucopolyaccharidosis hurlers hunters
+
+246
+00:09:30,720 --> 00:09:36,240
+MPS3 all those have been treated
+
+247
+00:09:33,440 --> 00:09:38,320
+successfully by giving bone marrow and
+
+248
+00:09:36,240 --> 00:09:40,399
+some of those bone marrow stem cells
+
+249
+00:09:38,320 --> 00:09:42,080
+monocytes that go into the brain that
+
+250
+00:09:40,399 --> 00:09:44,640
+provide the missing enzyme. And that's
+
+251
+00:09:42,080 --> 00:09:49,560
+the that's the supposed mechanism by
+
+252
+00:09:44,640 --> 00:09:49,560
+which angel would would um respond.
+
+253
+00:09:50,880 --> 00:09:54,560
+And and so the major barrier from
+
+254
+00:09:53,040 --> 00:09:56,720
+transplanting cells from one person to
+
+255
+00:09:54,560 --> 00:09:58,640
+another are the immune system. Unless
+
+256
+00:09:56,720 --> 00:10:00,160
+you're going between identical twins,
+
+257
+00:09:58,640 --> 00:10:02,640
+there are going to be differences that
+
+258
+00:10:00,160 --> 00:10:05,040
+are detected by the immune system. So in
+
+259
+00:10:02,640 --> 00:10:07,120
+a healthy patient the normal patients
+
+260
+00:10:05,040 --> 00:10:09,120
+the recipients te- cells can reject the
+
+261
+00:10:07,120 --> 00:10:11,040
+donor cells unless they get high dose
+
+262
+00:10:09,120 --> 00:10:13,920
+chemotherapy and immune suppression
+
+263
+00:10:11,040 --> 00:10:16,320
+beforehand. But also the flip side can
+
+264
+00:10:13,920 --> 00:10:17,760
+occur some of the donor's te- cells that
+
+265
+00:10:16,320 --> 00:10:19,519
+come along with the bone marrow or the
+
+266
+00:10:17,760 --> 00:10:21,279
+mobilized peripheral blood in the new
+
+267
+00:10:19,519 --> 00:10:22,640
+body they're in can see it as foreign
+
+268
+00:10:21,279 --> 00:10:24,480
+and react against it. That's called
+
+269
+00:10:22,640 --> 00:10:26,160
+graph versus host disease. So the
+
+270
+00:10:24,480 --> 00:10:27,680
+grafted cells are attacking their new
+
+271
+00:10:26,160 --> 00:10:29,519
+host thinking they're just trying to get
+
+272
+00:10:27,680 --> 00:10:30,959
+rid of something foreign. And as a
+
+273
+00:10:29,519 --> 00:10:32,720
+clinical transpler, that's what we spend
+
+274
+00:10:30,959 --> 00:10:35,519
+a lot of our time dealing with that
+
+275
+00:10:32,720 --> 00:10:38,240
+complication. It's won't happen from an
+
+276
+00:10:35,519 --> 00:10:40,160
+identical twin. It's possible with a
+
+277
+00:10:38,240 --> 00:10:41,839
+matched brother or sister who's a sort
+
+278
+00:10:40,160 --> 00:10:43,760
+of a a full match. They're still not
+
+279
+00:10:41,839 --> 00:10:47,920
+identical. And higher if you go to a
+
+280
+00:10:43,760 --> 00:10:50,000
+parent or an unrelated donor.
+
+281
+00:10:47,920 --> 00:10:52,240
+And and so then just sort of to step
+
+282
+00:10:50,000 --> 00:10:54,800
+back and put into perspective what we're
+
+283
+00:10:52,240 --> 00:10:56,800
+talking about gene therapy overall is an
+
+284
+00:10:54,800 --> 00:10:59,279
+area that over the last 30 40 years has
+
+285
+00:10:56,800 --> 00:11:01,200
+developed as a way of treating genetic
+
+286
+00:10:59,279 --> 00:11:03,279
+diseases and sort of can the world can
+
+287
+00:11:01,200 --> 00:11:06,000
+be divided into Xvivo which what we'll
+
+288
+00:11:03,279 --> 00:11:07,839
+talk about or invivo. Invivo is where
+
+289
+00:11:06,000 --> 00:11:10,079
+you put the missing gene right into the
+
+290
+00:11:07,839 --> 00:11:12,640
+body directly. That's often done with
+
+291
+00:11:10,079 --> 00:11:14,560
+AAV vectors that we've heard about. Um
+
+292
+00:11:12,640 --> 00:11:17,279
+or you can put in editing reagents like
+
+293
+00:11:14,560 --> 00:11:19,120
+crisper or you can put an ASO is to me
+
+294
+00:11:17,279 --> 00:11:20,800
+sort of a type of gene therapy where
+
+295
+00:11:19,120 --> 00:11:22,720
+you're manipulating the genes by putting
+
+296
+00:11:20,800 --> 00:11:24,640
+something directly into the body. And
+
+297
+00:11:22,720 --> 00:11:26,720
+for example, the first approved gene
+
+298
+00:11:24,640 --> 00:11:28,959
+therapy in the in the US was for an eye
+
+299
+00:11:26,720 --> 00:11:31,360
+disease where they put a virus carrying
+
+300
+00:11:28,959 --> 00:11:33,920
+a gene missing in a in the cells in the
+
+301
+00:11:31,360 --> 00:11:35,440
+back of the retina to restore vision.
+
+302
+00:11:33,920 --> 00:11:37,920
+And this has been looked at and there
+
+303
+00:11:35,440 --> 00:11:41,680
+are are drugs for musculardrophe going
+
+304
+00:11:37,920 --> 00:11:44,000
+into the brain um into the liver cells.
+
+305
+00:11:41,680 --> 00:11:46,399
+Um and the other half of the universe is
+
+306
+00:11:44,000 --> 00:11:48,240
+Xvivo where you take the cells out
+
+307
+00:11:46,399 --> 00:11:49,920
+manipulate them in the laboratory and
+
+308
+00:11:48,240 --> 00:11:51,360
+then return them. So we can really only
+
+309
+00:11:49,920 --> 00:11:54,800
+do that with the blood cells, the
+
+310
+00:11:51,360 --> 00:11:56,959
+hematopotic stem cells and TE-C cells.
+
+311
+00:11:54,800 --> 00:11:58,560
+And then sort of the hot new delivery
+
+312
+00:11:56,959 --> 00:12:00,320
+method that's being looked at are lipid
+
+313
+00:11:58,560 --> 00:12:01,680
+nano particles. So the same sort of
+
+314
+00:12:00,320 --> 00:12:04,320
+material that's used to deliver the
+
+315
+00:12:01,680 --> 00:12:06,480
+COVID vaccine can be targeted to be
+
+316
+00:12:04,320 --> 00:12:08,480
+given like as an injection and go to a
+
+317
+00:12:06,480 --> 00:12:11,120
+specific tissue and for example release
+
+318
+00:12:08,480 --> 00:12:12,079
+crisper editing reagents.
+
+319
+00:12:11,120 --> 00:12:14,240
+And so we're going to talk about
+
+320
+00:12:12,079 --> 00:12:15,760
+hematopotic stem cells as a target. But
+
+321
+00:12:14,240 --> 00:12:17,760
+just sort of put it in perspective of
+
+322
+00:12:15,760 --> 00:12:20,079
+where that f fits in the whole field of
+
+323
+00:12:17,760 --> 00:12:22,320
+gene therapy. And then just one other
+
+324
+00:12:20,079 --> 00:12:23,920
+comment is that all these gene therapies
+
+325
+00:12:22,320 --> 00:12:26,240
+we're talking about are to manipulate
+
+326
+00:12:23,920 --> 00:12:28,560
+the patient's body cells, the sematic
+
+327
+00:12:26,240 --> 00:12:30,160
+cells, but not the germ line. We don't
+
+328
+00:12:28,560 --> 00:12:32,160
+want what we're doing to get into the
+
+329
+00:12:30,160 --> 00:12:34,240
+human gene pool. We're not smart enough
+
+330
+00:12:32,160 --> 00:12:36,399
+yet to to do that. And so part of
+
+331
+00:12:34,240 --> 00:12:38,720
+getting reviewed and approved by the FDA
+
+332
+00:12:36,399 --> 00:12:40,639
+is to demonstrate if you're doing invivo
+
+333
+00:12:38,720 --> 00:12:42,079
+that you will not get into the germ line
+
+334
+00:12:40,639 --> 00:12:45,680
+and have that be sort of a permanent
+
+335
+00:12:42,079 --> 00:12:48,240
+change that could get passed along.
+
+336
+00:12:45,680 --> 00:12:50,320
+And so sort of the hypothesis for for
+
+337
+00:12:48,240 --> 00:12:52,160
+this is that gene therapy using
+
+338
+00:12:50,320 --> 00:12:54,639
+autotogus or the patient's own
+
+339
+00:12:52,160 --> 00:12:56,160
+hematopotic stem cells provides a donor
+
+340
+00:12:54,639 --> 00:12:58,079
+for every patient themselves. So you
+
+341
+00:12:56,160 --> 00:12:59,760
+don't have to look for a donor and it
+
+342
+00:12:58,079 --> 00:13:01,839
+will completely eliminate those risks of
+
+343
+00:12:59,760 --> 00:13:03,360
+graph versus host disease. And it also
+
+344
+00:13:01,839 --> 00:13:04,639
+then makes the transplant easier. You
+
+345
+00:13:03,360 --> 00:13:06,720
+don't need to immune suppress the
+
+346
+00:13:04,639 --> 00:13:08,959
+patient before the transplant to prevent
+
+347
+00:13:06,720 --> 00:13:11,120
+rejection or afterwards to control graph
+
+348
+00:13:08,959 --> 00:13:12,800
+versus host disease. But as we've
+
+349
+00:13:11,120 --> 00:13:14,959
+learned, you do do need to make some
+
+350
+00:13:12,800 --> 00:13:16,560
+space in the marrow for the cells to
+
+351
+00:13:14,959 --> 00:13:18,079
+engraft. And that's done that's called
+
+352
+00:13:16,560 --> 00:13:19,200
+conditioning. And I'll I'll talk about
+
+353
+00:13:18,079 --> 00:13:23,279
+that because that's kind of one of the
+
+354
+00:13:19,200 --> 00:13:25,440
+the biggest issues involved.
+
+355
+00:13:23,279 --> 00:13:27,519
+And so from an engineering standpoint,
+
+356
+00:13:25,440 --> 00:13:29,519
+the technical challenge is to get the
+
+357
+00:13:27,519 --> 00:13:31,760
+normal gene into that long-term stem
+
+358
+00:13:29,519 --> 00:13:33,519
+cells because those last a lifetime and
+
+359
+00:13:31,760 --> 00:13:35,440
+can be transplanted and will last a
+
+360
+00:13:33,519 --> 00:13:37,680
+lifetime in the patient that gets it.
+
+361
+00:13:35,440 --> 00:13:39,920
+All the other cells to to your right of
+
+362
+00:13:37,680 --> 00:13:41,839
+that are sort of short-term cells and
+
+363
+00:13:39,920 --> 00:13:43,360
+will last weeks or months, but won't be
+
+364
+00:13:41,839 --> 00:13:45,760
+permanent. So a lot of the early
+
+365
+00:13:43,360 --> 00:13:47,519
+learning in the field is what are those
+
+366
+00:13:45,760 --> 00:13:50,320
+stem cells and how do we manipulate
+
+367
+00:13:47,519 --> 00:13:52,399
+them? And the way we do it are either
+
+368
+00:13:50,320 --> 00:13:55,279
+adding a gene like with a virus that
+
+369
+00:13:52,399 --> 00:13:57,199
+I'll talk about today or now we can also
+
+370
+00:13:55,279 --> 00:13:59,120
+edit the genes in the stem cell with
+
+371
+00:13:57,199 --> 00:14:00,720
+things like crisper where we can fix a
+
+372
+00:13:59,120 --> 00:14:02,880
+mutation and then it will be passed
+
+373
+00:14:00,720 --> 00:14:04,800
+along to all the blood cells that'll be
+
+374
+00:14:02,880 --> 00:14:06,959
+made. It's estimated that each stem cell
+
+375
+00:14:04,800 --> 00:14:09,360
+once it starts dividing makes literally
+
+376
+00:14:06,959 --> 00:14:11,440
+billions of other blood cells and if you
+
+377
+00:14:09,360 --> 00:14:13,040
+get the gene in it permanently that will
+
+378
+00:14:11,440 --> 00:14:16,120
+get passed along to all the cells that
+
+379
+00:14:13,040 --> 00:14:16,120
+are made.
+
+380
+00:14:16,399 --> 00:14:20,639
+And and so just a little about the gene
+
+381
+00:14:19,040 --> 00:14:24,880
+delivery tool that we're using or
+
+382
+00:14:20,639 --> 00:14:26,720
+vector. So for stem cells that are going
+
+383
+00:14:24,880 --> 00:14:29,199
+to divide, you really need to get the
+
+384
+00:14:26,720 --> 00:14:31,040
+gene to go into the DNA of the target
+
+385
+00:14:29,199 --> 00:14:32,639
+cell. So it gets copied every time the
+
+386
+00:14:31,040 --> 00:14:35,680
+cell makes a new copy and gets passed
+
+387
+00:14:32,639 --> 00:14:38,079
+along. So AAV does not do that. And so
+
+388
+00:14:35,680 --> 00:14:39,680
+AV although it's efficient delivery, it
+
+389
+00:14:38,079 --> 00:14:41,199
+doesn't get into the DNA and so it would
+
+390
+00:14:39,680 --> 00:14:43,199
+get diluted out once the cells start
+
+391
+00:14:41,199 --> 00:14:45,279
+dividing. And so we've mainly used a
+
+392
+00:14:43,199 --> 00:14:47,360
+class of viruses called retroviruses.
+
+393
+00:14:45,279 --> 00:14:49,760
+and one of their submembers called a
+
+394
+00:14:47,360 --> 00:14:52,399
+lentivirus. So in the laboratory we
+
+395
+00:14:49,760 --> 00:14:54,480
+clone the needed gene into the virus
+
+396
+00:14:52,399 --> 00:14:56,079
+packaged into a viral capsid and then
+
+397
+00:14:54,480 --> 00:14:58,240
+added to the cell. So that sort of arc
+
+398
+00:14:56,079 --> 00:15:00,399
+is the membrane of the cell. Then the
+
+399
+00:14:58,240 --> 00:15:03,040
+the genotic genetic information in the
+
+400
+00:15:00,399 --> 00:15:04,560
+virus gets copied into DNA and goes into
+
+401
+00:15:03,040 --> 00:15:05,920
+the chromosome and integrates
+
+402
+00:15:04,560 --> 00:15:07,600
+permanently. So it becomes just part of
+
+403
+00:15:05,920 --> 00:15:09,360
+the double helix. You've got this little
+
+404
+00:15:07,600 --> 00:15:11,920
+gene unit that you've added and for
+
+405
+00:15:09,360 --> 00:15:15,279
+example it could be UB3A expressing that
+
+406
+00:15:11,920 --> 00:15:17,680
+gene. So in fact there's UB3A going into
+
+407
+00:15:15,279 --> 00:15:18,959
+the DNA. And so this technology was
+
+408
+00:15:17,680 --> 00:15:21,360
+developed sort of in the middle 80s
+
+409
+00:15:18,959 --> 00:15:23,040
+about I just shame to say when I came
+
+410
+00:15:21,360 --> 00:15:24,399
+into the field and it's really been
+
+411
+00:15:23,040 --> 00:15:26,880
+developed to a point where it's really
+
+412
+00:15:24,399 --> 00:15:28,959
+very quite efficient now at modifying
+
+413
+00:15:26,880 --> 00:15:30,480
+stem cells.
+
+414
+00:15:28,959 --> 00:15:32,720
+And so this is again sort of another
+
+415
+00:15:30,480 --> 00:15:34,800
+cartoon of of the process. So we start
+
+416
+00:15:32,720 --> 00:15:37,040
+with the patient, we collect their stem
+
+417
+00:15:34,800 --> 00:15:38,480
+cells and then in the laboratory we can
+
+418
+00:15:37,040 --> 00:15:40,560
+add a gene from the top with an
+
+419
+00:15:38,480 --> 00:15:42,880
+integrating virus that will go into the
+
+420
+00:15:40,560 --> 00:15:44,800
+DNA of the cell and be there permanently
+
+421
+00:15:42,880 --> 00:15:47,600
+or coming up from the bottom we can edit
+
+422
+00:15:44,800 --> 00:15:49,279
+the cells now with crisper. uh crisper
+
+423
+00:15:47,600 --> 00:15:52,320
+is generally better for sort of fixing
+
+424
+00:15:49,279 --> 00:15:54,959
+single mutations but adding a gene will
+
+425
+00:15:52,320 --> 00:15:57,600
+fix any will override any mutation in
+
+426
+00:15:54,959 --> 00:16:00,160
+that gene and then before the cells go
+
+427
+00:15:57,600 --> 00:16:02,399
+back in um they the patients will get
+
+428
+00:16:00,160 --> 00:16:04,240
+some conditioning chemotherapy to make
+
+429
+00:16:02,399 --> 00:16:06,639
+space in their marrow so we give the
+
+430
+00:16:04,240 --> 00:16:09,199
+cells back they they they can land and
+
+431
+00:16:06,639 --> 00:16:10,720
+grow and I'll show you cartoon of that
+
+432
+00:16:09,199 --> 00:16:12,320
+and then the cells are given back to the
+
+433
+00:16:10,720 --> 00:16:14,560
+patient and the transplant is actually
+
+434
+00:16:12,320 --> 00:16:16,399
+the easiest part it's not a surgery it's
+
+435
+00:16:14,560 --> 00:16:19,040
+just an infusion of cells like a like a
+
+436
+00:16:16,399 --> 00:16:21,440
+blood transfusion.
+
+437
+00:16:19,040 --> 00:16:23,920
+And so this is showing a person giving
+
+438
+00:16:21,440 --> 00:16:27,199
+mobilized peripheral blood. So they get
+
+439
+00:16:23,920 --> 00:16:29,440
+a growth factor GCSF nupagen that makes
+
+440
+00:16:27,199 --> 00:16:31,199
+the white cell count go up. Turns out it
+
+441
+00:16:29,440 --> 00:16:33,279
+also causes the stem cells to leave the
+
+442
+00:16:31,199 --> 00:16:35,920
+bone marrow and go into the bloodstream.
+
+443
+00:16:33,279 --> 00:16:37,279
+So after five days of GCSF sort of
+
+444
+00:16:35,920 --> 00:16:39,519
+boosted on the last day with another
+
+445
+00:16:37,279 --> 00:16:41,600
+medicine purify
+
+446
+00:16:39,519 --> 00:16:43,040
+stem cells in the circulation. So all we
+
+447
+00:16:41,600 --> 00:16:44,480
+need to do is collect blood from the
+
+448
+00:16:43,040 --> 00:16:46,639
+patient. So this process called
+
+449
+00:16:44,480 --> 00:16:48,639
+lucaparesis, some of the patients blood
+
+450
+00:16:46,639 --> 00:16:50,320
+goes out through an IV line, goes into
+
+451
+00:16:48,639 --> 00:16:52,160
+that centrifuge that collects the stem
+
+452
+00:16:50,320 --> 00:16:54,000
+cells, then everything else goes back to
+
+453
+00:16:52,160 --> 00:16:56,320
+the patient. So over the course of about
+
+454
+00:16:54,000 --> 00:16:58,079
+3 four hours, we've taken their entire
+
+455
+00:16:56,320 --> 00:17:00,240
+blood product, blood volume through the
+
+456
+00:16:58,079 --> 00:17:02,000
+machine two or three or four times and
+
+457
+00:17:00,240 --> 00:17:03,519
+skimmed off all the stem cells, but
+
+458
+00:17:02,000 --> 00:17:05,280
+returned everything else to them. So
+
+459
+00:17:03,519 --> 00:17:06,720
+when they're done, they they still
+
+460
+00:17:05,280 --> 00:17:08,319
+should have all their other blood cells
+
+461
+00:17:06,720 --> 00:17:09,839
+and not really have a problem from it.
+
+462
+00:17:08,319 --> 00:17:11,360
+So this is done usually in a clinical
+
+463
+00:17:09,839 --> 00:17:13,360
+setting. for kids, we bring them into
+
+464
+00:17:11,360 --> 00:17:14,959
+the hospital and do it um in the
+
+465
+00:17:13,360 --> 00:17:17,199
+hospital. And then you get what's shown
+
+466
+00:17:14,959 --> 00:17:19,120
+in the bottom right, a bag of basically
+
+467
+00:17:17,199 --> 00:17:22,600
+white blood cells that are very enriched
+
+468
+00:17:19,120 --> 00:17:22,600
+for stem cells.
+
+469
+00:17:23,760 --> 00:17:27,520
+And so then this is showing the
+
+470
+00:17:25,360 --> 00:17:29,679
+processing. So upper left is the patient
+
+471
+00:17:27,520 --> 00:17:31,520
+getting lucaper in the unit. Then they
+
+472
+00:17:29,679 --> 00:17:33,679
+go to what we call GMP or good
+
+473
+00:17:31,520 --> 00:17:35,679
+manufacturing practice lab. That's the
+
+474
+00:17:33,679 --> 00:17:37,919
+ultra clean room like where you can make
+
+475
+00:17:35,679 --> 00:17:39,600
+um computer chips or we're making cells
+
+476
+00:17:37,919 --> 00:17:41,679
+for patients. So we don't want any risk
+
+477
+00:17:39,600 --> 00:17:43,600
+of contaminating their cells with you
+
+478
+00:17:41,679 --> 00:17:45,440
+know the the bacteria that are on the on
+
+479
+00:17:43,600 --> 00:17:46,960
+the workers. So everyone's gowned and
+
+480
+00:17:45,440 --> 00:17:49,120
+gloved and masked and the air is ultra
+
+481
+00:17:46,960 --> 00:17:50,960
+filtered etc. The stem cells are brought
+
+482
+00:17:49,120 --> 00:17:53,520
+there. They're processed to isolate the
+
+483
+00:17:50,960 --> 00:17:55,440
+CD34 enriching for the stem cells and
+
+484
+00:17:53,520 --> 00:17:57,280
+they're cultured for two days typically
+
+485
+00:17:55,440 --> 00:17:59,679
+to add the virus with the with the
+
+486
+00:17:57,280 --> 00:18:02,320
+missing gene and you know one day that
+
+487
+00:17:59,679 --> 00:18:03,679
+will be UB3A and then we freeze the
+
+488
+00:18:02,320 --> 00:18:05,919
+cells. So they're only in culture for
+
+489
+00:18:03,679 --> 00:18:08,080
+two days. We freeze them down and
+
+490
+00:18:05,919 --> 00:18:09,919
+besides the main bag of the cells, we
+
+491
+00:18:08,080 --> 00:18:11,760
+have several vials of the same material
+
+492
+00:18:09,919 --> 00:18:14,000
+that we can then thaw to test to make
+
+493
+00:18:11,760 --> 00:18:15,520
+sure every cell took up the gene that
+
+494
+00:18:14,000 --> 00:18:17,520
+it's sterile. So, we have a whole list
+
+495
+00:18:15,520 --> 00:18:19,679
+of criteria that are are listed there.
+
+496
+00:18:17,520 --> 00:18:21,440
+And the cells have to pass 100% of their
+
+497
+00:18:19,679 --> 00:18:22,880
+criteria to be able to be used and
+
+498
+00:18:21,440 --> 00:18:25,440
+they're released by the quality
+
+499
+00:18:22,880 --> 00:18:27,440
+assurance unit of the GMP. Um, and then
+
+500
+00:18:25,440 --> 00:18:28,799
+they're ready for the patient and then
+
+501
+00:18:27,440 --> 00:18:31,919
+they're just infused as shown there
+
+502
+00:18:28,799 --> 00:18:33,919
+through an IV.
+
+503
+00:18:31,919 --> 00:18:36,720
+And so the elephant in the room I think
+
+504
+00:18:33,919 --> 00:18:39,760
+in in transplant is conditioning as we
+
+505
+00:18:36,720 --> 00:18:41,840
+refer to it. And so conditioning is
+
+506
+00:18:39,760 --> 00:18:43,919
+where we give chemotherapy to make
+
+507
+00:18:41,840 --> 00:18:45,360
+space. And in different types of
+
+508
+00:18:43,919 --> 00:18:47,280
+transplants we'd either sort of give
+
+509
+00:18:45,360 --> 00:18:49,760
+full condition where we really try and
+
+510
+00:18:47,280 --> 00:18:51,600
+wipe out basically all the bone marrow.
+
+511
+00:18:49,760 --> 00:18:53,600
+So all the cells that grow afterwards
+
+512
+00:18:51,600 --> 00:18:55,360
+come from what you gave back or in some
+
+513
+00:18:53,600 --> 00:18:57,840
+cases like skid we only need to do that
+
+514
+00:18:55,360 --> 00:19:01,120
+partially or in some cases we don't do
+
+515
+00:18:57,840 --> 00:19:04,640
+that at all. So here's my Los Angeles
+
+516
+00:19:01,120 --> 00:19:06,559
+sporting college team analogy. So if
+
+517
+00:19:04,640 --> 00:19:09,360
+your marrow is filled with all these USC
+
+518
+00:19:06,559 --> 00:19:11,360
+footballs and then um you either you
+
+519
+00:19:09,360 --> 00:19:13,520
+give no conditioning, full conditioning
+
+520
+00:19:11,360 --> 00:19:15,280
+or reduced intensity, that's kind of
+
+521
+00:19:13,520 --> 00:19:16,960
+what you have afterwards. So if you give
+
+522
+00:19:15,280 --> 00:19:19,600
+no conditioning, there's very little
+
+523
+00:19:16,960 --> 00:19:20,960
+space in the stem cell niche. If you
+
+524
+00:19:19,600 --> 00:19:22,720
+give give full conditioning, you've
+
+525
+00:19:20,960 --> 00:19:24,160
+really opened things up for cells to
+
+526
+00:19:22,720 --> 00:19:25,520
+engraft. And if you give sort of an
+
+527
+00:19:24,160 --> 00:19:27,919
+intermediate amount, you open up some
+
+528
+00:19:25,520 --> 00:19:30,559
+space. And now we give the UCLA
+
+529
+00:19:27,919 --> 00:19:32,080
+basketball stem cells.
+
+530
+00:19:30,559 --> 00:19:33,840
+And so with no conditioning, there's
+
+531
+00:19:32,080 --> 00:19:35,760
+very little engraftment of the cells.
+
+532
+00:19:33,840 --> 00:19:38,080
+And we actually had a trial in the early
+
+533
+00:19:35,760 --> 00:19:39,919
+2000s where we started out not giving
+
+534
+00:19:38,080 --> 00:19:41,600
+conditioning. We didn't get engraftment.
+
+535
+00:19:39,919 --> 00:19:43,120
+We then this is again for skid patients
+
+536
+00:19:41,600 --> 00:19:45,039
+that we started giving conditioning and
+
+537
+00:19:43,120 --> 00:19:46,640
+everyone engrafted. So in that study, we
+
+538
+00:19:45,039 --> 00:19:48,720
+kind of proved at least in that setting,
+
+539
+00:19:46,640 --> 00:19:50,720
+it's essential to make some space. And
+
+540
+00:19:48,720 --> 00:19:52,400
+if you fully abladed the marrow with
+
+541
+00:19:50,720 --> 00:19:54,160
+highdose chemotherapy, then you
+
+542
+00:19:52,400 --> 00:19:55,840
+basically it's taken over completely by
+
+543
+00:19:54,160 --> 00:19:56,960
+the cells you've given back. And that's
+
+544
+00:19:55,840 --> 00:19:59,919
+what I think we'd want to do for
+
+545
+00:19:56,960 --> 00:20:02,799
+Angelmen.
+
+546
+00:19:59,919 --> 00:20:05,039
+But this this is again the probably the
+
+547
+00:20:02,799 --> 00:20:06,720
+most difficult part of a transplant, the
+
+548
+00:20:05,039 --> 00:20:08,240
+conditioning. So the conditioning
+
+549
+00:20:06,720 --> 00:20:10,240
+currently used prior to infusion of the
+
+550
+00:20:08,240 --> 00:20:12,799
+gene modified cells is a chemotherapy
+
+551
+00:20:10,240 --> 00:20:14,320
+drug called buculan. And it's given over
+
+552
+00:20:12,799 --> 00:20:16,160
+three to four days before the transplant
+
+553
+00:20:14,320 --> 00:20:18,320
+only. So it's not like multiple courses
+
+554
+00:20:16,160 --> 00:20:20,880
+of chemotherapy. It's just four days of
+
+555
+00:20:18,320 --> 00:20:22,799
+getting this drug twice a day typically.
+
+556
+00:20:20,880 --> 00:20:24,960
+And that will completely wipe out the
+
+557
+00:20:22,799 --> 00:20:26,559
+bone marrow stem cells. And actually the
+
+558
+00:20:24,960 --> 00:20:27,600
+patients are usually okay the days
+
+559
+00:20:26,559 --> 00:20:28,799
+they're getting it. So it's kind of
+
+560
+00:20:27,600 --> 00:20:30,000
+different than if any of you have
+
+561
+00:20:28,799 --> 00:20:32,000
+experience with a relative getting
+
+562
+00:20:30,000 --> 00:20:33,280
+chemotherapy. It's really over the next
+
+563
+00:20:32,000 --> 00:20:34,880
+few weeks that they they will have the
+
+564
+00:20:33,280 --> 00:20:36,720
+effects of that. So some of those
+
+565
+00:20:34,880 --> 00:20:38,320
+effects are are listed there. So they
+
+566
+00:20:36,720 --> 00:20:40,320
+may get a condition called mucousitis
+
+567
+00:20:38,320 --> 00:20:42,400
+where the mucous membranes of the mouth
+
+568
+00:20:40,320 --> 00:20:44,480
+are irritated because they're a dividing
+
+569
+00:20:42,400 --> 00:20:47,120
+cell. So the chemotherapy hits them. And
+
+570
+00:20:44,480 --> 00:20:48,480
+so often the patients for a week or two
+
+571
+00:20:47,120 --> 00:20:50,240
+won't really be able to eat and we'll
+
+572
+00:20:48,480 --> 00:20:52,240
+need to get introvenous feeding might
+
+573
+00:20:50,240 --> 00:20:54,559
+need pain medicines. So that's kind of
+
+574
+00:20:52,240 --> 00:20:56,320
+again the the hardest part of it but
+
+575
+00:20:54,559 --> 00:20:58,320
+people get through that but it's it's
+
+576
+00:20:56,320 --> 00:20:59,760
+challenging and and certainly may be
+
+577
+00:20:58,320 --> 00:21:02,080
+more challenging in patients with
+
+578
+00:20:59,760 --> 00:21:04,000
+Angelmen. Um typically from that amount
+
+579
+00:21:02,080 --> 00:21:06,640
+of chemotherapy the hair will fall out
+
+580
+00:21:04,000 --> 00:21:07,919
+in a week or two but it comes back. Uh
+
+581
+00:21:06,640 --> 00:21:10,559
+but you know again for some patients
+
+582
+00:21:07,919 --> 00:21:12,000
+that's very upsetting obviously. Um
+
+583
+00:21:10,559 --> 00:21:13,440
+there may be nausea and vomiting
+
+584
+00:21:12,000 --> 00:21:15,039
+although we really have very good drugs
+
+585
+00:21:13,440 --> 00:21:18,159
+now to control that. So usually there
+
+586
+00:21:15,039 --> 00:21:20,480
+isn't a lot of that. Um rarely the drug
+
+587
+00:21:18,159 --> 00:21:21,440
+can cause liver damage. mainly we see it
+
+588
+00:21:20,480 --> 00:21:24,400
+in people who've had a lot of
+
+589
+00:21:21,440 --> 00:21:26,320
+chemotherapy before like for leukemia.
+
+590
+00:21:24,400 --> 00:21:28,400
+Um and one of the other side effects
+
+591
+00:21:26,320 --> 00:21:30,159
+that may cause infertility because the
+
+592
+00:21:28,400 --> 00:21:31,679
+egg forming cells and the sperm forming
+
+593
+00:21:30,159 --> 00:21:33,919
+cells are also sensitive to the
+
+594
+00:21:31,679 --> 00:21:37,840
+chemotherapy. And so there are ways in
+
+595
+00:21:33,919 --> 00:21:41,039
+advance to preserve egg or sperm for um
+
+596
+00:21:37,840 --> 00:21:42,880
+future use if if interested. Um and then
+
+597
+00:21:41,039 --> 00:21:45,280
+there's hypothetically low risks of late
+
+598
+00:21:42,880 --> 00:21:46,960
+cancer or lung problems. We haven't seen
+
+599
+00:21:45,280 --> 00:21:50,000
+that really very commonly, but that
+
+600
+00:21:46,960 --> 00:21:52,000
+that's it's it's at least a risk. Uh and
+
+601
+00:21:50,000 --> 00:21:53,600
+so that's again, you know, I think it's
+
+602
+00:21:52,000 --> 00:21:55,440
+important to really address that because
+
+603
+00:21:53,600 --> 00:21:56,880
+that's the hardest part of a of a
+
+604
+00:21:55,440 --> 00:21:58,720
+transplant. So that means getting your
+
+605
+00:21:56,880 --> 00:22:00,320
+child through a couple of weeks which
+
+606
+00:21:58,720 --> 00:22:02,559
+they're they're not very happy. They
+
+607
+00:22:00,320 --> 00:22:04,159
+need medicines. They need introvenous
+
+608
+00:22:02,559 --> 00:22:06,720
+feeding, meaning they'll need to have an
+
+609
+00:22:04,159 --> 00:22:08,080
+introvenous line that whole time.
+
+610
+00:22:06,720 --> 00:22:10,480
+There are a lot of new things coming
+
+611
+00:22:08,080 --> 00:22:12,559
+along, ways to replace the chemotherapy
+
+612
+00:22:10,480 --> 00:22:14,559
+with antibodies to stem cells to
+
+613
+00:22:12,559 --> 00:22:16,640
+eliminate them without really those kind
+
+614
+00:22:14,559 --> 00:22:19,280
+of complications. They're not quite
+
+615
+00:22:16,640 --> 00:22:20,559
+there yet. There there's it's promising.
+
+616
+00:22:19,280 --> 00:22:21,919
+Then there's also sort of the the
+
+617
+00:22:20,559 --> 00:22:24,880
+challenge of getting it commercially
+
+618
+00:22:21,919 --> 00:22:26,240
+approved. So I think in five years or so
+
+619
+00:22:24,880 --> 00:22:29,240
+maybe we'll be able to stop using
+
+620
+00:22:26,240 --> 00:22:29,240
+chemotherapy.
+
+621
+00:22:29,360 --> 00:22:33,039
+Uh so then just sort of more about the
+
+622
+00:22:31,360 --> 00:22:35,039
+transplant. So on your left that's nurse
+
+623
+00:22:33,039 --> 00:22:36,559
+Lindsay bringing Ava's transplant
+
+624
+00:22:35,039 --> 00:22:38,000
+bucket. So every child before their
+
+625
+00:22:36,559 --> 00:22:39,760
+transplant, we fill up a buck with all
+
+626
+00:22:38,000 --> 00:22:42,320
+the tubes and connectors and everything
+
+627
+00:22:39,760 --> 00:22:44,400
+they might need. In the middle is that
+
+628
+00:22:42,320 --> 00:22:46,320
+tank that looks sort of like R2-D2.
+
+629
+00:22:44,400 --> 00:22:48,640
+That's a liquid nitrogen transport tank
+
+630
+00:22:46,320 --> 00:22:50,400
+that has the stem cell in there. And
+
+631
+00:22:48,640 --> 00:22:52,159
+then on the right is the thawed stem
+
+632
+00:22:50,400 --> 00:22:54,240
+cell bag. And so you can kind of see
+
+633
+00:22:52,159 --> 00:22:56,080
+there's an air fluid level. So the
+
+634
+00:22:54,240 --> 00:22:57,919
+little bit of cloudiness below that,
+
+635
+00:22:56,080 --> 00:23:00,960
+that's the stem cell graft. So that
+
+636
+00:22:57,919 --> 00:23:03,520
+might be a 100 million or 200 million
+
+637
+00:23:00,960 --> 00:23:05,280
+stem cells. and that will be enough to
+
+638
+00:23:03,520 --> 00:23:06,559
+repopulate their bone marrow and make
+
+639
+00:23:05,280 --> 00:23:08,400
+their blood cells for the rest of their
+
+640
+00:23:06,559 --> 00:23:11,440
+life. So that's kind of the most amazing
+
+641
+00:23:08,400 --> 00:23:13,520
+part I think. And so here's a here's a
+
+642
+00:23:11,440 --> 00:23:16,960
+patient who had skid getting his
+
+643
+00:23:13,520 --> 00:23:18,400
+transplant. And so on the left you can
+
+644
+00:23:16,960 --> 00:23:20,320
+see that syringe is kind of cloudy.
+
+645
+00:23:18,400 --> 00:23:22,000
+Again, those are his stem cell graft.
+
+646
+00:23:20,320 --> 00:23:23,919
+The tube on the right is just the saline
+
+647
+00:23:22,000 --> 00:23:25,679
+flush. So those cells are just over five
+
+648
+00:23:23,919 --> 00:23:27,440
+or 10 minutes. They're slowly pushed in
+
+649
+00:23:25,679 --> 00:23:29,360
+through their IV line. They get into the
+
+650
+00:23:27,440 --> 00:23:30,720
+body. they they go through the body and
+
+651
+00:23:29,360 --> 00:23:34,919
+they'll make their way to the bone
+
+652
+00:23:30,720 --> 00:23:34,919
+marrow and stick and start growing.
+
+653
+00:23:35,039 --> 00:23:41,440
+So that's sort of the that's sort of the
+
+654
+00:23:38,159 --> 00:23:42,880
+background on stem cell transplant. Um
+
+655
+00:23:41,440 --> 00:23:44,400
+and so now I want to talk about our
+
+656
+00:23:42,880 --> 00:23:46,559
+experience with severe commit immune
+
+657
+00:23:44,400 --> 00:23:49,679
+deficiency to show you what what can be
+
+658
+00:23:46,559 --> 00:23:51,840
+done and what what the results can be.
+
+659
+00:23:49,679 --> 00:23:54,080
+So this is a a famous child for those of
+
+660
+00:23:51,840 --> 00:23:56,240
+you who are of my generation. This is
+
+661
+00:23:54,080 --> 00:23:57,600
+David Veter, the boy in the bubble. So
+
+662
+00:23:56,240 --> 00:24:00,320
+this was a young man who was born in
+
+663
+00:23:57,600 --> 00:24:02,240
+Houston, Texas in the early 70s. His
+
+664
+00:24:00,320 --> 00:24:04,720
+younger brother had just died of the
+
+665
+00:24:02,240 --> 00:24:07,039
+recently described disease called Skid.
+
+666
+00:24:04,720 --> 00:24:09,760
+So at birth he was put into isolation,
+
+667
+00:24:07,039 --> 00:24:11,679
+tested and found to have it. And he he
+
+668
+00:24:09,760 --> 00:24:13,200
+was tested and his one sister was not a
+
+669
+00:24:11,679 --> 00:24:15,039
+match. So there wasn't a way to
+
+670
+00:24:13,200 --> 00:24:17,679
+transplant him. So he was kept in a
+
+671
+00:24:15,039 --> 00:24:19,279
+sterile environment for 13 years. So it
+
+672
+00:24:17,679 --> 00:24:21,039
+was very much in the media because
+
+673
+00:24:19,279 --> 00:24:23,200
+what's mankind country that were keeping
+
+674
+00:24:21,039 --> 00:24:24,880
+people in bubbles and eventually he had
+
+675
+00:24:23,200 --> 00:24:28,159
+a transplant from his sister and died of
+
+676
+00:24:24,880 --> 00:24:29,520
+complications at 13. Um and he had that
+
+677
+00:24:28,159 --> 00:24:31,440
+disease severe combined immune
+
+678
+00:24:29,520 --> 00:24:33,600
+deficiency.
+
+679
+00:24:31,440 --> 00:24:34,960
+And so we've worked on this disease
+
+680
+00:24:33,600 --> 00:24:37,360
+again since I've been working on it
+
+681
+00:24:34,960 --> 00:24:40,240
+since the mid 80s. Um and this is the
+
+682
+00:24:37,360 --> 00:24:41,600
+work since I've been at UCLA of over
+
+683
+00:24:40,240 --> 00:24:43,200
+time all the patients we've
+
+684
+00:24:41,600 --> 00:24:45,840
+transplanted. So we've done multiple
+
+685
+00:24:43,200 --> 00:24:48,480
+trials iteratively trying sort of
+
+686
+00:24:45,840 --> 00:24:50,080
+version 1.0 0 seeing what worked, what
+
+687
+00:24:48,480 --> 00:24:52,159
+didn't work, coming back with version
+
+688
+00:24:50,080 --> 00:24:54,320
+2.0, and we're sort of currently in
+
+689
+00:24:52,159 --> 00:24:56,720
+version 3.0, which is on your right,
+
+690
+00:24:54,320 --> 00:24:58,240
+which is using a lentiviral vector. So,
+
+691
+00:24:56,720 --> 00:25:00,080
+lentiviral vectors are what are mainly
+
+692
+00:24:58,240 --> 00:25:02,480
+used now for putting genes permanently
+
+693
+00:25:00,080 --> 00:25:04,080
+into hematopotic stem cells. And it
+
+694
+00:25:02,480 --> 00:25:06,559
+needs to be said they're derived from
+
+695
+00:25:04,080 --> 00:25:08,559
+the HIV virus. That's lenti is the class
+
+696
+00:25:06,559 --> 00:25:10,799
+of viruses that belongs to. All the
+
+697
+00:25:08,559 --> 00:25:12,799
+virus genes are removed and replaced by
+
+698
+00:25:10,799 --> 00:25:14,480
+the gene to be carried. and they've
+
+699
+00:25:12,799 --> 00:25:16,720
+never caused a problem like causing
+
+700
+00:25:14,480 --> 00:25:18,559
+immune deficiency like like AIDS, but
+
+701
+00:25:16,720 --> 00:25:20,400
+they're actually very well adapted at
+
+702
+00:25:18,559 --> 00:25:23,440
+getting into human cells. So, we've done
+
+703
+00:25:20,400 --> 00:25:25,679
+a number of trials with that that virus
+
+704
+00:25:23,440 --> 00:25:27,200
+that I'll tell you about. So, that's the
+
+705
+00:25:25,679 --> 00:25:28,960
+map of the virus. So, let me kind of
+
+706
+00:25:27,200 --> 00:25:32,159
+walk you through it. So, in the middle
+
+707
+00:25:28,960 --> 00:25:34,320
+is the human ADA gene and we've tweaked
+
+708
+00:25:32,159 --> 00:25:36,559
+it. We've cod and optimized it. So there
+
+709
+00:25:34,320 --> 00:25:39,679
+are different letter combinations like a
+
+710
+00:25:36,559 --> 00:25:42,400
+AAA and a AAU and AAC that code for the
+
+711
+00:25:39,679 --> 00:25:44,400
+same amino acid bey put into the protein
+
+712
+00:25:42,400 --> 00:25:45,919
+and cells have favorites and so if you
+
+713
+00:25:44,400 --> 00:25:47,840
+change the sequence to have the
+
+714
+00:25:45,919 --> 00:25:49,600
+favorites you make the same protein but
+
+715
+00:25:47,840 --> 00:25:52,400
+you make it more efficiently. So it's
+
+716
+00:25:49,600 --> 00:25:54,000
+coden optimized ADA sequence and then
+
+717
+00:25:52,400 --> 00:25:55,520
+the promoter in front of it that as we
+
+718
+00:25:54,000 --> 00:25:57,520
+heard yesterday from that great talk by
+
+719
+00:25:55,520 --> 00:25:59,679
+Dr. James is sort of the control unit
+
+720
+00:25:57,520 --> 00:26:02,640
+that drives it is from a cellular gene
+
+721
+00:25:59,679 --> 00:26:04,320
+called elong elongation factor short.
+
+722
+00:26:02,640 --> 00:26:06,080
+So, it's a promoter that will drive
+
+723
+00:26:04,320 --> 00:26:08,320
+production of a gene, but it can't
+
+724
+00:26:06,080 --> 00:26:10,159
+interfere with nearby genes. And as I'll
+
+725
+00:26:08,320 --> 00:26:12,320
+show you, we we have a great deal of
+
+726
+00:26:10,159 --> 00:26:13,919
+safety data. And so, we actually
+
+727
+00:26:12,320 --> 00:26:16,320
+developed this jointly with colleagues
+
+728
+00:26:13,919 --> 00:26:18,640
+in in London. And so, over the last
+
+729
+00:26:16,320 --> 00:26:21,120
+decade, we've done trials in parallel,
+
+730
+00:26:18,640 --> 00:26:23,360
+same batches of vector, same protocol.
+
+731
+00:26:21,120 --> 00:26:25,600
+And um I'll show you as of now, we we've
+
+732
+00:26:23,360 --> 00:26:27,600
+reported 62 patients treated. This was a
+
+733
+00:26:25,600 --> 00:26:31,360
+little earlier when we did trials both
+
+734
+00:26:27,600 --> 00:26:33,039
+in in London and at Los Angeles.
+
+735
+00:26:31,360 --> 00:26:35,279
+So this is sort of the the patient
+
+736
+00:26:33,039 --> 00:26:38,080
+journey through the gene therapy. So the
+
+737
+00:26:35,279 --> 00:26:40,799
+first part is talking to the family
+
+738
+00:26:38,080 --> 00:26:42,799
+discussing risks alternatives etc. And
+
+739
+00:26:40,799 --> 00:26:44,799
+if they agree having them sign the
+
+740
+00:26:42,799 --> 00:26:46,159
+informed consent then having screening
+
+741
+00:26:44,799 --> 00:26:49,200
+tests just to make sure they meet the
+
+742
+00:26:46,159 --> 00:26:50,799
+criteria and it's things like echo EKG
+
+743
+00:26:49,200 --> 00:26:52,320
+blood tests to just to make sure they're
+
+744
+00:26:50,799 --> 00:26:54,320
+they're healthy enough to go through the
+
+745
+00:26:52,320 --> 00:26:56,320
+transplant. If they are then they then
+
+746
+00:26:54,320 --> 00:26:58,559
+come into the hospital for the stem cell
+
+747
+00:26:56,320 --> 00:27:00,880
+collection. So they'll get injections
+
+748
+00:26:58,559 --> 00:27:03,760
+five days in a row of GCSF. They'll get
+
+749
+00:27:00,880 --> 00:27:05,039
+a dose of that drug puriferesis
+
+750
+00:27:03,760 --> 00:27:07,520
+for one or two days to collect their
+
+751
+00:27:05,039 --> 00:27:09,919
+stem cells. Then they go home the next
+
+752
+00:27:07,520 --> 00:27:11,200
+day. The cells go to the laboratory for
+
+753
+00:27:09,919 --> 00:27:13,760
+doing the kind of processing I talked
+
+754
+00:27:11,200 --> 00:27:15,679
+about. So we isolate the CD34 cells. We
+
+755
+00:27:13,760 --> 00:27:17,919
+add the lentiviral vector with the
+
+756
+00:27:15,679 --> 00:27:19,520
+normal ADA gene and freeze them down to
+
+757
+00:27:17,919 --> 00:27:21,600
+cryopreserve them. And then it takes
+
+758
+00:27:19,520 --> 00:27:22,880
+about a month or so to test them to make
+
+759
+00:27:21,600 --> 00:27:24,880
+sure they meet all those criteria. I
+
+760
+00:27:22,880 --> 00:27:26,559
+talked about sterility took up the gene
+
+761
+00:27:24,880 --> 00:27:28,240
+etc. And then when we know that the
+
+762
+00:27:26,559 --> 00:27:31,279
+cells are are good and they're signed
+
+763
+00:27:28,240 --> 00:27:32,880
+off by the QA unit, the patient comes
+
+764
+00:27:31,279 --> 00:27:34,720
+back for the second admission. And this
+
+765
+00:27:32,880 --> 00:27:36,720
+is the transplant admission. So they'll
+
+766
+00:27:34,720 --> 00:27:39,360
+come into the hospital, they'll get a a
+
+767
+00:27:36,720 --> 00:27:41,360
+central line placed, either a long IV
+
+768
+00:27:39,360 --> 00:27:43,279
+line, a pick line in their elbow or
+
+769
+00:27:41,360 --> 00:27:45,279
+actually a surgically placed central
+
+770
+00:27:43,279 --> 00:27:47,840
+line that can stay in for months are are
+
+771
+00:27:45,279 --> 00:27:50,400
+quite secure although I have seen once
+
+772
+00:27:47,840 --> 00:27:51,679
+two kids pull them out. And then they'll
+
+773
+00:27:50,400 --> 00:27:54,320
+starting that day, we'll give them their
+
+774
+00:27:51,679 --> 00:27:56,880
+their chemotherapy. So showing bulfin on
+
+775
+00:27:54,320 --> 00:27:59,039
+Monday and it turns out that the
+
+776
+00:27:56,880 --> 00:28:00,640
+metabolism of bulfin differs a lot
+
+777
+00:27:59,039 --> 00:28:02,799
+person to person. So we actually
+
+778
+00:28:00,640 --> 00:28:05,279
+personalize it. We measure how quickly
+
+779
+00:28:02,799 --> 00:28:07,360
+the person cleared that first dose and
+
+780
+00:28:05,279 --> 00:28:09,679
+we adjust their later doses to try and
+
+781
+00:28:07,360 --> 00:28:11,520
+total um area under the curve or
+
+782
+00:28:09,679 --> 00:28:13,360
+exposure to the drug. And so we've
+
+783
+00:28:11,520 --> 00:28:16,399
+gotten much better at at targeting it
+
+784
+00:28:13,360 --> 00:28:18,320
+precisely. And then um on Friday, so it
+
+785
+00:28:16,399 --> 00:28:19,679
+start on Monday. On Friday they get
+
+786
+00:28:18,320 --> 00:28:21,760
+their cells. So again we bring the cells
+
+787
+00:28:19,679 --> 00:28:23,600
+to the bedside we thaw them. We infuse
+
+788
+00:28:21,760 --> 00:28:25,440
+them. and they're kind of done with the
+
+789
+00:28:23,600 --> 00:28:27,200
+transplant and hopefully it it will have
+
+790
+00:28:25,440 --> 00:28:29,120
+an effect, but then they have that few
+
+791
+00:28:27,200 --> 00:28:31,679
+weeks afterward from the side effects of
+
+792
+00:28:29,120 --> 00:28:33,039
+the chemotherapy.
+
+793
+00:28:31,679 --> 00:28:34,480
+And this was the frozen trial. This is
+
+794
+00:28:33,039 --> 00:28:37,039
+the first time we did frozen cells. We
+
+795
+00:28:34,480 --> 00:28:40,080
+call it the frozen trial.
+
+796
+00:28:37,039 --> 00:28:42,480
+And so we've done this now for um around
+
+797
+00:28:40,080 --> 00:28:44,000
+50 more than 50 or 60 patients with with
+
+798
+00:28:42,480 --> 00:28:46,080
+this antiviral vector. We did some
+
+799
+00:28:44,000 --> 00:28:48,320
+earlier ones and this is just a map of
+
+800
+00:28:46,080 --> 00:28:49,760
+where they came from. So rare diseases
+
+801
+00:28:48,320 --> 00:28:51,760
+like this, the patients are not all in
+
+802
+00:28:49,760 --> 00:28:54,080
+Los Angeles. So they're all over and we
+
+803
+00:28:51,760 --> 00:28:55,600
+basically had patients from the US and
+
+804
+00:28:54,080 --> 00:28:57,520
+Canada. So I actually got better at
+
+805
+00:28:55,600 --> 00:28:59,679
+relearning my Canadian geographies I
+
+806
+00:28:57,520 --> 00:29:01,120
+learned in third or fourth grade. Uh so
+
+807
+00:28:59,679 --> 00:29:02,399
+there's arrows from the different trials
+
+808
+00:29:01,120 --> 00:29:04,240
+showing where the patients came from.
+
+809
+00:29:02,399 --> 00:29:06,240
+And so you we would bring the families
+
+810
+00:29:04,240 --> 00:29:07,760
+out to Los Angeles for the stem cell
+
+811
+00:29:06,240 --> 00:29:09,120
+collection they would go home. They
+
+812
+00:29:07,760 --> 00:29:10,640
+would come back for the collection and
+
+813
+00:29:09,120 --> 00:29:12,320
+while they're there we'd have the
+
+814
+00:29:10,640 --> 00:29:15,039
+patient stay at Ronald McDonald House or
+
+815
+00:29:12,320 --> 00:29:16,720
+a hotel like that. And uh usually in our
+
+816
+00:29:15,039 --> 00:29:18,240
+transplant unit one patient can sleep
+
+817
+00:29:16,720 --> 00:29:21,039
+one parent can sleep in the room
+
+818
+00:29:18,240 --> 00:29:23,279
+overnight.
+
+819
+00:29:21,039 --> 00:29:25,600
+And so we reported our results. Uh this
+
+820
+00:29:23,279 --> 00:29:28,799
+is now four years ago. This was a report
+
+821
+00:29:25,600 --> 00:29:30,960
+of 50 patients, 30 treated by UCLA, 30
+
+822
+00:29:28,799 --> 00:29:33,120
+at Great Orman Street Hospital in London
+
+823
+00:29:30,960 --> 00:29:36,799
+with this approach that I talked about
+
+824
+00:29:33,120 --> 00:29:39,600
+using CD34 cells that lentiviral vector
+
+825
+00:29:36,799 --> 00:29:41,840
+lower dose bulfan. And what we reported
+
+826
+00:29:39,600 --> 00:29:44,159
+was 100% of the patients were alive and
+
+827
+00:29:41,840 --> 00:29:46,960
+well and they still are to the present
+
+828
+00:29:44,159 --> 00:29:50,000
+time. And 96% of them were event-free
+
+829
+00:29:46,960 --> 00:29:51,760
+survival. So we define an event sort of
+
+830
+00:29:50,000 --> 00:29:53,840
+it failed and they need to go back and
+
+831
+00:29:51,760 --> 00:29:55,679
+have a transplant. And so we had four we
+
+832
+00:29:53,840 --> 00:29:57,760
+had two patients the initial group where
+
+833
+00:29:55,679 --> 00:29:59,600
+the cells just didn't grow and they
+
+834
+00:29:57,760 --> 00:30:03,600
+needed to go back on the enzyme and then
+
+835
+00:29:59,600 --> 00:30:05,760
+then have a they had a transplant later.
+
+836
+00:30:03,600 --> 00:30:07,520
+Uh and then so we just had another paper
+
+837
+00:30:05,760 --> 00:30:09,520
+come out two weeks ago sort of following
+
+838
+00:30:07,520 --> 00:30:12,080
+that cohort plus another 12 that were
+
+839
+00:30:09,520 --> 00:30:14,880
+done in London sort of a year later. And
+
+840
+00:30:12,080 --> 00:30:16,960
+so in this paper we reported 62 patients
+
+841
+00:30:14,880 --> 00:30:20,080
+with ADA skid treated again at UCLA and
+
+842
+00:30:16,960 --> 00:30:21,760
+Gosh between 2012 and 2018. So now we're
+
+843
+00:30:20,080 --> 00:30:24,240
+reporting how do they look a decade out
+
+844
+00:30:21,760 --> 00:30:26,720
+basically. So what the time we analyze
+
+845
+00:30:24,240 --> 00:30:29,600
+the data was 2023. So actually they're
+
+846
+00:30:26,720 --> 00:30:31,039
+two years beyond that point now. And
+
+847
+00:30:29,600 --> 00:30:33,600
+what we're able to report was that it
+
+848
+00:30:31,039 --> 00:30:35,679
+was completely persistent and stable. So
+
+849
+00:30:33,600 --> 00:30:37,360
+all the patients had stable. We measure
+
+850
+00:30:35,679 --> 00:30:39,279
+the the gene and the blood cells in the
+
+851
+00:30:37,360 --> 00:30:42,159
+circulation. We measure their te- cell
+
+852
+00:30:39,279 --> 00:30:44,640
+numbers etc. no change after the first
+
+853
+00:30:42,159 --> 00:30:47,279
+six months or so and really quite quite
+
+854
+00:30:44,640 --> 00:30:49,039
+good. They had good immunity. There were
+
+855
+00:30:47,279 --> 00:30:50,799
+no complications from the gene therapy
+
+856
+00:30:49,039 --> 00:30:53,279
+or from the vector in any of our
+
+857
+00:30:50,799 --> 00:30:54,559
+patients.
+
+858
+00:30:53,279 --> 00:30:56,320
+And then this is just one graph. It's
+
+859
+00:30:54,559 --> 00:30:58,000
+kind of small, but just shows different
+
+860
+00:30:56,320 --> 00:31:00,559
+T- cell populations that we measured
+
+861
+00:30:58,000 --> 00:31:02,799
+over time are all stable out to 10 to 12
+
+862
+00:31:00,559 --> 00:31:04,720
+years. And so we we hope this will be
+
+863
+00:31:02,799 --> 00:31:06,240
+stable for their lifetime. We don't know
+
+864
+00:31:04,720 --> 00:31:08,000
+that yet till we follow them for their
+
+865
+00:31:06,240 --> 00:31:09,840
+lifetime, but it really looks like this
+
+866
+00:31:08,000 --> 00:31:11,200
+is persisting. And so that's, you know,
+
+867
+00:31:09,840 --> 00:31:13,200
+that's obviously very important to have
+
+868
+00:31:11,200 --> 00:31:14,880
+a long-term effect. So the stem cells
+
+869
+00:31:13,200 --> 00:31:17,360
+that we took out of the body, put the
+
+870
+00:31:14,880 --> 00:31:21,520
+gene into, put back are still now in the
+
+871
+00:31:17,360 --> 00:31:24,159
+bone marrow making blood cells.
+
+872
+00:31:21,520 --> 00:31:26,640
+And in fact, at least 18 different blood
+
+873
+00:31:24,159 --> 00:31:28,080
+cell diseases or genetic diseases have
+
+874
+00:31:26,640 --> 00:31:30,399
+been treated by this approach. So this
+
+875
+00:31:28,080 --> 00:31:32,080
+is a list that I sort of keep myself of
+
+876
+00:31:30,399 --> 00:31:33,919
+all the diseases that have been reported
+
+877
+00:31:32,080 --> 00:31:35,679
+in clinical trials or at meetings
+
+878
+00:31:33,919 --> 00:31:37,519
+treated by this approach of lentiviral
+
+879
+00:31:35,679 --> 00:31:39,679
+vectors putting the missing gene into
+
+880
+00:31:37,519 --> 00:31:42,080
+hematopetic stem cells. And so on the
+
+881
+00:31:39,679 --> 00:31:43,919
+list the top two on the left are genes I
+
+882
+00:31:42,080 --> 00:31:45,840
+mentioned before adrenolucadistrophe and
+
+883
+00:31:43,919 --> 00:31:48,240
+metacromatic lucodistrophe which are
+
+884
+00:31:45,840 --> 00:31:50,399
+neurodeenerative disorders. And by
+
+885
+00:31:48,240 --> 00:31:52,399
+giving them gene corrected bone marrow
+
+886
+00:31:50,399 --> 00:31:53,840
+and getting cells going into the brain
+
+887
+00:31:52,399 --> 00:31:56,080
+they make the missing enzyme and really
+
+888
+00:31:53,840 --> 00:31:59,200
+stop the neurodeeneration. and the on
+
+889
+00:31:56,080 --> 00:32:01,440
+the top right MPS one and three are also
+
+890
+00:31:59,200 --> 00:32:03,600
+similar uh diseases like that have been
+
+891
+00:32:01,440 --> 00:32:05,279
+treated and so angelin has not been
+
+892
+00:32:03,600 --> 00:32:08,000
+treated by a bone marrow transmitter by
+
+893
+00:32:05,279 --> 00:32:10,080
+gene therapy yet but if it follows the
+
+894
+00:32:08,000 --> 00:32:12,399
+rules that these other diseases did it
+
+895
+00:32:10,080 --> 00:32:13,919
+should be beneficial so in all these
+
+896
+00:32:12,399 --> 00:32:16,240
+trials lentiviral vectors have had an
+
+897
+00:32:13,919 --> 00:32:18,720
+excellent safety profile one exception
+
+898
+00:32:16,240 --> 00:32:20,720
+being actually an ALD and Allison
+
+899
+00:32:18,720 --> 00:32:23,120
+referred to this that virus they used
+
+900
+00:32:20,720 --> 00:32:28,000
+had a mouse retrovirus element driving
+
+901
+00:32:23,120 --> 00:32:29,760
+the gene and those can cause a problem
+
+902
+00:32:28,000 --> 00:32:31,279
+and coming soon we're working on
+
+903
+00:32:29,760 --> 00:32:32,720
+alphathalmia but we're also working on
+
+904
+00:32:31,279 --> 00:32:34,720
+angelman syndrome and hopefully they
+
+905
+00:32:32,720 --> 00:32:36,799
+will be on this list in a few years as
+
+906
+00:32:34,720 --> 00:32:38,240
+having been successfully treated. So let
+
+907
+00:32:36,799 --> 00:32:41,360
+me talk now about how this would apply
+
+908
+00:32:38,240 --> 00:32:42,960
+to Angelman syndrome.
+
+909
+00:32:41,360 --> 00:32:44,880
+And so this is another view of the
+
+910
+00:32:42,960 --> 00:32:46,880
+hematopotic stem cells making blood
+
+911
+00:32:44,880 --> 00:32:49,039
+cells. And the important thing is on the
+
+912
+00:32:46,880 --> 00:32:50,720
+left one of the blood cells that's made
+
+913
+00:32:49,039 --> 00:32:52,799
+are monocytes. And monocytes are cells
+
+914
+00:32:50,720 --> 00:32:54,799
+that become mainly become macroofagages
+
+915
+00:32:52,799 --> 00:32:56,799
+or big eaters and they're in tissues.
+
+916
+00:32:54,799 --> 00:32:58,799
+They're in the blood. Some subset of
+
+917
+00:32:56,799 --> 00:33:01,360
+those monocytes cross the bloodb brain
+
+918
+00:32:58,799 --> 00:33:03,600
+barrier and turn into microgallike
+
+919
+00:33:01,360 --> 00:33:05,440
+cells. The afficionados don't allow us
+
+920
+00:33:03,600 --> 00:33:07,360
+to call them true microglea because
+
+921
+00:33:05,440 --> 00:33:10,880
+those only happen in the embryo, but
+
+922
+00:33:07,360 --> 00:33:12,240
+they functionally are microgal cells.
+
+923
+00:33:10,880 --> 00:33:13,919
+And then this is sort of a little more
+
+924
+00:33:12,240 --> 00:33:17,200
+complicated version. So on your lower
+
+925
+00:33:13,919 --> 00:33:19,840
+right shows that in uterero cells from
+
+926
+00:33:17,200 --> 00:33:21,519
+the bone marrow go into the brain and
+
+927
+00:33:19,840 --> 00:33:24,000
+form the micro gal cells that you're
+
+928
+00:33:21,519 --> 00:33:26,080
+born with. But post-natally after you're
+
+929
+00:33:24,000 --> 00:33:27,679
+born, cells from the bone marrow can
+
+930
+00:33:26,080 --> 00:33:29,840
+make monocytes that can go across the
+
+931
+00:33:27,679 --> 00:33:31,679
+brain and make microgallike cells. And
+
+932
+00:33:29,840 --> 00:33:33,600
+that's accelerated by a bone marrow
+
+933
+00:33:31,679 --> 00:33:36,080
+transplant. And in fact, the bulfan
+
+934
+00:33:33,600 --> 00:33:38,320
+besides increasing engraftment into the
+
+935
+00:33:36,080 --> 00:33:41,919
+bone marrow also increase engraftment of
+
+936
+00:33:38,320 --> 00:33:44,320
+microgal cells into the brain.
+
+937
+00:33:41,919 --> 00:33:47,840
+Um and then the the other aspect of this
+
+938
+00:33:44,320 --> 00:33:51,200
+is cross correction. So the the UB3A
+
+939
+00:33:47,840 --> 00:33:54,240
+gene that was developed with by FAS with
+
+940
+00:33:51,200 --> 00:33:56,399
+um the group at Davis is designed to
+
+941
+00:33:54,240 --> 00:33:58,480
+actually have the protein be secreted
+
+942
+00:33:56,399 --> 00:34:00,080
+from the micro gal cells so it can be
+
+943
+00:33:58,480 --> 00:34:02,000
+taken up by the neurons. And I think
+
+944
+00:34:00,080 --> 00:34:04,080
+that's kind of this the secret sauce of
+
+945
+00:34:02,000 --> 00:34:06,080
+this. And so if you got these microgal
+
+946
+00:34:04,080 --> 00:34:07,840
+cells that came from the stem cells with
+
+947
+00:34:06,080 --> 00:34:09,839
+the gene, they actually can release the
+
+948
+00:34:07,840 --> 00:34:12,000
+protein and cure the neurons around
+
+949
+00:34:09,839 --> 00:34:14,079
+them.
+
+950
+00:34:12,000 --> 00:34:15,919
+And so uh actually Colin showed a
+
+951
+00:34:14,079 --> 00:34:17,440
+version of this yesterday where the
+
+952
+00:34:15,919 --> 00:34:19,359
+procedure then is collecting the stem
+
+953
+00:34:17,440 --> 00:34:21,760
+cells from the patient adding the virus
+
+954
+00:34:19,359 --> 00:34:23,599
+with the UB3A gene transplanting them
+
+955
+00:34:21,760 --> 00:34:28,760
+back in and over time they will then
+
+956
+00:34:23,599 --> 00:34:28,760
+make microgle cells in in the brain.
+
+957
+00:34:29,760 --> 00:34:34,879
+And so this is a slide from the work
+
+958
+00:34:32,879 --> 00:34:36,159
+done at at UC Davis and they they really
+
+959
+00:34:34,879 --> 00:34:38,960
+pioneered this work and we're kind of
+
+960
+00:34:36,159 --> 00:34:40,879
+really riding in their wake. So they
+
+961
+00:34:38,960 --> 00:34:42,240
+made a lentiviral vector and this was
+
+962
+00:34:40,879 --> 00:34:45,040
+the one made from mouse. It has the
+
+963
+00:34:42,240 --> 00:34:47,280
+mouse UB3A gene and it uses that
+
+964
+00:34:45,040 --> 00:34:49,200
+retroviral promoter to drive expression
+
+965
+00:34:47,280 --> 00:34:51,359
+of the gene. So it's it's very strong
+
+966
+00:34:49,200 --> 00:34:53,599
+and make a lot of the product and they
+
+967
+00:34:51,359 --> 00:34:56,240
+did very nice work in the mouse model
+
+968
+00:34:53,599 --> 00:34:58,400
+again as Allison said curing all aspects
+
+969
+00:34:56,240 --> 00:35:00,800
+behavioral that's the the graph on the
+
+970
+00:34:58,400 --> 00:35:02,800
+bottom right is uh delta power showing
+
+971
+00:35:00,800 --> 00:35:04,640
+that it's hard to read but the the delta
+
+972
+00:35:02,800 --> 00:35:06,560
+power in the transplanted mice was as
+
+973
+00:35:04,640 --> 00:35:09,440
+good as in the neurotypic wild type
+
+974
+00:35:06,560 --> 00:35:11,359
+mice. But the problem was the promoter
+
+975
+00:35:09,440 --> 00:35:13,200
+element they used is the one that was
+
+976
+00:35:11,359 --> 00:35:16,560
+shown sort of about as this work was
+
+977
+00:35:13,200 --> 00:35:19,359
+being done in ALD to have risks of
+
+978
+00:35:16,560 --> 00:35:22,240
+triggering leukemia.
+
+979
+00:35:19,359 --> 00:35:25,119
+And so um and this is a paper describing
+
+980
+00:35:22,240 --> 00:35:27,359
+the ALD studies where patients were
+
+981
+00:35:25,119 --> 00:35:29,599
+cured of their disease by the gene
+
+982
+00:35:27,359 --> 00:35:31,280
+therapy but over time an increasing
+
+983
+00:35:29,599 --> 00:35:32,960
+numbers of them developed sort of an
+
+984
+00:35:31,280 --> 00:35:34,720
+early pre-lukemia and some of it went
+
+985
+00:35:32,960 --> 00:35:37,839
+out to leukemia because that viral
+
+986
+00:35:34,720 --> 00:35:39,520
+element turned on cellular growth genes
+
+987
+00:35:37,839 --> 00:35:41,520
+and that's kind of been known as a risk
+
+988
+00:35:39,520 --> 00:35:44,000
+and so most of the field has moved away
+
+989
+00:35:41,520 --> 00:35:46,480
+from from using that um and instead
+
+990
+00:35:44,000 --> 00:35:48,800
+using like we use for the ADA that that
+
+991
+00:35:46,480 --> 00:35:50,800
+has a very good safety record. So our
+
+992
+00:35:48,800 --> 00:35:52,720
+primary goal when when Allison first
+
+993
+00:35:50,800 --> 00:35:55,280
+came to us was to make a vector that
+
+994
+00:35:52,720 --> 00:35:57,119
+would work as well as the other one but
+
+995
+00:35:55,280 --> 00:35:59,200
+that was safer that would have control
+
+996
+00:35:57,119 --> 00:36:01,920
+elements that wouldn't risk turning on
+
+997
+00:35:59,200 --> 00:36:03,599
+genes near where they land
+
+998
+00:36:01,920 --> 00:36:05,599
+and then ultimately that comes to now
+
+999
+00:36:03,599 --> 00:36:07,680
+translating this to a clinical trial of
+
+1000
+00:36:05,599 --> 00:36:09,280
+gene therapy
+
+1001
+00:36:07,680 --> 00:36:11,599
+and so the work that I'm going to
+
+1002
+00:36:09,280 --> 00:36:13,359
+present now was done by Roger Hollis is
+
+1003
+00:36:11,599 --> 00:36:15,680
+the lead scientist Christopher Luther's
+
+1004
+00:36:13,359 --> 00:36:18,640
+who spoke here last year and who is
+
+1005
+00:36:15,680 --> 00:36:20,160
+amazing um started work and then Colin
+
+1006
+00:36:18,640 --> 00:36:22,480
+Jwitt who spoke yesterday has been
+
+1007
+00:36:20,160 --> 00:36:24,400
+carrying it on since since Chris off
+
+1008
+00:36:22,480 --> 00:36:26,160
+Chris Chris finished his PhD and is at
+
+1009
+00:36:24,400 --> 00:36:28,160
+the CDC to become an epidemiologic
+
+1010
+00:36:26,160 --> 00:36:30,000
+intelligence service officer which will
+
+1011
+00:36:28,160 --> 00:36:32,960
+be great for the world but we we miss
+
+1012
+00:36:30,000 --> 00:36:36,240
+him and so they made a series of
+
+1013
+00:36:32,960 --> 00:36:38,720
+lentiviral vectors that have the UB3A
+
+1014
+00:36:36,240 --> 00:36:40,880
+gene in them and use different promoters
+
+1015
+00:36:38,720 --> 00:36:42,480
+so we made one like the Davis one with
+
+1016
+00:36:40,880 --> 00:36:44,480
+the M &D promoter as our sort of
+
+1017
+00:36:42,480 --> 00:36:47,040
+comparator or then we used one with an
+
+1018
+00:36:44,480 --> 00:36:49,119
+EFS promoter that's in our ADA vector or
+
+1019
+00:36:47,040 --> 00:36:50,880
+another promoter or PGK that's also been
+
+1020
+00:36:49,119 --> 00:36:52,640
+used in a number of clinical trials and
+
+1021
+00:36:50,880 --> 00:36:54,480
+been shown to be safe. And so our
+
+1022
+00:36:52,640 --> 00:36:57,440
+question was can we make one that will
+
+1023
+00:36:54,480 --> 00:37:00,160
+work as well as the M &D1 with a with a
+
+1024
+00:36:57,440 --> 00:37:01,920
+better safety profile.
+
+1025
+00:37:00,160 --> 00:37:04,880
+And so this is a western blot showing
+
+1026
+00:37:01,920 --> 00:37:06,960
+the level of expression of UB3A protein
+
+1027
+00:37:04,880 --> 00:37:08,960
+are those bands and the two on your left
+
+1028
+00:37:06,960 --> 00:37:10,800
+are our new modified vectors. And again,
+
+1029
+00:37:08,960 --> 00:37:13,119
+we did that trick of codon optimizing
+
+1030
+00:37:10,800 --> 00:37:14,480
+the gene. So it makes more protein. And
+
+1031
+00:37:13,119 --> 00:37:16,640
+by doing that, we're actually making
+
+1032
+00:37:14,480 --> 00:37:18,480
+more copies of the pro more amount of
+
+1033
+00:37:16,640 --> 00:37:20,800
+the protein than the one with just the M
+
+1034
+00:37:18,480 --> 00:37:22,640
+andd promoter driving the wild type
+
+1035
+00:37:20,800 --> 00:37:24,320
+gene.
+
+1036
+00:37:22,640 --> 00:37:26,240
+And so then we went out to do a number
+
+1037
+00:37:24,320 --> 00:37:29,119
+of studies again following what Davis
+
+1038
+00:37:26,240 --> 00:37:31,520
+had done and guided a lot by Allison and
+
+1039
+00:37:29,119 --> 00:37:33,280
+Jennifer on these studies taking these
+
+1040
+00:37:31,520 --> 00:37:35,200
+different vectors putting them into the
+
+1041
+00:37:33,280 --> 00:37:38,880
+mouse model and then doing behavioral
+
+1042
+00:37:35,200 --> 00:37:39,760
+and EEG and uh histoemical studies and
+
+1043
+00:37:38,880 --> 00:37:41,359
+I'll just show you a little of it
+
+1044
+00:37:39,760 --> 00:37:43,359
+because again Colin presented this
+
+1045
+00:37:41,359 --> 00:37:46,880
+yesterday. So we used either the EFS
+
+1046
+00:37:43,359 --> 00:37:48,480
+driven promoter the PGK or we didn't
+
+1047
+00:37:46,880 --> 00:37:50,240
+modify the cells we just mock
+
+1048
+00:37:48,480 --> 00:37:52,640
+transplanted cells that still were not
+
+1049
+00:37:50,240 --> 00:37:54,800
+corrected or we took bone marrow from
+
+1050
+00:37:52,640 --> 00:37:57,760
+wild type neurotypic mice or from the
+
+1051
+00:37:54,800 --> 00:37:59,680
+angel mice. We had five groups of mice.
+
+1052
+00:37:57,760 --> 00:38:01,839
+This graph is just showing the level of
+
+1053
+00:37:59,680 --> 00:38:04,720
+engraftment. The panel on the left we
+
+1054
+00:38:01,839 --> 00:38:06,560
+actually always used male donors into
+
+1055
+00:38:04,720 --> 00:38:08,400
+females. So we could measure how much
+
+1056
+00:38:06,560 --> 00:38:10,560
+cells are engrafted by measuring the Y
+
+1057
+00:38:08,400 --> 00:38:13,119
+chromosome for the male cells. And so
+
+1058
+00:38:10,560 --> 00:38:18,800
+the the the groups at the top uh were
+
+1059
+00:38:13,119 --> 00:38:21,280
+the ones that um in in the blood are um
+
+1060
+00:38:18,800 --> 00:38:26,560
+uh in are the two different vectors PGK
+
+1061
+00:38:21,280 --> 00:38:28,160
+and E EGFP and sorry EFS and PGK. So the
+
+1062
+00:38:26,560 --> 00:38:30,079
+the bands in the middle are in the blood
+
+1063
+00:38:28,160 --> 00:38:32,320
+and the bone marrow. So we have 80 90%
+
+1064
+00:38:30,079 --> 00:38:34,079
+engraftment of the donor cells. And then
+
+1065
+00:38:32,320 --> 00:38:36,400
+the lower left of that panel are
+
+1066
+00:38:34,079 --> 00:38:38,640
+measuring the male cells in the brain.
+
+1067
+00:38:36,400 --> 00:38:40,160
+And so they're there. about 100fold
+
+1068
+00:38:38,640 --> 00:38:42,400
+lower, but that's because most of the
+
+1069
+00:38:40,160 --> 00:38:43,839
+brain has other cells in it. And then on
+
+1070
+00:38:42,400 --> 00:38:45,280
+the right is measuring the vector copy
+
+1071
+00:38:43,839 --> 00:38:47,280
+numbers where you have about one to two
+
+1072
+00:38:45,280 --> 00:38:49,839
+copies of the vector in the blood cells.
+
+1073
+00:38:47,280 --> 00:38:52,800
+And again, the brain lower, but still
+
+1074
+00:38:49,839 --> 00:38:56,320
+about a half a percent or so of cells
+
+1075
+00:38:52,800 --> 00:38:58,720
+with the the gene in the brain. And then
+
+1076
+00:38:56,320 --> 00:39:00,240
+we saw all the same kind of amazing uh
+
+1077
+00:38:58,720 --> 00:39:02,000
+behavioral improvements. So this is on
+
+1078
+00:39:00,240 --> 00:39:04,000
+the left, open field that measures sort
+
+1079
+00:39:02,000 --> 00:39:06,560
+of their mobility. And the lower two
+
+1080
+00:39:04,000 --> 00:39:08,640
+bands are the untreated angelman mice or
+
+1081
+00:39:06,560 --> 00:39:10,640
+those that got just angelman marrow. And
+
+1082
+00:39:08,640 --> 00:39:12,800
+the bands above it are the ones that got
+
+1083
+00:39:10,640 --> 00:39:14,640
+either the wild type marrow or with
+
+1084
+00:39:12,800 --> 00:39:15,839
+either of our vectors. The roto rod
+
+1085
+00:39:14,640 --> 00:39:17,599
+assay that we saw a nice video of
+
+1086
+00:39:15,839 --> 00:39:19,760
+yesterday shows that the mice that got
+
+1087
+00:39:17,599 --> 00:39:21,839
+gene therapy performed as well as the
+
+1088
+00:39:19,760 --> 00:39:24,720
+wild type mice in terms of their ability
+
+1089
+00:39:21,839 --> 00:39:26,320
+to stay on the the rotating rod. Um and
+
+1090
+00:39:24,720 --> 00:39:27,760
+then these are other measurements of
+
+1091
+00:39:26,320 --> 00:39:30,320
+cognitive function novel object
+
+1092
+00:39:27,760 --> 00:39:32,720
+recognition. And again, the gene therapy
+
+1093
+00:39:30,320 --> 00:39:35,280
+mice performed as well as the wild type
+
+1094
+00:39:32,720 --> 00:39:37,680
+mice as Davis had shown with with their
+
+1095
+00:39:35,280 --> 00:39:40,960
+vector.
+
+1096
+00:39:37,680 --> 00:39:42,800
+And then here and here's the EEGs.
+
+1097
+00:39:40,960 --> 00:39:44,400
+Um, and so sort of our conclusion from
+
+1098
+00:39:42,800 --> 00:39:46,079
+the mouse studies that again Chris
+
+1099
+00:39:44,400 --> 00:39:47,760
+presented last year when we were sort of
+
+1100
+00:39:46,079 --> 00:39:49,359
+mid-stream of those and now Colin has
+
+1101
+00:39:47,760 --> 00:39:52,079
+finished up and we have a paper that's
+
+1102
+00:39:49,359 --> 00:39:54,000
+under review. Both the EFS and the PGK
+
+1103
+00:39:52,079 --> 00:39:56,240
+driven vectors had improved expression
+
+1104
+00:39:54,000 --> 00:39:58,320
+over the potentially encoenic M andD
+
+1105
+00:39:56,240 --> 00:39:59,839
+vector. The treated mice showed improved
+
+1106
+00:39:58,320 --> 00:40:01,760
+motor and cognitive function during
+
+1107
+00:39:59,839 --> 00:40:03,440
+behavioral assays. The treated mouse
+
+1108
+00:40:01,760 --> 00:40:05,359
+delta powered measured by EEG was
+
+1109
+00:40:03,440 --> 00:40:06,640
+reduced to wild type levels. And the
+
+1110
+00:40:05,359 --> 00:40:08,000
+iminochemistry, which I didn't show,
+
+1111
+00:40:06,640 --> 00:40:09,920
+Allison actually showed some very nice
+
+1112
+00:40:08,000 --> 00:40:12,160
+pictures yesterday on the brain slices
+
+1113
+00:40:09,920 --> 00:40:13,440
+showed that the protein is being made in
+
+1114
+00:40:12,160 --> 00:40:14,960
+the brain. And we can actually see it in
+
+1115
+00:40:13,440 --> 00:40:16,960
+the neurons. So presumably it's leaving
+
+1116
+00:40:14,960 --> 00:40:20,079
+the micro gleal cells and being taken up
+
+1117
+00:40:16,960 --> 00:40:22,640
+by the nerve cells.
+
+1118
+00:40:20,079 --> 00:40:24,800
+And so you the question is you know mice
+
+1119
+00:40:22,640 --> 00:40:26,720
+are mice and can the excellent benefits
+
+1120
+00:40:24,800 --> 00:40:28,560
+that we see in the mouse models will
+
+1121
+00:40:26,720 --> 00:40:31,680
+that bear have any bearing on what we
+
+1122
+00:40:28,560 --> 00:40:33,040
+see in patients. Um and again the mice
+
+1123
+00:40:31,680 --> 00:40:35,280
+that we treated they were transplanted
+
+1124
+00:40:33,040 --> 00:40:37,680
+about 6 to 8 weeks of age which sort of
+
+1125
+00:40:35,280 --> 00:40:39,760
+like a late teenager in in human
+
+1126
+00:40:37,680 --> 00:40:42,079
+development. And so they weren't infant
+
+1127
+00:40:39,760 --> 00:40:43,440
+mice and so at least at that age uh
+
+1128
+00:40:42,079 --> 00:40:45,040
+there there was benefit that that
+
+1129
+00:40:43,440 --> 00:40:48,800
+persists. We've studied, we usually
+
+1130
+00:40:45,040 --> 00:40:51,119
+study them about four months later.
+
+1131
+00:40:48,800 --> 00:40:52,640
+And so with uh fast and with
+
+1132
+00:40:51,119 --> 00:40:54,400
+transformatics, we applied to the
+
+1133
+00:40:52,640 --> 00:40:56,560
+California Institute for Regenerative
+
+1134
+00:40:54,400 --> 00:40:59,040
+Medicine, our our stem cell uh funding
+
+1135
+00:40:56,560 --> 00:41:00,960
+agency in California for a grant to ter
+
+1136
+00:40:59,040 --> 00:41:02,720
+carry this forward. And so the grant is
+
+1137
+00:41:00,960 --> 00:41:05,599
+a trans one, which is a translational
+
+1138
+00:41:02,720 --> 00:41:07,760
+grant. Um and our goals are to start out
+
+1139
+00:41:05,599 --> 00:41:09,359
+by having the vector that we made in our
+
+1140
+00:41:07,760 --> 00:41:11,040
+laboratory made under commercial
+
+1141
+00:41:09,359 --> 00:41:13,280
+standards. So it would be suitable for
+
+1142
+00:41:11,040 --> 00:41:15,680
+human use. and that's going on right
+
+1143
+00:41:13,280 --> 00:41:16,880
+now. And then that same manufacturing
+
+1144
+00:41:15,680 --> 00:41:19,119
+company will be the one that will make
+
+1145
+00:41:16,880 --> 00:41:20,800
+the cells for the patients. Uh then we
+
+1146
+00:41:19,119 --> 00:41:22,880
+need to do various tests for safety. So
+
+1147
+00:41:20,800 --> 00:41:24,160
+put the cells into immune deficient mice
+
+1148
+00:41:22,880 --> 00:41:26,160
+for example and make sure they don't
+
+1149
+00:41:24,160 --> 00:41:27,760
+cause any complications. We'll need a
+
+1150
+00:41:26,160 --> 00:41:29,520
+clinical protocol which is drafted but
+
+1151
+00:41:27,760 --> 00:41:32,000
+we need to sort of finalize that the
+
+1152
+00:41:29,520 --> 00:41:33,920
+informed consent document for a trial
+
+1153
+00:41:32,000 --> 00:41:36,319
+and then we would meet with the FDA. And
+
+1154
+00:41:33,920 --> 00:41:38,160
+so to do a clinical trial any new
+
+1155
+00:41:36,319 --> 00:41:41,520
+substance, you need an investigational
+
+1156
+00:41:38,160 --> 00:41:43,040
+new drug or IND permit from FDA. And FDA
+
+1157
+00:41:41,520 --> 00:41:45,200
+is very helpful at letting you meet with
+
+1158
+00:41:43,040 --> 00:41:46,640
+them in advance. And so a preINDD
+
+1159
+00:41:45,200 --> 00:41:48,560
+meeting is when you meet with them and
+
+1160
+00:41:46,640 --> 00:41:50,560
+tell them what your plans are, show them
+
+1161
+00:41:48,560 --> 00:41:52,640
+the data you have so far and they will
+
+1162
+00:41:50,560 --> 00:41:54,560
+tell you is that enough or what else you
+
+1163
+00:41:52,640 --> 00:41:56,640
+need to do to apply for approval. And so
+
+1164
+00:41:54,560 --> 00:41:58,480
+we'll have a preINDD meeting. We'll do
+
+1165
+00:41:56,640 --> 00:42:00,400
+whatever studies additional they they
+
+1166
+00:41:58,480 --> 00:42:02,560
+want us to do and they would submit that
+
+1167
+00:42:00,400 --> 00:42:04,640
+application to the FDA to do a clinical
+
+1168
+00:42:02,560 --> 00:42:09,079
+trial. So the hope is to open up a trial
+
+1169
+00:42:04,640 --> 00:42:09,079
+for this within a few years.
+
+1170
+00:42:09,119 --> 00:42:12,079
+And so I'll just leave with some
+
+1171
+00:42:10,720 --> 00:42:14,880
+questions. You know, there there's a lot
+
+1172
+00:42:12,079 --> 00:42:18,000
+of unknowns obviously and as a physician
+
+1173
+00:42:14,880 --> 00:42:20,079
+and as a scientist I try and you know
+
+1174
+00:42:18,000 --> 00:42:21,280
+deal with reality and you know so I
+
+1175
+00:42:20,079 --> 00:42:23,440
+think there's a lot of things we we
+
+1176
+00:42:21,280 --> 00:42:25,119
+don't know. We we know it works well in
+
+1177
+00:42:23,440 --> 00:42:27,520
+mice but for example first of all will
+
+1178
+00:42:25,119 --> 00:42:29,760
+it be feasible for Angelment patients to
+
+1179
+00:42:27,520 --> 00:42:32,160
+undergo this procedure? it means about a
+
+1180
+00:42:29,760 --> 00:42:35,359
+month or more in the hospital with IV
+
+1181
+00:42:32,160 --> 00:42:37,119
+lines um and going through and getting
+
+1182
+00:42:35,359 --> 00:42:38,960
+recovering from the chemotherapy. So,
+
+1183
+00:42:37,119 --> 00:42:41,040
+it'll be a challenge for the patient and
+
+1184
+00:42:38,960 --> 00:42:43,920
+the families, but we we've done other
+
+1185
+00:42:41,040 --> 00:42:46,160
+people with um disabilities and gotten
+
+1186
+00:42:43,920 --> 00:42:48,880
+them through the transplants. Um will it
+
+1187
+00:42:46,160 --> 00:42:50,960
+be safe? Are there unique problems
+
+1188
+00:42:48,880 --> 00:42:52,960
+inherent to Angelmen that might get
+
+1189
+00:42:50,960 --> 00:42:54,160
+might make it more risky? And then
+
+1190
+00:42:52,960 --> 00:42:55,520
+ultimately, will it be effective at
+
+1191
+00:42:54,160 --> 00:42:58,480
+improving their clinical features?
+
+1192
+00:42:55,520 --> 00:42:59,839
+That's that's what we're hoping to see.
+
+1193
+00:42:58,480 --> 00:43:01,440
+So I will stop there and just show you
+
+1194
+00:42:59,839 --> 00:43:02,800
+this is my lab group as of last summer.
+
+1195
+00:43:01,440 --> 00:43:04,720
+So we have little army of people
+
+1196
+00:43:02,800 --> 00:43:07,119
+working. Colin's way in the back of the
+
+1197
+00:43:04,720 --> 00:43:08,560
+picture.
+
+1198
+00:43:07,119 --> 00:43:10,560
+And then this is our acknowledgement
+
+1199
+00:43:08,560 --> 00:43:12,960
+slide. So again the work at our lab
+
+1200
+00:43:10,560 --> 00:43:14,960
+Roger Hollis is leading it. Chris Luther
+
+1201
+00:43:12,960 --> 00:43:16,400
+did a lot of the initial work. Colin is
+
+1202
+00:43:14,960 --> 00:43:18,240
+finishing up with a number of other
+
+1203
+00:43:16,400 --> 00:43:20,560
+people assisting him. We've had a number
+
+1204
+00:43:18,240 --> 00:43:21,920
+of labs at UCLA that assisted us. And
+
+1205
+00:43:20,560 --> 00:43:23,599
+then we've done this very much as a
+
+1206
+00:43:21,920 --> 00:43:24,800
+partnership with FAST. And then we have
+
+1207
+00:43:23,599 --> 00:43:26,319
+the recent funding from SERM that
+
+1208
+00:43:24,800 --> 00:43:31,640
+hopefully will let us take this to the
+
+1209
+00:43:26,319 --> 00:43:31,640
+clinic. And I'll stop there. Thank you.
+
+1210
+00:43:55,599 --> 00:44:00,319
+Sorry about that. Thank you so much for
+
+1211
+00:43:58,319 --> 00:44:03,440
+such a great presentation and really
+
+1212
+00:44:00,319 --> 00:44:05,119
+really important work. Um obviously all
+
+1213
+00:44:03,440 --> 00:44:08,160
+individuals with Angelman syndrome are
+
+1214
+00:44:05,119 --> 00:44:10,560
+missing a functional copy of UB3A
+
+1215
+00:44:08,160 --> 00:44:13,280
+but as we heard yesterday many with the
+
+1216
+00:44:10,560 --> 00:44:16,319
+deletion genotype may also be missing um
+
+1217
+00:44:13,280 --> 00:44:18,960
+or hapo insufficient for many genes. If
+
+1218
+00:44:16,319 --> 00:44:21,280
+this is proven to work do you foresee a
+
+1219
+00:44:18,960 --> 00:44:23,839
+future where maybe individuals could
+
+1220
+00:44:21,280 --> 00:44:26,560
+receive an individualized set of genes
+
+1221
+00:44:23,839 --> 00:44:28,960
+for those that they're they're needing.
+
+1222
+00:44:26,560 --> 00:44:30,800
+>> Yeah. So it's as very hard to hear up
+
+1223
+00:44:28,960 --> 00:44:32,720
+here the the echo but I think the
+
+1224
+00:44:30,800 --> 00:44:34,960
+question was about would this work for
+
+1225
+00:44:32,720 --> 00:44:38,000
+people with deletion if if that's was
+
+1226
+00:44:34,960 --> 00:44:41,440
+that the main point of the question
+
+1227
+00:44:38,000 --> 00:44:42,720
+>> can the the other genes so yeah I don't
+
+1228
+00:44:41,440 --> 00:44:45,520
+know that and so this is my first time
+
+1229
+00:44:42,720 --> 00:44:47,200
+here so I I I that's a question
+
+1230
+00:44:45,520 --> 00:44:49,680
+obviously I've been thinking about a lot
+
+1231
+00:44:47,200 --> 00:44:51,599
+since being here and a question is
+
+1232
+00:44:49,680 --> 00:44:54,480
+should we start just with people with
+
+1233
+00:44:51,599 --> 00:44:56,079
+mutation um and then see that works we
+
+1234
+00:44:54,480 --> 00:44:57,760
+also need to get the mouse with the
+
+1235
+00:44:56,079 --> 00:45:00,079
+deletion and and test if you just
+
+1236
+00:44:57,760 --> 00:45:02,240
+replace the gene. If you need to replace
+
+1237
+00:45:00,079 --> 00:45:03,920
+the other ones, then you know you you
+
+1238
+00:45:02,240 --> 00:45:06,240
+could you could probably put two genes
+
+1239
+00:45:03,920 --> 00:45:07,520
+in the same vector, but if you need
+
+1240
+00:45:06,240 --> 00:45:09,440
+multiple genes, it might be more
+
+1241
+00:45:07,520 --> 00:45:11,280
+challenging. Uh there are techniques
+
+1242
+00:45:09,440 --> 00:45:14,079
+being developed to put larger pieces of
+
+1243
+00:45:11,280 --> 00:45:15,680
+DNA into cells and they work in the
+
+1244
+00:45:14,079 --> 00:45:18,160
+laboratory, but not very efficient for
+
+1245
+00:45:15,680 --> 00:45:19,520
+primary stem cells. So I'm not I'm not
+
+1246
+00:45:18,160 --> 00:45:21,200
+sure how how that would be approached.
+
+1247
+00:45:19,520 --> 00:45:22,960
+Um, and I, you know, hopefully the
+
+1248
+00:45:21,200 --> 00:45:24,880
+research will hone down what are the
+
+1249
+00:45:22,960 --> 00:45:26,400
+other critical ones in the deletion area
+
+1250
+00:45:24,880 --> 00:45:29,119
+and maybe one or two of those could be
+
+1251
+00:45:26,400 --> 00:45:30,720
+added at the same time.
+
+1252
+00:45:29,119 --> 00:45:33,200
+And something else just to add related
+
+1253
+00:45:30,720 --> 00:45:36,000
+to that is that we all know UB3 is the
+
+1254
+00:45:33,200 --> 00:45:37,760
+major gene that dramatically impacts
+
+1255
+00:45:36,000 --> 00:45:39,359
+phenotype. The other genes may
+
+1256
+00:45:37,760 --> 00:45:41,440
+contribute, but it also might be
+
+1257
+00:45:39,359 --> 00:45:43,680
+marginal. So I think with all the
+
+1258
+00:45:41,440 --> 00:45:46,240
+therapies being developed for deletion
+
+1259
+00:45:43,680 --> 00:45:48,480
+or any genotype UB3 replacement is the
+
+1260
+00:45:46,240 --> 00:45:50,560
+first step and then dealing with the
+
+1261
+00:45:48,480 --> 00:45:53,599
+other genes maybe a different modality
+
+1262
+00:45:50,560 --> 00:45:56,240
+an ASO a crisper editor a different
+
+1263
+00:45:53,599 --> 00:45:58,240
+technology that might be piled on top of
+
+1264
+00:45:56,240 --> 00:46:00,160
+something like this I don't think this
+
+1265
+00:45:58,240 --> 00:46:04,440
+technology will solve all of it
+
+1266
+00:46:00,160 --> 00:46:04,440
+certainly not for the next 10 years
+
+1267
+00:46:07,760 --> 00:46:11,520
+>> one question back there and then we're
+
+1268
+00:46:09,200 --> 00:46:11,520
+going to move
+
+1269
+00:46:16,640 --> 00:46:23,680
+Okay. I was just wondering um would this
+
+1270
+00:46:19,920 --> 00:46:24,880
+work for patients with UPD?
+
+1271
+00:46:23,680 --> 00:46:25,280
+>> Do you want me to answer that?
+
+1272
+00:46:24,880 --> 00:46:28,240
+>> Yeah.
+
+1273
+00:46:25,280 --> 00:46:31,359
+>> Okay. Um yes. So just like any gene
+
+1274
+00:46:28,240 --> 00:46:33,839
+replacement therapy, any genotype that
+
+1275
+00:46:31,359 --> 00:46:37,119
+is loss of function, meaning not
+
+1276
+00:46:33,839 --> 00:46:39,040
+producing, making or expressing UB3A,
+
+1277
+00:46:37,119 --> 00:46:42,560
+which would be deletion, loss of
+
+1278
+00:46:39,040 --> 00:46:46,079
+function, mutation, UPD or ICD or even
+
+1279
+00:46:42,560 --> 00:46:49,280
+mosaic would all benefit potentially
+
+1280
+00:46:46,079 --> 00:46:53,359
+from replacing UB3A. So this would
+
+1281
+00:46:49,280 --> 00:46:56,319
+likely be um genotype agnostic outside
+
+1282
+00:46:53,359 --> 00:46:58,240
+of mutations that could have any gain of
+
+1283
+00:46:56,319 --> 00:47:00,079
+function or dominant negative effect. So
+
+1284
+00:46:58,240 --> 00:47:01,839
+it would be any loss of function
+
+1285
+00:47:00,079 --> 00:47:03,680
+genotype.
+
+1286
+00:47:01,839 --> 00:47:07,119
+Similar to the AV gene therapy that
+
+1287
+00:47:03,680 --> 00:47:08,000
+we'll be talking about next.
+
+1288
+00:47:07,119 --> 00:47:09,599
+>> Okay. Thank you.
+
+1289
+00:47:08,000 --> 00:47:11,440
+>> We'll ask more questions on the panel
+
+1290
+00:47:09,599 --> 00:47:13,920
+and certainly reach out throughout the
+
+1291
+00:47:11,440 --> 00:47:17,760
+breaks. Feel free to walk up to Dr. Conn
+
+1292
+00:47:13,920 --> 00:47:17,760
+and tell him all about your child.
+

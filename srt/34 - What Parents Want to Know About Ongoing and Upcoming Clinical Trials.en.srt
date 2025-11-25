@@ -1,0 +1,2940 @@
+1
+00:00:00,240 --> 00:00:03,679
+So I am actually the next speaker. So
+
+2
+00:00:02,320 --> 00:00:05,680
+I'm just going to stay here and
+
+3
+00:00:03,679 --> 00:00:09,040
+hopefully no one needs to introduce me.
+
+4
+00:00:05,680 --> 00:00:12,880
+Um but here we go. So I was asked to
+
+5
+00:00:09,040 --> 00:00:15,599
+give a talk about understanding clinical
+
+6
+00:00:12,880 --> 00:00:17,520
+trials from a family perspective. I'm
+
+7
+00:00:15,599 --> 00:00:19,520
+not here to talk about regulatory and
+
+8
+00:00:17,520 --> 00:00:21,680
+I'm not here to talk about any of the
+
+9
+00:00:19,520 --> 00:00:24,080
+the true details from from a drug
+
+10
+00:00:21,680 --> 00:00:26,880
+developer perspective. I'm here mostly
+
+11
+00:00:24,080 --> 00:00:29,519
+to talk about how as a guide for
+
+12
+00:00:26,880 --> 00:00:32,880
+families the questions we should be
+
+13
+00:00:29,519 --> 00:00:34,800
+asking and how we can empower parents
+
+14
+00:00:32,880 --> 00:00:37,440
+through knowledge, hope and honestly
+
+15
+00:00:34,800 --> 00:00:40,399
+clinical trial etiquette. And uh many
+
+16
+00:00:37,440 --> 00:00:43,440
+people ask me to give the nitty-gritty
+
+17
+00:00:40,399 --> 00:00:45,360
+of of what parents need to know about
+
+18
+00:00:43,440 --> 00:00:48,079
+clinical trials, what they need to think
+
+19
+00:00:45,360 --> 00:00:50,160
+about from a parent perspective, not
+
+20
+00:00:48,079 --> 00:00:52,559
+from a sponsor perspective. So I am
+
+21
+00:00:50,160 --> 00:00:55,039
+wearing my parent hat. I am wearing my
+
+22
+00:00:52,559 --> 00:00:56,719
+fast hat. Um, but obviously as you know
+
+23
+00:00:55,039 --> 00:00:58,719
+I am the CSO of FASA the co-director of
+
+24
+00:00:56,719 --> 00:01:00,000
+Abomb the city of AS2 bio. But most
+
+25
+00:00:58,719 --> 00:01:03,840
+importantly the hat I'm wearing right
+
+26
+00:01:00,000 --> 00:01:07,680
+now is I am the mother to Quincy.
+
+27
+00:01:03,840 --> 00:01:08,880
+Here are my disclosures. Okay. So I
+
+28
+00:01:07,680 --> 00:01:10,560
+shouldn't have to tell you what a
+
+29
+00:01:08,880 --> 00:01:12,400
+clinical trial is, but there are a lot
+
+30
+00:01:10,560 --> 00:01:15,680
+of newly diagnosed families here in the
+
+31
+00:01:12,400 --> 00:01:18,400
+room and they may actually not really be
+
+32
+00:01:15,680 --> 00:01:21,680
+familiar with what it is and why. So
+
+33
+00:01:18,400 --> 00:01:24,080
+clinical trials um really test new drugs
+
+34
+00:01:21,680 --> 00:01:27,040
+or devices or different types of
+
+35
+00:01:24,080 --> 00:01:29,040
+therapies for safety and potential
+
+36
+00:01:27,040 --> 00:01:31,840
+efficacy or effectiveness. That's what a
+
+37
+00:01:29,040 --> 00:01:35,360
+clinical trial is. Each trial includes
+
+38
+00:01:31,840 --> 00:01:37,759
+spe like specific eligibility criteria.
+
+39
+00:01:35,360 --> 00:01:40,079
+um basically that are selected with very
+
+40
+00:01:37,759 --> 00:01:42,720
+careful consideration of who should be
+
+41
+00:01:40,079 --> 00:01:44,880
+included in this clinical trial and for
+
+42
+00:01:42,720 --> 00:01:47,280
+what reason and and and that's called
+
+43
+00:01:44,880 --> 00:01:49,280
+inclusion or exclusion criteria which
+
+44
+00:01:47,280 --> 00:01:51,280
+I'll I'll talk a little bit about and
+
+45
+00:01:49,280 --> 00:01:54,799
+and that could be different things like
+
+46
+00:01:51,280 --> 00:01:56,799
+what is their age what is their genotype
+
+47
+00:01:54,799 --> 00:01:58,719
+what is their prior treatment exposure
+
+48
+00:01:56,799 --> 00:02:00,640
+what else have they seen in their body
+
+49
+00:01:58,719 --> 00:02:03,119
+that could interact with potentially
+
+50
+00:02:00,640 --> 00:02:06,000
+what we're trying to measure here what
+
+51
+00:02:03,119 --> 00:02:08,399
+other medications are they on what other
+
+52
+00:02:06,000 --> 00:02:10,399
+disorders might they have? These are all
+
+53
+00:02:08,399 --> 00:02:13,040
+very very important pieces that we have
+
+54
+00:02:10,399 --> 00:02:14,959
+to know about our children as we think
+
+55
+00:02:13,040 --> 00:02:20,080
+about enrolling them in a clinical
+
+56
+00:02:14,959 --> 00:02:22,959
+trial. So inclusion criteria means
+
+57
+00:02:20,080 --> 00:02:27,120
+what characteristics of a person must
+
+58
+00:02:22,959 --> 00:02:29,680
+they have to be eligible to be in that
+
+59
+00:02:27,120 --> 00:02:33,680
+specific clinical trial? And really it
+
+60
+00:02:29,680 --> 00:02:36,000
+defines who can participate in that
+
+61
+00:02:33,680 --> 00:02:38,720
+trial. On the other hand, there's
+
+62
+00:02:36,000 --> 00:02:42,080
+exclusion criteria which essentially
+
+63
+00:02:38,720 --> 00:02:44,000
+defines who disqualifies, who cannot be
+
+64
+00:02:42,080 --> 00:02:46,239
+included in that clinical trial. And
+
+65
+00:02:44,000 --> 00:02:48,400
+those decisions generally are not made
+
+66
+00:02:46,239 --> 00:02:51,200
+because anyone wants to exclude anyone.
+
+67
+00:02:48,400 --> 00:02:53,760
+we're the most inclusive, of course. Um,
+
+68
+00:02:51,200 --> 00:02:56,080
+but it's because maybe that person with
+
+69
+00:02:53,760 --> 00:02:57,920
+whatever other things going on in their
+
+70
+00:02:56,080 --> 00:02:59,360
+life, whether it's a genotype, whether
+
+71
+00:02:57,920 --> 00:03:00,879
+it's an age, whether it's other
+
+72
+00:02:59,360 --> 00:03:02,319
+medications that they're on, whether
+
+73
+00:03:00,879 --> 00:03:05,760
+it's any other condition that they might
+
+74
+00:03:02,319 --> 00:03:08,000
+have, really are deemed to not be the
+
+75
+00:03:05,760 --> 00:03:10,080
+perfect candidate for these early
+
+76
+00:03:08,000 --> 00:03:12,560
+studies in which we would be testing
+
+77
+00:03:10,080 --> 00:03:15,360
+some type of drug or biologic or or
+
+78
+00:03:12,560 --> 00:03:17,680
+device. Um, so there are these inclusion
+
+79
+00:03:15,360 --> 00:03:19,440
+criteria which you must meet and these
+
+80
+00:03:17,680 --> 00:03:21,840
+are there are these exclusion criteria
+
+81
+00:03:19,440 --> 00:03:23,040
+which could disqualify you. It doesn't
+
+82
+00:03:21,840 --> 00:03:25,200
+mean you're disqualified from
+
+83
+00:03:23,040 --> 00:03:27,840
+everything. It just means you you may be
+
+84
+00:03:25,200 --> 00:03:31,120
+disqualified from that specific trial at
+
+85
+00:03:27,840 --> 00:03:33,280
+that specific time. And as sponsors
+
+86
+00:03:31,120 --> 00:03:35,599
+learn more and more about their drug,
+
+87
+00:03:33,280 --> 00:03:37,360
+they're going to include more and more
+
+88
+00:03:35,599 --> 00:03:40,080
+over time because they're going to
+
+89
+00:03:37,360 --> 00:03:43,360
+broaden their um the view in which
+
+90
+00:03:40,080 --> 00:03:45,519
+they're looking at their therapeutic.
+
+91
+00:03:43,360 --> 00:03:48,000
+Clinical trials are conducted under very
+
+92
+00:03:45,519 --> 00:03:50,400
+strict regulatory oversight. And so you
+
+93
+00:03:48,000 --> 00:03:54,159
+have to be very precise. You have to be
+
+94
+00:03:50,400 --> 00:03:56,799
+very careful. And parents that means
+
+95
+00:03:54,159 --> 00:03:58,239
+have to follow the rules. They have to
+
+96
+00:03:56,799 --> 00:04:00,400
+show up when they're supposed to show
+
+97
+00:03:58,239 --> 00:04:02,000
+up. they have to report what they're
+
+98
+00:04:00,400 --> 00:04:04,480
+supposed to report and let's go through
+
+99
+00:04:02,000 --> 00:04:07,920
+that as a parent. What's really
+
+100
+00:04:04,480 --> 00:04:09,599
+important for you to understand? Um, so
+
+101
+00:04:07,920 --> 00:04:11,040
+why you may say like why do we have to
+
+102
+00:04:09,599 --> 00:04:13,040
+do clinical trials if there's a drug?
+
+103
+00:04:11,040 --> 00:04:16,000
+Why can't all people get them? Well,
+
+104
+00:04:13,040 --> 00:04:19,440
+clinical trials test safety and the
+
+105
+00:04:16,000 --> 00:04:21,840
+potential improvement or lack of
+
+106
+00:04:19,440 --> 00:04:24,080
+improvement in the lives of people
+
+107
+00:04:21,840 --> 00:04:26,960
+affected with a disorder like Angelman
+
+108
+00:04:24,080 --> 00:04:29,759
+syndrome. And so these trials may be may
+
+109
+00:04:26,960 --> 00:04:33,600
+be conducted to understand how a new
+
+110
+00:04:29,759 --> 00:04:35,919
+technology behaves in people which means
+
+111
+00:04:33,600 --> 00:04:38,160
+there's risk and there's potential
+
+112
+00:04:35,919 --> 00:04:41,120
+benefit but everybody needs to
+
+113
+00:04:38,160 --> 00:04:45,840
+understand that each participant and
+
+114
+00:04:41,120 --> 00:04:48,240
+their family are incredibly brave if
+
+115
+00:04:45,840 --> 00:04:52,000
+they are contributing to advancing the
+
+116
+00:04:48,240 --> 00:04:55,199
+science understanding they are taking a
+
+117
+00:04:52,000 --> 00:04:57,280
+major risk of the unknown And that is
+
+118
+00:04:55,199 --> 00:05:00,000
+not for everyone. It is not for the
+
+119
+00:04:57,280 --> 00:05:01,759
+faint of heart. And it is a very serious
+
+120
+00:05:00,000 --> 00:05:03,680
+commitment that families have to be
+
+121
+00:05:01,759 --> 00:05:07,120
+prepared for.
+
+122
+00:05:03,680 --> 00:05:10,320
+The parents of our children are the true
+
+123
+00:05:07,120 --> 00:05:12,000
+partners in the discovery effort to
+
+124
+00:05:10,320 --> 00:05:14,240
+understand
+
+125
+00:05:12,000 --> 00:05:16,639
+drugs and how they work. Their
+
+126
+00:05:14,240 --> 00:05:19,919
+commitment to the requirements of these
+
+127
+00:05:16,639 --> 00:05:22,800
+clinical trials cannot be underestimated
+
+128
+00:05:19,919 --> 00:05:26,880
+and is incredibly prudent in order to be
+
+129
+00:05:22,800 --> 00:05:29,360
+successful in these therapies.
+
+130
+00:05:26,880 --> 00:05:32,639
+Parents need to be able to ask
+
+131
+00:05:29,360 --> 00:05:34,960
+questions. They need to understand what
+
+132
+00:05:32,639 --> 00:05:37,680
+is expected of them. They need to
+
+133
+00:05:34,960 --> 00:05:40,720
+understand what is going to happen step
+
+134
+00:05:37,680 --> 00:05:43,520
+by step in their child. And they need to
+
+135
+00:05:40,720 --> 00:05:46,479
+carefully listen to the required
+
+136
+00:05:43,520 --> 00:05:48,240
+schedule which is called the schedule of
+
+137
+00:05:46,479 --> 00:05:52,320
+assessments,
+
+138
+00:05:48,240 --> 00:05:55,120
+the expectations of their participation
+
+139
+00:05:52,320 --> 00:05:56,720
+and the potential risk of their
+
+140
+00:05:55,120 --> 00:05:58,960
+participation.
+
+141
+00:05:56,720 --> 00:06:02,479
+And I can tell you that I know a lot of
+
+142
+00:05:58,960 --> 00:06:05,600
+parents that get information about
+
+143
+00:06:02,479 --> 00:06:06,880
+trials before they enroll on an informed
+
+144
+00:06:05,600 --> 00:06:10,160
+consent, which we're going to talk
+
+145
+00:06:06,880 --> 00:06:13,680
+about, don't even read it. They don't
+
+146
+00:06:10,160 --> 00:06:15,840
+listen because they're so excited that
+
+147
+00:06:13,680 --> 00:06:18,880
+they sign it.
+
+148
+00:06:15,840 --> 00:06:21,440
+You have to read it. You have to listen
+
+149
+00:06:18,880 --> 00:06:24,639
+to the doctors and you have to pay
+
+150
+00:06:21,440 --> 00:06:26,880
+attention and ask questions because you
+
+151
+00:06:24,639 --> 00:06:29,360
+are signing something that could be
+
+152
+00:06:26,880 --> 00:06:30,960
+risky to your child. This is real. The
+
+153
+00:06:29,360 --> 00:06:34,160
+fact that we're even talking about this
+
+154
+00:06:30,960 --> 00:06:37,120
+is so exciting. But this is real and
+
+155
+00:06:34,160 --> 00:06:40,000
+there is real potential for benefit, but
+
+156
+00:06:37,120 --> 00:06:41,680
+there is real potential for risk. And as
+
+157
+00:06:40,000 --> 00:06:44,240
+we are in these early stage programs,
+
+158
+00:06:41,680 --> 00:06:47,039
+until we have a lot more information,
+
+159
+00:06:44,240 --> 00:06:49,360
+you have to read it. You have to ask
+
+160
+00:06:47,039 --> 00:06:50,720
+questions. And so I don't think I need
+
+161
+00:06:49,360 --> 00:06:52,240
+to tell anybody about the phases of
+
+162
+00:06:50,720 --> 00:06:54,080
+clinical trials, right? But what I want
+
+163
+00:06:52,240 --> 00:06:55,840
+to share is you heard yesterday about
+
+164
+00:06:54,080 --> 00:06:58,160
+really what we call phase zero, which is
+
+165
+00:06:55,840 --> 00:07:00,080
+like all the pre-clinical stuff, all of
+
+166
+00:06:58,160 --> 00:07:02,160
+the animal work, all of the things we
+
+167
+00:07:00,080 --> 00:07:05,360
+need to prove that we can get to first
+
+168
+00:07:02,160 --> 00:07:07,360
+in human. Then there's the early phase,
+
+169
+00:07:05,360 --> 00:07:10,080
+phase one often mixed with phase two in
+
+170
+00:07:07,360 --> 00:07:12,720
+rare disease where it's a small number
+
+171
+00:07:10,080 --> 00:07:16,319
+of participants. Gene therapy trials may
+
+172
+00:07:12,720 --> 00:07:18,880
+be six people, nine people, 12 people,
+
+173
+00:07:16,319 --> 00:07:23,280
+very very very small numbers of people
+
+174
+00:07:18,880 --> 00:07:26,960
+to understand safety and dose
+
+175
+00:07:23,280 --> 00:07:29,520
+durability effect. All of those things
+
+176
+00:07:26,960 --> 00:07:31,280
+are are hopefully determined in those
+
+177
+00:07:29,520 --> 00:07:34,639
+early stage programs as you saw with the
+
+178
+00:07:31,280 --> 00:07:37,360
+ASOS. Those ASO phase one two studies
+
+179
+00:07:34,639 --> 00:07:40,240
+went on for years before they moved into
+
+180
+00:07:37,360 --> 00:07:42,240
+the pivotal which is your phase three.
+
+181
+00:07:40,240 --> 00:07:45,360
+Your phase three generally recruits more
+
+182
+00:07:42,240 --> 00:07:47,440
+numbers of participants having a a
+
+183
+00:07:45,360 --> 00:07:50,080
+bigger track record of the understanding
+
+184
+00:07:47,440 --> 00:07:52,160
+of a drug or a biologic.
+
+185
+00:07:50,080 --> 00:07:53,759
+A lot more information will be given to
+
+186
+00:07:52,160 --> 00:07:56,400
+you about that drug or biologic because
+
+187
+00:07:53,759 --> 00:08:00,240
+a lot more has been learned in the human
+
+188
+00:07:56,400 --> 00:08:02,879
+space. And in those trials, sometimes
+
+189
+00:08:00,240 --> 00:08:04,800
+there's what we call a control, meaning
+
+190
+00:08:02,879 --> 00:08:07,680
+some patients get the drug and some
+
+191
+00:08:04,800 --> 00:08:09,199
+patients don't get the drug to compare
+
+192
+00:08:07,680 --> 00:08:12,160
+against
+
+193
+00:08:09,199 --> 00:08:13,919
+treatment and no treatment. In some
+
+194
+00:08:12,160 --> 00:08:16,560
+phase three studies, there isn't a
+
+195
+00:08:13,919 --> 00:08:19,280
+control because, for example, in a gene
+
+196
+00:08:16,560 --> 00:08:22,080
+therapy, you can't actually put a needle
+
+197
+00:08:19,280 --> 00:08:24,639
+in the skull behind the skull and
+
+198
+00:08:22,080 --> 00:08:26,720
+deliver saline. You you can't do that.
+
+199
+00:08:24,639 --> 00:08:29,199
+that's not really would be considered
+
+200
+00:08:26,720 --> 00:08:32,159
+ethical. So there are certain ways in
+
+201
+00:08:29,199 --> 00:08:34,479
+which you can't do a controlled study
+
+202
+00:08:32,159 --> 00:08:37,599
+easily, but you might be able to do a
+
+203
+00:08:34,479 --> 00:08:39,039
+sham study more easily. And so you have
+
+204
+00:08:37,599 --> 00:08:41,440
+to realize different studies are going
+
+205
+00:08:39,039 --> 00:08:42,880
+to look a little different um because
+
+206
+00:08:41,440 --> 00:08:44,320
+there are some things you can and can't
+
+207
+00:08:42,880 --> 00:08:48,000
+do for for permanent treatment
+
+208
+00:08:44,320 --> 00:08:50,640
+therapies. And you saw this yesterday
+
+209
+00:08:48,000 --> 00:08:52,800
+where we have multiple programs and
+
+210
+00:08:50,640 --> 00:08:55,200
+clinical trials, six programs and
+
+211
+00:08:52,800 --> 00:08:58,720
+clinical trials currently and they're
+
+212
+00:08:55,200 --> 00:09:01,519
+all in different phases, but we have
+
+213
+00:08:58,720 --> 00:09:04,480
+three more programs that are coming into
+
+214
+00:09:01,519 --> 00:09:08,080
+this space hopefully in the coming years
+
+215
+00:09:04,480 --> 00:09:10,480
+and multiple behind that. Our AV gene
+
+216
+00:09:08,080 --> 00:09:13,040
+therapy, you heard about
+
+217
+00:09:10,480 --> 00:09:15,839
+our ASOS, our HSC gene therapy,
+
+218
+00:09:13,040 --> 00:09:17,360
+hopefully very soon. Our ASOS are now in
+
+219
+00:09:15,839 --> 00:09:19,839
+phase three, so they're in the
+
+220
+00:09:17,360 --> 00:09:21,600
+controlled phase.
+
+221
+00:09:19,839 --> 00:09:22,800
+Our crisper gene editor you just heard
+
+222
+00:09:21,600 --> 00:09:26,399
+about is hopefully going to be in a
+
+223
+00:09:22,800 --> 00:09:30,480
+phase one, two in the in the near term.
+
+224
+00:09:26,399 --> 00:09:32,399
+Small molecules, sir, mirna, we we heard
+
+225
+00:09:30,480 --> 00:09:34,640
+um a bit about that from encoded the
+
+226
+00:09:32,399 --> 00:09:36,240
+other day uh from Emma on yesterday,
+
+227
+00:09:34,640 --> 00:09:38,240
+yesterday morning and hopefully we'll
+
+228
+00:09:36,240 --> 00:09:40,480
+hear more about from them next year. And
+
+229
+00:09:38,240 --> 00:09:42,560
+then some of the small molecules, some
+
+230
+00:09:40,480 --> 00:09:45,440
+of the downstream targets like a loabbat
+
+231
+00:09:42,560 --> 00:09:47,200
+from RO or the neuron drug. These are
+
+232
+00:09:45,440 --> 00:09:49,519
+all in different phases and they're all
+
+233
+00:09:47,200 --> 00:09:52,080
+going to look quite different because
+
+234
+00:09:49,519 --> 00:09:53,680
+they have different risk profiles and
+
+235
+00:09:52,080 --> 00:09:55,519
+they're going to include different types
+
+236
+00:09:53,680 --> 00:09:59,600
+of patients for various different
+
+237
+00:09:55,519 --> 00:10:01,360
+reasons. And so the steps to enrollment,
+
+238
+00:09:59,600 --> 00:10:04,080
+this is quite complicated. There are
+
+239
+00:10:01,360 --> 00:10:06,480
+multiple different steps. One, you have
+
+240
+00:10:04,080 --> 00:10:08,959
+to find the trial. Two, there's this
+
+241
+00:10:06,480 --> 00:10:11,839
+pre-screening period. Then there's a
+
+242
+00:10:08,959 --> 00:10:14,399
+screening visit. Then you have to read
+
+243
+00:10:11,839 --> 00:10:16,800
+an informed consent.
+
+244
+00:10:14,399 --> 00:10:18,880
+Then you enroll. Then you have to do
+
+245
+00:10:16,800 --> 00:10:21,920
+baseline assessments to understand where
+
+246
+00:10:18,880 --> 00:10:24,160
+your child is starting from. Then they
+
+247
+00:10:21,920 --> 00:10:27,120
+participate in the study and they they
+
+248
+00:10:24,160 --> 00:10:29,440
+hopefully get a study drug and then you
+
+249
+00:10:27,120 --> 00:10:32,240
+have to do a lot of followup and a lot
+
+250
+00:10:29,440 --> 00:10:34,640
+of you know understanding of the safety
+
+251
+00:10:32,240 --> 00:10:36,480
+and the potential efficacy. So there is
+
+252
+00:10:34,640 --> 00:10:40,160
+an incredible amount that goes into
+
+253
+00:10:36,480 --> 00:10:42,160
+this. So how do you find a trial?
+
+254
+00:10:40,160 --> 00:10:44,240
+The best place to find a trial is on
+
+255
+00:10:42,160 --> 00:10:45,600
+clinical trials.gov. Jennifer did a
+
+256
+00:10:44,240 --> 00:10:47,920
+really great presentation a couple years
+
+257
+00:10:45,600 --> 00:10:51,959
+ago about this. So you go on clinical
+
+258
+00:10:47,920 --> 00:10:51,959
+trials.gov www.clinicaltrials.gov.
+
+259
+00:10:52,480 --> 00:10:56,959
+You type in Angelmen Syndrome and it has
+
+260
+00:10:55,120 --> 00:10:59,200
+all of the clinical trials that are
+
+261
+00:10:56,959 --> 00:11:01,760
+either open for enrollment or recruiting
+
+262
+00:10:59,200 --> 00:11:03,760
+for enrollment on the trial or that are
+
+263
+00:11:01,760 --> 00:11:06,640
+are part of the the study and that might
+
+264
+00:11:03,760 --> 00:11:09,200
+be enrolling. That's where you find the
+
+265
+00:11:06,640 --> 00:11:11,760
+sites. That's where you find who to
+
+266
+00:11:09,200 --> 00:11:14,160
+contact if you are interested in hearing
+
+267
+00:11:11,760 --> 00:11:16,399
+more. That's not how you enroll. It's
+
+268
+00:11:14,160 --> 00:11:17,920
+how you know what's available and how
+
+269
+00:11:16,399 --> 00:11:20,160
+you contact the sites if you want to
+
+270
+00:11:17,920 --> 00:11:22,640
+hear more. The other places that you'll
+
+271
+00:11:20,160 --> 00:11:25,440
+get that information is at the advocacy
+
+272
+00:11:22,640 --> 00:11:27,839
+group advocacy group level. So at the
+
+273
+00:11:25,440 --> 00:11:29,680
+fast website, at the ASF website, and we
+
+274
+00:11:27,839 --> 00:11:32,320
+try to collaborate and work together to
+
+275
+00:11:29,680 --> 00:11:35,040
+alert the community in the newsletters,
+
+276
+00:11:32,320 --> 00:11:38,079
+on social media about sites that are
+
+277
+00:11:35,040 --> 00:11:39,519
+opening or trials that are recruiting,
+
+278
+00:11:38,079 --> 00:11:41,200
+but you are going to need to do some of
+
+279
+00:11:39,519 --> 00:11:43,120
+the leg work yourself and you should
+
+280
+00:11:41,200 --> 00:11:45,360
+look regularly if you're interested on
+
+281
+00:11:43,120 --> 00:11:48,640
+clinical trials.gov.
+
+282
+00:11:45,360 --> 00:11:52,240
+You want to then discuss the the the
+
+283
+00:11:48,640 --> 00:11:55,120
+consideration and the interest with your
+
+284
+00:11:52,240 --> 00:11:57,519
+neurologist or clinical care team to
+
+285
+00:11:55,120 --> 00:12:01,200
+decide if this is appropriate for you as
+
+286
+00:11:57,519 --> 00:12:05,120
+a family and for your child. Is that
+
+287
+00:12:01,200 --> 00:12:07,120
+specific trial suitable for you? There's
+
+288
+00:12:05,120 --> 00:12:08,800
+many things you may not know about it
+
+289
+00:12:07,120 --> 00:12:11,519
+that you're going to learn as you talk
+
+290
+00:12:08,800 --> 00:12:12,959
+to some of the doctors. If you decide
+
+291
+00:12:11,519 --> 00:12:15,920
+that this is something you would like
+
+292
+00:12:12,959 --> 00:12:18,399
+more information on, you can contact the
+
+293
+00:12:15,920 --> 00:12:21,040
+trial site at clinicaltrials.gov or the
+
+294
+00:12:18,399 --> 00:12:23,040
+sponsor sometimes has a generalized
+
+295
+00:12:21,040 --> 00:12:24,320
+website where you can contact them and
+
+296
+00:12:23,040 --> 00:12:26,639
+then they will connect you to the
+
+297
+00:12:24,320 --> 00:12:28,800
+clinical trial sites that are closest to
+
+298
+00:12:26,639 --> 00:12:31,920
+you in your region, in your state,
+
+299
+00:12:28,800 --> 00:12:34,320
+wherever wherever you are globally. Then
+
+300
+00:12:31,920 --> 00:12:36,880
+you want to inquire about all of the
+
+301
+00:12:34,320 --> 00:12:39,200
+options, not just one that your child
+
+302
+00:12:36,880 --> 00:12:40,800
+might be eligible for. Don't just jump
+
+303
+00:12:39,200 --> 00:12:43,120
+on the first thing you see, a gene
+
+304
+00:12:40,800 --> 00:12:44,880
+therapy, because maybe there's an ASO
+
+305
+00:12:43,120 --> 00:12:46,880
+that's available that your child could
+
+306
+00:12:44,880 --> 00:12:48,399
+qualify for. Maybe there's a crisper
+
+307
+00:12:46,880 --> 00:12:50,320
+gene editor that's available that your
+
+308
+00:12:48,399 --> 00:12:52,560
+child could qualify for. You want to
+
+309
+00:12:50,320 --> 00:12:54,720
+know all of the options. Remember,
+
+310
+00:12:52,560 --> 00:12:57,279
+knowledge is power. You need to
+
+311
+00:12:54,720 --> 00:12:59,760
+understand all of your options.
+
+312
+00:12:57,279 --> 00:13:04,160
+Understand the differences to make an
+
+313
+00:12:59,760 --> 00:13:07,440
+educated decision for your child. And is
+
+314
+00:13:04,160 --> 00:13:10,160
+that trial right for you? You need to
+
+315
+00:13:07,440 --> 00:13:12,720
+understand all of that. If you decide a
+
+316
+00:13:10,160 --> 00:13:15,200
+trial you think you're really interested
+
+317
+00:13:12,720 --> 00:13:17,600
+in and you determine you think is right
+
+318
+00:13:15,200 --> 00:13:19,279
+for you, then you're going to contact
+
+319
+00:13:17,600 --> 00:13:20,720
+the site and you're going to talk to the
+
+320
+00:13:19,279 --> 00:13:23,519
+site and they're going to do what we
+
+321
+00:13:20,720 --> 00:13:26,320
+call a pre-screening. That pre-screening
+
+322
+00:13:23,519 --> 00:13:29,040
+is where the study team will contact you
+
+323
+00:13:26,320 --> 00:13:31,519
+for an initial review of your child's
+
+324
+00:13:29,040 --> 00:13:33,920
+medical history. That can include all
+
+325
+00:13:31,519 --> 00:13:36,800
+sorts of things. It could be done by the
+
+326
+00:13:33,920 --> 00:13:39,360
+phone. It could be done by email or it
+
+327
+00:13:36,800 --> 00:13:40,800
+could be done in person.
+
+328
+00:13:39,360 --> 00:13:42,399
+And they're going to ask you a lot of
+
+329
+00:13:40,800 --> 00:13:45,760
+questions
+
+330
+00:13:42,399 --> 00:13:48,399
+trying to figure out if your child fits
+
+331
+00:13:45,760 --> 00:13:50,000
+the basic inclusion or exclusion
+
+332
+00:13:48,399 --> 00:13:51,760
+criteria.
+
+333
+00:13:50,000 --> 00:13:54,240
+Are they are they meeting those
+
+334
+00:13:51,760 --> 00:13:56,800
+criteria? Does your child actually
+
+335
+00:13:54,240 --> 00:13:59,680
+qualify? And if it is determined that
+
+336
+00:13:56,800 --> 00:14:02,320
+they qualify, then they're going to ask
+
+337
+00:13:59,680 --> 00:14:03,680
+to share more medical records to confirm
+
+338
+00:14:02,320 --> 00:14:05,279
+that, which might include some
+
+339
+00:14:03,680 --> 00:14:07,040
+laboratory test results. So, you want to
+
+340
+00:14:05,279 --> 00:14:09,199
+have access to that. What is their
+
+341
+00:14:07,040 --> 00:14:11,519
+genetic test results? Do you have their
+
+342
+00:14:09,199 --> 00:14:13,279
+diagnosis of their genetics? Is it a
+
+343
+00:14:11,519 --> 00:14:14,399
+deletion because someone told you it's a
+
+344
+00:14:13,279 --> 00:14:17,040
+deletion? Or do you have a piece of
+
+345
+00:14:14,399 --> 00:14:19,920
+paper that says it's a deletion? Is it a
+
+346
+00:14:17,040 --> 00:14:22,079
+mutation? Is it UPD? Is it ICD? What are
+
+347
+00:14:19,920 --> 00:14:24,880
+the genetic tests that were done? get
+
+348
+00:14:22,079 --> 00:14:27,440
+access to that information and have that
+
+349
+00:14:24,880 --> 00:14:29,360
+at the ready so you can send that to the
+
+350
+00:14:27,440 --> 00:14:31,760
+sites. They're going to want you to
+
+351
+00:14:29,360 --> 00:14:34,560
+share those laboratory results, prior
+
+352
+00:14:31,760 --> 00:14:37,600
+testing information, understanding their
+
+353
+00:14:34,560 --> 00:14:40,320
+age, your location, where you live, and
+
+354
+00:14:37,600 --> 00:14:42,160
+any other problems they have. Don't hide
+
+355
+00:14:40,320 --> 00:14:44,240
+those things because you're worried they
+
+356
+00:14:42,160 --> 00:14:46,160
+won't be included because it might not
+
+357
+00:14:44,240 --> 00:14:48,240
+be safe for your child if they have
+
+358
+00:14:46,160 --> 00:14:50,160
+something else going on. Do they have
+
+359
+00:14:48,240 --> 00:14:52,480
+any associated heart disease? Do they
+
+360
+00:14:50,160 --> 00:14:54,959
+have any associated kidney disease? Do
+
+361
+00:14:52,480 --> 00:14:57,360
+they have diabetes, hypertension? Are
+
+362
+00:14:54,959 --> 00:14:59,600
+they mobile? Don't like, well, my child
+
+363
+00:14:57,360 --> 00:15:01,279
+can walk from the couch to the TV and
+
+364
+00:14:59,600 --> 00:15:02,800
+back to the couch, but they never walk
+
+365
+00:15:01,279 --> 00:15:05,199
+throughout the rest of the day and they
+
+366
+00:15:02,800 --> 00:15:07,920
+generally are in a push chair. They're
+
+367
+00:15:05,199 --> 00:15:09,760
+not considered fully ambulatory. You
+
+368
+00:15:07,920 --> 00:15:11,920
+have to be honest about that because the
+
+369
+00:15:09,760 --> 00:15:14,320
+reason ambulatory matters could be for
+
+370
+00:15:11,920 --> 00:15:16,240
+safety reasons and you want to ensure
+
+371
+00:15:14,320 --> 00:15:19,440
+that your child really fits in the right
+
+372
+00:15:16,240 --> 00:15:21,440
+criteria for those studies. So then if
+
+373
+00:15:19,440 --> 00:15:22,800
+it's determined that things are looking
+
+374
+00:15:21,440 --> 00:15:25,040
+good for that child, you're going to
+
+375
+00:15:22,800 --> 00:15:26,480
+have a screening visit. You're going to
+
+376
+00:15:25,040 --> 00:15:28,639
+go to the site. You're going to meet the
+
+377
+00:15:26,480 --> 00:15:31,120
+study doctor and you're going to spend
+
+378
+00:15:28,639 --> 00:15:32,639
+time talking to that person about what's
+
+379
+00:15:31,120 --> 00:15:36,000
+going to happen over the course of the
+
+380
+00:15:32,639 --> 00:15:37,760
+study and the details of the study, the
+
+381
+00:15:36,000 --> 00:15:39,120
+eligibility, the inclusion, the
+
+382
+00:15:37,760 --> 00:15:41,120
+exclusion. They're going to make that
+
+383
+00:15:39,120 --> 00:15:43,279
+very clear. They're going to go over
+
+384
+00:15:41,120 --> 00:15:46,079
+with you all of those details and
+
+385
+00:15:43,279 --> 00:15:48,800
+they're going to explain to you all of
+
+386
+00:15:46,079 --> 00:15:50,720
+the steps. Um, the visit has to include,
+
+387
+00:15:48,800 --> 00:15:53,120
+you know, that baseline data collection,
+
+388
+00:15:50,720 --> 00:15:54,880
+new blood work, are they healthy? All of
+
+389
+00:15:53,120 --> 00:15:57,600
+these things are going to explain all of
+
+390
+00:15:54,880 --> 00:15:59,680
+that to you. Are they able to
+
+391
+00:15:57,600 --> 00:16:01,680
+participate and get that MRI that's
+
+392
+00:15:59,680 --> 00:16:03,680
+required? Are they able to get a lumbar
+
+393
+00:16:01,680 --> 00:16:06,560
+puncture that's required? Well, if your
+
+394
+00:16:03,680 --> 00:16:08,880
+child has scoliosis and rods, maybe
+
+395
+00:16:06,560 --> 00:16:10,639
+multiple LPS is going to be a challenge.
+
+396
+00:16:08,880 --> 00:16:12,639
+So, maybe that's not the best study for
+
+397
+00:16:10,639 --> 00:16:14,000
+you. Maybe they're thinking a different
+
+398
+00:16:12,639 --> 00:16:15,440
+study would be better for you where you
+
+399
+00:16:14,000 --> 00:16:17,519
+wouldn't have to repeat dose into the
+
+400
+00:16:15,440 --> 00:16:19,920
+spinal space. So, these are all really,
+
+401
+00:16:17,519 --> 00:16:21,279
+really important things. They're going
+
+402
+00:16:19,920 --> 00:16:23,600
+to talk to you about something called an
+
+403
+00:16:21,279 --> 00:16:26,480
+informed consent form, which is required
+
+404
+00:16:23,600 --> 00:16:28,079
+to be signed before they can do anything
+
+405
+00:16:26,480 --> 00:16:30,560
+with your child. They can talk to you
+
+406
+00:16:28,079 --> 00:16:32,880
+before that, but they can't pull blood.
+
+407
+00:16:30,560 --> 00:16:35,360
+They can't do an MRI. They can't do any
+
+408
+00:16:32,880 --> 00:16:38,160
+other assessments until you fi sign this
+
+409
+00:16:35,360 --> 00:16:40,399
+informed consent. And so, that informed
+
+410
+00:16:38,160 --> 00:16:43,199
+consent process is a serious serious
+
+411
+00:16:40,399 --> 00:16:46,079
+process. And all I can say is you have
+
+412
+00:16:43,199 --> 00:16:48,800
+to read it. I I know. When I talk to the
+
+413
+00:16:46,079 --> 00:16:50,880
+PIs, a lot of people don't read it and
+
+414
+00:16:48,800 --> 00:16:52,800
+they just say yes, yes, yes. You have to
+
+415
+00:16:50,880 --> 00:16:54,639
+pay attention. You have to read it. This
+
+416
+00:16:52,800 --> 00:16:56,880
+is where you're going to learn as much
+
+417
+00:16:54,639 --> 00:16:58,480
+as possible about these studies. You're
+
+418
+00:16:56,880 --> 00:17:00,800
+going to learn the goals, the
+
+419
+00:16:58,480 --> 00:17:02,959
+procedures, the duration, the
+
+420
+00:17:00,800 --> 00:17:05,600
+expectations for you as a family, the
+
+421
+00:17:02,959 --> 00:17:07,600
+expectations for your child, the study
+
+422
+00:17:05,600 --> 00:17:10,559
+schedule, the duration of time the study
+
+423
+00:17:07,600 --> 00:17:13,199
+is going to take, the potential risks,
+
+424
+00:17:10,559 --> 00:17:16,959
+hopefully the potential benefits, and
+
+425
+00:17:13,199 --> 00:17:18,720
+the right of privacy and withdrawal. So,
+
+426
+00:17:16,959 --> 00:17:21,039
+if you want to pull your child out, what
+
+427
+00:17:18,720 --> 00:17:22,959
+what does that look like? The privacy of
+
+428
+00:17:21,039 --> 00:17:25,120
+your child, all of those things are
+
+429
+00:17:22,959 --> 00:17:28,319
+going to be in there. You need to ask
+
+430
+00:17:25,120 --> 00:17:30,799
+questions before signing anything
+
+431
+00:17:28,319 --> 00:17:32,880
+because sometimes um the informed
+
+432
+00:17:30,799 --> 00:17:35,200
+consents can be a little bit vague. So
+
+433
+00:17:32,880 --> 00:17:36,880
+you want to make sure that you ask the
+
+434
+00:17:35,200 --> 00:17:39,520
+questions that you have. That's very
+
+435
+00:17:36,880 --> 00:17:42,240
+very important. What's the dose? What's
+
+436
+00:17:39,520 --> 00:17:44,640
+the experience at the site of doing that
+
+437
+00:17:42,240 --> 00:17:47,039
+procedure? What's the experience in the
+
+438
+00:17:44,640 --> 00:17:48,880
+field with that technology? What's the
+
+439
+00:17:47,039 --> 00:17:50,960
+experience in the field for Angelmen
+
+440
+00:17:48,880 --> 00:17:52,799
+syndrome with that technology? Maybe
+
+441
+00:17:50,960 --> 00:17:55,120
+even what's the experience in animals
+
+442
+00:17:52,799 --> 00:17:57,440
+with this technology? Where can I hear
+
+443
+00:17:55,120 --> 00:18:00,000
+about that information? You have the
+
+444
+00:17:57,440 --> 00:18:02,240
+right to ask those questions.
+
+445
+00:18:00,000 --> 00:18:04,559
+Often you're given this form prior to
+
+446
+00:18:02,240 --> 00:18:06,559
+the visit where you're asked to read it
+
+447
+00:18:04,559 --> 00:18:08,240
+and then come to the site ready to sign
+
+448
+00:18:06,559 --> 00:18:10,640
+it. If you're interested and ask your
+
+449
+00:18:08,240 --> 00:18:12,400
+questions, read it. Even if you're
+
+450
+00:18:10,640 --> 00:18:14,880
+reading it in the car, on the plane, I
+
+451
+00:18:12,400 --> 00:18:17,280
+don't really care. Just read it. You
+
+452
+00:18:14,880 --> 00:18:18,799
+have to write questions down. Ask the
+
+453
+00:18:17,280 --> 00:18:21,360
+questions. when you're in front of the
+
+454
+00:18:18,799 --> 00:18:22,880
+study doctor, you're nervous. You might
+
+455
+00:18:21,360 --> 00:18:25,360
+not think about the questions that you
+
+456
+00:18:22,880 --> 00:18:28,400
+should be asking. So, take some time
+
+457
+00:18:25,360 --> 00:18:30,720
+beforehand and ask those questions. For
+
+458
+00:18:28,400 --> 00:18:32,960
+children and adults with as um they're
+
+459
+00:18:30,720 --> 00:18:35,039
+not able to provide their own consent,
+
+460
+00:18:32,960 --> 00:18:37,520
+so the parents have to do it for them
+
+461
+00:18:35,039 --> 00:18:41,679
+and that's very very important. So,
+
+462
+00:18:37,520 --> 00:18:43,440
+understanding that process is key.
+
+463
+00:18:41,679 --> 00:18:46,000
+explaining the purpose, the expectation
+
+464
+00:18:43,440 --> 00:18:48,480
+and the requirements. As I said,
+
+465
+00:18:46,000 --> 00:18:51,120
+reviewing carefully
+
+466
+00:18:48,480 --> 00:18:53,039
+and asking your questions, understanding
+
+467
+00:18:51,120 --> 00:18:54,480
+the schedule of expectations for you,
+
+468
+00:18:53,039 --> 00:18:57,280
+how often do I need to come back to the
+
+469
+00:18:54,480 --> 00:19:00,799
+hospital? How many EEGs? How many blood
+
+470
+00:18:57,280 --> 00:19:02,960
+draws? How many MRIs? How many CSF taps?
+
+471
+00:19:00,799 --> 00:19:05,200
+Those are questions you need to know and
+
+472
+00:19:02,960 --> 00:19:08,559
+you can't just blip by them. Remember
+
+473
+00:19:05,200 --> 00:19:10,880
+that participation is voluntary, but you
+
+474
+00:19:08,559 --> 00:19:12,799
+must commit to satisfy the requirements.
+
+475
+00:19:10,880 --> 00:19:14,640
+And if you can't, do not enroll in that
+
+476
+00:19:12,799 --> 00:19:17,360
+study. One, you're taking a spot from
+
+477
+00:19:14,640 --> 00:19:18,720
+somebody else. And two, if you know you
+
+478
+00:19:17,360 --> 00:19:21,120
+can't commit to it, you have to be
+
+479
+00:19:18,720 --> 00:19:23,039
+honest about that. You can withdraw at
+
+480
+00:19:21,120 --> 00:19:25,200
+any time and you have to remember that
+
+481
+00:19:23,039 --> 00:19:27,280
+if you are not comfortable with what is
+
+482
+00:19:25,200 --> 00:19:31,200
+happening with your child, you can
+
+483
+00:19:27,280 --> 00:19:33,200
+withdraw. The data um may be shared that
+
+484
+00:19:31,200 --> 00:19:34,880
+you're committing to these trials. The
+
+485
+00:19:33,200 --> 00:19:36,880
+data that you produce may be shared with
+
+486
+00:19:34,880 --> 00:19:38,480
+other vendors. Your CSF fluid might be
+
+487
+00:19:36,880 --> 00:19:40,720
+shared with other vendors. It's
+
+488
+00:19:38,480 --> 00:19:42,080
+generally deidentified, but you may be
+
+489
+00:19:40,720 --> 00:19:43,520
+sharing information about your child
+
+490
+00:19:42,080 --> 00:19:46,160
+with other vendors, and that's all in
+
+491
+00:19:43,520 --> 00:19:48,480
+the informed consent. So again, read it
+
+492
+00:19:46,160 --> 00:19:50,559
+carefully. Then your child may be
+
+493
+00:19:48,480 --> 00:19:51,760
+enrolled in a trial. Once they're
+
+494
+00:19:50,559 --> 00:19:53,760
+confirmed to meet the inclusion
+
+495
+00:19:51,760 --> 00:19:55,440
+criteria, you sign the informed consent.
+
+496
+00:19:53,760 --> 00:19:56,880
+The primary investigator and the parent
+
+497
+00:19:55,440 --> 00:19:59,360
+agree it's the right thing for that
+
+498
+00:19:56,880 --> 00:20:01,200
+child. They will enroll. Study
+
+499
+00:19:59,360 --> 00:20:03,039
+coordinators then will come in and they
+
+500
+00:20:01,200 --> 00:20:05,120
+will schedule the visits for you and
+
+501
+00:20:03,039 --> 00:20:07,120
+provide you with the details of the
+
+502
+00:20:05,120 --> 00:20:09,600
+instructions of all of the next steps.
+
+503
+00:20:07,120 --> 00:20:12,080
+Working closely with those coordinators
+
+504
+00:20:09,600 --> 00:20:15,039
+is absolutely key so that each
+
+505
+00:20:12,080 --> 00:20:17,919
+participant receives the information
+
+506
+00:20:15,039 --> 00:20:20,559
+they need. They all get an ID that's
+
+507
+00:20:17,919 --> 00:20:22,720
+deidentified. So when you see patient
+
+508
+00:20:20,559 --> 00:20:24,640
+numbers in clinical trials, nobody knows
+
+509
+00:20:22,720 --> 00:20:26,400
+who they are. It's very important that
+
+510
+00:20:24,640 --> 00:20:27,919
+it's essentially anonymous for those
+
+511
+00:20:26,400 --> 00:20:29,760
+families. Then they're going to get
+
+512
+00:20:27,919 --> 00:20:32,000
+baseline assessments, measurements,
+
+513
+00:20:29,760 --> 00:20:34,640
+evaluations, the orca, the bailey, the
+
+514
+00:20:32,000 --> 00:20:36,080
+vinand, an MRI, a CT. All of these
+
+515
+00:20:34,640 --> 00:20:38,480
+things are those baseline assessments to
+
+516
+00:20:36,080 --> 00:20:41,520
+know your starting point. And then over
+
+517
+00:20:38,480 --> 00:20:43,520
+time, you're going to get um all of
+
+518
+00:20:41,520 --> 00:20:46,240
+these assessments repeated to see how
+
+519
+00:20:43,520 --> 00:20:48,559
+things change over time. Some of these
+
+520
+00:20:46,240 --> 00:20:49,840
+end points are clinician reported,
+
+521
+00:20:48,559 --> 00:20:52,320
+meaning you're doing a test and the
+
+522
+00:20:49,840 --> 00:20:54,559
+clinician is assessing the the patient.
+
+523
+00:20:52,320 --> 00:20:56,080
+Others are parent reported. So you're
+
+524
+00:20:54,559 --> 00:20:57,520
+filling out a survey or they're asking
+
+525
+00:20:56,080 --> 00:20:59,600
+you questions or you're doing an
+
+526
+00:20:57,520 --> 00:21:02,240
+interview. Clinician reported and parent
+
+527
+00:20:59,600 --> 00:21:04,880
+reported both have huge value in drug
+
+528
+00:21:02,240 --> 00:21:06,000
+development. Often a tablet's used to
+
+529
+00:21:04,880 --> 00:21:07,760
+fill out some of these. So you might
+
+530
+00:21:06,000 --> 00:21:10,640
+take a tablet home or you might do it at
+
+531
+00:21:07,760 --> 00:21:13,679
+the site. All things to participate.
+
+532
+00:21:10,640 --> 00:21:15,600
+Then with study participation,
+
+533
+00:21:13,679 --> 00:21:17,120
+they get a treatment. Then they get
+
+534
+00:21:15,600 --> 00:21:20,720
+monitored. Then they have follow-up
+
+535
+00:21:17,120 --> 00:21:22,480
+visits. You must report any and all side
+
+536
+00:21:20,720 --> 00:21:24,880
+effects whether they're drugreated or
+
+537
+00:21:22,480 --> 00:21:26,559
+not drugrelated. Ultimately the doctor
+
+538
+00:21:24,880 --> 00:21:29,200
+will determine if the side effects are
+
+539
+00:21:26,559 --> 00:21:32,080
+drugreated. But you as a parent have the
+
+540
+00:21:29,200 --> 00:21:34,320
+right to say I'm having a side effect
+
+541
+00:21:32,080 --> 00:21:37,600
+with my child and this only happens
+
+542
+00:21:34,320 --> 00:21:39,200
+after my child receives this therapy. I
+
+543
+00:21:37,600 --> 00:21:40,559
+believe this is drugrelated. You have
+
+544
+00:21:39,200 --> 00:21:43,120
+the right to say that. You have the
+
+545
+00:21:40,559 --> 00:21:45,600
+right to report what you see and you
+
+546
+00:21:43,120 --> 00:21:47,600
+cannot hide what you see because what
+
+547
+00:21:45,600 --> 00:21:50,159
+you're going to do is you could cover up
+
+548
+00:21:47,600 --> 00:21:52,159
+a safety signal that can harm other
+
+549
+00:21:50,159 --> 00:21:54,640
+patients in the future. It's very
+
+550
+00:21:52,159 --> 00:21:57,200
+important you report everything to your
+
+551
+00:21:54,640 --> 00:21:59,840
+study doctor. The data is collected both
+
+552
+00:21:57,200 --> 00:22:01,760
+for efficacy and safety and after active
+
+553
+00:21:59,840 --> 00:22:04,559
+participation that follow-up period can
+
+554
+00:22:01,760 --> 00:22:06,480
+vary one year, two years, even three
+
+555
+00:22:04,559 --> 00:22:09,200
+months and then for gene therapies it
+
+556
+00:22:06,480 --> 00:22:11,360
+could be five years or 15 years. What
+
+557
+00:22:09,200 --> 00:22:14,159
+are you committing to? You have to know
+
+558
+00:22:11,360 --> 00:22:15,760
+that. You may receive study updates
+
+559
+00:22:14,159 --> 00:22:17,600
+generally, not necessarily about your
+
+560
+00:22:15,760 --> 00:22:20,640
+child. You're going to see it in press
+
+561
+00:22:17,600 --> 00:22:23,600
+releases, in presentations, in um, you
+
+562
+00:22:20,640 --> 00:22:25,200
+know, in investor calls. Listen to them,
+
+563
+00:22:23,600 --> 00:22:26,720
+watch them, pay attention to them
+
+564
+00:22:25,200 --> 00:22:28,480
+because the data of your child is going
+
+565
+00:22:26,720 --> 00:22:31,200
+to be in there buried with other
+
+566
+00:22:28,480 --> 00:22:33,360
+children and adults as well. And the
+
+567
+00:22:31,200 --> 00:22:36,159
+results are often only presented in the
+
+568
+00:22:33,360 --> 00:22:38,080
+early stages in these public forums. So
+
+569
+00:22:36,159 --> 00:22:41,039
+key questions to ask, there's lists of
+
+570
+00:22:38,080 --> 00:22:42,799
+them. What's the goal of this trial?
+
+571
+00:22:41,039 --> 00:22:44,400
+What are the possible risks and the
+
+572
+00:22:42,799 --> 00:22:46,640
+possible benefits of enrolling in this
+
+573
+00:22:44,400 --> 00:22:49,440
+trial? What happened in the animal
+
+574
+00:22:46,640 --> 00:22:51,679
+studies? What do we need to think about
+
+575
+00:22:49,440 --> 00:22:53,520
+for humans? Will my child receive
+
+576
+00:22:51,679 --> 00:22:55,200
+treatment? Will they receive a placebo?
+
+577
+00:22:53,520 --> 00:22:57,600
+Will they receive a sham? Will they
+
+578
+00:22:55,200 --> 00:22:59,360
+receive a sugar pill? What is my child
+
+579
+00:22:57,600 --> 00:23:01,679
+going to get? And if they're on that
+
+580
+00:22:59,360 --> 00:23:03,840
+control, when will they change over to
+
+581
+00:23:01,679 --> 00:23:05,919
+get treatment, if at all? You have to
+
+582
+00:23:03,840 --> 00:23:07,360
+know that. How often do I need to come
+
+583
+00:23:05,919 --> 00:23:09,120
+back to the hospital? Will there be
+
+584
+00:23:07,360 --> 00:23:11,200
+assessments done locally? Do I need to
+
+585
+00:23:09,120 --> 00:23:13,679
+come back in? All of the things you need
+
+586
+00:23:11,200 --> 00:23:15,200
+to be very critical of. Is this a single
+
+587
+00:23:13,679 --> 00:23:17,679
+treatment therapy? Is it a repeat
+
+588
+00:23:15,200 --> 00:23:19,679
+treatment therapy? How is that done? Who
+
+589
+00:23:17,679 --> 00:23:21,440
+do I contact if I have a problem? Get
+
+590
+00:23:19,679 --> 00:23:22,799
+their phone number. Get their email. You
+
+591
+00:23:21,440 --> 00:23:24,559
+have to have someone to contact if
+
+592
+00:23:22,799 --> 00:23:26,080
+there's a problem. What happens if I
+
+593
+00:23:24,559 --> 00:23:28,799
+want to withdraw? What's the process of
+
+594
+00:23:26,080 --> 00:23:30,880
+that? How do I do that? Who pays for
+
+595
+00:23:28,799 --> 00:23:32,240
+this? Who's paying for the cost? Who's
+
+596
+00:23:30,880 --> 00:23:33,760
+paying to get to the site? Who's paying
+
+597
+00:23:32,240 --> 00:23:35,600
+for parking? Who's paying to leave the
+
+598
+00:23:33,760 --> 00:23:37,280
+site? Who's paying for food? Who's
+
+599
+00:23:35,600 --> 00:23:39,200
+paying for all of this? You have to ask
+
+600
+00:23:37,280 --> 00:23:41,200
+these questions. And then once all the
+
+601
+00:23:39,200 --> 00:23:43,440
+phases are complete, will my child be
+
+602
+00:23:41,200 --> 00:23:45,039
+able to stay on the drug? If not, when
+
+603
+00:23:43,440 --> 00:23:47,200
+will my child be able to get the drug
+
+604
+00:23:45,039 --> 00:23:50,559
+again? All of these things you need to
+
+605
+00:23:47,200 --> 00:23:53,280
+ask. So make a checklist. Review and
+
+606
+00:23:50,559 --> 00:23:55,360
+understand your ICF. Ask all of the
+
+607
+00:23:53,280 --> 00:23:57,760
+questions. Keep copies of all of the
+
+608
+00:23:55,360 --> 00:23:59,440
+documents. Confirm you know the contact
+
+609
+00:23:57,760 --> 00:24:01,360
+person and their number and that you can
+
+610
+00:23:59,440 --> 00:24:03,760
+always reach out to them with any
+
+611
+00:24:01,360 --> 00:24:05,600
+questions. Keep a schedule of all of
+
+612
+00:24:03,760 --> 00:24:07,840
+your appointments. Show up when you're
+
+613
+00:24:05,600 --> 00:24:10,400
+supposed to show up. Know the days and
+
+614
+00:24:07,840 --> 00:24:13,039
+the times. Discuss travel and lodging
+
+615
+00:24:10,400 --> 00:24:15,919
+and reimbursement logistics. And know
+
+616
+00:24:13,039 --> 00:24:19,279
+your right to withdraw at any time
+
+617
+00:24:15,919 --> 00:24:21,039
+because you have that right. And so
+
+618
+00:24:19,279 --> 00:24:22,720
+lastly, we'll end with appropriate
+
+619
+00:24:21,039 --> 00:24:27,279
+etiquette.
+
+620
+00:24:22,720 --> 00:24:30,720
+Avoid sharing trial details on social
+
+621
+00:24:27,279 --> 00:24:32,960
+media. I cannot emphasize that enough.
+
+622
+00:24:30,720 --> 00:24:35,520
+Nobody should be talking about their
+
+623
+00:24:32,960 --> 00:24:40,000
+experience in clinical trials on social
+
+624
+00:24:35,520 --> 00:24:43,200
+media. It creates havoc and expectation
+
+625
+00:24:40,000 --> 00:24:45,039
+that can destroy a clinical trial. Most
+
+626
+00:24:43,200 --> 00:24:47,840
+of these trials start off open label and
+
+627
+00:24:45,039 --> 00:24:49,919
+then people have expectations of what to
+
+628
+00:24:47,840 --> 00:24:51,200
+expect. You can't do that. You could
+
+629
+00:24:49,919 --> 00:24:53,600
+talk about it privately with your
+
+630
+00:24:51,200 --> 00:24:56,080
+friends and family, but you should not
+
+631
+00:24:53,600 --> 00:24:59,120
+talk about it publicly in a clinical
+
+632
+00:24:56,080 --> 00:25:01,840
+trial until the data has been shared.
+
+633
+00:24:59,120 --> 00:25:03,520
+Very important. The same caregiver
+
+634
+00:25:01,840 --> 00:25:05,679
+should be doing all of the assessments
+
+635
+00:25:03,520 --> 00:25:07,679
+each time. If it was dad that started,
+
+636
+00:25:05,679 --> 00:25:09,200
+dad should finish. If it's mom that
+
+637
+00:25:07,679 --> 00:25:10,960
+started, mom should be there for all of
+
+638
+00:25:09,200 --> 00:25:13,279
+the assessments. Consistency is
+
+639
+00:25:10,960 --> 00:25:14,880
+everything. If side effects occur, they
+
+640
+00:25:13,279 --> 00:25:17,760
+must be immediately shared with your
+
+641
+00:25:14,880 --> 00:25:20,000
+study doctor. Nothing, like I said,
+
+642
+00:25:17,760 --> 00:25:22,720
+should be shared on Facebook, Instagram,
+
+643
+00:25:20,000 --> 00:25:25,440
+Tik Tok, LinkedIn, whatever. Stop doing
+
+644
+00:25:22,720 --> 00:25:28,240
+it. No private Facebook groups so you
+
+645
+00:25:25,440 --> 00:25:30,799
+think no one sees it. We all know. Don't
+
+646
+00:25:28,240 --> 00:25:33,360
+do it. It's just really destructive to
+
+647
+00:25:30,799 --> 00:25:35,039
+the program. And don't predict what
+
+648
+00:25:33,360 --> 00:25:37,360
+you're going to see. You set
+
+649
+00:25:35,039 --> 00:25:40,240
+expectations that might be unrealistic.
+
+650
+00:25:37,360 --> 00:25:43,039
+Drugs might work. They might not work.
+
+651
+00:25:40,240 --> 00:25:44,880
+Let it let the data show if the drug is
+
+652
+00:25:43,039 --> 00:25:46,240
+working. You're allowed to be excited.
+
+653
+00:25:44,880 --> 00:25:48,960
+You're allowed to be proud of what you
+
+654
+00:25:46,240 --> 00:25:51,520
+see, but don't predict to create a sense
+
+655
+00:25:48,960 --> 00:25:54,159
+of expectations. Try not to. It's really
+
+656
+00:25:51,520 --> 00:25:55,679
+hard. If you see community members at a
+
+657
+00:25:54,159 --> 00:25:57,440
+trial site, they may be in different
+
+658
+00:25:55,679 --> 00:25:59,760
+clinical trials or at a community event.
+
+659
+00:25:57,440 --> 00:26:01,520
+Try not to talk about it your your trial
+
+660
+00:25:59,760 --> 00:26:03,039
+experience with them. Try to keep it
+
+661
+00:26:01,520 --> 00:26:04,559
+private because you're setting
+
+662
+00:26:03,039 --> 00:26:06,720
+expectations.
+
+663
+00:26:04,559 --> 00:26:08,400
+Um, and try not to talk to industry
+
+664
+00:26:06,720 --> 00:26:10,159
+members about your experience in
+
+665
+00:26:08,400 --> 00:26:13,279
+clinical trials at conferences like
+
+666
+00:26:10,159 --> 00:26:16,320
+this. I know it's hard, but don't go up
+
+667
+00:26:13,279 --> 00:26:18,480
+to Ionis or Ultragenics or RO or OILL
+
+668
+00:26:16,320 --> 00:26:21,200
+and say, "My daughter's in your trial
+
+669
+00:26:18,480 --> 00:26:22,960
+and I'm having this experience." That's
+
+670
+00:26:21,200 --> 00:26:24,480
+not who you should be talking to about
+
+671
+00:26:22,960 --> 00:26:26,880
+that. you should be talking to your
+
+672
+00:26:24,480 --> 00:26:28,880
+study doctor about that because they are
+
+673
+00:26:26,880 --> 00:26:31,279
+really meant to be blinded to who's in
+
+674
+00:26:28,880 --> 00:26:33,279
+the trial and have a line in the sand
+
+675
+00:26:31,279 --> 00:26:36,159
+from those patients. So, it's not great
+
+676
+00:26:33,279 --> 00:26:37,679
+to do that. So, try not to try to be a
+
+677
+00:26:36,159 --> 00:26:39,679
+little bit more vague about things. I
+
+678
+00:26:37,679 --> 00:26:43,520
+know that's hard as well. And then
+
+679
+00:26:39,679 --> 00:26:46,159
+finally, respect confidentiality, data
+
+680
+00:26:43,520 --> 00:26:48,960
+integrity, and your child's privacy.
+
+681
+00:26:46,159 --> 00:26:51,200
+Track groups are are discouraged. Be
+
+682
+00:26:48,960 --> 00:26:52,720
+mindful of community influence on
+
+683
+00:26:51,200 --> 00:26:55,200
+outcomes
+
+684
+00:26:52,720 --> 00:26:58,080
+and any adverse events albeit
+
+685
+00:26:55,200 --> 00:27:00,640
+drugrelated or non-drugrelated must be
+
+686
+00:26:58,080 --> 00:27:03,520
+reported to trial sites. They have to be
+
+687
+00:27:00,640 --> 00:27:05,440
+taken very seriously. Our other
+
+688
+00:27:03,520 --> 00:27:09,600
+co-atriots of parents and families
+
+689
+00:27:05,440 --> 00:27:11,440
+deserve to know what the risks are for
+
+690
+00:27:09,600 --> 00:27:13,760
+their child who are not yet in that
+
+691
+00:27:11,440 --> 00:27:15,679
+trial. And if you don't report it, they
+
+692
+00:27:13,760 --> 00:27:18,559
+will not learn from that. It's very,
+
+693
+00:27:15,679 --> 00:27:21,679
+very important. You must make sure your
+
+694
+00:27:18,559 --> 00:27:24,559
+concerns are heard at every level.
+
+695
+00:27:21,679 --> 00:27:26,240
+Empower yourself as a family to ask
+
+696
+00:27:24,559 --> 00:27:28,000
+questions.
+
+697
+00:27:26,240 --> 00:27:31,120
+Ensure that you do not disclose your
+
+698
+00:27:28,000 --> 00:27:33,840
+child's participation publicly. Document
+
+699
+00:27:31,120 --> 00:27:35,840
+your journey. Take videos before of all
+
+700
+00:27:33,840 --> 00:27:37,200
+the things your child can't do. Take
+
+701
+00:27:35,840 --> 00:27:40,000
+videos after of all the things your
+
+702
+00:27:37,200 --> 00:27:42,159
+child can do. And then you have that to
+
+703
+00:27:40,000 --> 00:27:43,919
+show pre and post. It doesn't mean the
+
+704
+00:27:42,159 --> 00:27:45,520
+study wants that information, but you
+
+705
+00:27:43,919 --> 00:27:47,840
+want that information in your own life
+
+706
+00:27:45,520 --> 00:27:50,240
+as your own diary. I encourage you to do
+
+707
+00:27:47,840 --> 00:27:52,880
+that. Try and document their skills
+
+708
+00:27:50,240 --> 00:27:56,000
+leading up to that. Listen to the study
+
+709
+00:27:52,880 --> 00:27:58,720
+updates and share your experience, good
+
+710
+00:27:56,000 --> 00:28:00,880
+or bad, with the study doctor. That's
+
+711
+00:27:58,720 --> 00:28:03,600
+really how you empower yourself to be
+
+712
+00:28:00,880 --> 00:28:06,320
+part of the journey of drug development.
+
+713
+00:28:03,600 --> 00:28:09,120
+So with that, remember always knowledge
+
+714
+00:28:06,320 --> 00:28:11,919
+is power. You can't make decisions on
+
+715
+00:28:09,120 --> 00:28:14,320
+things you don't understand. So, we have
+
+716
+00:28:11,919 --> 00:28:16,480
+to all contribute to the research and we
+
+717
+00:28:14,320 --> 00:28:19,960
+have to all ask questions. So, with
+
+718
+00:28:16,480 --> 00:28:19,960
+that, thank you.
+
+719
+00:28:21,919 --> 00:28:27,760
+Okay, so we are due for a break. Um,
+
+720
+00:28:25,679 --> 00:28:31,200
+that break is going to we're going to
+
+721
+00:28:27,760 --> 00:28:32,399
+return in about uh 10 minutes. So, it's
+
+722
+00:28:31,200 --> 00:28:34,559
+going to be a short break. And I want
+
+723
+00:28:32,399 --> 00:28:36,799
+everyone to know people that want more
+
+724
+00:28:34,559 --> 00:28:39,600
+t-shirts. Apparently, everyone wants
+
+725
+00:28:36,799 --> 00:28:41,039
+these t-shirts, but they close soon. If
+
+726
+00:28:39,600 --> 00:28:43,200
+you want more and you already got one, I
+
+727
+00:28:41,039 --> 00:28:44,960
+guess they're selling them for $20, but
+
+728
+00:28:43,200 --> 00:28:46,320
+go outside, go to the t-shirt making
+
+729
+00:28:44,960 --> 00:28:47,520
+area, tell them what you want, and you
+
+730
+00:28:46,320 --> 00:28:49,600
+can get more t-shirts. But I think they
+
+731
+00:28:47,520 --> 00:28:50,960
+close at 12:30. So, anybody that wants
+
+732
+00:28:49,600 --> 00:28:52,320
+to get more t-shirts, go ahead and get
+
+733
+00:28:50,960 --> 00:28:53,919
+them because they won't be there after
+
+734
+00:28:52,320 --> 00:28:57,840
+the final session where we're going to
+
+735
+00:28:53,919 --> 00:28:57,840
+hear from the ASO programs.
+

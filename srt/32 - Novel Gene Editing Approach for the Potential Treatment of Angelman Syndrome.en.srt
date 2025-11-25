@@ -1,0 +1,1100 @@
+1
+00:00:00,080 --> 00:00:04,640
+So, our next speaker is Dr. Raph Benjam
+
+2
+00:00:03,360 --> 00:00:07,200
+um coming to us from Arbor
+
+3
+00:00:04,640 --> 00:00:08,800
+Biotechnologies. I'm so happy that you
+
+4
+00:00:07,200 --> 00:00:11,200
+guys are here presenting today on this
+
+5
+00:00:08,800 --> 00:00:13,759
+stage. Just for the record, I've been
+
+6
+00:00:11,200 --> 00:00:15,280
+talking to Arbor for a long time. Um but
+
+7
+00:00:13,759 --> 00:00:17,680
+I have never been able to disclose that
+
+8
+00:00:15,280 --> 00:00:19,359
+I'm talking to Arbor for a long time.
+
+9
+00:00:17,680 --> 00:00:21,279
+And the fact that they agreed to speak
+
+10
+00:00:19,359 --> 00:00:23,119
+to our families about their Angelman
+
+11
+00:00:21,279 --> 00:00:25,199
+program to disclose out of stealth that
+
+12
+00:00:23,119 --> 00:00:27,279
+they're working on Angelmen syndrome is
+
+13
+00:00:25,199 --> 00:00:29,039
+really exciting. And it's early days,
+
+14
+00:00:27,279 --> 00:00:30,560
+but we're super thrilled and we're so
+
+15
+00:00:29,039 --> 00:00:33,560
+great grateful to be able to support
+
+16
+00:00:30,560 --> 00:00:33,560
+you.
+
+17
+00:00:40,239 --> 00:00:45,360
+>> Good morning. Thank you Allison for the
+
+18
+00:00:42,800 --> 00:00:46,719
+introduction and uh it is truly an honor
+
+19
+00:00:45,360 --> 00:00:48,320
+to be standing in front of you today. My
+
+20
+00:00:46,719 --> 00:00:51,680
+name is Rafael Benjam. I'm here on
+
+21
+00:00:48,320 --> 00:00:54,160
+behalf of Arbor Bio and I'm going to be
+
+22
+00:00:51,680 --> 00:00:55,600
+talking to you today about uh novel gene
+
+23
+00:00:54,160 --> 00:00:57,840
+editing approaches for the potential
+
+24
+00:00:55,600 --> 00:00:59,920
+treatment of Angelman syndrome. Let me
+
+25
+00:00:57,840 --> 00:01:01,680
+see if this works. These are my
+
+26
+00:00:59,920 --> 00:01:03,600
+disclosures.
+
+27
+00:01:01,680 --> 00:01:05,360
+So I'll take a few seconds to briefly
+
+28
+00:01:03,600 --> 00:01:08,159
+tell you about Arbor Bio. Arbor is a
+
+29
+00:01:05,360 --> 00:01:10,240
+clinical stage company whose therapies
+
+30
+00:01:08,159 --> 00:01:12,960
+um leverage the potential of crisper
+
+31
+00:01:10,240 --> 00:01:14,640
+gene editing. Um, Arbor has several
+
+32
+00:01:12,960 --> 00:01:16,560
+pipelines in progress, including one
+
+33
+00:01:14,640 --> 00:01:18,880
+liver indication for PH1, currently in
+
+34
+00:01:16,560 --> 00:01:20,960
+phase one clinical trials, as well as
+
+35
+00:01:18,880 --> 00:01:23,439
+several CNS pipelines at different
+
+36
+00:01:20,960 --> 00:01:25,840
+stages of pre-clinical development. And
+
+37
+00:01:23,439 --> 00:01:27,840
+more recently, as Allison mentioned, um,
+
+38
+00:01:25,840 --> 00:01:30,479
+Arbor's gene editing technology combined
+
+39
+00:01:27,840 --> 00:01:32,880
+with our expertise in AEV delivery for
+
+40
+00:01:30,479 --> 00:01:34,960
+CNS disorders is now being applied to
+
+41
+00:01:32,880 --> 00:01:37,040
+the potential treatment of Angelmen
+
+42
+00:01:34,960 --> 00:01:40,400
+syndrome.
+
+43
+00:01:37,040 --> 00:01:43,520
+So, Arbor employs um about a little more
+
+44
+00:01:40,400 --> 00:01:45,439
+than 10 unique gene editors including uh
+
+45
+00:01:43,520 --> 00:01:46,799
+type five nucleaces and I'll tell you a
+
+46
+00:01:45,439 --> 00:01:49,280
+little bit about that in a second. But
+
+47
+00:01:46,799 --> 00:01:51,040
+before I do, I wanted to take a second
+
+48
+00:01:49,280 --> 00:01:52,240
+to briefly refresh your memory on the
+
+49
+00:01:51,040 --> 00:01:54,880
+component of crisper and you've heard
+
+50
+00:01:52,240 --> 00:01:56,640
+about crisper many points uh during the
+
+51
+00:01:54,880 --> 00:01:59,439
+past three days. And I'll just be quick
+
+52
+00:01:56,640 --> 00:02:01,439
+and tell you that um crisper gene
+
+53
+00:01:59,439 --> 00:02:04,240
+editing allows for the precise
+
+54
+00:02:01,439 --> 00:02:06,079
+modification or disruption of a
+
+55
+00:02:04,240 --> 00:02:08,720
+particular gene of interest. And it does
+
+56
+00:02:06,079 --> 00:02:11,120
+so by using two main components. The
+
+57
+00:02:08,720 --> 00:02:14,080
+first is the cast protein which is this
+
+58
+00:02:11,120 --> 00:02:16,720
+red kidney bean shape here on the
+
+59
+00:02:14,080 --> 00:02:19,280
+diagram. And the cast protein serves as
+
+60
+00:02:16,720 --> 00:02:21,440
+a molecular scissor to disrupt the the
+
+61
+00:02:19,280 --> 00:02:24,800
+gene of interest. And it does so thanks
+
+62
+00:02:21,440 --> 00:02:27,440
+to the guide um by by the gRNA or guide
+
+63
+00:02:24,800 --> 00:02:29,440
+RNA which will bring the CAS protein to
+
+64
+00:02:27,440 --> 00:02:31,120
+to the gene of interest. And you should
+
+65
+00:02:29,440 --> 00:02:33,760
+also know that there are at least six
+
+66
+00:02:31,120 --> 00:02:36,959
+major types of crisper gene editors. And
+
+67
+00:02:33,760 --> 00:02:38,640
+I'll talk about two specifically today.
+
+68
+00:02:36,959 --> 00:02:41,519
+Type two nucleases are the most
+
+69
+00:02:38,640 --> 00:02:43,360
+well-known and cast 9 and is an example
+
+70
+00:02:41,519 --> 00:02:45,840
+of type two nucleases. You've heard
+
+71
+00:02:43,360 --> 00:02:48,480
+about cast 9 many times during the past
+
+72
+00:02:45,840 --> 00:02:51,120
+three days. Cast 9 is widely used in
+
+73
+00:02:48,480 --> 00:02:52,480
+clinical trials and is even FDA approved
+
+74
+00:02:51,120 --> 00:02:55,760
+for the treatment of cickle cell
+
+75
+00:02:52,480 --> 00:02:57,599
+disease. In uh contrast, type five
+
+76
+00:02:55,760 --> 00:03:00,480
+nucleases
+
+77
+00:02:57,599 --> 00:03:02,560
+um are less wellknown but are
+
+78
+00:03:00,480 --> 00:03:04,400
+particularly well suited for use in
+
+79
+00:03:02,560 --> 00:03:07,440
+therapeutics for the following two
+
+80
+00:03:04,400 --> 00:03:08,959
+reasons. The first is that on average
+
+81
+00:03:07,440 --> 00:03:11,680
+there are smaller than type two
+
+82
+00:03:08,959 --> 00:03:15,280
+nucleases and their guide RNAs are
+
+83
+00:03:11,680 --> 00:03:19,280
+smaller as well which makes packaging
+
+84
+00:03:15,280 --> 00:03:20,959
+type five nucleuses into AVs easier. And
+
+85
+00:03:19,280 --> 00:03:23,040
+the second reason is they have a
+
+86
+00:03:20,959 --> 00:03:25,840
+different type of cut compared to type
+
+87
+00:03:23,040 --> 00:03:29,200
+two nucleases. Um, type five nucleaces
+
+88
+00:03:25,840 --> 00:03:30,959
+will perform a staggered cut shown here
+
+89
+00:03:29,200 --> 00:03:32,720
+which will typically lead toward larger
+
+90
+00:03:30,959 --> 00:03:35,519
+deletion which is particularly
+
+91
+00:03:32,720 --> 00:03:37,440
+advantageous when disrupting the UB3A
+
+92
+00:03:35,519 --> 00:03:40,799
+ATS.
+
+93
+00:03:37,440 --> 00:03:45,760
+And so it is no surprise to hear that
+
+94
+00:03:40,799 --> 00:03:49,680
+Arbor's AS pipeline will um target the
+
+95
+00:03:45,760 --> 00:03:52,319
+will aim to disrupt the UB3A ATS um in
+
+96
+00:03:49,680 --> 00:03:54,640
+an attempt to unsilent dad's gene or as
+
+97
+00:03:52,319 --> 00:03:56,879
+is commonly known as fast circles as
+
+98
+00:03:54,640 --> 00:03:59,360
+pillar 2.
+
+99
+00:03:56,879 --> 00:04:01,760
+And to delve into um our therapeutic
+
+100
+00:03:59,360 --> 00:04:03,760
+approach a little deeper, Arbur's gene
+
+101
+00:04:01,760 --> 00:04:06,239
+editor is intended to be packaged into
+
+102
+00:04:03,760 --> 00:04:08,720
+an AEV and intended for a one-time
+
+103
+00:04:06,239 --> 00:04:11,120
+administration and the potential there
+
+104
+00:04:08,720 --> 00:04:12,640
+is for durable unsilencing of paternal
+
+105
+00:04:11,120 --> 00:04:14,720
+UB3A.
+
+106
+00:04:12,640 --> 00:04:16,720
+The clinical benefits of this approach
+
+107
+00:04:14,720 --> 00:04:18,079
+have been demonstrated by ASOS currently
+
+108
+00:04:16,720 --> 00:04:20,959
+in clinical trials and you'll hear about
+
+109
+00:04:18,079 --> 00:04:23,680
+those updates um later today. And
+
+110
+00:04:20,959 --> 00:04:25,680
+finally, arbor's small nucleus leaves
+
+111
+00:04:23,680 --> 00:04:27,360
+room for incorporation of different
+
+112
+00:04:25,680 --> 00:04:29,840
+safety features, potential safety
+
+113
+00:04:27,360 --> 00:04:31,440
+features to prevent sustained nucleus
+
+114
+00:04:29,840 --> 00:04:33,840
+expression.
+
+115
+00:04:31,440 --> 00:04:35,840
+And so I'll now walk you through the
+
+116
+00:04:33,840 --> 00:04:38,000
+different stages of our preclinical in
+
+117
+00:04:35,840 --> 00:04:39,919
+vitro developments starting with our
+
+118
+00:04:38,000 --> 00:04:42,800
+high throughput screening. Now a
+
+119
+00:04:39,919 --> 00:04:46,720
+targeted region within the UB3A ATS
+
+120
+00:04:42,800 --> 00:04:48,560
+locus spans around 50,000 bases which is
+
+121
+00:04:46,720 --> 00:04:51,440
+quite large and we therefore had to
+
+122
+00:04:48,560 --> 00:04:53,520
+screen many guides around 300 first in
+
+123
+00:04:51,440 --> 00:04:57,040
+an immortalized cell line to first
+
+124
+00:04:53,520 --> 00:04:58,720
+filter out guides with poor activity.
+
+125
+00:04:57,040 --> 00:05:02,479
+The guides that made it through were
+
+126
+00:04:58,720 --> 00:05:05,120
+validated in IPS derived human cortical
+
+127
+00:05:02,479 --> 00:05:06,960
+neurons derived from Angelmen patient
+
+128
+00:05:05,120 --> 00:05:10,800
+and with those we were able to rank the
+
+129
+00:05:06,960 --> 00:05:14,479
+guides based on their ability to um
+
+130
+00:05:10,800 --> 00:05:17,039
+recover UB3A protein expression.
+
+131
+00:05:14,479 --> 00:05:18,479
+The top candidates were then optimized
+
+132
+00:05:17,039 --> 00:05:22,320
+and we were able to improve their
+
+133
+00:05:18,479 --> 00:05:24,080
+potency by up to 14 folds. And we were
+
+134
+00:05:22,320 --> 00:05:26,400
+able to demonstrate that our top
+
+135
+00:05:24,080 --> 00:05:28,000
+candidates can recover an invitro
+
+136
+00:05:26,400 --> 00:05:30,720
+phenotype
+
+137
+00:05:28,000 --> 00:05:33,600
+um and reverse hyperexitability
+
+138
+00:05:30,720 --> 00:05:35,919
+um in Angelmen neurons in vitro. And
+
+139
+00:05:33,600 --> 00:05:38,479
+I'll now uh briefly highlight some key
+
+140
+00:05:35,919 --> 00:05:39,840
+data sets to uh show you the the
+
+141
+00:05:38,479 --> 00:05:41,360
+progress that we've made since the
+
+142
+00:05:39,840 --> 00:05:43,759
+assumption of this project. So what
+
+143
+00:05:41,360 --> 00:05:46,400
+you're seeing here is a graph that
+
+144
+00:05:43,759 --> 00:05:48,400
+illustrates the UB3A protein expression
+
+145
+00:05:46,400 --> 00:05:52,080
+recovery of an Angelman neuron following
+
+146
+00:05:48,400 --> 00:05:54,720
+the treatment with our top um nucleus
+
+147
+00:05:52,080 --> 00:05:57,280
+and guide combinations. The bar in red
+
+148
+00:05:54,720 --> 00:06:00,160
+is showing UB3A expression of a
+
+149
+00:05:57,280 --> 00:06:02,000
+neurotypical control and the average of
+
+150
+00:06:00,160 --> 00:06:04,319
+that expression is shown by the top
+
+151
+00:06:02,000 --> 00:06:07,039
+dotted line.
+
+152
+00:06:04,319 --> 00:06:09,120
+The expression of UB3A in an angelman
+
+153
+00:06:07,039 --> 00:06:11,360
+neuron untreated Angelman neuron is
+
+154
+00:06:09,120 --> 00:06:13,280
+shown in gray and the average of that
+
+155
+00:06:11,360 --> 00:06:15,120
+expression is shown by the bottom dotted
+
+156
+00:06:13,280 --> 00:06:18,639
+line.
+
+157
+00:06:15,120 --> 00:06:20,240
+In green are 14 candidates uh 14
+
+158
+00:06:18,639 --> 00:06:23,919
+candidates spanning two different
+
+159
+00:06:20,240 --> 00:06:26,560
+nucleases and several guides and they
+
+160
+00:06:23,919 --> 00:06:29,680
+show different varying levels of UB3
+
+161
+00:06:26,560 --> 00:06:31,840
+protein recovery. In orange are two
+
+162
+00:06:29,680 --> 00:06:33,840
+guides that are able to reach levels
+
+163
+00:06:31,840 --> 00:06:38,319
+similar to those of neurotypical
+
+164
+00:06:33,840 --> 00:06:40,400
+control. In blue are seven more guides
+
+165
+00:06:38,319 --> 00:06:42,720
+that are close to reaching neurotypical
+
+166
+00:06:40,400 --> 00:06:44,720
+control, but more importantly that are
+
+167
+00:06:42,720 --> 00:06:48,000
+able to reach levels similar to a
+
+168
+00:06:44,720 --> 00:06:49,600
+researchgrade ASO uh designed and
+
+169
+00:06:48,000 --> 00:06:51,199
+published by the Dindo lab that we have
+
+170
+00:06:49,600 --> 00:06:53,120
+been using as a benchmark in these
+
+171
+00:06:51,199 --> 00:06:55,039
+assays.
+
+172
+00:06:53,120 --> 00:06:57,520
+And now that we were able to show
+
+173
+00:06:55,039 --> 00:06:59,520
+robustly that we can recover UB through
+
+174
+00:06:57,520 --> 00:07:01,680
+protein expression angelman neurons, our
+
+175
+00:06:59,520 --> 00:07:04,160
+next question was do those top
+
+176
+00:07:01,680 --> 00:07:07,360
+candidates are they able to reverse an
+
+177
+00:07:04,160 --> 00:07:09,599
+invitro phenotype? And in the literature
+
+178
+00:07:07,360 --> 00:07:12,880
+there are reports that Angeloman neurons
+
+179
+00:07:09,599 --> 00:07:15,039
+exhibit elevated excitability
+
+180
+00:07:12,880 --> 00:07:17,520
+and this has been shown in both IPS
+
+181
+00:07:15,039 --> 00:07:20,720
+derived neurons in vitro as well as the
+
+182
+00:07:17,520 --> 00:07:23,599
+Angelmen neuron models in vivo.
+
+183
+00:07:20,720 --> 00:07:26,160
+And so we chose to use a machine called
+
+184
+00:07:23,599 --> 00:07:29,440
+the MEA or multi-elerode array. And this
+
+185
+00:07:26,160 --> 00:07:31,520
+machine allows us to quantify a neuron's
+
+186
+00:07:29,440 --> 00:07:33,919
+electrical activity in the dish. And
+
+187
+00:07:31,520 --> 00:07:36,400
+more specifically, it allows us to
+
+188
+00:07:33,919 --> 00:07:38,800
+compare the excitability of an Angelman
+
+189
+00:07:36,400 --> 00:07:42,080
+neuron compared to a neurot neurotypical
+
+190
+00:07:38,800 --> 00:07:45,360
+neuron and ultimately allows us to
+
+191
+00:07:42,080 --> 00:07:49,599
+prioritize guides based on their ability
+
+192
+00:07:45,360 --> 00:07:51,440
+to reduce hyperexitability in vitro.
+
+193
+00:07:49,599 --> 00:07:54,000
+So I'll walk you through the data. The
+
+194
+00:07:51,440 --> 00:07:58,800
+graph on the left here shows a measure
+
+195
+00:07:54,000 --> 00:08:01,440
+of synchrony. Um the higher the number,
+
+196
+00:07:58,800 --> 00:08:03,840
+the higher the synchrony. And you should
+
+197
+00:08:01,440 --> 00:08:06,240
+know that a hypoexitable neuron, one of
+
+198
+00:08:03,840 --> 00:08:08,800
+the hallmarks is an elevated synchrony.
+
+199
+00:08:06,240 --> 00:08:10,879
+And we see that data reflected here. An
+
+200
+00:08:08,800 --> 00:08:13,280
+angelman neuron in red is showing
+
+201
+00:08:10,879 --> 00:08:16,639
+elevated synchrony compared to two
+
+202
+00:08:13,280 --> 00:08:19,280
+neurotypical lines in blue. And so after
+
+203
+00:08:16,639 --> 00:08:22,000
+treatment with our top candidates, we
+
+204
+00:08:19,280 --> 00:08:25,120
+are able to reduce the synchrony of the
+
+205
+00:08:22,000 --> 00:08:27,280
+angel minuron once again in red down to
+
+206
+00:08:25,120 --> 00:08:29,280
+neuro to neurotypical range. And you see
+
+207
+00:08:27,280 --> 00:08:32,159
+that with two guides in light and dark
+
+208
+00:08:29,280 --> 00:08:34,640
+green. And the quantification of that is
+
+209
+00:08:32,159 --> 00:08:37,360
+shown in the graph on the right um with
+
+210
+00:08:34,640 --> 00:08:40,159
+area under the curve acting as a proxy
+
+211
+00:08:37,360 --> 00:08:42,000
+for uh synchrony. The lower the number,
+
+212
+00:08:40,159 --> 00:08:44,080
+the lower the synchrony. And we see that
+
+213
+00:08:42,000 --> 00:08:45,920
+our guys are able to reduce that
+
+214
+00:08:44,080 --> 00:08:48,080
+synchrony of Angelmen neurons down to
+
+215
+00:08:45,920 --> 00:08:51,920
+neurotypical levels. And more
+
+216
+00:08:48,080 --> 00:08:54,320
+interestingly, we saw a high correlation
+
+217
+00:08:51,920 --> 00:08:57,920
+of the percentage of reduction of
+
+218
+00:08:54,320 --> 00:09:00,399
+hypersynchrony and the percentage of UBA
+
+219
+00:08:57,920 --> 00:09:02,640
+UB3A protein recovery with those same
+
+220
+00:09:00,399 --> 00:09:04,640
+guides.
+
+221
+00:09:02,640 --> 00:09:07,360
+So I'll quickly summarize what I've just
+
+222
+00:09:04,640 --> 00:09:09,360
+told you. Arbur's gene editor um is are
+
+223
+00:09:07,360 --> 00:09:11,600
+intended to be packaged in an AEV and
+
+224
+00:09:09,360 --> 00:09:13,200
+intended for one-time administration and
+
+225
+00:09:11,600 --> 00:09:16,800
+the potential there is for durable
+
+226
+00:09:13,200 --> 00:09:19,360
+unsilencing of paternal UB3A. Our top
+
+227
+00:09:16,800 --> 00:09:22,160
+gene editors and guide RNA candidates
+
+228
+00:09:19,360 --> 00:09:24,720
+are able to recover UB3A protein level
+
+229
+00:09:22,160 --> 00:09:27,600
+in Angelmen neurons to neurotypical
+
+230
+00:09:24,720 --> 00:09:31,120
+level. We've shown that we can develop a
+
+231
+00:09:27,600 --> 00:09:32,720
+novel in vitro um assay on the MEA and
+
+232
+00:09:31,120 --> 00:09:35,120
+replicate a previously reported
+
+233
+00:09:32,720 --> 00:09:37,600
+phenotype of hyperexitability
+
+234
+00:09:35,120 --> 00:09:39,760
+and our top candidates can reverse the
+
+235
+00:09:37,600 --> 00:09:42,480
+hyperexitability phenotype to
+
+236
+00:09:39,760 --> 00:09:45,680
+neurotypical range. And so I'll end my
+
+237
+00:09:42,480 --> 00:09:48,000
+talk by thanking you thinking fast the
+
+238
+00:09:45,680 --> 00:09:50,880
+organizers for the invitation to speak
+
+239
+00:09:48,000 --> 00:09:52,399
+today. Thank you to Allison for being um
+
+240
+00:09:50,880 --> 00:09:53,920
+a thought partner, as she said earlier
+
+241
+00:09:52,399 --> 00:09:56,000
+in the talk, a thought partner from the
+
+242
+00:09:53,920 --> 00:09:57,760
+beginning of this project. And of
+
+243
+00:09:56,000 --> 00:10:00,560
+course, thank you to the Angelment
+
+244
+00:09:57,760 --> 00:10:04,000
+community. Um this community is one of a
+
+245
+00:10:00,560 --> 00:10:06,000
+kind. I'm sure you know this. And your
+
+246
+00:10:04,000 --> 00:10:08,560
+um continued attendance at this meeting
+
+247
+00:10:06,000 --> 00:10:10,560
+and your continued advocacy and support
+
+248
+00:10:08,560 --> 00:10:13,440
+of drug development efforts for your
+
+249
+00:10:10,560 --> 00:10:15,279
+loved ones living with AS is inspiring.
+
+250
+00:10:13,440 --> 00:10:17,600
+So, thank you for your support and thank
+
+251
+00:10:15,279 --> 00:10:20,600
+you for your attention today.
+
+252
+00:10:17,600 --> 00:10:20,600
+Awesome.
+
+253
+00:10:27,839 --> 00:10:31,680
+So for anybody who didn't understand
+
+254
+00:10:29,120 --> 00:10:33,920
+that because that was beautiful science.
+
+255
+00:10:31,680 --> 00:10:35,839
+Basically various different guides that
+
+256
+00:10:33,920 --> 00:10:37,680
+target different parts of the anticense
+
+257
+00:10:35,839 --> 00:10:40,160
+had different benefit showing that you
+
+258
+00:10:37,680 --> 00:10:43,440
+can knock down the antisense upreculate
+
+259
+00:10:40,160 --> 00:10:45,920
+the protein and rescue what is almost
+
+260
+00:10:43,440 --> 00:10:47,920
+like a seizure phenotype or the cells
+
+261
+00:10:45,920 --> 00:10:49,120
+that are that are excitable the neurons
+
+262
+00:10:47,920 --> 00:10:50,720
+that are excitable. You can actually
+
+263
+00:10:49,120 --> 00:10:53,120
+rescue that to bring it to more
+
+264
+00:10:50,720 --> 00:10:55,120
+neurotypical or or normal levels in
+
+265
+00:10:53,120 --> 00:10:57,040
+neurons. And so you can see that
+
+266
+00:10:55,120 --> 00:10:59,120
+sequence matters, location of where
+
+267
+00:10:57,040 --> 00:11:01,600
+you're targeting matters. And to be able
+
+268
+00:10:59,120 --> 00:11:03,279
+to find the best um the best solution
+
+269
+00:11:01,600 --> 00:11:04,959
+and the best candidate, you want to be
+
+270
+00:11:03,279 --> 00:11:07,600
+able to address that in the greatest way
+
+271
+00:11:04,959 --> 00:11:10,560
+with expressing the most amount of UB3A
+
+272
+00:11:07,600 --> 00:11:12,800
+and rescuing a behavior like seizure
+
+273
+00:11:10,560 --> 00:11:14,640
+activity in a neuron. So that's really
+
+274
+00:11:12,800 --> 00:11:18,160
+exciting work and I really look forward
+
+275
+00:11:14,640 --> 00:11:18,160
+to seeing that go forward in vivo.
+

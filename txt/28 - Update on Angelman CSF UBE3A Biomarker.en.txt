@@ -1,0 +1,116 @@
+And then our last talk before we get to
+vote is Dr. Joel Matthews who's
+presenting something quite similar an
+update on Angelman syndrome uh CSF UV3
+as a biioarker.
+So I'm the last one to keep you away
+from um post recession and cocktails and
+all those sort of things. So I'll try to
+go fast. So um as Allison said, yes,
+I'll be speaking very similar. So we um
+with Biogen had developed a different
+assay that also measured UB3A within
+CSF. Um I should say I'm an employee of
+Ionis.
+Um and so but before I jump into that, I
+want to just really we today we've been
+talking a lot about biomarkers. Um
+there's been in several different talks
+people have mentioned them. But why as
+as drug developers and and people do we
+care about biomarkers? What what do they
+do? What do they provide? Um so I can't
+even see what's up on there. Um so
+biomarkers um we like to classify them
+into four different categories. Um the
+first one is diagnostic and you can
+think about these as how these will help
+you to know what's going on inside your
+body if you have a certain disease or
+something. um pharmmodynamic or disease.
+Um these are where we work a lot um as a
+biomeic scientist and trying to discover
+these type of um assays and and markers
+that we can measure. So we can know if
+if our medicine that we're giving um
+that we're testing is actually working
+and if it's hitting the cells that going
+to the cells that we want it to go to
+and is it changing the organs in the way
+that we think is productive. And there's
+also prognostic biomarkers. These are
+ones that predict how your condition may
+change over time. for instance, if your
+disease is going to be fast or slow
+progressing
+um or safety biomarkers basically learn
+how to track what's happening with your
+your therapy inside your body. So um in
+this context as we said we have
+developed an assay for measuring UB3A um
+is as a tool to help in our clinical
+developments. Um, and with your guys'
+help, we've been able to use samples
+that we've gotten from some natural
+history trials to try to start
+characterizing our assay and
+understanding some of the
+characteristics about it um to
+understand its usefulness within the
+clinical trial. And so the first one we
+have here on the um my left, I don't
+Yeah, your guys left too. um is where we
+took samples and we ran them in the
+assay multiple times to see what the
+variability is within that assay. Um to
+be able to quantify a sample um a
+biomarker, you need to have good
+reproducibility between um different
+batches. And now with UB3A, because it's
+expressed in every cell in the body,
+you'll see there's a couple ones on here
+that have that are highlighted in in
+red. Um these are ones that there was
+the CSF samples were actually had red
+blood cells in them as sometimes happens
+in collection. Um but because red blood
+cells and other cells types that come
+from blood contain UB3A within them um
+these ones had higher levels and so they
+weren't used for calculating
+reproducibility. The other thing we did
+um here on the right is you can see
+where we also as part of one of our
+natural history trials we did we were
+able to get CSF samples from two time
+points where um and then we could
+compare how UB38 is varying over time
+within an individual
+um and you can look at the bottom to see
+the statistics for that. The other thing
+we've done is we've also um tried to
+understand what is the source of that
+CSF um UB3A as um was talked about
+before um there um UB3A is expressed in
+every cell type in the body and so um
+can we understand where this is actually
+coming from and so we did an experiment
+in rats where we um decreased the levels
+of U3A using a different ASO than it's
+being used in the clinic and we were
+able to see changes within the tissue
+and the brain tissue but that wasn't
+reflected in the the CSF. And so we're
+continuing to follow up on this as well
+as trying to look at other biomarkers
+with these samples that we have access
+to to try to understand um and find
+biomarkers that can be useful in
+understanding how our therapy is working
+and how um patients are are progressing.
+And so with this, I'd like to just to
+thank everyone who was involved in um
+getting the us these CSF samples to be
+able to do this work um as well as fast
+and also our all of our academic
+collaborators. Thank you.

@@ -1,0 +1,1292 @@
+I'm really thrilled to be able to
+present our keynote speaker. Our keynote
+speaker is Dr. Don Conn um from the
+University of California um UCLA.
+He's a distinguished professor professor
+of pediatrics, immunology, and molecular
+genetics. Um he's a pediatric bone
+marrow transplant physician. and he
+focuses on developing blood stem cell
+therapies for genetic disorders,
+including the development of the first
+successful bone stem cell gene therapy
+for a disorder called ADA Skid, as many
+of you might know as bubble baby.
+Babies are born without an immune system
+and they generally die before the age of
+two.
+And Don, I don't want to say
+single-handedly because he probably
+won't let me say that, but almost
+single-handedly
+has cured, I use the word cure,
+over 50 babies with ADA skin.
+And that is a single gene disorder that
+has been eradicated with this type of
+gene therapy.
+And so I'll tell you a little story
+about how we met Don and why Don's here
+because he works on bone marrow
+transplant. You might wonder why in the
+world we bring an immunologist
+transplant physician to the FAST summit.
+And it's because in 2016
+we worked to create a type of gene
+therapy called hematopoetic stem cell
+gene therapy with an incredible team at
+UC Davis.
+And we are high-risisk, high reward and
+everyone told us it would never work for
+Angelman syndrome. But we saw the
+literature about brain diseases that
+were being treated with this type of
+therapy because it can cross the bloodb
+brain barrier and get to all of the
+neurons of the brain. And there was no
+reason to believe it wouldn't help
+Angelmen syndrome outside of a lot of
+scientists not understanding the
+mechanism. Therefore, it couldn't be
+possible. And in classic form, fast
+said, "Don't tell me something's not
+possible. We'll tell you if it's
+possible." And so we decided to fund
+this program thanks to the support of
+Dr. Dave Seagull, who brought to us a
+team that said, "Let's try it." And we
+did. And it completely cured the adult
+Angelman syndrome mouse model. For the
+first time, any therapy had actually
+treated every single gen phenotype.
+And we were so excited that we were
+going to be able to truly truly see a
+transformation like this and we wanted
+to push it as quickly as we could to the
+clinic. But unfortunately, the year we
+took the license and decided to push it,
+news came out that a part of the gene
+therapy that we were using, which Dr.
+Con will talk about actually was
+associated with some types of blood
+cancer. And we needed to change that
+part of the gene therapy because there
+were other similar ones that were out
+there that had this part, a promoter
+that had a track record for decades of
+safety. And this promoter did not have
+that track record. And so Jennifer and I
+said, "Well, who can help us change this
+promoter? How do we figure this out? And
+we looked up the person in a press
+release talking about the promiscuous
+promoter, the expert in the world that
+had been doing this type of gene therapy
+longer than anyone. His name was Dr. Don
+Conn. So in standard fashion, we emailed
+Dr. Don Conn and said, "Would you be
+willing to work on Angelmen Syndrome?"
+And his response was, "Sure, why not?"
+And so here we are. It's been two years
+and we finally have a human candidate to
+be able to push hopefully in the very
+near term toward a human clinical trial.
+So with that, Donna is going to talk to
+you about the journey of hematopoetic
+stem cell gene therapy.
+Well, thank you amazing Allison. Uh
+well, hello everyone. So yes, I why am I
+here? Um I'll hopefully by the time I'm
+done talking you'll get the connection
+between bone marrow transplant and
+angelman syndrome and which is still
+hypothetical but we hopefully we could
+have a therapy that could be beneficial.
+Um so um there there's I'm mult in
+multiple departments at UCLA. Uh so this
+is what I'll I'll talk about. Um I'll
+I'll cover sort of a little background
+on blood and blood forming hematopoetic
+it's a word will be on the test. uh stem
+cells and gene therapy. Um and then I'll
+talk about the work that Allison
+referred to, our work for many years on
+severe combined immune deficiency,
+that's bubble baby disease, and really
+to show you what can be done with this
+type of therapy. Um I've been at that
+for a long time. Um and we, you know,
+now we have it working well. And then
+I'll the main part of the talk will be
+about Angelman syndrome and how this can
+be applied possibly to it. And as
+Allison said, the um data in the mouse
+that was developed at Davis, which you
+heard yesterday from Colin from my lab,
+we've completely been able to reproduce
+the exact same amazing findings in the
+mouse model, underlies the idea of
+bringing this to patients.
+Uh so first the part about blood and
+hematopotic stem cells. So um we don't
+all think about blood very much, but if
+we take a drop of blood and put it on a
+slide and stain it, these are the type
+kind of cells that we see in blood. So
+there's the red blood cells that are
+basically packed with hemoglobin and
+carry oxygen. There's a different type
+of white cells that are mainly immune
+cells and there's the little platelets
+down in the corner that stop bleeding.
+So all of those cells come from the
+hematopoetic or blood forming stem cell
+and those are mainly for us in the bone
+marrow. And so on on your left there in
+in the box are the hematopetic stem cell
+sort of like the parent cells for the
+blood cells. And so over our life that
+population of cells divides and self
+renews and maintains a compartment. But
+then some of them go on to change and
+differentiate to make all the mature
+blood cells shown at the right. And so
+clinically if we want bone marrow stem
+cells to transplant the the classical
+way is doing a bone marrow harvest. So
+it's an operation where patients the
+donor is asleep with needles into the
+back of the pelvic bone. We extract bone
+marrow. That's largely been replaced
+now. although occasionally we we do take
+bone marrow. Um, another source is the
+umbilical cord blood. So it turns out at
+the time a baby is born, they have these
+same hematopotic stem cells in
+circulation. So if you capture the blood
+that's in the umbilical cord, which is
+the babies, you can use that to
+transplant. Usually there's enough cells
+to transplant a child, not often enough
+for an adult. And what's most used
+commonly now are mobilizing the stem
+cells from the bone marrow into the
+peripheral blood and collecting them.
+I'll show you a diagram of that. So
+mobilize peripheral blood. And so the
+way I think of these cells is that the
+stem cells are the babies. They have
+their whole life ahead of themselves.
+They become any type of cell. Then in
+the middle are the teenagers that
+divide, make lots of noise. And um then
+at the right are the the adult blood
+cells that go to work, do their jobs.
+And just one one other point at this
+point, there's a protein, a marker on
+these cells called CD34. And you'll see
+me refer to it several times. It's not
+exclusively on the stem cells, but it's
+on the stem cells. sort of the other
+early cells. So a lot of times when
+we're processing cells from a patient,
+we'll select those that have that marker
+just to enrich our targets.
+And and so hematopotic stem cells or
+bone transplant has been around for more
+than 50 years and mostly it's done for
+people with cancer leukemia. So stem
+cells from those sources I talked about
+bone marrow mobilized peripheralic cord
+blood mainly it's for people with
+leukemia that didn't respond to the
+initial therapy and so we need to give
+them higher doses which will basically
+wipe out their marrow so then they get
+the transplant as a rescue from that. So
+treating high-risisk cancers and
+leukemia by allowing higher doses of
+chemotherapy that would otherwise be
+possible hopefully to cure the leukemia
+and using the stem cells basically as a
+rescue. So that's probably 90 plus
+percent of transplants that are done. A
+small number are done when there's
+marrow failure. So there's a condition
+called alastic anemia where the bone
+marrow stops working. Can also happen
+after exposure to some drugs or
+radiation. But we're interested in
+number three. And it can be used to
+treat genetic diseases. basically if
+they're of blood cells or blood related
+cells by replacing the patient's
+genetically deficient cells with normal
+cells either from a donor or in our case
+taking the patient's own cells and
+making them normal by adding the gene
+that they're missing.
+And this approach has been shown to cure
+a number of diseases. And so um on the
+right there might be a little smaller
+are just a whole list of various
+diseases sort of next to the cell type
+they're involved with um where
+transplants have been done in patients
+and shown to be curative. And so by
+giving them a normal stem cell they can
+make the red cells they need that for
+example for cickle cell disease or the
+immune cells for skid and you know on
+that list in in yellow is angelmen with
+a question mark so we don't know if
+it'll work but other diseases in that
+group X linked adrenal lucadistrophe
+metacchromatic lucadistrophe the the
+mucopolyaccharidosis hurlers hunters
+MPS3 all those have been treated
+successfully by giving bone marrow and
+some of those bone marrow stem cells
+monocytes that go into the brain that
+provide the missing enzyme. And that's
+the that's the supposed mechanism by
+which angel would would um respond.
+And and so the major barrier from
+transplanting cells from one person to
+another are the immune system. Unless
+you're going between identical twins,
+there are going to be differences that
+are detected by the immune system. So in
+a healthy patient the normal patients
+the recipients te- cells can reject the
+donor cells unless they get high dose
+chemotherapy and immune suppression
+beforehand. But also the flip side can
+occur some of the donor's te- cells that
+come along with the bone marrow or the
+mobilized peripheral blood in the new
+body they're in can see it as foreign
+and react against it. That's called
+graph versus host disease. So the
+grafted cells are attacking their new
+host thinking they're just trying to get
+rid of something foreign. And as a
+clinical transpler, that's what we spend
+a lot of our time dealing with that
+complication. It's won't happen from an
+identical twin. It's possible with a
+matched brother or sister who's a sort
+of a a full match. They're still not
+identical. And higher if you go to a
+parent or an unrelated donor.
+And and so then just sort of to step
+back and put into perspective what we're
+talking about gene therapy overall is an
+area that over the last 30 40 years has
+developed as a way of treating genetic
+diseases and sort of can the world can
+be divided into Xvivo which what we'll
+talk about or invivo. Invivo is where
+you put the missing gene right into the
+body directly. That's often done with
+AAV vectors that we've heard about. Um
+or you can put in editing reagents like
+crisper or you can put an ASO is to me
+sort of a type of gene therapy where
+you're manipulating the genes by putting
+something directly into the body. And
+for example, the first approved gene
+therapy in the in the US was for an eye
+disease where they put a virus carrying
+a gene missing in a in the cells in the
+back of the retina to restore vision.
+And this has been looked at and there
+are are drugs for musculardrophe going
+into the brain um into the liver cells.
+Um and the other half of the universe is
+Xvivo where you take the cells out
+manipulate them in the laboratory and
+then return them. So we can really only
+do that with the blood cells, the
+hematopotic stem cells and TE-C cells.
+And then sort of the hot new delivery
+method that's being looked at are lipid
+nano particles. So the same sort of
+material that's used to deliver the
+COVID vaccine can be targeted to be
+given like as an injection and go to a
+specific tissue and for example release
+crisper editing reagents.
+And so we're going to talk about
+hematopotic stem cells as a target. But
+just sort of put it in perspective of
+where that f fits in the whole field of
+gene therapy. And then just one other
+comment is that all these gene therapies
+we're talking about are to manipulate
+the patient's body cells, the sematic
+cells, but not the germ line. We don't
+want what we're doing to get into the
+human gene pool. We're not smart enough
+yet to to do that. And so part of
+getting reviewed and approved by the FDA
+is to demonstrate if you're doing invivo
+that you will not get into the germ line
+and have that be sort of a permanent
+change that could get passed along.
+And so sort of the hypothesis for for
+this is that gene therapy using
+autotogus or the patient's own
+hematopotic stem cells provides a donor
+for every patient themselves. So you
+don't have to look for a donor and it
+will completely eliminate those risks of
+graph versus host disease. And it also
+then makes the transplant easier. You
+don't need to immune suppress the
+patient before the transplant to prevent
+rejection or afterwards to control graph
+versus host disease. But as we've
+learned, you do do need to make some
+space in the marrow for the cells to
+engraft. And that's done that's called
+conditioning. And I'll I'll talk about
+that because that's kind of one of the
+the biggest issues involved.
+And so from an engineering standpoint,
+the technical challenge is to get the
+normal gene into that long-term stem
+cells because those last a lifetime and
+can be transplanted and will last a
+lifetime in the patient that gets it.
+All the other cells to to your right of
+that are sort of short-term cells and
+will last weeks or months, but won't be
+permanent. So a lot of the early
+learning in the field is what are those
+stem cells and how do we manipulate
+them? And the way we do it are either
+adding a gene like with a virus that
+I'll talk about today or now we can also
+edit the genes in the stem cell with
+things like crisper where we can fix a
+mutation and then it will be passed
+along to all the blood cells that'll be
+made. It's estimated that each stem cell
+once it starts dividing makes literally
+billions of other blood cells and if you
+get the gene in it permanently that will
+get passed along to all the cells that
+are made.
+And and so just a little about the gene
+delivery tool that we're using or
+vector. So for stem cells that are going
+to divide, you really need to get the
+gene to go into the DNA of the target
+cell. So it gets copied every time the
+cell makes a new copy and gets passed
+along. So AAV does not do that. And so
+AV although it's efficient delivery, it
+doesn't get into the DNA and so it would
+get diluted out once the cells start
+dividing. And so we've mainly used a
+class of viruses called retroviruses.
+and one of their submembers called a
+lentivirus. So in the laboratory we
+clone the needed gene into the virus
+packaged into a viral capsid and then
+added to the cell. So that sort of arc
+is the membrane of the cell. Then the
+the genotic genetic information in the
+virus gets copied into DNA and goes into
+the chromosome and integrates
+permanently. So it becomes just part of
+the double helix. You've got this little
+gene unit that you've added and for
+example it could be UB3A expressing that
+gene. So in fact there's UB3A going into
+the DNA. And so this technology was
+developed sort of in the middle 80s
+about I just shame to say when I came
+into the field and it's really been
+developed to a point where it's really
+very quite efficient now at modifying
+stem cells.
+And so this is again sort of another
+cartoon of of the process. So we start
+with the patient, we collect their stem
+cells and then in the laboratory we can
+add a gene from the top with an
+integrating virus that will go into the
+DNA of the cell and be there permanently
+or coming up from the bottom we can edit
+the cells now with crisper. uh crisper
+is generally better for sort of fixing
+single mutations but adding a gene will
+fix any will override any mutation in
+that gene and then before the cells go
+back in um they the patients will get
+some conditioning chemotherapy to make
+space in their marrow so we give the
+cells back they they they can land and
+grow and I'll show you cartoon of that
+and then the cells are given back to the
+patient and the transplant is actually
+the easiest part it's not a surgery it's
+just an infusion of cells like a like a
+blood transfusion.
+And so this is showing a person giving
+mobilized peripheral blood. So they get
+a growth factor GCSF nupagen that makes
+the white cell count go up. Turns out it
+also causes the stem cells to leave the
+bone marrow and go into the bloodstream.
+So after five days of GCSF sort of
+boosted on the last day with another
+medicine purify
+stem cells in the circulation. So all we
+need to do is collect blood from the
+patient. So this process called
+lucaparesis, some of the patients blood
+goes out through an IV line, goes into
+that centrifuge that collects the stem
+cells, then everything else goes back to
+the patient. So over the course of about
+3 four hours, we've taken their entire
+blood product, blood volume through the
+machine two or three or four times and
+skimmed off all the stem cells, but
+returned everything else to them. So
+when they're done, they they still
+should have all their other blood cells
+and not really have a problem from it.
+So this is done usually in a clinical
+setting. for kids, we bring them into
+the hospital and do it um in the
+hospital. And then you get what's shown
+in the bottom right, a bag of basically
+white blood cells that are very enriched
+for stem cells.
+And so then this is showing the
+processing. So upper left is the patient
+getting lucaper in the unit. Then they
+go to what we call GMP or good
+manufacturing practice lab. That's the
+ultra clean room like where you can make
+um computer chips or we're making cells
+for patients. So we don't want any risk
+of contaminating their cells with you
+know the the bacteria that are on the on
+the workers. So everyone's gowned and
+gloved and masked and the air is ultra
+filtered etc. The stem cells are brought
+there. They're processed to isolate the
+CD34 enriching for the stem cells and
+they're cultured for two days typically
+to add the virus with the with the
+missing gene and you know one day that
+will be UB3A and then we freeze the
+cells. So they're only in culture for
+two days. We freeze them down and
+besides the main bag of the cells, we
+have several vials of the same material
+that we can then thaw to test to make
+sure every cell took up the gene that
+it's sterile. So, we have a whole list
+of criteria that are are listed there.
+And the cells have to pass 100% of their
+criteria to be able to be used and
+they're released by the quality
+assurance unit of the GMP. Um, and then
+they're ready for the patient and then
+they're just infused as shown there
+through an IV.
+And so the elephant in the room I think
+in in transplant is conditioning as we
+refer to it. And so conditioning is
+where we give chemotherapy to make
+space. And in different types of
+transplants we'd either sort of give
+full condition where we really try and
+wipe out basically all the bone marrow.
+So all the cells that grow afterwards
+come from what you gave back or in some
+cases like skid we only need to do that
+partially or in some cases we don't do
+that at all. So here's my Los Angeles
+sporting college team analogy. So if
+your marrow is filled with all these USC
+footballs and then um you either you
+give no conditioning, full conditioning
+or reduced intensity, that's kind of
+what you have afterwards. So if you give
+no conditioning, there's very little
+space in the stem cell niche. If you
+give give full conditioning, you've
+really opened things up for cells to
+engraft. And if you give sort of an
+intermediate amount, you open up some
+space. And now we give the UCLA
+basketball stem cells.
+And so with no conditioning, there's
+very little engraftment of the cells.
+And we actually had a trial in the early
+2000s where we started out not giving
+conditioning. We didn't get engraftment.
+We then this is again for skid patients
+that we started giving conditioning and
+everyone engrafted. So in that study, we
+kind of proved at least in that setting,
+it's essential to make some space. And
+if you fully abladed the marrow with
+highdose chemotherapy, then you
+basically it's taken over completely by
+the cells you've given back. And that's
+what I think we'd want to do for
+Angelmen.
+But this this is again the probably the
+most difficult part of a transplant, the
+conditioning. So the conditioning
+currently used prior to infusion of the
+gene modified cells is a chemotherapy
+drug called buculan. And it's given over
+three to four days before the transplant
+only. So it's not like multiple courses
+of chemotherapy. It's just four days of
+getting this drug twice a day typically.
+And that will completely wipe out the
+bone marrow stem cells. And actually the
+patients are usually okay the days
+they're getting it. So it's kind of
+different than if any of you have
+experience with a relative getting
+chemotherapy. It's really over the next
+few weeks that they they will have the
+effects of that. So some of those
+effects are are listed there. So they
+may get a condition called mucousitis
+where the mucous membranes of the mouth
+are irritated because they're a dividing
+cell. So the chemotherapy hits them. And
+so often the patients for a week or two
+won't really be able to eat and we'll
+need to get introvenous feeding might
+need pain medicines. So that's kind of
+again the the hardest part of it but
+people get through that but it's it's
+challenging and and certainly may be
+more challenging in patients with
+Angelmen. Um typically from that amount
+of chemotherapy the hair will fall out
+in a week or two but it comes back. Uh
+but you know again for some patients
+that's very upsetting obviously. Um
+there may be nausea and vomiting
+although we really have very good drugs
+now to control that. So usually there
+isn't a lot of that. Um rarely the drug
+can cause liver damage. mainly we see it
+in people who've had a lot of
+chemotherapy before like for leukemia.
+Um and one of the other side effects
+that may cause infertility because the
+egg forming cells and the sperm forming
+cells are also sensitive to the
+chemotherapy. And so there are ways in
+advance to preserve egg or sperm for um
+future use if if interested. Um and then
+there's hypothetically low risks of late
+cancer or lung problems. We haven't seen
+that really very commonly, but that
+that's it's it's at least a risk. Uh and
+so that's again, you know, I think it's
+important to really address that because
+that's the hardest part of a of a
+transplant. So that means getting your
+child through a couple of weeks which
+they're they're not very happy. They
+need medicines. They need introvenous
+feeding, meaning they'll need to have an
+introvenous line that whole time.
+There are a lot of new things coming
+along, ways to replace the chemotherapy
+with antibodies to stem cells to
+eliminate them without really those kind
+of complications. They're not quite
+there yet. There there's it's promising.
+Then there's also sort of the the
+challenge of getting it commercially
+approved. So I think in five years or so
+maybe we'll be able to stop using
+chemotherapy.
+Uh so then just sort of more about the
+transplant. So on your left that's nurse
+Lindsay bringing Ava's transplant
+bucket. So every child before their
+transplant, we fill up a buck with all
+the tubes and connectors and everything
+they might need. In the middle is that
+tank that looks sort of like R2-D2.
+That's a liquid nitrogen transport tank
+that has the stem cell in there. And
+then on the right is the thawed stem
+cell bag. And so you can kind of see
+there's an air fluid level. So the
+little bit of cloudiness below that,
+that's the stem cell graft. So that
+might be a 100 million or 200 million
+stem cells. and that will be enough to
+repopulate their bone marrow and make
+their blood cells for the rest of their
+life. So that's kind of the most amazing
+part I think. And so here's a here's a
+patient who had skid getting his
+transplant. And so on the left you can
+see that syringe is kind of cloudy.
+Again, those are his stem cell graft.
+The tube on the right is just the saline
+flush. So those cells are just over five
+or 10 minutes. They're slowly pushed in
+through their IV line. They get into the
+body. they they go through the body and
+they'll make their way to the bone
+marrow and stick and start growing.
+So that's sort of the that's sort of the
+background on stem cell transplant. Um
+and so now I want to talk about our
+experience with severe commit immune
+deficiency to show you what what can be
+done and what what the results can be.
+So this is a a famous child for those of
+you who are of my generation. This is
+David Veter, the boy in the bubble. So
+this was a young man who was born in
+Houston, Texas in the early 70s. His
+younger brother had just died of the
+recently described disease called Skid.
+So at birth he was put into isolation,
+tested and found to have it. And he he
+was tested and his one sister was not a
+match. So there wasn't a way to
+transplant him. So he was kept in a
+sterile environment for 13 years. So it
+was very much in the media because
+what's mankind country that were keeping
+people in bubbles and eventually he had
+a transplant from his sister and died of
+complications at 13. Um and he had that
+disease severe combined immune
+deficiency.
+And so we've worked on this disease
+again since I've been working on it
+since the mid 80s. Um and this is the
+work since I've been at UCLA of over
+time all the patients we've
+transplanted. So we've done multiple
+trials iteratively trying sort of
+version 1.0 0 seeing what worked, what
+didn't work, coming back with version
+2.0, and we're sort of currently in
+version 3.0, which is on your right,
+which is using a lentiviral vector. So,
+lentiviral vectors are what are mainly
+used now for putting genes permanently
+into hematopotic stem cells. And it
+needs to be said they're derived from
+the HIV virus. That's lenti is the class
+of viruses that belongs to. All the
+virus genes are removed and replaced by
+the gene to be carried. and they've
+never caused a problem like causing
+immune deficiency like like AIDS, but
+they're actually very well adapted at
+getting into human cells. So, we've done
+a number of trials with that that virus
+that I'll tell you about. So, that's the
+map of the virus. So, let me kind of
+walk you through it. So, in the middle
+is the human ADA gene and we've tweaked
+it. We've cod and optimized it. So there
+are different letter combinations like a
+AAA and a AAU and AAC that code for the
+same amino acid bey put into the protein
+and cells have favorites and so if you
+change the sequence to have the
+favorites you make the same protein but
+you make it more efficiently. So it's
+coden optimized ADA sequence and then
+the promoter in front of it that as we
+heard yesterday from that great talk by
+Dr. James is sort of the control unit
+that drives it is from a cellular gene
+called elong elongation factor short.
+So, it's a promoter that will drive
+production of a gene, but it can't
+interfere with nearby genes. And as I'll
+show you, we we have a great deal of
+safety data. And so, we actually
+developed this jointly with colleagues
+in in London. And so, over the last
+decade, we've done trials in parallel,
+same batches of vector, same protocol.
+And um I'll show you as of now, we we've
+reported 62 patients treated. This was a
+little earlier when we did trials both
+in in London and at Los Angeles.
+So this is sort of the the patient
+journey through the gene therapy. So the
+first part is talking to the family
+discussing risks alternatives etc. And
+if they agree having them sign the
+informed consent then having screening
+tests just to make sure they meet the
+criteria and it's things like echo EKG
+blood tests to just to make sure they're
+they're healthy enough to go through the
+transplant. If they are then they then
+come into the hospital for the stem cell
+collection. So they'll get injections
+five days in a row of GCSF. They'll get
+a dose of that drug puriferesis
+for one or two days to collect their
+stem cells. Then they go home the next
+day. The cells go to the laboratory for
+doing the kind of processing I talked
+about. So we isolate the CD34 cells. We
+add the lentiviral vector with the
+normal ADA gene and freeze them down to
+cryopreserve them. And then it takes
+about a month or so to test them to make
+sure they meet all those criteria. I
+talked about sterility took up the gene
+etc. And then when we know that the
+cells are are good and they're signed
+off by the QA unit, the patient comes
+back for the second admission. And this
+is the transplant admission. So they'll
+come into the hospital, they'll get a a
+central line placed, either a long IV
+line, a pick line in their elbow or
+actually a surgically placed central
+line that can stay in for months are are
+quite secure although I have seen once
+two kids pull them out. And then they'll
+starting that day, we'll give them their
+their chemotherapy. So showing bulfin on
+Monday and it turns out that the
+metabolism of bulfin differs a lot
+person to person. So we actually
+personalize it. We measure how quickly
+the person cleared that first dose and
+we adjust their later doses to try and
+total um area under the curve or
+exposure to the drug. And so we've
+gotten much better at at targeting it
+precisely. And then um on Friday, so it
+start on Monday. On Friday they get
+their cells. So again we bring the cells
+to the bedside we thaw them. We infuse
+them. and they're kind of done with the
+transplant and hopefully it it will have
+an effect, but then they have that few
+weeks afterward from the side effects of
+the chemotherapy.
+And this was the frozen trial. This is
+the first time we did frozen cells. We
+call it the frozen trial.
+And so we've done this now for um around
+50 more than 50 or 60 patients with with
+this antiviral vector. We did some
+earlier ones and this is just a map of
+where they came from. So rare diseases
+like this, the patients are not all in
+Los Angeles. So they're all over and we
+basically had patients from the US and
+Canada. So I actually got better at
+relearning my Canadian geographies I
+learned in third or fourth grade. Uh so
+there's arrows from the different trials
+showing where the patients came from.
+And so you we would bring the families
+out to Los Angeles for the stem cell
+collection they would go home. They
+would come back for the collection and
+while they're there we'd have the
+patient stay at Ronald McDonald House or
+a hotel like that. And uh usually in our
+transplant unit one patient can sleep
+one parent can sleep in the room
+overnight.
+And so we reported our results. Uh this
+is now four years ago. This was a report
+of 50 patients, 30 treated by UCLA, 30
+at Great Orman Street Hospital in London
+with this approach that I talked about
+using CD34 cells that lentiviral vector
+lower dose bulfan. And what we reported
+was 100% of the patients were alive and
+well and they still are to the present
+time. And 96% of them were event-free
+survival. So we define an event sort of
+it failed and they need to go back and
+have a transplant. And so we had four we
+had two patients the initial group where
+the cells just didn't grow and they
+needed to go back on the enzyme and then
+then have a they had a transplant later.
+Uh and then so we just had another paper
+come out two weeks ago sort of following
+that cohort plus another 12 that were
+done in London sort of a year later. And
+so in this paper we reported 62 patients
+with ADA skid treated again at UCLA and
+Gosh between 2012 and 2018. So now we're
+reporting how do they look a decade out
+basically. So what the time we analyze
+the data was 2023. So actually they're
+two years beyond that point now. And
+what we're able to report was that it
+was completely persistent and stable. So
+all the patients had stable. We measure
+the the gene and the blood cells in the
+circulation. We measure their te- cell
+numbers etc. no change after the first
+six months or so and really quite quite
+good. They had good immunity. There were
+no complications from the gene therapy
+or from the vector in any of our
+patients.
+And then this is just one graph. It's
+kind of small, but just shows different
+T- cell populations that we measured
+over time are all stable out to 10 to 12
+years. And so we we hope this will be
+stable for their lifetime. We don't know
+that yet till we follow them for their
+lifetime, but it really looks like this
+is persisting. And so that's, you know,
+that's obviously very important to have
+a long-term effect. So the stem cells
+that we took out of the body, put the
+gene into, put back are still now in the
+bone marrow making blood cells.
+And in fact, at least 18 different blood
+cell diseases or genetic diseases have
+been treated by this approach. So this
+is a list that I sort of keep myself of
+all the diseases that have been reported
+in clinical trials or at meetings
+treated by this approach of lentiviral
+vectors putting the missing gene into
+hematopetic stem cells. And so on the
+list the top two on the left are genes I
+mentioned before adrenolucadistrophe and
+metacromatic lucodistrophe which are
+neurodeenerative disorders. And by
+giving them gene corrected bone marrow
+and getting cells going into the brain
+they make the missing enzyme and really
+stop the neurodeeneration. and the on
+the top right MPS one and three are also
+similar uh diseases like that have been
+treated and so angelin has not been
+treated by a bone marrow transmitter by
+gene therapy yet but if it follows the
+rules that these other diseases did it
+should be beneficial so in all these
+trials lentiviral vectors have had an
+excellent safety profile one exception
+being actually an ALD and Allison
+referred to this that virus they used
+had a mouse retrovirus element driving
+the gene and those can cause a problem
+and coming soon we're working on
+alphathalmia but we're also working on
+angelman syndrome and hopefully they
+will be on this list in a few years as
+having been successfully treated. So let
+me talk now about how this would apply
+to Angelman syndrome.
+And so this is another view of the
+hematopotic stem cells making blood
+cells. And the important thing is on the
+left one of the blood cells that's made
+are monocytes. And monocytes are cells
+that become mainly become macroofagages
+or big eaters and they're in tissues.
+They're in the blood. Some subset of
+those monocytes cross the bloodb brain
+barrier and turn into microgallike
+cells. The afficionados don't allow us
+to call them true microglea because
+those only happen in the embryo, but
+they functionally are microgal cells.
+And then this is sort of a little more
+complicated version. So on your lower
+right shows that in uterero cells from
+the bone marrow go into the brain and
+form the micro gal cells that you're
+born with. But post-natally after you're
+born, cells from the bone marrow can
+make monocytes that can go across the
+brain and make microgallike cells. And
+that's accelerated by a bone marrow
+transplant. And in fact, the bulfan
+besides increasing engraftment into the
+bone marrow also increase engraftment of
+microgal cells into the brain.
+Um and then the the other aspect of this
+is cross correction. So the the UB3A
+gene that was developed with by FAS with
+um the group at Davis is designed to
+actually have the protein be secreted
+from the micro gal cells so it can be
+taken up by the neurons. And I think
+that's kind of this the secret sauce of
+this. And so if you got these microgal
+cells that came from the stem cells with
+the gene, they actually can release the
+protein and cure the neurons around
+them.
+And so uh actually Colin showed a
+version of this yesterday where the
+procedure then is collecting the stem
+cells from the patient adding the virus
+with the UB3A gene transplanting them
+back in and over time they will then
+make microgle cells in in the brain.
+And so this is a slide from the work
+done at at UC Davis and they they really
+pioneered this work and we're kind of
+really riding in their wake. So they
+made a lentiviral vector and this was
+the one made from mouse. It has the
+mouse UB3A gene and it uses that
+retroviral promoter to drive expression
+of the gene. So it's it's very strong
+and make a lot of the product and they
+did very nice work in the mouse model
+again as Allison said curing all aspects
+behavioral that's the the graph on the
+bottom right is uh delta power showing
+that it's hard to read but the the delta
+power in the transplanted mice was as
+good as in the neurotypic wild type
+mice. But the problem was the promoter
+element they used is the one that was
+shown sort of about as this work was
+being done in ALD to have risks of
+triggering leukemia.
+And so um and this is a paper describing
+the ALD studies where patients were
+cured of their disease by the gene
+therapy but over time an increasing
+numbers of them developed sort of an
+early pre-lukemia and some of it went
+out to leukemia because that viral
+element turned on cellular growth genes
+and that's kind of been known as a risk
+and so most of the field has moved away
+from from using that um and instead
+using like we use for the ADA that that
+has a very good safety record. So our
+primary goal when when Allison first
+came to us was to make a vector that
+would work as well as the other one but
+that was safer that would have control
+elements that wouldn't risk turning on
+genes near where they land
+and then ultimately that comes to now
+translating this to a clinical trial of
+gene therapy
+and so the work that I'm going to
+present now was done by Roger Hollis is
+the lead scientist Christopher Luther's
+who spoke here last year and who is
+amazing um started work and then Colin
+Jwitt who spoke yesterday has been
+carrying it on since since Chris off
+Chris Chris finished his PhD and is at
+the CDC to become an epidemiologic
+intelligence service officer which will
+be great for the world but we we miss
+him and so they made a series of
+lentiviral vectors that have the UB3A
+gene in them and use different promoters
+so we made one like the Davis one with
+the M &D promoter as our sort of
+comparator or then we used one with an
+EFS promoter that's in our ADA vector or
+another promoter or PGK that's also been
+used in a number of clinical trials and
+been shown to be safe. And so our
+question was can we make one that will
+work as well as the M &D1 with a with a
+better safety profile.
+And so this is a western blot showing
+the level of expression of UB3A protein
+are those bands and the two on your left
+are our new modified vectors. And again,
+we did that trick of codon optimizing
+the gene. So it makes more protein. And
+by doing that, we're actually making
+more copies of the pro more amount of
+the protein than the one with just the M
+andd promoter driving the wild type
+gene.
+And so then we went out to do a number
+of studies again following what Davis
+had done and guided a lot by Allison and
+Jennifer on these studies taking these
+different vectors putting them into the
+mouse model and then doing behavioral
+and EEG and uh histoemical studies and
+I'll just show you a little of it
+because again Colin presented this
+yesterday. So we used either the EFS
+driven promoter the PGK or we didn't
+modify the cells we just mock
+transplanted cells that still were not
+corrected or we took bone marrow from
+wild type neurotypic mice or from the
+angel mice. We had five groups of mice.
+This graph is just showing the level of
+engraftment. The panel on the left we
+actually always used male donors into
+females. So we could measure how much
+cells are engrafted by measuring the Y
+chromosome for the male cells. And so
+the the the groups at the top uh were
+the ones that um in in the blood are um
+uh in are the two different vectors PGK
+and E EGFP and sorry EFS and PGK. So the
+the bands in the middle are in the blood
+and the bone marrow. So we have 80 90%
+engraftment of the donor cells. And then
+the lower left of that panel are
+measuring the male cells in the brain.
+And so they're there. about 100fold
+lower, but that's because most of the
+brain has other cells in it. And then on
+the right is measuring the vector copy
+numbers where you have about one to two
+copies of the vector in the blood cells.
+And again, the brain lower, but still
+about a half a percent or so of cells
+with the the gene in the brain. And then
+we saw all the same kind of amazing uh
+behavioral improvements. So this is on
+the left, open field that measures sort
+of their mobility. And the lower two
+bands are the untreated angelman mice or
+those that got just angelman marrow. And
+the bands above it are the ones that got
+either the wild type marrow or with
+either of our vectors. The roto rod
+assay that we saw a nice video of
+yesterday shows that the mice that got
+gene therapy performed as well as the
+wild type mice in terms of their ability
+to stay on the the rotating rod. Um and
+then these are other measurements of
+cognitive function novel object
+recognition. And again, the gene therapy
+mice performed as well as the wild type
+mice as Davis had shown with with their
+vector.
+And then here and here's the EEGs.
+Um, and so sort of our conclusion from
+the mouse studies that again Chris
+presented last year when we were sort of
+mid-stream of those and now Colin has
+finished up and we have a paper that's
+under review. Both the EFS and the PGK
+driven vectors had improved expression
+over the potentially encoenic M andD
+vector. The treated mice showed improved
+motor and cognitive function during
+behavioral assays. The treated mouse
+delta powered measured by EEG was
+reduced to wild type levels. And the
+iminochemistry, which I didn't show,
+Allison actually showed some very nice
+pictures yesterday on the brain slices
+showed that the protein is being made in
+the brain. And we can actually see it in
+the neurons. So presumably it's leaving
+the micro gleal cells and being taken up
+by the nerve cells.
+And so you the question is you know mice
+are mice and can the excellent benefits
+that we see in the mouse models will
+that bear have any bearing on what we
+see in patients. Um and again the mice
+that we treated they were transplanted
+about 6 to 8 weeks of age which sort of
+like a late teenager in in human
+development. And so they weren't infant
+mice and so at least at that age uh
+there there was benefit that that
+persists. We've studied, we usually
+study them about four months later.
+And so with uh fast and with
+transformatics, we applied to the
+California Institute for Regenerative
+Medicine, our our stem cell uh funding
+agency in California for a grant to ter
+carry this forward. And so the grant is
+a trans one, which is a translational
+grant. Um and our goals are to start out
+by having the vector that we made in our
+laboratory made under commercial
+standards. So it would be suitable for
+human use. and that's going on right
+now. And then that same manufacturing
+company will be the one that will make
+the cells for the patients. Uh then we
+need to do various tests for safety. So
+put the cells into immune deficient mice
+for example and make sure they don't
+cause any complications. We'll need a
+clinical protocol which is drafted but
+we need to sort of finalize that the
+informed consent document for a trial
+and then we would meet with the FDA. And
+so to do a clinical trial any new
+substance, you need an investigational
+new drug or IND permit from FDA. And FDA
+is very helpful at letting you meet with
+them in advance. And so a preINDD
+meeting is when you meet with them and
+tell them what your plans are, show them
+the data you have so far and they will
+tell you is that enough or what else you
+need to do to apply for approval. And so
+we'll have a preINDD meeting. We'll do
+whatever studies additional they they
+want us to do and they would submit that
+application to the FDA to do a clinical
+trial. So the hope is to open up a trial
+for this within a few years.
+And so I'll just leave with some
+questions. You know, there there's a lot
+of unknowns obviously and as a physician
+and as a scientist I try and you know
+deal with reality and you know so I
+think there's a lot of things we we
+don't know. We we know it works well in
+mice but for example first of all will
+it be feasible for Angelment patients to
+undergo this procedure? it means about a
+month or more in the hospital with IV
+lines um and going through and getting
+recovering from the chemotherapy. So,
+it'll be a challenge for the patient and
+the families, but we we've done other
+people with um disabilities and gotten
+them through the transplants. Um will it
+be safe? Are there unique problems
+inherent to Angelmen that might get
+might make it more risky? And then
+ultimately, will it be effective at
+improving their clinical features?
+That's that's what we're hoping to see.
+So I will stop there and just show you
+this is my lab group as of last summer.
+So we have little army of people
+working. Colin's way in the back of the
+picture.
+And then this is our acknowledgement
+slide. So again the work at our lab
+Roger Hollis is leading it. Chris Luther
+did a lot of the initial work. Colin is
+finishing up with a number of other
+people assisting him. We've had a number
+of labs at UCLA that assisted us. And
+then we've done this very much as a
+partnership with FAST. And then we have
+the recent funding from SERM that
+hopefully will let us take this to the
+clinic. And I'll stop there. Thank you.
+Sorry about that. Thank you so much for
+such a great presentation and really
+really important work. Um obviously all
+individuals with Angelman syndrome are
+missing a functional copy of UB3A
+but as we heard yesterday many with the
+deletion genotype may also be missing um
+or hapo insufficient for many genes. If
+this is proven to work do you foresee a
+future where maybe individuals could
+receive an individualized set of genes
+for those that they're they're needing.
+>> Yeah. So it's as very hard to hear up
+here the the echo but I think the
+question was about would this work for
+people with deletion if if that's was
+that the main point of the question
+>> can the the other genes so yeah I don't
+know that and so this is my first time
+here so I I I that's a question
+obviously I've been thinking about a lot
+since being here and a question is
+should we start just with people with
+mutation um and then see that works we
+also need to get the mouse with the
+deletion and and test if you just
+replace the gene. If you need to replace
+the other ones, then you know you you
+could you could probably put two genes
+in the same vector, but if you need
+multiple genes, it might be more
+challenging. Uh there are techniques
+being developed to put larger pieces of
+DNA into cells and they work in the
+laboratory, but not very efficient for
+primary stem cells. So I'm not I'm not
+sure how how that would be approached.
+Um, and I, you know, hopefully the
+research will hone down what are the
+other critical ones in the deletion area
+and maybe one or two of those could be
+added at the same time.
+And something else just to add related
+to that is that we all know UB3 is the
+major gene that dramatically impacts
+phenotype. The other genes may
+contribute, but it also might be
+marginal. So I think with all the
+therapies being developed for deletion
+or any genotype UB3 replacement is the
+first step and then dealing with the
+other genes maybe a different modality
+an ASO a crisper editor a different
+technology that might be piled on top of
+something like this I don't think this
+technology will solve all of it
+certainly not for the next 10 years
+>> one question back there and then we're
+going to move
+Okay. I was just wondering um would this
+work for patients with UPD?
+>> Do you want me to answer that?
+>> Yeah.
+>> Okay. Um yes. So just like any gene
+replacement therapy, any genotype that
+is loss of function, meaning not
+producing, making or expressing UB3A,
+which would be deletion, loss of
+function, mutation, UPD or ICD or even
+mosaic would all benefit potentially
+from replacing UB3A. So this would
+likely be um genotype agnostic outside
+of mutations that could have any gain of
+function or dominant negative effect. So
+it would be any loss of function
+genotype.
+Similar to the AV gene therapy that
+we'll be talking about next.
+>> Okay. Thank you.
+>> We'll ask more questions on the panel
+and certainly reach out throughout the
+breaks. Feel free to walk up to Dr. Conn
+and tell him all about your child.

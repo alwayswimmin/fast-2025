@@ -1,0 +1,1368 @@
+1
+00:00:00,240 --> 00:00:05,279
+So now our next speaker is uh Dr. Shauna
+
+2
+00:00:02,879 --> 00:00:08,160
+Louu and many of you know her as a
+
+3
+00:00:05,279 --> 00:00:10,000
+little spitfire who um I always used to
+
+4
+00:00:08,160 --> 00:00:11,679
+say that I think that you know Yang we
+
+5
+00:00:10,000 --> 00:00:14,080
+might be the the smartest person that I
+
+6
+00:00:11,679 --> 00:00:16,400
+know and then I met Shauna and realized
+
+7
+00:00:14,080 --> 00:00:19,520
+that she might be smarter than him. Um
+
+8
+00:00:16,400 --> 00:00:20,720
+but she also speaks very fast and so if
+
+9
+00:00:19,520 --> 00:00:22,080
+you don't understand what she's saying
+
+10
+00:00:20,720 --> 00:00:24,080
+you raise your hand because I'm going to
+
+11
+00:00:22,080 --> 00:00:26,400
+make her slow down because she has so
+
+12
+00:00:24,080 --> 00:00:28,000
+much to say and she's so stinking smart
+
+13
+00:00:26,400 --> 00:00:30,080
+that she doesn't understand that no one
+
+14
+00:00:28,000 --> 00:00:33,120
+else can keep up with her. So there's a
+
+15
+00:00:30,080 --> 00:00:35,840
+lot to say, but she only has actually um
+
+16
+00:00:33,120 --> 00:00:37,200
+15 minutes, I think, uh in order to be
+
+17
+00:00:35,840 --> 00:00:38,960
+able to get through everything she wants
+
+18
+00:00:37,200 --> 00:00:40,879
+to. So slow and steady so everyone can
+
+19
+00:00:38,960 --> 00:00:43,280
+understand the amazing work that you are
+
+20
+00:00:40,879 --> 00:00:47,039
+doing. And she we asked her and tasked
+
+21
+00:00:43,280 --> 00:00:49,920
+her to create one last model, the last
+
+22
+00:00:47,039 --> 00:00:52,399
+one to ever be created, please, for the
+
+23
+00:00:49,920 --> 00:00:54,480
+large deletion genotype of Angelmen
+
+24
+00:00:52,399 --> 00:00:56,480
+syndrome, including all of those other
+
+25
+00:00:54,480 --> 00:00:58,000
+genes that we talked about outside of
+
+26
+00:00:56,480 --> 00:01:00,480
+UB3A.
+
+27
+00:00:58,000 --> 00:01:02,480
+and through incredible effort and trial
+
+28
+00:01:00,480 --> 00:01:05,040
+and tribulation, she has been
+
+29
+00:01:02,480 --> 00:01:06,880
+successful. So, I'm so excited to share
+
+30
+00:01:05,040 --> 00:01:09,360
+this with you because I hate models, but
+
+31
+00:01:06,880 --> 00:01:14,040
+this one I think is a true testament to
+
+32
+00:01:09,360 --> 00:01:14,040
+her dedication. So, Shauna, please.
+
+33
+00:01:31,200 --> 00:01:37,520
+Okay. Um, thanks for this opportunity.
+
+34
+00:01:34,720 --> 00:01:39,840
+Today I'd like to share an update of our
+
+35
+00:01:37,520 --> 00:01:42,880
+study um, the new large deletion MOS
+
+36
+00:01:39,840 --> 00:01:46,479
+model for and syndrome.
+
+37
+00:01:42,880 --> 00:01:49,520
+The commonly used UB3A XM2 deletion
+
+38
+00:01:46,479 --> 00:01:51,439
+model only represent about 10% of
+
+39
+00:01:49,520 --> 00:01:54,320
+androma syndrome patients with
+
+40
+00:01:51,439 --> 00:01:56,240
+intrangenic mutation. Since most people
+
+41
+00:01:54,320 --> 00:01:59,920
+with androma syndrome carry a large
+
+42
+00:01:56,240 --> 00:02:02,479
+leion in the chromosome 15 k1 to k13
+
+43
+00:01:59,920 --> 00:02:05,840
+region to better understand the full
+
+44
+00:02:02,479 --> 00:02:08,800
+spectrum of syndrome and to develop more
+
+45
+00:02:05,840 --> 00:02:11,680
+efficient treatment we generate a new
+
+46
+00:02:08,800 --> 00:02:13,280
+mouse model which carries a six megabase
+
+47
+00:02:11,680 --> 00:02:16,080
+large edition on the maternal
+
+48
+00:02:13,280 --> 00:02:19,760
+chromosome. This model represents over
+
+49
+00:02:16,080 --> 00:02:21,920
+70% of and syndrome patients making a
+
+50
+00:02:19,760 --> 00:02:24,920
+much closer to the typical clinical
+
+51
+00:02:21,920 --> 00:02:24,920
+presentation.
+
+52
+00:02:30,400 --> 00:02:34,720
+So last time we shared the
+
+53
+00:02:32,160 --> 00:02:38,000
+neurobbehavioral differences between the
+
+54
+00:02:34,720 --> 00:02:40,000
+large leion and the obcomize.
+
+55
+00:02:38,000 --> 00:02:42,400
+Today I will focus on what we have
+
+56
+00:02:40,000 --> 00:02:45,360
+learned from their EG recording how
+
+57
+00:02:42,400 --> 00:02:47,440
+their brain activity and sleep differ.
+
+58
+00:02:45,360 --> 00:02:50,000
+What that tells about uh of the
+
+59
+00:02:47,440 --> 00:02:53,599
+treatment development for and syndrome
+
+60
+00:02:50,000 --> 00:02:56,640
+using the EG as a biomarker.
+
+61
+00:02:53,599 --> 00:02:59,840
+We use the uh wireless EG transmitter
+
+62
+00:02:56,640 --> 00:03:02,640
+placed in a small subcutaneous pocket on
+
+63
+00:02:59,840 --> 00:03:05,760
+the back of each mice. Each transmitter
+
+64
+00:03:02,640 --> 00:03:08,239
+have four layers. Two EG lays positioned
+
+65
+00:03:05,760 --> 00:03:12,480
+to the skull to capture the activity
+
+66
+00:03:08,239 --> 00:03:15,120
+across entire cortex and two EMGs placed
+
+67
+00:03:12,480 --> 00:03:18,640
+on the tropetious muscles to monitor
+
+68
+00:03:15,120 --> 00:03:21,599
+muscle tone. By combining EG and EMG
+
+69
+00:03:18,640 --> 00:03:25,440
+signals, we could accurately assess both
+
+70
+00:03:21,599 --> 00:03:28,400
+seizure activity and sleep pattern.
+
+71
+00:03:25,440 --> 00:03:31,360
+Let's start with an example. Here's a 15
+
+72
+00:03:28,400 --> 00:03:34,640
+minutes uh EG snapshot from a white time
+
+73
+00:03:31,360 --> 00:03:37,040
+marks. You can see a stable consistent
+
+74
+00:03:34,640 --> 00:03:39,760
+baseline across all frequency band in
+
+75
+00:03:37,040 --> 00:03:43,599
+different color uh reflecting typical
+
+76
+00:03:39,760 --> 00:03:46,959
+brain activity under normal condition.
+
+77
+00:03:43,599 --> 00:03:50,080
+Next, this is an example of a cedar like
+
+78
+00:03:46,959 --> 00:03:52,799
+episode u composed of multiple spike
+
+79
+00:03:50,080 --> 00:03:57,040
+trains. These are the bursts of a highly
+
+80
+00:03:52,799 --> 00:03:59,280
+aptitude risma uh activity reflecting a
+
+81
+00:03:57,040 --> 00:04:01,200
+hypers synchronized discharge in the
+
+82
+00:03:59,280 --> 00:04:04,720
+cortex.
+
+83
+00:04:01,200 --> 00:04:07,439
+When we zoom in one of these spectrrens,
+
+84
+00:04:04,720 --> 00:04:11,120
+we can see a distinct onsite and
+
+85
+00:04:07,439 --> 00:04:13,599
+resolution, a sharp increase in delta za
+
+86
+00:04:11,120 --> 00:04:16,639
+and a beta power and a rhythmic
+
+87
+00:04:13,599 --> 00:04:19,280
+synchronization across a frequency bands
+
+88
+00:04:16,639 --> 00:04:21,519
+following a return to baseline. These
+
+89
+00:04:19,280 --> 00:04:24,479
+are classic features of generalized
+
+90
+00:04:21,519 --> 00:04:27,680
+seedl like events.
+
+91
+00:04:24,479 --> 00:04:30,320
+When we compare EEG across large leion
+
+92
+00:04:27,680 --> 00:04:32,639
+use knockout and the white time mice, we
+
+93
+00:04:30,320 --> 00:04:35,199
+found that the large leure mice showed
+
+94
+00:04:32,639 --> 00:04:38,160
+significantly more spike trends than
+
+95
+00:04:35,199 --> 00:04:41,680
+white type controls and their spike
+
+96
+00:04:38,160 --> 00:04:44,320
+occurs more often at night. The UB3
+
+97
+00:04:41,680 --> 00:04:46,960
+knock mice also had increased spike
+
+98
+00:04:44,320 --> 00:04:50,240
+activity compared to white type but much
+
+99
+00:04:46,960 --> 00:04:52,479
+less than large vision mice.
+
+100
+00:04:50,240 --> 00:04:56,080
+When we quantify those spike duration
+
+101
+00:04:52,479 --> 00:04:59,199
+and spike per second their indicators of
+
+102
+00:04:56,080 --> 00:05:03,040
+seure uh severity both are much higher
+
+103
+00:04:59,199 --> 00:05:06,160
+in the large leium mice. In the UB non
+
+104
+00:05:03,040 --> 00:05:10,160
+mice the spike trends were rare roughly
+
+105
+00:05:06,160 --> 00:05:12,960
+one shot uh event every 12 hours. um
+
+106
+00:05:10,160 --> 00:05:16,320
+lasting about one to two seconds. This
+
+107
+00:05:12,960 --> 00:05:20,080
+explains why many studies using the OB
+
+108
+00:05:16,320 --> 00:05:23,039
+in noncom that are recording AG for four
+
+109
+00:05:20,080 --> 00:05:25,360
+to six hours every day often miss these
+
+110
+00:05:23,039 --> 00:05:28,800
+rare events.
+
+111
+00:05:25,360 --> 00:05:32,080
+Next we examine the sleep patterns. Both
+
+112
+00:05:28,800 --> 00:05:35,520
+the large lean and obice
+
+113
+00:05:32,080 --> 00:05:38,000
+slept more at night than white controls.
+
+114
+00:05:35,520 --> 00:05:41,680
+Also our groups took similar daytime
+
+115
+00:05:38,000 --> 00:05:44,240
+naps. However, the quality of nighttime
+
+116
+00:05:41,680 --> 00:05:46,800
+sleep was very different.
+
+117
+00:05:44,240 --> 00:05:49,840
+The large leium mice had the longest
+
+118
+00:05:46,800 --> 00:05:53,120
+resting wake apparas, meaning they were
+
+119
+00:05:49,840 --> 00:05:56,960
+awake but not fully alert, reflecting
+
+120
+00:05:53,120 --> 00:06:00,800
+lighter and less restorative sleep. Both
+
+121
+00:05:56,960 --> 00:06:04,000
+mutton groups showed a a shorter active
+
+122
+00:06:00,800 --> 00:06:06,639
+w active wave PRS compared to whiteab
+
+123
+00:06:04,000 --> 00:06:09,840
+especially large leion.
+
+124
+00:06:06,639 --> 00:06:12,800
+When we broke this down by sleep stage,
+
+125
+00:06:09,840 --> 00:06:16,160
+slow web sleep which indicated the deep
+
+126
+00:06:12,800 --> 00:06:19,440
+sleep uh was more disrupted in the large
+
+127
+00:06:16,160 --> 00:06:21,360
+leium mice. While the paradoxical sleep
+
+128
+00:06:19,440 --> 00:06:24,479
+show different changes in the true
+
+129
+00:06:21,360 --> 00:06:27,919
+groups but is a large likely influenced
+
+130
+00:06:24,479 --> 00:06:29,919
+by the nighttime surgery event.
+
+131
+00:06:27,919 --> 00:06:32,479
+When we visualize the sleep stage
+
+132
+00:06:29,919 --> 00:06:34,800
+transition, we found that both mutton
+
+133
+00:06:32,479 --> 00:06:37,919
+lines and the frequent transitions
+
+134
+00:06:34,800 --> 00:06:41,120
+between stage and night a clear uh sun
+
+135
+00:06:37,919 --> 00:06:43,680
+are fragmented sleep. In contrast, the
+
+136
+00:06:41,120 --> 00:06:46,000
+white tub showed a stable consolidated
+
+137
+00:06:43,680 --> 00:06:48,880
+sleep.
+
+138
+00:06:46,000 --> 00:06:51,680
+Interesting. Um, during the daytime,
+
+139
+00:06:48,880 --> 00:06:54,880
+sleep architecture was more comparable
+
+140
+00:06:51,680 --> 00:06:57,440
+among all groups and the OB knockice
+
+141
+00:06:54,880 --> 00:07:00,000
+were even applied slight slightly more
+
+142
+00:06:57,440 --> 00:07:02,880
+alert.
+
+143
+00:07:00,000 --> 00:07:06,000
+When we look at the EG rhythms and power
+
+144
+00:07:02,880 --> 00:07:10,319
+spectrum, here's an example of a 12-hour
+
+145
+00:07:06,000 --> 00:07:12,720
+daytime EG in the white time to on top.
+
+146
+00:07:10,319 --> 00:07:15,840
+You can see normal distinction of delta
+
+147
+00:07:12,720 --> 00:07:18,800
+power in red, the alpha power in green
+
+148
+00:07:15,840 --> 00:07:21,840
+and beta power in yellow. In the large
+
+149
+00:07:18,800 --> 00:07:25,199
+leium mice to on the bottom, the delta
+
+150
+00:07:21,840 --> 00:07:27,680
+power in red was dramatically increased
+
+151
+00:07:25,199 --> 00:07:32,080
+while the alpha power in green and beta
+
+152
+00:07:27,680 --> 00:07:34,800
+power in yellow is remarkably reduced.
+
+153
+00:07:32,080 --> 00:07:37,360
+When we extracted and and compared those
+
+154
+00:07:34,800 --> 00:07:40,160
+specific frequency bands, we found
+
+155
+00:07:37,360 --> 00:07:42,960
+increased delta power only significant
+
+156
+00:07:40,160 --> 00:07:44,720
+in large leium mice but not in the UB
+
+157
+00:07:42,960 --> 00:07:47,840
+knockout.
+
+158
+00:07:44,720 --> 00:07:50,880
+The reduced alpha sigma and beta power
+
+159
+00:07:47,840 --> 00:07:54,080
+in both models but more pronounced in
+
+160
+00:07:50,880 --> 00:07:57,280
+the large leium mice. This pattern
+
+161
+00:07:54,080 --> 00:08:00,000
+highly delta, low alpha and beta match
+
+162
+00:07:57,280 --> 00:08:03,280
+the EG signatures in androma syndrome
+
+163
+00:08:00,000 --> 00:08:05,599
+patients suggesting the large vision um
+
+164
+00:08:03,280 --> 00:08:07,680
+model better capture the human
+
+165
+00:08:05,599 --> 00:08:10,160
+phenotypes.
+
+166
+00:08:07,680 --> 00:08:13,599
+To summarize this part, seizure
+
+167
+00:08:10,160 --> 00:08:16,800
+susceptibility was highest in large mice
+
+168
+00:08:13,599 --> 00:08:19,680
+moderate in the UB3 knockout. Sleep
+
+169
+00:08:16,800 --> 00:08:22,400
+architecture was fragmented in both and
+
+170
+00:08:19,680 --> 00:08:25,840
+syndrome mouse model. The AG power
+
+171
+00:08:22,400 --> 00:08:28,400
+spectrum changes in crisis of delta rad
+
+172
+00:08:25,840 --> 00:08:31,520
+alpha sigma and beta was only seen in
+
+173
+00:08:28,400 --> 00:08:34,000
+the large leium mice aligning with human
+
+174
+00:08:31,520 --> 00:08:37,279
+eg patterns.
+
+175
+00:08:34,000 --> 00:08:39,760
+Next we apply our step R&P the crisper
+
+176
+00:08:37,279 --> 00:08:43,519
+based gene editing therapy to the large
+
+177
+00:08:39,760 --> 00:08:46,080
+leure mice. We treated two groups, one
+
+178
+00:08:43,519 --> 00:08:49,279
+at postnatal day one and another at the
+
+179
+00:08:46,080 --> 00:08:52,959
+postnatal day 21 and compare them with
+
+180
+00:08:49,279 --> 00:08:55,920
+untrade later base and wab controls. The
+
+181
+00:08:52,959 --> 00:08:58,080
+EG was recorded at six months and one
+
+182
+00:08:55,920 --> 00:09:02,240
+year of age.
+
+183
+00:08:58,080 --> 00:09:04,959
+We found the step R&P significantly rad
+
+184
+00:09:02,240 --> 00:09:07,600
+susceptibility in both postnatal day one
+
+185
+00:09:04,959 --> 00:09:10,000
+and postnatal day 21s
+
+186
+00:09:07,600 --> 00:09:12,480
+at six months age. On the day one
+
+187
+00:09:10,000 --> 00:09:15,839
+treatise already show [snorts] a strong
+
+188
+00:09:12,480 --> 00:09:18,880
+reduction in spike trains duration and
+
+189
+00:09:15,839 --> 00:09:21,760
+spike per seconds which indicated the
+
+190
+00:09:18,880 --> 00:09:23,760
+reduction in both seedure frequency and
+
+191
+00:09:21,760 --> 00:09:26,800
+severity
+
+192
+00:09:23,760 --> 00:09:30,000
+by one year. The day 21 mice still
+
+193
+00:09:26,800 --> 00:09:32,959
+maintain its improvements.
+
+194
+00:09:30,000 --> 00:09:35,920
+As for the sleep, step RP treatment
+
+195
+00:09:32,959 --> 00:09:39,040
+reduced resting wake duration and
+
+196
+00:09:35,920 --> 00:09:41,920
+paradoxic sleep uh duration
+
+197
+00:09:39,040 --> 00:09:44,959
+and increase the weight uh active awake
+
+198
+00:09:41,920 --> 00:09:47,519
+and slow wave sleep indicating more
+
+199
+00:09:44,959 --> 00:09:49,600
+consolidated sleep by just six months
+
+200
+00:09:47,519 --> 00:09:52,399
+after the treatment.
+
+201
+00:09:49,600 --> 00:09:55,279
+By the one year the day one treated a
+
+202
+00:09:52,399 --> 00:09:58,560
+mice showed extended slow wave sleep
+
+203
+00:09:55,279 --> 00:10:01,680
+compared to white type level despite a
+
+204
+00:09:58,560 --> 00:10:04,240
+confounding factor of aging.
+
+205
+00:10:01,680 --> 00:10:07,279
+When we visualize uh the sleep stage
+
+206
+00:10:04,240 --> 00:10:10,000
+transition treat mice showed a fewer
+
+207
+00:10:07,279 --> 00:10:12,080
+fragmented transition at night
+
+208
+00:10:10,000 --> 00:10:14,480
+approaching the stable patterns of a
+
+209
+00:10:12,080 --> 00:10:18,880
+white tab at six months after treatment
+
+210
+00:10:14,480 --> 00:10:21,440
+man. At one year, the day 21 titanomize
+
+211
+00:10:18,880 --> 00:10:24,000
+showed sleep state transition pattern
+
+212
+00:10:21,440 --> 00:10:26,640
+nearly identical to the Y type
+
+213
+00:10:24,000 --> 00:10:28,800
+indicating a delayed yet progressive
+
+214
+00:10:26,640 --> 00:10:31,040
+restoration of neurosircuit
+
+215
+00:10:28,800 --> 00:10:33,200
+organization.
+
+216
+00:10:31,040 --> 00:10:35,600
+Similar pattern also observed during the
+
+217
+00:10:33,200 --> 00:10:38,399
+daytime recording.
+
+218
+00:10:35,600 --> 00:10:40,959
+By one year of age, the steep transition
+
+219
+00:10:38,399 --> 00:10:44,880
+between traed large leion and the white
+
+220
+00:10:40,959 --> 00:10:48,880
+high pers are nearly indistinguishable
+
+221
+00:10:44,880 --> 00:10:51,760
+in easy reasons power the K biomarker
+
+222
+00:10:48,880 --> 00:10:54,160
+was significantly reduced after the
+
+223
+00:10:51,760 --> 00:10:56,880
+treatment in both groups. The day one
+
+224
+00:10:54,160 --> 00:10:58,959
+trait mice match the white level by just
+
+225
+00:10:56,880 --> 00:11:00,560
+six months of six months after
+
+226
+00:10:58,959 --> 00:11:02,800
+treatment.
+
+227
+00:11:00,560 --> 00:11:04,959
+Meanwhile, both the day one and day 21
+
+228
+00:11:02,800 --> 00:11:07,600
+trader groups showed a significant
+
+229
+00:11:04,959 --> 00:11:10,560
+increase in alpha power. And in day one
+
+230
+00:11:07,600 --> 00:11:13,680
+trade group, the alpha power was fully
+
+231
+00:11:10,560 --> 00:11:16,240
+restored to the white type level.
+
+232
+00:11:13,680 --> 00:11:18,800
+By one year, the therapeutic effect
+
+233
+00:11:16,240 --> 00:11:21,680
+still maintain and the delta power of
+
+234
+00:11:18,800 --> 00:11:25,279
+the day 21 trait mice are even at the
+
+235
+00:11:21,680 --> 00:11:28,640
+same as white. During the daytime,
+
+236
+00:11:25,279 --> 00:11:31,200
+the day 21 treated the mice showed even
+
+237
+00:11:28,640 --> 00:11:34,399
+higher of alpha powers than white
+
+238
+00:11:31,200 --> 00:11:36,720
+controls suggesting an enhanced cortical
+
+239
+00:11:34,399 --> 00:11:38,959
+synchronization even with delayed
+
+240
+00:11:36,720 --> 00:11:40,800
+treatment and confounding factor of
+
+241
+00:11:38,959 --> 00:11:42,880
+aging.
+
+242
+00:11:40,800 --> 00:11:45,920
+Therefore, we summarize the second
+
+243
+00:11:42,880 --> 00:11:49,600
+section. The step RP treatment reduce
+
+244
+00:11:45,920 --> 00:11:52,240
+seizure frequency, duration and severity
+
+245
+00:11:49,600 --> 00:11:53,760
+in both early stage and later stage
+
+246
+00:11:52,240 --> 00:11:56,959
+treatment.
+
+247
+00:11:53,760 --> 00:11:59,760
+It improves sleep quality, restored more
+
+248
+00:11:56,959 --> 00:12:02,959
+stable sleep pattern and normalized e
+
+249
+00:11:59,760 --> 00:12:05,839
+rhythms towards white level.
+
+250
+00:12:02,959 --> 00:12:08,639
+Overall, this data demonstrate that the
+
+251
+00:12:05,839 --> 00:12:11,360
+new large leion mouse model provides a
+
+252
+00:12:08,639 --> 00:12:15,200
+much more comprehensive and clinical
+
+253
+00:12:11,360 --> 00:12:18,000
+relevant representation of and syndrome.
+
+254
+00:12:15,200 --> 00:12:20,399
+It recapulated the key neurological
+
+255
+00:12:18,000 --> 00:12:23,279
+features observing the patients with
+
+256
+00:12:20,399 --> 00:12:25,440
+large leion including increasure
+
+257
+00:12:23,279 --> 00:12:28,320
+susceptibility disrupt sleep
+
+258
+00:12:25,440 --> 00:12:31,200
+architecture and the distinct age rhythm
+
+259
+00:12:28,320 --> 00:12:34,160
+changes of and syndrome
+
+260
+00:12:31,200 --> 00:12:38,000
+by capturing those broader phenotypes
+
+261
+00:12:34,160 --> 00:12:40,720
+that traditional UB3 a mice um missed.
+
+262
+00:12:38,000 --> 00:12:43,519
+This large leion model serve as a power
+
+263
+00:12:40,720 --> 00:12:46,959
+tool for understanding the full genetic
+
+264
+00:12:43,519 --> 00:12:50,320
+contribution of the 15 Q11 to Q1 region
+
+265
+00:12:46,959 --> 00:12:52,959
+Q13 region and for the testing future
+
+266
+00:12:50,320 --> 00:12:55,839
+therapeutics under condition that more
+
+267
+00:12:52,959 --> 00:12:59,279
+closely to mirror the majority of
+
+268
+00:12:55,839 --> 00:13:02,560
+syndrome patients. Ultimately, this new
+
+269
+00:12:59,279 --> 00:13:05,040
+MOS model brings us one more step closer
+
+270
+00:13:02,560 --> 00:13:07,680
+to the translate translation discovery
+
+271
+00:13:05,040 --> 00:13:09,760
+in the lab into meaningful improvement
+
+272
+00:13:07,680 --> 00:13:11,440
+for the families living with and
+
+273
+00:13:09,760 --> 00:13:14,000
+syndrome.
+
+274
+00:13:11,440 --> 00:13:17,040
+Beyond today's topic, I'm excited to
+
+275
+00:13:14,000 --> 00:13:20,240
+share news. We recently generated the
+
+276
+00:13:17,040 --> 00:13:22,880
+first asupdia mouse model which carries
+
+277
+00:13:20,240 --> 00:13:24,720
+a six macbased deletion on the maternal
+
+278
+00:13:22,880 --> 00:13:27,040
+chromosone and a six macbased
+
+279
+00:13:24,720 --> 00:13:29,279
+duplication on the paternal chromone.
+
+280
+00:13:27,040 --> 00:13:32,880
+mimicking the ASUPD
+
+281
+00:13:29,279 --> 00:13:34,959
+ASUPD form. This I uh this idea actually
+
+282
+00:13:32,880 --> 00:13:37,360
+come from one of your questions last
+
+283
+00:13:34,959 --> 00:13:39,200
+time. If there's a gold model and
+
+284
+00:13:37,360 --> 00:13:42,639
+treatment developed for the large
+
+285
+00:13:39,200 --> 00:13:44,800
+leation, what about UPD? We are now
+
+286
+00:13:42,639 --> 00:13:47,279
+conducting baseline behavior test on
+
+287
+00:13:44,800 --> 00:13:50,320
+this new model and I'm looking forward
+
+288
+00:13:47,279 --> 00:13:52,480
+to share the results with you soon.
+
+289
+00:13:50,320 --> 00:13:55,360
+At the end, I'd like to thank my mentor
+
+290
+00:13:52,480 --> 00:13:57,120
+Dr. Jang and our lab member close
+
+291
+00:13:55,360 --> 00:13:59,719
+collaborator Joe Lab and founding
+
+292
+00:13:57,120 --> 00:14:01,739
+support.
+
+293
+00:13:59,719 --> 00:14:01,739
+[applause]
+
+294
+00:14:10,639 --> 00:14:15,440
+I said no more models and there she
+
+295
+00:14:12,480 --> 00:14:18,000
+goes. She made another model. Um no we
+
+296
+00:14:15,440 --> 00:14:19,199
+we um purposefully wanted to ensure that
+
+297
+00:14:18,000 --> 00:14:20,959
+as we think about the genes outside of
+
+298
+00:14:19,199 --> 00:14:22,720
+UB3A we also think about the genes in
+
+299
+00:14:20,959 --> 00:14:25,040
+UPD and ICD. That's incredibly
+
+300
+00:14:22,720 --> 00:14:27,199
+important. Um, so, so really I know that
+
+301
+00:14:25,040 --> 00:14:29,199
+was a whirlwind and probably very few of
+
+302
+00:14:27,199 --> 00:14:30,800
+you really captured the significance of
+
+303
+00:14:29,199 --> 00:14:33,519
+that and I'm going to summarize it in
+
+304
+00:14:30,800 --> 00:14:35,600
+one sentence which essentially is that
+
+305
+00:14:33,519 --> 00:14:37,440
+they made a model that is more
+
+306
+00:14:35,600 --> 00:14:39,519
+significantly impaired than the
+
+307
+00:14:37,440 --> 00:14:41,839
+traditional Angelman knockout model
+
+308
+00:14:39,519 --> 00:14:43,839
+which is just the UB3A. But what they
+
+309
+00:14:41,839 --> 00:14:46,880
+also showed is when they put crisper in
+
+310
+00:14:43,839 --> 00:14:49,360
+to just edit UB3A, they actually
+
+311
+00:14:46,880 --> 00:14:50,959
+corrected almost all of the phenotypes.
+
+312
+00:14:49,360 --> 00:14:52,959
+But what's more important than that,
+
+313
+00:14:50,959 --> 00:14:55,600
+what it tells us is that that model may
+
+314
+00:14:52,959 --> 00:14:57,760
+not distinguish the specific between
+
+315
+00:14:55,600 --> 00:15:00,160
+nonUB3 genes and UV3 genes in
+
+316
+00:14:57,760 --> 00:15:03,440
+correction. But what it will tell us is
+
+317
+00:15:00,160 --> 00:15:05,680
+that again they repeated the fact that
+
+318
+00:15:03,440 --> 00:15:09,360
+they were able to rescue phenotype
+
+319
+00:15:05,680 --> 00:15:12,480
+almost equally if not equally in the
+
+320
+00:15:09,360 --> 00:15:14,399
+newborn mice as they were in a P21 mouse
+
+321
+00:15:12,480 --> 00:15:16,880
+which would be an adolescent a teenager
+
+322
+00:15:14,399 --> 00:15:19,680
+mouse. And ultimately what they found
+
+323
+00:15:16,880 --> 00:15:22,000
+was over time at six months and at one
+
+324
+00:15:19,680 --> 00:15:25,040
+year that correction got better and
+
+325
+00:15:22,000 --> 00:15:26,720
+better for the older animals which is
+
+326
+00:15:25,040 --> 00:15:29,360
+something we believe is probably true
+
+327
+00:15:26,720 --> 00:15:31,839
+for humans. Right? It may take more time
+
+328
+00:15:29,360 --> 00:15:33,600
+for an adult or an adolescent to see the
+
+329
+00:15:31,839 --> 00:15:35,760
+same benefit as a 2-year-old or a
+
+330
+00:15:33,600 --> 00:15:37,760
+one-year-old. But we have all the time
+
+331
+00:15:35,760 --> 00:15:40,320
+in the world. We've just been waiting.
+
+332
+00:15:37,760 --> 00:15:42,079
+So it's okay if it takes more time. But
+
+333
+00:15:40,320 --> 00:15:44,399
+it may have to drive the fact that in a
+
+334
+00:15:42,079 --> 00:15:46,399
+clinical trial environment, we can't be
+
+335
+00:15:44,399 --> 00:15:48,399
+cutting these trials off too early
+
+336
+00:15:46,399 --> 00:15:50,880
+because we may see the best of benefit
+
+337
+00:15:48,399 --> 00:15:53,199
+over time. And so for me, that's what I
+
+338
+00:15:50,880 --> 00:15:55,279
+learned from that presentation. And I
+
+339
+00:15:53,199 --> 00:15:58,000
+hope that you can take that home as real
+
+340
+00:15:55,279 --> 00:15:59,360
+success and really good information as
+
+341
+00:15:58,000 --> 00:16:02,000
+we think about discovering drug
+
+342
+00:15:59,360 --> 00:16:02,000
+development.
+

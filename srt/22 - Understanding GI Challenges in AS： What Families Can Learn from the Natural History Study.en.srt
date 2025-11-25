@@ -1,0 +1,512 @@
+1
+00:00:00,240 --> 00:00:05,520
+Um, so our next talk is by Dr. Adriana
+
+2
+00:00:03,439 --> 00:00:08,160
+Gomez. Understanding GI challenges in
+
+3
+00:00:05,520 --> 00:00:12,519
+Angelmen Syndrome. What families can
+
+4
+00:00:08,160 --> 00:00:12,519
+learn from the natural history study.
+
+5
+00:00:19,520 --> 00:00:25,760
+>> Hello. Oh,
+
+6
+00:00:22,640 --> 00:00:27,359
+okay. So, um, I'm going to present a
+
+7
+00:00:25,760 --> 00:00:29,599
+little bit of, uh, our work from the
+
+8
+00:00:27,359 --> 00:00:31,760
+natural history study. So, first I'd
+
+9
+00:00:29,599 --> 00:00:33,360
+like to thank all the families for
+
+10
+00:00:31,760 --> 00:00:35,920
+participating and if you're not
+
+11
+00:00:33,360 --> 00:00:38,480
+participating, please we have our people
+
+12
+00:00:35,920 --> 00:00:41,520
+outside and we'll be happy to have you.
+
+13
+00:00:38,480 --> 00:00:44,559
+I also like to thank my mentor Dr. Bird
+
+14
+00:00:41,520 --> 00:00:48,800
+who started a natural history study uh
+
+15
+00:00:44,559 --> 00:00:51,280
+with um Terry Joe uh long ago in 2004
+
+16
+00:00:48,800 --> 00:00:55,039
+and uh since then we've been collecting
+
+17
+00:00:51,280 --> 00:00:58,879
+this data with now um with the help with
+
+18
+00:00:55,039 --> 00:01:00,640
+Wenhan and Anjelie a phenomenal team. uh
+
+19
+00:00:58,879 --> 00:01:02,800
+working in this effort and I'd like to
+
+20
+00:01:00,640 --> 00:01:04,879
+thank Bat Shiva as well for putting this
+
+21
+00:01:02,800 --> 00:01:08,560
+work together and allowing me to be here
+
+22
+00:01:04,879 --> 00:01:11,920
+presenting this work for you.
+
+23
+00:01:08,560 --> 00:01:16,320
+So this is a little bit of our uh study.
+
+24
+00:01:11,920 --> 00:01:20,000
+So we have um nine sites right now uh in
+
+25
+00:01:16,320 --> 00:01:22,320
+the US and in Canada and for a while we
+
+26
+00:01:20,000 --> 00:01:25,200
+were funded by the NIH for another
+
+27
+00:01:22,320 --> 00:01:27,840
+period for uh we were funded by the FDA
+
+28
+00:01:25,200 --> 00:01:32,159
+and now currently uh we have the help of
+
+29
+00:01:27,840 --> 00:01:35,040
+Ebel um and the enrollment is easy so
+
+30
+00:01:32,159 --> 00:01:39,360
+you can just reach out to all of us and
+
+31
+00:01:35,040 --> 00:01:41,200
+um and we'll collect the data anyway. So
+
+32
+00:01:39,360 --> 00:01:45,280
+going forwards for the main important
+
+33
+00:01:41,200 --> 00:01:48,640
+thing um we you know the symptoms of uh
+
+34
+00:01:45,280 --> 00:01:51,439
+GI um tract and the most important thing
+
+35
+00:01:48,640 --> 00:01:53,439
+is how it goes throughout the life and
+
+36
+00:01:51,439 --> 00:01:56,720
+how important it is an interaction of
+
+37
+00:01:53,439 --> 00:01:59,040
+the GI symptoms and uh the impact that
+
+38
+00:01:56,720 --> 00:02:02,240
+it has in the in the health overall
+
+39
+00:01:59,040 --> 00:02:04,880
+health of our uh children. uh the GI
+
+40
+00:02:02,240 --> 00:02:07,840
+symptoms start early in life as you can
+
+41
+00:02:04,880 --> 00:02:11,120
+see and the feeding problems are really
+
+42
+00:02:07,840 --> 00:02:13,280
+important. You see that about 70% of
+
+43
+00:02:11,120 --> 00:02:15,760
+children with deletion will present with
+
+44
+00:02:13,280 --> 00:02:18,959
+feeding difficulties early in life and
+
+45
+00:02:15,760 --> 00:02:22,160
+this can be so severe that lead to uh
+
+46
+00:02:18,959 --> 00:02:24,480
+failure gaining weight. uh you it's it
+
+47
+00:02:22,160 --> 00:02:27,440
+is more important in a deletion subgroup
+
+48
+00:02:24,480 --> 00:02:30,480
+but the m mutations uh uh the kids with
+
+49
+00:02:27,440 --> 00:02:34,319
+mutation also present a very important
+
+50
+00:02:30,480 --> 00:02:36,800
+um difficulties gning weight
+
+51
+00:02:34,319 --> 00:02:39,440
+and the GI symptoms persist throughout
+
+52
+00:02:36,800 --> 00:02:41,440
+the life you see that later in life
+
+53
+00:02:39,440 --> 00:02:44,640
+you're going to have the reflux it can
+
+54
+00:02:41,440 --> 00:02:48,160
+start earlier as well but also goes
+
+55
+00:02:44,640 --> 00:02:50,480
+throughout the life with as uh much as
+
+56
+00:02:48,160 --> 00:02:54,560
+40% of our patients with delions present
+
+57
+00:02:50,480 --> 00:02:57,120
+and some uh degree of reflux. And uh you
+
+58
+00:02:54,560 --> 00:02:59,120
+see it's a little bit less for the other
+
+59
+00:02:57,120 --> 00:03:01,760
+uh subtypes, but it's still very
+
+60
+00:02:59,120 --> 00:03:05,760
+important about a third of our patients.
+
+61
+00:03:01,760 --> 00:03:08,879
+Um and you see that the most common um
+
+62
+00:03:05,760 --> 00:03:11,680
+treatments that we do are proton pump
+
+63
+00:03:08,879 --> 00:03:14,159
+inhibitors and the H2 receptor
+
+64
+00:03:11,680 --> 00:03:16,959
+antagonist and ant acids to help with
+
+65
+00:03:14,159 --> 00:03:18,879
+the symptoms.
+
+66
+00:03:16,959 --> 00:03:21,360
+Uh in terms of constipation,
+
+67
+00:03:18,879 --> 00:03:25,120
+constipation is the biggest deal. I must
+
+68
+00:03:21,360 --> 00:03:27,360
+say we have about 70% of our patients uh
+
+69
+00:03:25,120 --> 00:03:30,799
+complaining of constipation and I'm sure
+
+70
+00:03:27,360 --> 00:03:33,680
+you guys know that well um we created a
+
+71
+00:03:30,799 --> 00:03:37,040
+way to score the constipation in our fam
+
+72
+00:03:33,680 --> 00:03:40,720
+in our um group and we are taking in
+
+73
+00:03:37,040 --> 00:03:43,120
+consideration the frequence of um bowel
+
+74
+00:03:40,720 --> 00:03:46,480
+movements per week and the consistence
+
+75
+00:03:43,120 --> 00:03:48,400
+of the stools and the uh number of
+
+76
+00:03:46,480 --> 00:03:52,000
+medications that we need to take. And
+
+77
+00:03:48,400 --> 00:03:54,640
+then we classify it in mild uh moderate
+
+78
+00:03:52,000 --> 00:03:56,480
+and severe. And you see that most of our
+
+79
+00:03:54,640 --> 00:03:59,120
+children will present with moderate
+
+80
+00:03:56,480 --> 00:04:01,920
+constipation. Uh and the number of
+
+81
+00:03:59,120 --> 00:04:05,040
+medication takens is also uh
+
+82
+00:04:01,920 --> 00:04:08,480
+considerable. So about 50% of our
+
+83
+00:04:05,040 --> 00:04:12,080
+patients are taking some medication for
+
+84
+00:04:08,480 --> 00:04:15,200
+um for constipation and they can vary in
+
+85
+00:04:12,080 --> 00:04:18,560
+stimulants or laxatives or some type of
+
+86
+00:04:15,200 --> 00:04:21,759
+dietary supplements and those are fibers
+
+87
+00:04:18,560 --> 00:04:24,240
+or um magnesium but one important thing
+
+88
+00:04:21,759 --> 00:04:29,040
+that I want mention here is that you see
+
+89
+00:04:24,240 --> 00:04:32,320
+them about 50 70% or 80% of our patients
+
+90
+00:04:29,040 --> 00:04:35,600
+will have constipation but we are seeing
+
+91
+00:04:32,320 --> 00:04:38,800
+that only 50% about 50% of our patients
+
+92
+00:04:35,600 --> 00:04:41,120
+are treating this. So is there a gap? Is
+
+93
+00:04:38,800 --> 00:04:44,840
+there a barrier? Why aren't we treating
+
+94
+00:04:41,120 --> 00:04:44,840
+that well enough?
+
+95
+00:04:45,360 --> 00:04:50,080
+So why am I talking about GI 2 and why
+
+96
+00:04:48,160 --> 00:04:52,880
+did I say it's all so important? There
+
+97
+00:04:50,080 --> 00:04:55,600
+is a correlation between the GI symptoms
+
+98
+00:04:52,880 --> 00:04:57,759
+and seizures. Uh my idea is to
+
+99
+00:04:55,600 --> 00:05:00,320
+eventually see what's a correlation with
+
+100
+00:04:57,759 --> 00:05:02,400
+the GI symptoms with behavior and sleep
+
+101
+00:05:00,320 --> 00:05:05,840
+too. Eventually we'll get there with
+
+102
+00:05:02,400 --> 00:05:08,160
+some help with analyzing all this data.
+
+103
+00:05:05,840 --> 00:05:10,880
+But what we have so far is clear that
+
+104
+00:05:08,160 --> 00:05:12,960
+there is a correlation. I just want to
+
+105
+00:05:10,880 --> 00:05:16,560
+remind you that correlation is not
+
+106
+00:05:12,960 --> 00:05:20,000
+causation. Right? So we have more
+
+107
+00:05:16,560 --> 00:05:23,600
+symptoms of uh GI symptoms reported.
+
+108
+00:05:20,000 --> 00:05:27,440
+There is uh more prevalence too of
+
+109
+00:05:23,600 --> 00:05:29,840
+seizures and this is uh at this level.
+
+110
+00:05:27,440 --> 00:05:32,560
+So if someone is complaining of the GI
+
+111
+00:05:29,840 --> 00:05:35,520
+symptoms, you're going to see as high as
+
+112
+00:05:32,560 --> 00:05:37,840
+a prevalence of 53 to to 100% of the
+
+113
+00:05:35,520 --> 00:05:41,520
+patients with seizures. And when there
+
+114
+00:05:37,840 --> 00:05:45,280
+are nine symptoms of um GI and these are
+
+115
+00:05:41,520 --> 00:05:46,880
+all of those reflux, gagging, drooling,
+
+116
+00:05:45,280 --> 00:05:50,479
+uh you're going to see the prevalence of
+
+117
+00:05:46,880 --> 00:05:52,960
+seizures are way lower.
+
+118
+00:05:50,479 --> 00:05:56,160
+And then we also check all the uh
+
+119
+00:05:52,960 --> 00:05:58,400
+prevalence of seizures. So here we can
+
+120
+00:05:56,160 --> 00:06:02,560
+see that most of our patients are well
+
+121
+00:05:58,400 --> 00:06:05,440
+controlled about 90% of them uh did not
+
+122
+00:06:02,560 --> 00:06:07,759
+present any severe seizures in the last
+
+123
+00:06:05,440 --> 00:06:11,479
+four weeks and those are the medications
+
+124
+00:06:07,759 --> 00:06:11,479
+that they are doing.
+
+125
+00:06:13,520 --> 00:06:16,759
+Thank you.
+
+126
+00:06:18,594 --> 00:06:20,614
+>> [applause]
+
+127
+00:06:21,919 --> 00:06:26,080
+>> See, it doesn't take 30 minutes to get
+
+128
+00:06:23,680 --> 00:06:26,080
+great data.
+

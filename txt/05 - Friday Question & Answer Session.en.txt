@@ -1,0 +1,176 @@
+I'm going to open the floor to questions
+and and I'm going to take most of them
+and I want you guys to really find the
+speakers in the break and and throughout
+the course of the next two days to ask
+them your questions. Families in this
+room should not be scared to approach
+anybody else in this room. This is your
+day. The next two days is yours. You
+should go and talk to everybody. You
+should engage and you should ask any
+question you have. Um, but I am happy to
+just take some questions that you might
+be thinking about and try to address
+them in a way that's pertinent to you
+and your family. So, if we want to ask
+any questions, otherwise we can go ahead
+and and start the break.
+>> I can't There's a question over there. I
+can't see anything up here. So, if there
+are runners, it would be really great if
+you guys can just go and find those
+people.
+Hello. Thank you. Um, I have a couple of
+questions for uh the John Hopkins uh set
+um who explain very well the functions
+of UB3A protein sorry DAC.
+Um so uh I have the first question is uh
+if there's um any protein accumulation
+um documented
+uh wherever the UB3
+UB3A is lacking or um uh mutated
+and also um why they do explain the
+imprinting of UB3. 3A in the brain.
+>> If I think I understood your question
+and I apologize there's an echo. Um so
+it was a little bit hard for me to
+understand what you were saying but I
+think what you're asking for is is there
+accumulation of UB3 protein
+>> no of other protein since the
+uh UB3 is not binding its target. Um um
+is there any protein accumulation
+documented in the brain whenever uh the
+UB3A is non functioning
+other protein?
+>> Right. Yes. Yes. So so because U3
+targets thousands of other proteins
+and if it's not targeting and and
+tagging it to be degraded and in some
+instances upregulated to not be
+degraded. So there's a balance of
+homeostasis.
+So there's a balance where there's
+targeting of a protein to say you should
+be trash and there's targeting of
+protein that says you should stick
+around for a longer period of time. And
+when you don't have that targeting
+meaning the tag keep and throw, it's
+completely unbalanced. So there are many
+proteins that there are too many of them
+and there are many proteins where there
+are not enough of them. So replacing
+certain proteins could be helpful or
+targeting the breakdown of certain
+proteins can be helpful. And that's why
+when you think about all of the
+downstream effects of the function of
+UV3A,
+there's hundreds if not thousands of
+them
+>> in the neurons specifically, but
+probably in other cells of the body as
+well. But we know in other cells of the
+body, we have the paternal copy that's
+being read because it's only silenced in
+neurons. Yeah.
+>> So it's mostly a neuronal disorder. And
+when you look at the brains of animals
+and humans actually for deceased brains,
+when you look at the brains after and
+before therapy and you can look at what
+we call proteomics,
+which is what is the downstream effect
+and that signature, that signature is
+very different in Angelmen syndrome
+compared to neurotypical
+and it's thousands of proteins that are
+either upregulated or inappropriately
+downregulated. So um can we say that
+maybe that's why we don't see a
+neurodeeneration
+in a angelman syndrome patient?
+>> Probably the reason we don't see
+neurodeeneration is because the
+imbalance of proteins that's there are
+not degenerative proteins. So when you
+think about something like ALS right the
+proteins that are you know accumulating
+are ultimately killing neurons
+when you look at Alzheimer's disease the
+plaques that are being deposited are
+killing neurons alysisal storage disease
+that it's resulting in not degrading
+certain types of fats that are
+accumulating in cells that cause cell
+death. There are no proteins that we
+know of in Angelmen syndrome that cause
+cell death when they're upregulated or
+downregulated. Which is why
+anatomically, if you look at the MRI of
+an adult with Angelmen syndrome, it
+looks relatively normal. There may be
+some delay in myelin depositing, but the
+neurons themselves look anatomically
+normal. And when you see a report on an
+MRI, it's generally normal compared to
+what you might see with MPS Sanfalippo
+that was just shown or what you would
+see potentially with Alzheimer's or ALS
+or something like that.
+>> Thank you.
+>> Sure. Next question.
+>> Okay.
+Yeah, just a clarifying question. Oh,
+the echo is bad.
+>> It's worse for me.
+>> Okay. Um, regarding Dr. James
+presentation, um, there was a comment
+that AAV can't be used with UB3A
+because of its size. And so just just
+wondering what vectors could be used in
+current or future trials.
+>> That's a great that's a great question.
+So most proteins or many proteins are
+very large and there's a or genes are
+very large and there's a capacity to a
+vector like a generally it can hold only
+a certain amount of genetic material.
+For Angelmen, the gene can actually fit
+in the vector, but the gene itself has
+multiple isoforms, meaning that there's
+a when you make UV3, it's enormous, but
+there's certain pieces of it that are
+this big or this big or this big. And
+the function of those have been tested
+in these models to show that one isoform
+called isoform one for the human UB3A
+construct is actually the smaller one.
+and it has most of the function. So when
+we give back isoform one, we see full
+rescue of phenotype in the animal model.
+When we give back isoform 2, we don't
+see great rescue of the phenotype and
+actually with too much of it, you can
+see toxicity. So you don't want to give
+back too much isoform 2 and isopform 3
+practically doesn't exist. So basically
+what we have shown is that with just
+isoform one, you can correct the
+symptoms of Angelmen syndrome. So there
+are multiple programs using AEV for
+Angelmen syndrome with gene delivery and
+they're using isoform one because it
+does fit and some people are actually
+mixing isoform one and two in a um a
+shorter form where it together does fit.
+Um so that's something that's in
+discovery at the University of North
+Carolina.
+Any other questions?
+>> Is there another question?
+>> Okay, why don't we go for a break?
+Everyone chitchat. Go have some coffee
+and we'll be back here at

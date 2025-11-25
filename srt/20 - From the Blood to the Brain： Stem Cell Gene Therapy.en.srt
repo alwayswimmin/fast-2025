@@ -1,0 +1,676 @@
+1
+00:00:00,080 --> 00:00:03,760
+Okay, why don't we have a seat so we can
+
+2
+00:00:01,760 --> 00:00:06,879
+get started.
+
+3
+00:00:03,760 --> 00:00:09,040
+So the
+
+4
+00:00:06,879 --> 00:00:10,960
+presentations that are coming up,
+
+5
+00:00:09,040 --> 00:00:13,040
+there's no time for questions. There's
+
+6
+00:00:10,960 --> 00:00:16,480
+no time for a comment. There's five
+
+7
+00:00:13,040 --> 00:00:18,880
+minutes, five slides, content only. I've
+
+8
+00:00:16,480 --> 00:00:20,480
+instructed everybody presenting that
+
+9
+00:00:18,880 --> 00:00:22,640
+they don't need to explain to parents
+
+10
+00:00:20,480 --> 00:00:24,080
+what Angelmen syndrome is. They
+
+11
+00:00:22,640 --> 00:00:25,680
+certainly don't need to explain to us
+
+12
+00:00:24,080 --> 00:00:28,880
+what the symptoms of Angelmen syndrome
+
+13
+00:00:25,680 --> 00:00:30,720
+are. All we want to know is what have
+
+14
+00:00:28,880 --> 00:00:33,040
+they done and what are the results and
+
+15
+00:00:30,720 --> 00:00:34,559
+how is this going to help my child. That
+
+16
+00:00:33,040 --> 00:00:37,040
+is the only thing we want to hear from
+
+17
+00:00:34,559 --> 00:00:38,559
+them. And if they don't tell us that
+
+18
+00:00:37,040 --> 00:00:40,879
+they're not going to get voted the best
+
+19
+00:00:38,559 --> 00:00:43,440
+abstract in the lightning round and
+
+20
+00:00:40,879 --> 00:00:46,640
+that's how this is going to work. So we
+
+21
+00:00:43,440 --> 00:00:47,920
+want to make sure that at the end don't
+
+22
+00:00:46,640 --> 00:00:49,840
+leave. I'm going to we're going to get
+
+23
+00:00:47,920 --> 00:00:51,760
+you the QR code. think it's in the Cvent
+
+24
+00:00:49,840 --> 00:00:53,039
+app, but I I will get you exactly what
+
+25
+00:00:51,760 --> 00:00:54,800
+it is and where it is and you guys could
+
+26
+00:00:53,039 --> 00:00:56,559
+take a picture at the end and everybody
+
+27
+00:00:54,800 --> 00:00:58,960
+can vote and we'll we'll call out the
+
+28
+00:00:56,559 --> 00:01:01,520
+winner tomorrow morning. Um, but I'm
+
+29
+00:00:58,960 --> 00:01:04,799
+very excited to really be able to share
+
+30
+00:01:01,520 --> 00:01:06,720
+with you the results. All of your money,
+
+31
+00:01:04,799 --> 00:01:09,520
+all of your time, all of your anxiety
+
+32
+00:01:06,720 --> 00:01:12,159
+and excitement comes to fruition when
+
+33
+00:01:09,520 --> 00:01:15,520
+you see results. So, this is just a
+
+34
+00:01:12,159 --> 00:01:18,880
+round presentation after presentation in
+
+35
+00:01:15,520 --> 00:01:21,759
+lay language. What are your results? So,
+
+36
+00:01:18,880 --> 00:01:25,200
+we're going to start with a presentation
+
+37
+00:01:21,759 --> 00:01:27,600
+which is from blood to brain stem cell
+
+38
+00:01:25,200 --> 00:01:30,320
+gene therapy for Angelmen syndrome.
+
+39
+00:01:27,600 --> 00:01:32,720
+Colin Jwitt from UCLA is going to give
+
+40
+00:01:30,320 --> 00:01:34,799
+us the cliffhanger
+
+41
+00:01:32,720 --> 00:01:36,400
+before Don Cohen's presentation tomorrow
+
+42
+00:01:34,799 --> 00:01:38,960
+who is keynote who's going to talk to us
+
+43
+00:01:36,400 --> 00:01:41,960
+about the HSC gene therapy program.
+
+44
+00:01:38,960 --> 00:01:41,960
+Colin
+
+45
+00:01:48,399 --> 00:01:52,720
+So, hi everyone. I'll be sort of giving
+
+46
+00:01:50,560 --> 00:01:55,439
+a teaser for the talk that Don Conn will
+
+47
+00:01:52,720 --> 00:01:57,680
+be giving tomorrow. Um, which is going
+
+48
+00:01:55,439 --> 00:02:00,479
+to go over how we can use the blood to
+
+49
+00:01:57,680 --> 00:02:02,799
+treat the brain. Uh, I first want to go
+
+50
+00:02:00,479 --> 00:02:05,280
+over how that can happen. Uh, so looking
+
+51
+00:02:02,799 --> 00:02:08,000
+at the left, you can see how blood stem
+
+52
+00:02:05,280 --> 00:02:10,640
+cell gene therapy works. uh essentially
+
+53
+00:02:08,000 --> 00:02:12,800
+the blood stem cells are mobilized from
+
+54
+00:02:10,640 --> 00:02:15,599
+the bone marrow and then extracted from
+
+55
+00:02:12,800 --> 00:02:18,000
+the patient. Then in the lab we can
+
+56
+00:02:15,599 --> 00:02:19,920
+treat those blood stem cells with some
+
+57
+00:02:18,000 --> 00:02:22,000
+type of viral vector and this
+
+58
+00:02:19,920 --> 00:02:24,959
+essentially delivers a therapeutic gene
+
+59
+00:02:22,000 --> 00:02:26,560
+to the patient stem cells. Then those
+
+60
+00:02:24,959 --> 00:02:29,360
+stem cells that have been treated are
+
+61
+00:02:26,560 --> 00:02:31,280
+returned to the patient in a bone marrow
+
+62
+00:02:29,360 --> 00:02:33,120
+transplant. So the patients effectively
+
+63
+00:02:31,280 --> 00:02:35,040
+become their own bone marrow transplant
+
+64
+00:02:33,120 --> 00:02:37,280
+donor.
+
+65
+00:02:35,040 --> 00:02:39,120
+uh these stem cells then do the
+
+66
+00:02:37,280 --> 00:02:41,040
+important job of creating all of the
+
+67
+00:02:39,120 --> 00:02:43,280
+blood in the body. So this also includes
+
+68
+00:02:41,040 --> 00:02:45,280
+the immune cells during the
+
+69
+00:02:43,280 --> 00:02:47,519
+transplantation process. You can see on
+
+70
+00:02:45,280 --> 00:02:50,480
+the right that immune cells called
+
+71
+00:02:47,519 --> 00:02:53,519
+monocytes can migrate across the blood
+
+72
+00:02:50,480 --> 00:02:56,560
+brain the bloodb brain barrier and
+
+73
+00:02:53,519 --> 00:02:59,040
+engraft into the niche of the brain. So
+
+74
+00:02:56,560 --> 00:03:01,599
+you can imagine if we use a viral vector
+
+75
+00:02:59,040 --> 00:03:04,400
+that transforms the immune cells such
+
+76
+00:03:01,599 --> 00:03:06,560
+that they will secrete UB3A. When these
+
+77
+00:03:04,400 --> 00:03:08,480
+immune cells migrate into the brain,
+
+78
+00:03:06,560 --> 00:03:10,319
+they can then secrete UB3A to
+
+79
+00:03:08,480 --> 00:03:12,879
+neighboring deficient neurons
+
+80
+00:03:10,319 --> 00:03:14,800
+effectively becoming a little uh cell
+
+81
+00:03:12,879 --> 00:03:16,239
+factory is like how we like to think
+
+82
+00:03:14,800 --> 00:03:18,800
+about it.
+
+83
+00:03:16,239 --> 00:03:20,319
+We assessed this strategy in Angelmen
+
+84
+00:03:18,800 --> 00:03:22,879
+syndrome mice using two different
+
+85
+00:03:20,319 --> 00:03:24,560
+vectors and compared this to wild type
+
+86
+00:03:22,879 --> 00:03:26,080
+and angelman syndrome mice that were not
+
+87
+00:03:24,560 --> 00:03:27,760
+treated.
+
+88
+00:03:26,080 --> 00:03:30,959
+You can see here on the left this is
+
+89
+00:03:27,760 --> 00:03:33,120
+results from the roto rod assay. Uh in
+
+90
+00:03:30,959 --> 00:03:36,799
+this assay mice are placed on a rotating
+
+91
+00:03:33,120 --> 00:03:38,720
+rod and um the measure of time until
+
+92
+00:03:36,799 --> 00:03:41,120
+they fall is sort of a measure of motor
+
+93
+00:03:38,720 --> 00:03:43,519
+function. You can see that the treated
+
+94
+00:03:41,120 --> 00:03:46,080
+mice in red and blue using vector 1 and
+
+95
+00:03:43,519 --> 00:03:50,000
+two perform very similarly to the wild
+
+96
+00:03:46,080 --> 00:03:52,239
+type mice uh which are in purple. Uh and
+
+97
+00:03:50,000 --> 00:03:54,000
+very excitingly they perform uh
+
+98
+00:03:52,239 --> 00:03:57,120
+significantly better than the untreated
+
+99
+00:03:54,000 --> 00:03:59,360
+Angelmen syndrome mice in brown.
+
+100
+00:03:57,120 --> 00:04:00,799
+So this demonstrates that the therapy is
+
+101
+00:03:59,360 --> 00:04:03,040
+working to treat the motor function
+
+102
+00:04:00,799 --> 00:04:05,760
+phenotype of Angelmen syndrome. On the
+
+103
+00:04:03,040 --> 00:04:08,400
+right this is results of a novel object
+
+104
+00:04:05,760 --> 00:04:10,480
+recognition assay. In this assay, mice
+
+105
+00:04:08,400 --> 00:04:12,959
+are essentially shown a object they are
+
+106
+00:04:10,480 --> 00:04:14,959
+familiar with and a new novel object.
+
+107
+00:04:12,959 --> 00:04:16,959
+Uh, neotypical mice will be more
+
+108
+00:04:14,959 --> 00:04:19,440
+interested in this novel object and
+
+109
+00:04:16,959 --> 00:04:20,959
+interact with it more. Uh, and it's
+
+110
+00:04:19,440 --> 00:04:22,720
+characterized that Angelman syndrome
+
+111
+00:04:20,959 --> 00:04:24,800
+mice do not interact as much with the
+
+112
+00:04:22,720 --> 00:04:27,120
+novel object. So, what we have plotted
+
+113
+00:04:24,800 --> 00:04:29,680
+here is a discrimination index score.
+
+114
+00:04:27,120 --> 00:04:32,080
+Um, the score very simply, if it's a
+
+115
+00:04:29,680 --> 00:04:34,639
+positive number, it's a sign uh that the
+
+116
+00:04:32,080 --> 00:04:36,800
+mouse is behaving neurotypically uh and
+
+117
+00:04:34,639 --> 00:04:38,720
+behaving with the novel object more. So
+
+118
+00:04:36,800 --> 00:04:40,479
+you can see that the wild type mice, as
+
+119
+00:04:38,720 --> 00:04:42,320
+you'd expect, all have a positive
+
+120
+00:04:40,479 --> 00:04:44,880
+discrimination index score. And very
+
+121
+00:04:42,320 --> 00:04:46,400
+excitingly, all of the treated mice as
+
+122
+00:04:44,880 --> 00:04:48,880
+well have that uh positive
+
+123
+00:04:46,400 --> 00:04:50,479
+discrimination index score. So it's
+
+124
+00:04:48,880 --> 00:04:53,440
+showing that cognitive function has been
+
+125
+00:04:50,479 --> 00:04:55,440
+improved in these treated mice.
+
+126
+00:04:53,440 --> 00:04:57,600
+Next up, this uh data is new this year,
+
+127
+00:04:55,440 --> 00:04:59,680
+and we're very excited to share it. Uh
+
+128
+00:04:57,600 --> 00:05:02,960
+the mice were assessed for their delta
+
+129
+00:04:59,680 --> 00:05:04,960
+power over a 24-hour recording period.
+
+130
+00:05:02,960 --> 00:05:06,560
+And you can see that as described
+
+131
+00:05:04,960 --> 00:05:08,160
+throughout the day, the Angelman
+
+132
+00:05:06,560 --> 00:05:11,280
+syndrome mice have a characteristic
+
+133
+00:05:08,160 --> 00:05:13,600
+elevated delta power level in brown uh
+
+134
+00:05:11,280 --> 00:05:15,759
+during that 24-hour period. But then the
+
+135
+00:05:13,600 --> 00:05:18,000
+treated mice follow the same trajectory
+
+136
+00:05:15,759 --> 00:05:20,000
+as the wild type mice uh following that
+
+137
+00:05:18,000 --> 00:05:22,160
+purple line. And this has also been
+
+138
+00:05:20,000 --> 00:05:24,080
+quantified on the right for everyone. Uh
+
+139
+00:05:22,160 --> 00:05:27,039
+this is the average delta power over
+
+140
+00:05:24,080 --> 00:05:29,039
+that 24hour recording period. You can
+
+141
+00:05:27,039 --> 00:05:31,120
+see that there's a significant decrease
+
+142
+00:05:29,039 --> 00:05:33,840
+in the red and the blue compared to the
+
+143
+00:05:31,120 --> 00:05:35,600
+brown untreated control. Uh whereas the
+
+144
+00:05:33,840 --> 00:05:38,560
+wild type uh and it actually achieves
+
+145
+00:05:35,600 --> 00:05:40,639
+the same level as the wild type mice. So
+
+146
+00:05:38,560 --> 00:05:42,720
+again, this was just sort of a summary.
+
+147
+00:05:40,639 --> 00:05:44,639
+Um and what I hope you can take away is
+
+148
+00:05:42,720 --> 00:05:46,479
+that the symptoms in adult ancient
+
+149
+00:05:44,639 --> 00:05:49,120
+syndrome mice marketkedly improved
+
+150
+00:05:46,479 --> 00:05:51,520
+following the stem cell gene therapy.
+
+151
+00:05:49,120 --> 00:05:53,199
+Both vectors uh utilize promoters that
+
+152
+00:05:51,520 --> 00:05:55,759
+have shown a very safe clinical track
+
+153
+00:05:53,199 --> 00:05:58,400
+record. Uh and Dr. con's talk tomorrow
+
+154
+00:05:55,759 --> 00:06:00,080
+at 8:30 will discuss this further and so
+
+155
+00:05:58,400 --> 00:06:01,680
+these results you know it's still just
+
+156
+00:06:00,080 --> 00:06:03,680
+in a mouse model but we're very
+
+157
+00:06:01,680 --> 00:06:06,160
+encouraged so fast transformatics and
+
+158
+00:06:03,680 --> 00:06:07,840
+UCLA have teamed up to perform the
+
+159
+00:06:06,160 --> 00:06:11,840
+translational studies that are necessary
+
+160
+00:06:07,840 --> 00:06:13,680
+to then enable a human clinical trial
+
+161
+00:06:11,840 --> 00:06:15,440
+so I'd like to thank everyone on this
+
+162
+00:06:13,680 --> 00:06:18,560
+slide especially Chris Luther's who
+
+163
+00:06:15,440 --> 00:06:20,400
+really led these studies at UCLA uh fast
+
+164
+00:06:18,560 --> 00:06:22,000
+for the endless support not just in
+
+165
+00:06:20,400 --> 00:06:25,600
+funding the project but supporting it
+
+166
+00:06:22,000 --> 00:06:27,520
+from every stage that we've been that um
+
+167
+00:06:25,600 --> 00:06:31,080
+and lastly all of you for listening.
+
+168
+00:06:27,520 --> 00:06:31,080
+Thank you very much.
+
+169
+00:06:38,720 --> 00:06:41,919
+That was fabulous.
+

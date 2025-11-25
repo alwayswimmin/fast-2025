@@ -1,0 +1,924 @@
+1
+00:00:00,160 --> 00:00:04,240
+So our next speaker um is Emma Brashard.
+
+2
+00:00:02,960 --> 00:00:05,839
+She's coming to us from Boston
+
+3
+00:00:04,240 --> 00:00:07,520
+Children's Hospital. And she's going to
+
+4
+00:00:05,839 --> 00:00:09,519
+talk to us about something also really
+
+5
+00:00:07,520 --> 00:00:11,840
+important that just gets lost in
+
+6
+00:00:09,519 --> 00:00:13,360
+Angelmen Syndrome. And as having a child
+
+7
+00:00:11,840 --> 00:00:16,320
+who lives with cortical visual
+
+8
+00:00:13,360 --> 00:00:18,560
+impairment or CVI, CVI is really
+
+9
+00:00:16,320 --> 00:00:21,520
+important. It really can impact
+
+10
+00:00:18,560 --> 00:00:23,519
+functioning and living and safety on
+
+11
+00:00:21,520 --> 00:00:26,720
+many levels and all of their abilities
+
+12
+00:00:23,519 --> 00:00:29,039
+over time. And so what we um really need
+
+13
+00:00:26,720 --> 00:00:32,079
+to do is understand the prevalence and
+
+14
+00:00:29,039 --> 00:00:33,920
+the significance of CGI of of CVI in the
+
+15
+00:00:32,079 --> 00:00:35,360
+Angelmen syndrome community. And she's
+
+16
+00:00:33,920 --> 00:00:37,040
+going to talk to us about her learnings
+
+17
+00:00:35,360 --> 00:00:38,640
+there. And we also have a vision
+
+18
+00:00:37,040 --> 00:00:40,480
+therapist right outside if anyone wants
+
+19
+00:00:38,640 --> 00:00:42,399
+to go and talk about their child because
+
+20
+00:00:40,480 --> 00:00:44,640
+so many kids with Angelmen live with CVI
+
+21
+00:00:42,399 --> 00:00:46,399
+and they're just totally underdiagnosed
+
+22
+00:00:44,640 --> 00:00:48,239
+and it can change their life once they
+
+23
+00:00:46,399 --> 00:00:51,879
+get vision therapy. So I'm very excited
+
+24
+00:00:48,239 --> 00:00:51,879
+to hear this talk.
+
+25
+00:01:03,840 --> 00:01:07,680
+Hi everyone, my name is Emma. I am a
+
+26
+00:01:06,159 --> 00:01:09,280
+research assistant with the Angelman
+
+27
+00:01:07,680 --> 00:01:10,960
+Syndrome Clinical Research Group at
+
+28
+00:01:09,280 --> 00:01:13,280
+Boston Children's Hospital. And today
+
+29
+00:01:10,960 --> 00:01:15,520
+I'll be sharing my research project on
+
+30
+00:01:13,280 --> 00:01:19,080
+cerebral visual impairment or CVI in
+
+31
+00:01:15,520 --> 00:01:19,080
+Angelman Syndrome.
+
+32
+00:01:21,439 --> 00:01:25,680
+Okay, to give a brief overview, CVI is a
+
+33
+00:01:23,920 --> 00:01:28,159
+neurological condition that affects the
+
+34
+00:01:25,680 --> 00:01:30,640
+brain's visual processing pathways. This
+
+35
+00:01:28,159 --> 00:01:32,799
+results in vision difficulties
+
+36
+00:01:30,640 --> 00:01:34,720
+um that cannot be explained solely by
+
+37
+00:01:32,799 --> 00:01:37,680
+ocular abnormalities or problems with
+
+38
+00:01:34,720 --> 00:01:39,280
+the eyes. Individuals with CVI often
+
+39
+00:01:37,680 --> 00:01:41,520
+have difficulty with visual attention
+
+40
+00:01:39,280 --> 00:01:43,280
+and recognition, making it harder to
+
+41
+00:01:41,520 --> 00:01:46,159
+process and interpret visual
+
+42
+00:01:43,280 --> 00:01:47,920
+information. And CVI is often considered
+
+43
+00:01:46,159 --> 00:01:50,880
+the leading cause of childhood blindness
+
+44
+00:01:47,920 --> 00:01:50,880
+and low vision.
+
+45
+00:01:51,680 --> 00:01:54,799
+Perkins School for the Blind, a
+
+46
+00:01:53,280 --> 00:01:56,960
+Massachusetts institution that is
+
+47
+00:01:54,799 --> 00:01:59,520
+supports individuals with visual
+
+48
+00:01:56,960 --> 00:02:02,000
+impairments, estimates that one in 30
+
+49
+00:01:59,520 --> 00:02:04,159
+school age children have CVI related
+
+50
+00:02:02,000 --> 00:02:06,240
+vision difficulties.
+
+51
+00:02:04,159 --> 00:02:09,679
+Of these children, 72% have
+
+52
+00:02:06,240 --> 00:02:12,160
+developmental delays, 64% have epilepsy,
+
+53
+00:02:09,679 --> 00:02:14,239
+and 20% have genetic anomalies, all
+
+54
+00:02:12,160 --> 00:02:15,760
+features commonly seen in Angelman
+
+55
+00:02:14,239 --> 00:02:18,400
+syndrome.
+
+56
+00:02:15,760 --> 00:02:20,480
+CVI often co- occurs with other visual
+
+57
+00:02:18,400 --> 00:02:22,800
+conditions such as stbismas and
+
+58
+00:02:20,480 --> 00:02:26,959
+refractive errors including myopia
+
+59
+00:02:22,800 --> 00:02:29,440
+hyperopia and a stigmatism
+
+60
+00:02:26,959 --> 00:02:32,239
+and fewer than 20% of individuals with
+
+61
+00:02:29,440 --> 00:02:35,599
+CVI receive a formal diagnosis making it
+
+62
+00:02:32,239 --> 00:02:37,120
+a highly underdiagnosed condition. A CVI
+
+63
+00:02:35,599 --> 00:02:39,519
+diagnosis is typically made by an
+
+64
+00:02:37,120 --> 00:02:42,000
+opthalmologist or optometrist who has
+
+65
+00:02:39,519 --> 00:02:45,120
+specific knowledge of CVI through a
+
+66
+00:02:42,000 --> 00:02:47,040
+combination of a visual evaluation, um,
+
+67
+00:02:45,120 --> 00:02:51,360
+direct observation of a child's
+
+68
+00:02:47,040 --> 00:02:53,120
+behaviors, and caregiver input.
+
+69
+00:02:51,360 --> 00:02:55,920
+Many individuals with CBI have
+
+70
+00:02:53,120 --> 00:02:58,879
+difficulties with navigating indoor and
+
+71
+00:02:55,920 --> 00:03:02,000
+outdoor spaces, recognizing objects,
+
+72
+00:02:58,879 --> 00:03:04,720
+images, and people, visually tracking a
+
+73
+00:03:02,000 --> 00:03:07,440
+moving object or person, looking and
+
+74
+00:03:04,720 --> 00:03:09,200
+finding something in visual clutter,
+
+75
+00:03:07,440 --> 00:03:10,720
+using vision in combination with other
+
+76
+00:03:09,200 --> 00:03:12,560
+senses
+
+77
+00:03:10,720 --> 00:03:14,959
+and light sensitivity or needing more
+
+78
+00:03:12,560 --> 00:03:17,040
+light.
+
+79
+00:03:14,959 --> 00:03:20,640
+Um based on responses from caregivers in
+
+80
+00:03:17,040 --> 00:03:23,840
+this study, um they shared examples of
+
+81
+00:03:20,640 --> 00:03:26,080
+experiences that their um children with
+
+82
+00:03:23,840 --> 00:03:28,800
+Angelman syndrome might have that are
+
+83
+00:03:26,080 --> 00:03:31,280
+related to CVI, including that their
+
+84
+00:03:28,800 --> 00:03:33,680
+child has difficulty distinguishing
+
+85
+00:03:31,280 --> 00:03:35,440
+familiar from unfamiliar faces and might
+
+86
+00:03:33,680 --> 00:03:37,440
+need to use other features of a person
+
+87
+00:03:35,440 --> 00:03:39,599
+like their voice or clothing in order to
+
+88
+00:03:37,440 --> 00:03:41,120
+recognize them.
+
+89
+00:03:39,599 --> 00:03:43,200
+hesitates when transitioning between
+
+90
+00:03:41,120 --> 00:03:47,280
+different surfaces like from a wood
+
+91
+00:03:43,200 --> 00:03:49,120
+floor um to a carpet floor.
+
+92
+00:03:47,280 --> 00:03:50,879
+Trips or falls over clearly visible
+
+93
+00:03:49,120 --> 00:03:52,400
+objects while walking. Not due to
+
+94
+00:03:50,879 --> 00:03:54,239
+mobility challenges but more due to the
+
+95
+00:03:52,400 --> 00:03:56,720
+fact that they can't see the objects
+
+96
+00:03:54,239 --> 00:03:58,319
+that are in front of them.
+
+97
+00:03:56,720 --> 00:04:00,879
+Struggling to walk down steps or on
+
+98
+00:03:58,319 --> 00:04:02,319
+uneven surfaces.
+
+99
+00:04:00,879 --> 00:04:03,599
+Showing a preference for touching
+
+100
+00:04:02,319 --> 00:04:05,040
+objects rather than looking at them.
+
+101
+00:04:03,599 --> 00:04:08,159
+They might reach out for an object while
+
+102
+00:04:05,040 --> 00:04:10,080
+they're looking the opposite direction.
+
+103
+00:04:08,159 --> 00:04:12,560
+um having a delayed response or not
+
+104
+00:04:10,080 --> 00:04:15,519
+noticing movement like not noticing when
+
+105
+00:04:12,560 --> 00:04:19,040
+a person walks by um or a car when a car
+
+106
+00:04:15,519 --> 00:04:21,120
+goes past them or a ball goes past them.
+
+107
+00:04:19,040 --> 00:04:23,280
+Shows distress or anxiety in new and
+
+108
+00:04:21,120 --> 00:04:25,040
+unfamiliar environments
+
+109
+00:04:23,280 --> 00:04:26,479
+and attending only to objects directly
+
+110
+00:04:25,040 --> 00:04:28,880
+in front of them and not noticing things
+
+111
+00:04:26,479 --> 00:04:33,520
+in their peripheral um or below eye
+
+112
+00:04:28,880 --> 00:04:35,759
+level leading to a reduced visual field.
+
+113
+00:04:33,520 --> 00:04:37,680
+Um we decided to design a study to
+
+114
+00:04:35,759 --> 00:04:39,680
+further explore CVI and Angelman
+
+115
+00:04:37,680 --> 00:04:41,440
+syndrome.
+
+116
+00:04:39,680 --> 00:04:42,880
+We hypothesize that individuals with
+
+117
+00:04:41,440 --> 00:04:44,639
+endammen syndrome have an increased risk
+
+118
+00:04:42,880 --> 00:04:47,440
+for CVI as compared to the general
+
+119
+00:04:44,639 --> 00:04:48,880
+population.
+
+120
+00:04:47,440 --> 00:04:50,960
+And the goal of this study is to
+
+121
+00:04:48,880 --> 00:04:54,160
+determine the proportion of individuals
+
+122
+00:04:50,960 --> 00:04:58,040
+who screen positive for CVI using a
+
+123
+00:04:54,160 --> 00:04:58,040
+standardized screening questionnaire.
+
+124
+00:05:00,639 --> 00:05:04,400
+In this study, the primary caregiver
+
+125
+00:05:02,240 --> 00:05:08,000
+completes a one-time virtual visit with
+
+126
+00:05:04,400 --> 00:05:09,680
+a research coordinator, which includes a
+
+127
+00:05:08,000 --> 00:05:12,320
+visual health questionnaire that asks
+
+128
+00:05:09,680 --> 00:05:13,919
+about the participants visual concerns,
+
+129
+00:05:12,320 --> 00:05:16,000
+previous vision evaluations, and current
+
+130
+00:05:13,919 --> 00:05:18,160
+therapies. Caregivers are also asked
+
+131
+00:05:16,000 --> 00:05:20,479
+whether the participant has been
+
+132
+00:05:18,160 --> 00:05:23,880
+previously evaluated for CVI and has a
+
+133
+00:05:20,479 --> 00:05:23,880
+CVI diagnosis.
+
+134
+00:05:23,919 --> 00:05:28,320
+and the teach CVI screening tool um
+
+135
+00:05:26,800 --> 00:05:30,160
+which includes questions related to
+
+136
+00:05:28,320 --> 00:05:32,320
+visual attention, recognition,
+
+137
+00:05:30,160 --> 00:05:34,320
+perception of movement and visual motor
+
+138
+00:05:32,320 --> 00:05:35,759
+coordination.
+
+139
+00:05:34,320 --> 00:05:37,199
+Different version of the screening tool
+
+140
+00:05:35,759 --> 00:05:39,440
+are used for ambulatory and
+
+141
+00:05:37,199 --> 00:05:41,759
+non-ambulatory individuals so that
+
+142
+00:05:39,440 --> 00:05:44,320
+mobility related questions are not asked
+
+143
+00:05:41,759 --> 00:05:46,800
+when not relevant and the ambulatory
+
+144
+00:05:44,320 --> 00:05:50,320
+version of 35 questions and the
+
+145
+00:05:46,800 --> 00:05:51,759
+non-ambulatory version has 19 questions.
+
+146
+00:05:50,320 --> 00:05:53,360
+Um, participants are classified as
+
+147
+00:05:51,759 --> 00:05:56,400
+having a positive or negative screen
+
+148
+00:05:53,360 --> 00:05:58,400
+based on the scoring al algorithm and a
+
+149
+00:05:56,400 --> 00:06:01,360
+positive screen suggests possible signs
+
+150
+00:05:58,400 --> 00:06:03,440
+of CVI but does not confirm a diagnosis.
+
+151
+00:06:01,360 --> 00:06:05,759
+In clinical practice, a teach CVI might
+
+152
+00:06:03,440 --> 00:06:07,600
+be used by a clinician um as a
+
+153
+00:06:05,759 --> 00:06:12,600
+structured history tool to support the
+
+154
+00:06:07,600 --> 00:06:12,600
+evaluation and diagnosis of CBI.
+
+155
+00:06:13,759 --> 00:06:18,080
+So far, we have 20 participants who have
+
+156
+00:06:16,000 --> 00:06:20,160
+completed the study. The group includes
+
+157
+00:06:18,080 --> 00:06:23,360
+a relatively equivalent number of males
+
+158
+00:06:20,160 --> 00:06:25,840
+and females. The um the age ranges from
+
+159
+00:06:23,360 --> 00:06:31,680
+2 to 48 years old with 70% under the age
+
+160
+00:06:25,840 --> 00:06:33,280
+of 18 and 75% were deletion and 25% had
+
+161
+00:06:31,680 --> 00:06:35,680
+mutation subtype. We do not yet have
+
+162
+00:06:33,280 --> 00:06:38,319
+individuals with upt or imprinting
+
+163
+00:06:35,680 --> 00:06:41,440
+defect but we hope to enroll these
+
+164
+00:06:38,319 --> 00:06:44,160
+molecular subtypes as a study continues.
+
+165
+00:06:41,440 --> 00:06:46,560
+And according to caregiver report, 55%
+
+166
+00:06:44,160 --> 00:06:48,800
+of participants walked independently and
+
+167
+00:06:46,560 --> 00:06:51,120
+5% walked with support as their primary
+
+168
+00:06:48,800 --> 00:06:52,880
+means of getting around. These
+
+169
+00:06:51,120 --> 00:06:55,840
+individuals were considered ambulatory
+
+170
+00:06:52,880 --> 00:06:57,280
+for this study. And the remaining 40%
+
+171
+00:06:55,840 --> 00:06:59,919
+were non-ambulatory, meaning they
+
+172
+00:06:57,280 --> 00:07:04,720
+primarily used a stroller or wheelchair
+
+173
+00:06:59,919 --> 00:07:07,440
+or crawled or scooted um to get around.
+
+174
+00:07:04,720 --> 00:07:10,400
+Okay, here are the very preliminary
+
+175
+00:07:07,440 --> 00:07:12,240
+screening results for our study. We had
+
+176
+00:07:10,400 --> 00:07:16,080
+eight participants screen positive for
+
+177
+00:07:12,240 --> 00:07:18,800
+CVI and 12 screen negative. Of those who
+
+178
+00:07:16,080 --> 00:07:21,440
+screened positive, three were already
+
+179
+00:07:18,800 --> 00:07:24,319
+had a formal CVI diagnosis while five
+
+180
+00:07:21,440 --> 00:07:26,319
+had not yet been evaluated for CVI by a
+
+181
+00:07:24,319 --> 00:07:28,479
+vision specialist. And of those who
+
+182
+00:07:26,319 --> 00:07:30,960
+screened negative, two already had a
+
+183
+00:07:28,479 --> 00:07:34,880
+formal CVI diagnosis and the other 10
+
+184
+00:07:30,960 --> 00:07:37,199
+had not yet been evaluated for CVI.
+
+185
+00:07:34,880 --> 00:07:38,880
+Here's
+
+186
+00:07:37,199 --> 00:07:40,800
+a further breakdown of the screening
+
+187
+00:07:38,880 --> 00:07:43,280
+results by the different demographic
+
+188
+00:07:40,800 --> 00:07:45,039
+groups. Um, at this early stage in the
+
+189
+00:07:43,280 --> 00:07:46,720
+study, we didn't notice any significant
+
+190
+00:07:45,039 --> 00:07:49,360
+differences among the demographic
+
+191
+00:07:46,720 --> 00:07:52,000
+groups. Um, but we will continue to
+
+192
+00:07:49,360 --> 00:07:55,000
+observe these trends as the study sample
+
+193
+00:07:52,000 --> 00:07:55,000
+grows.
+
+194
+00:07:55,520 --> 00:07:59,440
+And we are still looking to recruit more
+
+195
+00:07:57,440 --> 00:08:01,120
+participants. So, if you are a caregiver
+
+196
+00:07:59,440 --> 00:08:02,879
+of an individual with Angelman syndrome
+
+197
+00:08:01,120 --> 00:08:04,800
+and you're interested in participating,
+
+198
+00:08:02,879 --> 00:08:08,000
+you can scan the QR code or go to the
+
+199
+00:08:04,800 --> 00:08:10,240
+link redcap.linkdvi
+
+200
+00:08:08,000 --> 00:08:12,080
+um to fill out an interest form and feel
+
+201
+00:08:10,240 --> 00:08:14,240
+free to reach out directly to me via my
+
+202
+00:08:12,080 --> 00:08:16,639
+email if you have any questions. We're
+
+203
+00:08:14,240 --> 00:08:18,240
+enrolling participants of all ages and
+
+204
+00:08:16,639 --> 00:08:20,639
+subtypes. And we're especially
+
+205
+00:08:18,240 --> 00:08:22,479
+interested in enrolling participants who
+
+206
+00:08:20,639 --> 00:08:25,479
+have already been formally evaluated for
+
+207
+00:08:22,479 --> 00:08:25,479
+CBI.
+
+208
+00:08:26,319 --> 00:08:29,360
+And I'd like to acknowledge our
+
+209
+00:08:27,759 --> 00:08:31,120
+collaborators at the New England College
+
+210
+00:08:29,360 --> 00:08:33,120
+of Optometry and the Perkins School for
+
+211
+00:08:31,120 --> 00:08:34,880
+the Blind. Um, as well as the rest of
+
+212
+00:08:33,120 --> 00:08:36,880
+the Angelman Syndrome Research Group at
+
+213
+00:08:34,880 --> 00:08:38,159
+Boston Children's. And of course, a big
+
+214
+00:08:36,880 --> 00:08:41,159
+thank you to all the families who
+
+215
+00:08:38,159 --> 00:08:41,159
+participated.
+
+216
+00:08:44,460 --> 00:08:47,669
+[Applause]
+
+217
+00:08:55,519 --> 00:08:59,120
+What a great job. We can't underestimate
+
+218
+00:08:57,519 --> 00:09:00,560
+the value of that information and
+
+219
+00:08:59,120 --> 00:09:02,240
+hopefully more people participate
+
+220
+00:09:00,560 --> 00:09:03,600
+because I do think once we see this is a
+
+221
+00:09:02,240 --> 00:09:04,720
+real significant problem in the
+
+222
+00:09:03,600 --> 00:09:06,399
+community, I think we're going to be
+
+223
+00:09:04,720 --> 00:09:08,080
+able to address it in a much bigger way
+
+224
+00:09:06,399 --> 00:09:09,920
+and really get vision therapy on the
+
+225
+00:09:08,080 --> 00:09:11,600
+IEPs for these kids because I do think
+
+226
+00:09:09,920 --> 00:09:13,440
+it changes everything for them. And
+
+227
+00:09:11,600 --> 00:09:15,279
+certainly when Quincy was diagnosed, it
+
+228
+00:09:13,440 --> 00:09:17,600
+changed a whole heck of a lot. Her whole
+
+229
+00:09:15,279 --> 00:09:19,760
+AC device is different because of her
+
+230
+00:09:17,600 --> 00:09:23,279
+diagnosis of CVI and how we think about
+
+231
+00:09:19,760 --> 00:09:23,279
+contrast as it relates to CVI.
+
